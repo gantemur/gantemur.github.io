@@ -1,0 +1,57 @@
+[
+  {
+    "id": "sol",
+    "name": "Sol",
+    "kind": "separate-project",
+    "description": "A separate collection for lightweight computational tools, visual demonstrations, calendars, and small mathematical applications. This homepage acts as a map rather than a container for those tools.",
+    "url": "",
+    "status": "separate project",
+    "languages": ["en"],
+    "cvInclude": false,
+    "source": "project boundary from homepage planning"
+  },
+  {
+    "id": "hamiltonian-lgt-quantum-simulation",
+    "name": "Hamiltonian LGT and quantum simulation explorations",
+    "kind": "project-link",
+    "description": "Computational experiments related to Hamiltonian lattice gauge theory and quantum simulation.",
+    "url": "",
+    "status": "separate project",
+    "languages": ["en"],
+    "cvInclude": false,
+    "source": "homepage planning"
+  },
+  {
+    "id": "mongolian-calendar",
+    "name": "Mongolian calendar computation",
+    "kind": "tool-link",
+    "description": "Calendar-computation material belongs outside this homepage and can be linked here as a separate project.",
+    "url": "",
+    "status": "separate project",
+    "languages": ["en", "mn"],
+    "cvInclude": false,
+    "source": "homepage planning"
+  },
+  {
+    "id": "illustrative-simulations",
+    "name": "Illustrative simulations",
+    "kind": "external-project-link",
+    "description": "A curated pointer to illustrative simulations and animations kept outside the main homepage.",
+    "url": "",
+    "status": "separate project",
+    "languages": ["en"],
+    "cvInclude": false,
+    "source": "_old_site/McGill/index.html"
+  },
+  {
+    "id": "ancient-planetary-models",
+    "name": "Ancient planetary models",
+    "kind": "animation-link",
+    "description": "Animations and notes related to ancient planetary models, kept as a separate computational or historical project.",
+    "url": "",
+    "status": "separate project",
+    "languages": ["en"],
+    "cvInclude": false,
+    "source": "_old_site/McGill/index.html"
+  }
+]

@@ -1,0 +1,18 @@
+---
+layout: layouts/base.njk
+title: Research
+permalink: /research/
+---
+
+<h1>Research</h1>
+<p class="lede narrow">My work sits between analysis, computation, geometry, and mathematical physics. The themes below are intentionally concise; they are meant to orient readers rather than replace papers or notes.</p>
+
+<div class="stack">
+  {% for area in research %}
+    <section class="rule-section">
+      <h2>{{ area.title }}</h2>
+      <p>{{ area.summary }}</p>
+      <p class="meta">{{ area.status }}. {{ area.keywords | join(", ") }}.</p>
+    </section>
+  {% endfor %}
+</div>

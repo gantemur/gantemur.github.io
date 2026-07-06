@@ -1,0 +1,24 @@
+---
+layout: layouts/base.njk
+title: Contact
+permalink: /contact/
+---
+
+<h1>Contact</h1>
+<p class="lede narrow">Public contact and profile links.</p>
+
+<dl class="contact-list">
+  <dt>Email</dt>
+  <dd>{{ site.email.display }}</dd>
+  <dt>Location</dt>
+  <dd>{{ site.location.display }}</dd>
+  <dt>GitHub</dt>
+  <dd>{{ site.github.username }}</dd>
+  <dt>Old McGill URL</dt>
+  <dd><a href="{{ site.external.oldMcGill }}">{{ site.external.oldMcGill }}</a></dd>
+  <dt>Profiles</dt>
+  <dd>
+    <a href="{{ site.external.googleScholar }}">Google Scholar</a>,
+    <a href="{{ site.external.arxiv }}">arXiv</a>
+  </dd>
+</dl>

@@ -1,0 +1,53 @@
+---
+layout: layouts/base.njk
+title: Publications
+permalink: /publications/
+---
+
+<h1>Publications</h1>
+<p class="lede narrow">Selected and recent publications, with older entries carried over from the previous academic homepage. Missing bibliographic details are simply omitted until they are part of the public record.</p>
+
+{% set featured = publications | where("featured", true) %}
+{% set preprints = publications | where("status", "preprint") %}
+{% set articles = publications | where("status", "article") %}
+{% set published = publications | where("status", "published") %}
+{% set theses = publications | where("status", "thesis") %}
+
+<section>
+  <h2>Selected Recent Work</h2>
+  <ol class="pub-list">
+    {% for pub in featured %}
+      {% include "partials/publication.njk" %}
+    {% endfor %}
+  </ol>
+</section>
+
+<section>
+  <h2>Published and Accepted</h2>
+  <ol class="pub-list">
+    {% for pub in published %}
+      {% include "partials/publication.njk" %}
+    {% endfor %}
+    {% for pub in articles %}
+      {% include "partials/publication.njk" %}
+    {% endfor %}
+  </ol>
+</section>
+
+<section>
+  <h2>Preprints</h2>
+  <ol class="pub-list">
+    {% for pub in preprints %}
+      {% include "partials/publication.njk" %}
+    {% endfor %}
+  </ol>
+</section>
+
+<section>
+  <h2>Thesis</h2>
+  <ol class="pub-list">
+    {% for pub in theses %}
+      {% include "partials/publication.njk" %}
+    {% endfor %}
+  </ol>
+</section>

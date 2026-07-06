@@ -1,0 +1,66 @@
+[
+  {
+    "id": "seth-taylor-phd",
+    "name": "Seth Taylor",
+    "relationship": "doctoral-student",
+    "degree": "PhD",
+    "topic": "Numerical analysis",
+    "status": "current or recent",
+    "languages": ["en"],
+    "coSupervisors": ["J.-C. Nave"],
+    "cvInclude": true,
+    "source": "_old_site/McGill/students.html"
+  },
+  {
+    "id": "vladmir-sicca-goncalves-phd-2022",
+    "name": "Vladmir Sicca Goncalves",
+    "relationship": "doctoral-student",
+    "degree": "PhD",
+    "year": 2022,
+    "topic": "Conformal geometry",
+    "status": "completed",
+    "languages": ["en"],
+    "coSupervisors": ["Emmanuel Vetois"],
+    "cvInclude": true,
+    "source": "_old_site/McGill/students.html"
+  },
+  {
+    "id": "ibrahim-al-balushi-phd-2020",
+    "name": "Ibrahim Al Balushi",
+    "relationship": "doctoral-student",
+    "degree": "PhD",
+    "year": 2020,
+    "topic": "Adaptive spline finite element methods",
+    "status": "completed",
+    "languages": ["en"],
+    "coSupervisors": [],
+    "cvInclude": true,
+    "source": "_old_site/McGill/students.html"
+  },
+  {
+    "id": "pauline-lelandais-msc-2022",
+    "name": "Pauline Lelandais",
+    "relationship": "masters-student",
+    "degree": "MSc",
+    "year": 2022,
+    "topic": "Data assimilation in fluid dynamics",
+    "status": "completed",
+    "languages": ["en"],
+    "coSupervisors": [],
+    "cvInclude": true,
+    "source": "_old_site/McGill/students.html"
+  },
+  {
+    "id": "erick-schulz-msc-2017",
+    "name": "Erick Schulz",
+    "relationship": "masters-student",
+    "degree": "MSc",
+    "year": 2017,
+    "topic": "Discrete exterior calculus",
+    "status": "completed",
+    "languages": ["en"],
+    "coSupervisors": [],
+    "cvInclude": true,
+    "source": "_old_site/McGill/students.html"
+  }
+]

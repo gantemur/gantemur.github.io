@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="{{ language or 'en' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if title %}{{ title }} | {% endif %}{{ site.name }}</title>
+    <meta name="description" content="{{ description or site.description }}">
+    <link rel="stylesheet" href="/assets/site.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="wrap header-grid">
+        <div>
+          <a class="site-title" href="/">{{ site.name }}</a>
+          <p class="site-subtitle">{{ site.short_title }}. {{ site.tagline }}</p>
+        </div>
+        <nav class="site-nav" aria-label="Primary">
+          {% for item in navigation %}
+            <a href="{{ item.url }}" {% if page.url == item.url %}aria-current="page"{% endif %}>{{ item.label }}</a>
+          {% endfor %}
+        </nav>
+      </div>
+    </header>
+
+    <main id="main" class="wrap page">
+      {{ content | safe }}
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap footer-grid">
+        <p>&copy; {{ site.name }}. Built as a static academic homepage.</p>
+        <p><a href="/contact/">Contact</a></p>
+      </div>
+    </footer>
+  </body>
+</html>

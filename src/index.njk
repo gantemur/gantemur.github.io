@@ -1,0 +1,76 @@
+---
+layout: layouts/base.njk
+title: Home
+description: Academic homepage for Tsogtgerel Gantumur.
+---
+
+{% set featuredPublications = publications | where("featured", true) %}
+
+<section class="intro home-intro">
+  <p class="eyebrow">Academic homepage</p>
+  <h1>{{ site.name }}</h1>
+  <p class="name-mn" lang="mn">{{ site.name_mn }}</p>
+  <p class="lede">{{ site.welcome.en }}</p>
+  <p class="affiliation-note">{{ site.affiliationDraft }}</p>
+  <div class="link-row" aria-label="Primary links">
+    <a href="/research/">Research</a>
+    <a href="/publications/">Publications</a>
+    <a href="/contact/">Contact</a>
+  </div>
+</section>
+
+<section class="note-block" lang="mn">
+  <h2>Монгол</h2>
+  <p>{{ site.welcome.mn }}</p>
+</section>
+
+<section>
+  <div class="section-head">
+    <h2>Current Directions</h2>
+    <a href="/research/">All research</a>
+  </div>
+  <div class="direction-list">
+    {% for area in research | limit(5) %}
+      <article class="direction-item">
+        <h3>{{ area.title }}</h3>
+        <p>{{ area.summary }}</p>
+        <p class="meta">{{ area.status }}. {{ area.keywords | join(", ") }}</p>
+      </article>
+    {% endfor %}
+  </div>
+</section>
+
+<section>
+  <div class="section-head">
+    <h2>Selected Recent Work</h2>
+    <a href="/publications/">Bibliography</a>
+  </div>
+  <ol class="pub-list featured-work">
+    {% for pub in featuredPublications %}
+      {% include "partials/publication.njk" %}
+    {% endfor %}
+  </ol>
+</section>
+
+<section class="section-grid">
+  <div class="rule-section">
+    <h2>Teaching and Notes</h2>
+    <p>The teaching archive includes past McGill courses, selected notes, and Mongolian-language material where appropriate.</p>
+    <p><a href="/teaching/">Teaching</a> · <a href="/notes/">Notes</a></p>
+  </div>
+  <div class="rule-section">
+    <h2>Software and Tools</h2>
+    <p>This homepage is the academic hub. Interactive tools, animations, calendars, and small computational projects are kept separately, with <em>Sol</em> as the organizing project for lightweight tools.</p>
+    <p><a href="/software/">Software map</a></p>
+  </div>
+</section>
+
+<section class="quick-contact">
+  <h2>Contact and Profiles</h2>
+  <p>{{ site.email.display }}</p>
+  <p>
+    <a href="{{ site.external.googleScholar }}">Google Scholar</a> ·
+    <a href="{{ site.external.arxiv }}">arXiv</a> ·
+    <a href="{{ site.external.mathGenealogy }}">Mathematics Genealogy</a>
+  </p>
+</section>

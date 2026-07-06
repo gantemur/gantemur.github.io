@@ -1,0 +1,12 @@
+_old_site/
+node_modules/
+_site/
+dist/
+.DS_Store
+*.log
+*.tmp
+*.bak
+*.swp
+.env
+.env.*
+_migration/scratch/

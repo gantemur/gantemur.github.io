@@ -1,0 +1,16 @@
+{
+  "name": "homepage",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Source for Gantumur Tsogtgerel's academic homepage.",
+  "scripts": {
+    "dev": "eleventy --serve --incremental",
+    "start": "npm run dev",
+    "build": "eleventy",
+    "clean": "node scripts/clean.js",
+    "check": "node scripts/check-data.js"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}

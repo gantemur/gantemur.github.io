@@ -1,0 +1,33 @@
+---
+layout: layouts/base.njk
+title: Students
+permalink: /students/
+---
+
+<h1>Students</h1>
+<p class="lede narrow">Selected supervision and student project records from the academic archive.</p>
+
+<table class="data-table">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Degree</th>
+      <th>Year</th>
+      <th>Topic</th>
+      <th>Status</th>
+      <th>Lang.</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for student in students %}
+      <tr>
+        <td>{{ student.name }}</td>
+        <td>{{ student.degree }}</td>
+        <td>{{ student.year or "" }}</td>
+        <td>{{ student.topic }}</td>
+        <td>{{ student.status }}</td>
+        <td>{{ student | languages }}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>

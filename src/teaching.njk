@@ -1,0 +1,43 @@
+---
+layout: layouts/base.njk
+title: Teaching
+permalink: /teaching/
+---
+
+<h1>Teaching</h1>
+<p class="lede narrow">Selected course materials and teaching records, with past McGill courses organized as an archive and Mongolian-language material included where appropriate.</p>
+
+<section class="rule-section">
+  <h2>McGill Archive</h2>
+  <p>Past McGill course pages are part of the teaching archive. The list below records representative courses from that archive.</p>
+</section>
+
+<table class="data-table">
+  <thead>
+    <tr>
+      <th>Course</th>
+      <th>Title</th>
+      <th>Term</th>
+      <th>Institution</th>
+      <th>Role</th>
+      <th>Lang.</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for course in courses %}
+      <tr>
+        <td>{{ course.code }}</td>
+        <td>{{ course.title }}</td>
+        <td>{{ course.term.label }}</td>
+        <td>{{ course.institution }}</td>
+        <td>{{ course.role }}</td>
+        <td>{{ course | languages }}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+<section class="rule-section">
+  <h2>Mongolian Teaching</h2>
+  <p>Mongolian and NUM-facing materials are listed here when they are part of the public teaching archive.</p>
+</section>

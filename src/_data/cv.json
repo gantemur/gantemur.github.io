@@ -1,0 +1,20 @@
+{
+  "purpose": "Local configuration for reusing structured website data in CV materials.",
+  "status": "planning",
+  "language": "en",
+  "sections": [
+    { "id": "identity", "title": "Identity", "source": "site.json", "includeOnWebsite": true, "includeInCv": true },
+    { "id": "research", "title": "Research Interests", "source": "research.json", "includeOnWebsite": true, "includeInCv": true },
+    { "id": "publications", "title": "Publications", "source": "publications.json", "includeOnWebsite": true, "includeInCv": true },
+    { "id": "talks", "title": "Selected Talks", "source": "talks.json", "includeOnWebsite": false, "includeInCv": true },
+    { "id": "teaching", "title": "Teaching", "source": "courses.json", "includeOnWebsite": true, "includeInCv": true },
+    { "id": "supervision", "title": "Supervision", "source": "students.json", "includeOnWebsite": true, "includeInCv": true },
+    { "id": "notes", "title": "Notes and Teaching Materials", "source": "notes.json", "includeOnWebsite": true, "includeInCv": "selected" },
+    { "id": "software", "title": "Software and Projects", "source": "software.json", "includeOnWebsite": true, "includeInCv": "selected" }
+  ],
+  "principles": [
+    "Add a new paper once in publications.json and reuse it for website and CV materials.",
+    "Add a new course once in courses.json and use flags or section configuration to decide where it appears.",
+    "Use source fields during migration, then replace old-site paths with stable public URLs only after launch decisions."
+  ]
+}

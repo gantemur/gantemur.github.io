@@ -1,0 +1,10 @@
+[
+  { "label": "Home", "url": "/" },
+  { "label": "Research", "url": "/research/" },
+  { "label": "Publications", "url": "/publications/" },
+  { "label": "Teaching", "url": "/teaching/" },
+  { "label": "Notes", "url": "/notes/" },
+  { "label": "Students", "url": "/students/" },
+  { "label": "Software", "url": "/software/" },
+  { "label": "Contact", "url": "/contact/" }
+]

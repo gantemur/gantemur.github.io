@@ -1,0 +1,21 @@
+---
+layout: layouts/base.njk
+title: Software
+permalink: /software/
+---
+
+<h1>Software</h1>
+<p class="lede narrow">Selected software and computational projects are listed here as curated links. <em>Sol</em> is a separate collection of lightweight computational tools.</p>
+
+<div class="stack">
+  {% for item in software %}
+    <section class="rule-section">
+      <h2>{{ item.name }}</h2>
+      <p>{{ item.description }}</p>
+      <p class="meta">Languages: {{ item | languages }}.</p>
+      {% if item.url %}
+        <p><a href="{{ item.url }}">Project link</a></p>
+      {% endif %}
+    </section>
+  {% endfor %}
+</div>

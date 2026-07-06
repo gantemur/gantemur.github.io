@@ -1,0 +1,26 @@
+[
+  {
+    "id": "dec-oberwolfach-2019",
+    "title": "On convergence of discrete exterior calculus",
+    "event": "Oberwolfach workshop on Innovative Algorithms",
+    "location": "Oberwolfach",
+    "date": "2019-09-06",
+    "year": 2019,
+    "type": "invited-talk",
+    "languages": ["en"],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "einstein-constraints-mas-2019",
+    "title": "Einstein constraint equations",
+    "event": "Mongolian Academy of Sciences",
+    "location": "Ulaanbaatar",
+    "date": "2019-07-05",
+    "year": 2019,
+    "type": "seminar",
+    "languages": ["en"],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  }
+]

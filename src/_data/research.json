@@ -1,0 +1,72 @@
+[
+  {
+    "id": "lattice-qft-regulators",
+    "title": "Dynamical lattice regulators for QFT",
+    "summary": "Rotationally invariant dynamical lattices for Euclidean quantum field theories, with attention to continuum symmetries and computable regularization.",
+    "keywords": ["QFT", "lattice regulators", "mathematical physics"],
+    "status": "current",
+    "relatedPublicationIds": ["gantumur-dynamical-lattice-regulators-jhep-2026"],
+    "languages": ["en"],
+    "cvInclude": true
+  },
+  {
+    "id": "fluid-nudging",
+    "title": "Nudging and data assimilation for fluids",
+    "summary": "Projectional and data-assimilation nudging for fluid equations, motivated by stability, reconstruction, and reduced observation.",
+    "keywords": ["fluid equations", "data assimilation", "nudging"],
+    "status": "current",
+    "relatedPublicationIds": [],
+    "languages": ["en"],
+    "cvInclude": true
+  },
+  {
+    "id": "relu-refinement",
+    "title": "Exact ReLU realizations of refinement schemes",
+    "summary": "Exact realization of homogeneous curve refinement by ReLU networks, including loop controllers and frame or atlas viewpoints.",
+    "keywords": ["ReLU networks", "refinement schemes", "loop controllers"],
+    "status": "current",
+    "relatedPublicationIds": ["bolorkhuu-gantumur-relu-loop-controllers-2026"],
+    "languages": ["en"],
+    "cvInclude": true
+  },
+  {
+    "id": "numerical-geometric-discretization",
+    "title": "Numerical analysis and geometric discretization",
+    "summary": "Adaptive methods, finite element exterior calculus, discrete exterior calculus, and structure-preserving approximation of differential operators.",
+    "keywords": ["adaptive methods", "FEEC", "DEC", "finite elements"],
+    "status": "continuing",
+    "relatedPublicationIds": ["schulz-tsogtgerel-dec-poisson-2020", "tsogtgerel-adaptive-methods-besov-multilevel-2017"],
+    "languages": ["en"],
+    "cvInclude": true
+  },
+  {
+    "id": "pde-geometry-relativity",
+    "title": "PDE, conformal geometry, and general relativity",
+    "summary": "Elliptic and geometric PDE, scalar and boundary mean curvature problems, and the Einstein constraint equations.",
+    "keywords": ["PDE", "conformal geometry", "general relativity"],
+    "status": "continuing",
+    "relatedPublicationIds": ["sicca-goncalves-tsogtgerel-scalar-boundary-mean-curvature-2021", "tsogtgerel-holst-meier-non-cmc-apparent-horizon-2018"],
+    "languages": ["en"],
+    "cvInclude": true
+  },
+  {
+    "id": "hamiltonian-lgt-quantum-simulation",
+    "title": "Hamiltonian lattice gauge theory and quantum simulation",
+    "summary": "Computational explorations around Hamiltonian lattice gauge theory, quantum simulation, and mathematical physics pedagogy.",
+    "keywords": ["lattice gauge theory", "quantum simulation", "computation"],
+    "status": "exploratory",
+    "relatedPublicationIds": [],
+    "languages": ["en"],
+    "cvInclude": false
+  },
+  {
+    "id": "qft-notes-education",
+    "title": "Mathematical physics notes and educational projects",
+    "summary": "Expository notes and teaching projects around QFT, mathematical physics, and computational illustrations.",
+    "keywords": ["QFT notes", "teaching", "mathematical physics"],
+    "status": "in preparation",
+    "relatedPublicationIds": [],
+    "languages": ["en"],
+    "cvInclude": false
+  }
+]

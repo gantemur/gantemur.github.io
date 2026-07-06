@@ -1,0 +1,62 @@
+[
+  {
+    "id": "analysis-ode-notes-index",
+    "type": "notes-index",
+    "title": "Calculus, analysis, and ordinary differential equations",
+    "summary": "Lecture notes and course handouts from advanced calculus, ODE, analysis, and functional analysis.",
+    "languages": ["en"],
+    "status": "selected",
+    "topics": ["calculus", "analysis", "ordinary differential equations"],
+    "relatedCourseIds": ["mcgill-math-325-winter-2022"],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "complex-analysis-notes-index",
+    "type": "notes-index",
+    "title": "Complex analysis",
+    "summary": "Undergraduate and graduate notes on complex variables and advanced complex analysis.",
+    "languages": ["en"],
+    "status": "selected",
+    "topics": ["complex analysis"],
+    "relatedCourseIds": [],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "pde-notes-index",
+    "type": "notes-index",
+    "title": "Partial differential equations",
+    "summary": "PDE notes include introductory examples, distributions, harmonic functions, first order equations, and elliptic theory.",
+    "languages": ["en"],
+    "status": "selected",
+    "topics": ["partial differential equations", "distributions", "elliptic theory"],
+    "relatedCourseIds": ["mcgill-math-581-winter-2022", "mcgill-math-579-winter-2020"],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "mongolian-num-teaching-materials",
+    "type": "notes",
+    "title": "Mongolian and NUM Materials",
+    "summary": "Mongolian teaching notes and NUM-facing materials.",
+    "languages": ["mn"],
+    "status": "selected",
+    "topics": ["Mongolian", "NUM"],
+    "relatedCourseIds": ["num-mongolian-teaching"],
+    "cvInclude": false,
+    "source": ""
+  },
+  {
+    "id": "qft-mathematical-physics-notes",
+    "type": "notes",
+    "title": "Mathematical physics and QFT notes",
+    "summary": "Notes around Euclidean QFT, lattice gauge theory, and quantum simulation as computational exploration.",
+    "languages": ["en"],
+    "status": "selected",
+    "topics": ["QFT", "lattice gauge theory", "quantum simulation"],
+    "relatedCourseIds": [],
+    "cvInclude": false,
+    "source": ""
+  }
+]

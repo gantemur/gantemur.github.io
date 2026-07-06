@@ -1,0 +1,23 @@
+---
+layout: layouts/base.njk
+title: Notes
+permalink: /notes/
+---
+
+<h1>Notes</h1>
+<p class="lede narrow">Selected notes and teaching materials, organized by topic and language.</p>
+
+<div class="stack">
+  {% for note in notes %}
+    <section class="rule-section">
+      <h2>{{ note.title }}</h2>
+      <p>{{ note.summary }}</p>
+      <p class="meta">Languages: {{ note | languages }}{% if note.topics and note.topics.length %}. {{ note.topics | join(", ") }}{% endif %}.</p>
+    </section>
+  {% endfor %}
+</div>
+
+<section class="rule-section">
+  <h2>Mongolian Materials</h2>
+  <p>English is the main language of the site. Mongolian notes are included as first-class teaching materials where they fit the public archive.</p>
+</section>

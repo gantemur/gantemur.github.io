@@ -1,0 +1,15 @@
+<li>
+  <strong>{{ pub.title }}</strong>
+  {% if pub.authors and pub.authors.length %}
+    <span>{{ pub.authors | join(", ") }}.</span>
+  {% endif %}
+  <span>{{ pub.year }}{% if pub.venue %}. <em>{{ pub.venue }}</em>{% endif %}{% if pub.details %}, {{ pub.details }}{% elif pub.articleNumber %}, {{ pub.articleNumber }}{% endif %}.</span>
+  <span class="meta">{{ pub.type }}{% if pub.arxiv %}. arXiv:{{ pub.arxiv }}{% endif %}. Languages: {{ pub | languages }}.</span>
+  {% if pub.links %}
+    <span class="links">
+      {% for link in pub.links %}
+        <a href="{{ link.url }}">{{ link.label }}</a>{% if not loop.last %}, {% endif %}
+      {% endfor %}
+    </span>
+  {% endif %}
+</li>

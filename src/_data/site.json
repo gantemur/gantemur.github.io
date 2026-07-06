@@ -1,0 +1,51 @@
+{
+  "name": "Tsogtgerel Gantumur",
+  "name_mn": "Цогтгэрэлийн Гантөмөр",
+  "shortName": "Gantumur",
+  "short_title": "Mathematician",
+  "tagline": "Analysis, computation, geometry, and mathematical physics.",
+  "description": "Independent academic homepage for mathematics, research, teaching, notes, students, and selected software links.",
+  "url": "https://gantemur.github.io",
+  "language": "en",
+  "languages": ["en", "mn"],
+  "email": {
+    "display": "gantumur -at- math.mcgill.ca",
+    "status": "old McGill address"
+  },
+  "locations": [
+    { "label": "Montreal", "status": "academic history" },
+    { "label": "Ulaanbaatar", "status": "Mongolian teaching context" }
+  ],
+  "location": { "display": "Montreal / Ulaanbaatar", "status": "academic locations" },
+  "identity": "I am a mathematician working in analysis, numerical methods, geometry, mathematical physics, and computation.",
+  "affiliationDraft": "Mathematician working in analysis, numerical methods, geometry, mathematical physics, and computation.",
+  "currentAffiliations": [
+    {
+      "title": "Mathematician",
+      "organization": "Independent academic homepage",
+      "status": "public identity"
+    }
+  ],
+  "github": {
+    "username": "gantemur",
+    "status": "public profile"
+  },
+  "repository": {
+    "intendedName": "gantemur.github.io",
+    "status": "intended GitHub Pages repository"
+  },
+  "external": {
+    "googleScholar": "http://scholar.google.com/citations?user=Lr3ZeKwAAAAJ",
+    "arxiv": "http://arxiv.org/a/gantumur_t_1",
+    "mathGenealogy": "http://genealogy.math.ndsu.nodak.edu/id.php?id=100175",
+    "oldMcGill": "http://www.math.mcgill.ca/gantumur"
+  },
+  "welcome": {
+    "en": "I work on analysis, numerical methods, geometry, and mathematical physics, with a recurring interest in how continuous structures are represented by algorithms.",
+    "mn": "Сайн байна уу. Энэ хуудсанд миний судалгаа, хичээл, тэмдэглэл, мөн Монгол хэлээрх сургалтын материалуудын холбоос багтана."
+  },
+  "sourceNotes": {
+    "oldMainHomepage": "_old_site/McGill/",
+    "oldCourseFolders": "_old_site/Math*/ and other sibling course folders referenced from _old_site/McGill/teaching.html"
+  }
+}

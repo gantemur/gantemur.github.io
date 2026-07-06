@@ -1,0 +1,30 @@
+---
+layout: layouts/base.njk
+title: CV
+permalink: /cv/
+---
+
+<h1>CV</h1>
+<p class="lede narrow">A downloadable CV should eventually be generated from the same publication, teaching, talks, and supervision data used by this site. This page is a public placeholder for that path, not a second hand-maintained CV.</p>
+
+<section class="rule-section">
+  <h2>Future generated sections</h2>
+  <ul>
+    {% for section in cv.sections %}
+      <li>
+        <strong>{{ section.title }}</strong>
+        <span>Source: <code>{{ section.source }}</code>. CV: {{ section.includeInCv }}. Website: {{ section.includeOnWebsite }}.</span>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section class="rule-section">
+  <h2>Current Data Preview</h2>
+  <p>{{ publications.length }} publication records, {{ courses.length }} course records, {{ students.length }} supervision records, and {{ talks.length }} talk records are currently available as structured data.</p>
+</section>
+
+<section class="rule-section">
+  <h2>Before Launch</h2>
+  <p>Current title, affiliation, contact information, and the latest publication metadata should be verified before this page is treated as an official CV source.</p>
+</section>
