@@ -15,7 +15,7 @@ permalink: /notes/
   <h2>Calculus, Analysis, and ODE</h2>
   <ul class="plain-list">
     {% for note in analysisNotes %}
-      <li><a href="{{ note.links[0].url }}">{{ note.title }}</a></li>
+      <li>{% if note.links[0].url %}<a href="{{ note.links[0].url }}">{{ note.title }}</a>{% else %}{{ note.title }}{% endif %}</li>
     {% endfor %}
   </ul>
 </section>
@@ -24,7 +24,7 @@ permalink: /notes/
   <h2>Complex Analysis</h2>
   <ul class="plain-list">
     {% for note in complexNotes %}
-      <li><a href="{{ note.links[0].url }}">{{ note.title }}</a></li>
+      <li>{% if note.links[0].url %}<a href="{{ note.links[0].url }}">{{ note.title }}</a>{% else %}{{ note.title }}{% endif %}</li>
     {% endfor %}
   </ul>
 </section>
@@ -33,7 +33,7 @@ permalink: /notes/
   <h2>Partial Differential Equations</h2>
   <ul class="plain-list">
     {% for note in pdeNotes %}
-      <li><a href="{{ note.links[0].url }}">{{ note.title }}</a></li>
+      <li>{% if note.links[0].url %}<a href="{{ note.links[0].url }}">{{ note.title }}</a>{% else %}{{ note.title }}{% endif %}</li>
   {% endfor %}
   </ul>
 </section>

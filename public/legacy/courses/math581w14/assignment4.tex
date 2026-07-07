@@ -1,0 +1,125 @@
+\documentclass[11pt]{amsart}
+\usepackage{geometry}                % See geometry.pdf to learn the layout options. There are lots.
+\geometry{letterpaper}                   % ... or a4paper or a5paper or ... 
+%\geometry{landscape}                % Activate for for rotated page geometry
+%\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+
+\usepackage{enumerate}
+\usepackage{nicefrac}
+
+\usepackage{mathrsfs}
+
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\tstD}{\mathscr{D}}
+\newcommand{\tstE}{\mathscr{E}}
+\newcommand{\tstS}{\mathscr{S}}
+\newcommand{\semP}{\mathscr{P}}
+\newcommand{\eps}{\varepsilon}
+\newcommand{\supp}{\mathrm{supp}}
+\newcommand{\singsupp}{\mathrm{singsupp}}
+\newcommand{\exd}{\mathrm{d}}
+
+\title{Math 581 Assignment 4}
+\author{Due Monday March 24}
+\date{Winter 2014}                                           % Activate to display a given date or no date
+
+\begin{document}
+\maketitle
+
+\begin{enumerate}[1.]
+\item
+Let $\Omega\subset\R^n$ be an open set, and let $\{u_k\}\subset\tstD'(\Omega)$ be a sequence
+such that for each $\varphi\in\tstD(\Omega)$, $\langle u_k,\varphi\rangle$ is convergent as $k\to\infty$.
+Show that the map $\varphi\mapsto\lim\langle u_k,\varphi\rangle$ is a distribution on $\Omega$.
+\item
+Find all fundamental solutions of the ordinary differential operators 
+$\partial_x+\lambda$ and $\partial_x^2+\lambda$ in $\R$, where $\lambda\in\C$ is a constant.
+How many of those are supported in $[0,\infty)$?
+\item
+Find a fundamental solution of the wave operator $\partial_t^2-\Delta$ with support in the half space $\{(x,t):x\in\R^n,\,t\geq0\}$,
+where $n=1,2,3$.
+What is the support of each?
+\item
+For $u\in\tstE'$ and $v\in L^1_{\mathrm{loc}}(\R^n)$, we defined $u*v\in\tstD'$ by 
+$$
+\langle u*v,\varphi\rangle = \langle u,\tilde{v}*\varphi\rangle,
+\qquad \varphi\in\tstD.
+$$
+Recall also the notations $\tilde v(z) = v(-z)$ and $(\tau_x\phi)(y)=\phi(y-x)$.
+\begin{enumerate}[{\em a)}]
+\item
+Show that if $u\in\tstE'$ and $v\in\tstE$ then $u*v\in\tstE$ and $(u*v)(x)=u(\tau_x\tilde v)$ for $x\in\R^n$.
+\item
+Show that for fixed $u\in\tstE'$, the mapping $v\mapsto u*v:\tstE\to\tstE$ is continuous.
+\end{enumerate}
+\item
+\begin{enumerate}[{\em a)}]
+\item
+Let $u\in\tstE'$ and $v\in\tstD'$.
+Show that
+$$
+\tau_a(u*v) = (\tau_au)*v = u*(\tau_av),
+\qquad a\in\R^n,
+$$
+where for distributions, the translation is defined by
+$$
+\langle \tau_au,\varphi\rangle = \langle u,\tau_{-a}\varphi\rangle.
+$$
+\item
+For any distribution $u$, show that 
+$$
+\tau_au=\delta_a*u,
+$$
+where $\delta_a\equiv\tau_a\delta$ is the Dirac mass concentrated at $a\in\R^n$.
+\end{enumerate}
+\item
+Let $u\in\tstE'$, $\phi\in\tstE$, and $\psi\in\tstD$. Prove that 
+$$
+u*(\phi*\psi) = (u*\phi)*\psi = (u*\psi)*\phi.
+$$
+Show that
+$$
+1*(\delta'*\vartheta) \neq (1*\delta')*\vartheta,
+$$
+where $1$ is the function identically $1$ in $\R$, and $\vartheta$ is the Heaviside step function.
+\item
+Prove that $\tstD(\Omega)$ is dense in $\tstD'(\Omega)$, where $\Omega\subset\R^n$ is open.
+\item
+Let $u$ and $v$ be the surface measures of the spheres $\{x\in\R^3:|x|=a\}$ and $\{|x|=b\}$, respectively.
+Compute $u*v$, and determine its singular support. %$\singsupp(u*v)$.
+\item
+\begin{enumerate}[{\em a)}]
+\item
+Are the operators from Problems 2 and 3 hypoelliptic?
+\item
+Describe all fundamental solutions of the Cauchy-Riemann operator $\partial_{\bar z} = \frac12(\partial_x+i\partial_y)$, 
+as well as those of $\partial_z = \frac12(\partial_x-i\partial_y)$.
+\item
+Schwartz's theorem implies that the Cauchy-Riemann operator is analytic-hypoelliptic,
+i.e., that if $\Omega\subset\C$ is open and if $f\in\tstD'(\Omega,\C)$ satisfies $\partial_{\bar z}f=0$ on $\Omega$ then $f$ is {\em real} analytic in $\Omega$
+(with $\Omega$ considered as a subset of $\R^2$).
+Show that $f$ is in fact complex analytic (i.e., holomorphic) in $\Omega$.
+\item
+Show that there exists a real analytic, but no complex analytic function $f$ in $\C\setminus\{0\}$ such that 
+$\partial_zf=\frac1z$ in $\C\setminus\{0\}$.
+\end{enumerate}
+\end{enumerate}
+
+\end{document}  
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,165 @@
+\documentclass[11pt]{amsart}
+\usepackage{geometry}                % See geometry.pdf to learn the layout options. There are lots.
+\geometry{letterpaper}                   % ... or a4paper or a5paper or ... 
+%\geometry{landscape}                % Activate for for rotated page geometry
+%\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+
+\usepackage{enumerate}
+\usepackage{nicefrac}
+
+\usepackage{mathrsfs}
+
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\D}{\mathbb{D}}
+\newcommand{\tstD}{\mathscr{D}}
+\newcommand{\semP}{\mathscr{P}}
+\newcommand{\eps}{\varepsilon}
+\newcommand{\supp}{\mathrm{supp}}
+\newcommand{\exd}{\mathrm{d}}
+
+\title{Math 580 Assignment 2}
+\author{Due Monday October 7}
+\date{Fall 2013}                                           % Activate to display a given date or no date
+
+\begin{document}
+\maketitle
+
+\begin{enumerate}[1.]
+\item
+Let $\Omega$ be an open subset of $\R^n$.
+\begin{enumerate}[(a)]
+\item
+Show that if $u\in C^2(\Omega)$ is harmonic in $\Omega$ then
+$$
+\int_{\partial B}\partial_\nu u = 0,
+$$
+for any ball $B$ whose closure is contained in $\Omega$.
+Here $\partial_\nu$ is the normal derivative.
+\item
+Suppose that $u\in C^1(\Omega)$ and that for each $y\in\Omega$ there exists $r^*>0$ such that
+$$
+\int_{\partial B_r}\partial_\nu u = 0,
+$$
+for all $0<r<r^*$.
+Show that $u$ is harmonic in $\Omega$ (B\^ocher 1905).
+\end{enumerate}
+\item
+We say $u\in C(\Omega)$ is {\em subharmonic} in $\Omega$ if for each $y\in\Omega$ there exists $r^*>0$ such that
+$$
+u(y) \leq \frac{1}{|B_r|}\int_{B_r(y)}u,
+\qquad\forall r\in(0,r^*).
+$$
+Prove the following statements.
+\begin{enumerate}[(a)]
+\item
+A function $u\in C^2(\Omega)$ is subharmonic in $\Omega$ iff $\Delta u\geq0$ in $\Omega$.
+\item
+A function $u\in C(\Omega)$ is subharmonic in $\Omega$ iff for any closed ball $B\subset\Omega$ and any harmonic function $v$
+in a neighbourhood of $B$, $u\leq v$ on $\partial B$ implies $u\leq v$ in $B$.
+\item
+A function subharmonic in $\R^2$ and bounded from above must be constant.
+Is this statement true in $\R^n$ for $n\geq3$?
+\end{enumerate}
+\item
+Prove that the function $u$ given by the Poisson formula for the Dirichlet problem on a ball, say, $B_r$, is harmonic in $B_r$ for boundary data $g\in L^1(\partial B_r)$, 
+and takes correct boundary values wherever $g$ is continuous.
+\item
+\begin{enumerate}[(a)]
+\item
+Find the region of $\R^2$ in which the power series $\sum_{n}x_1^nx_2^{n!}$ is absolutely convergent.
+\item
+The {\em domain of convergence} of a power series is the interior of the region in which the series converges absolutely.
+Exhibit a two-variable real power series whose domain of convergence is the unit disk $\D=\{x\in\R^2:|x|<1\}$.
+\item
+Show that if $\Omega\subset\R^2$ is a domain of convergence of some power series centred at $0$,
+then $\Omega$ is reflection symmetric with respect to the coordinate axes,
+and $\{(\log x_1,\log x_2):x\in\Omega,\,x_1>0,\,x_2>0\}$ is a convex domain.
+\end{enumerate}
+\item (Poincar\'e 1887)
+In this exercise, we will implement Poincar\'e's {\em method of sweeping out} ({\em m\'ethode de balayage}) to solve the Dirichlet problem.
+Let $\Omega$ be a bounded domain in $\R^n$, and let $g\in C(\Omega)$.
+Suppose that $u_0\in C(\overline\Omega)$ is a function subharmonic in $\Omega$ and $u_0=g$ on $\partial\Omega$.
+The idea is to iteratively improve the initial approximation $u_0$ towards a harmonic function
+by solving the Dirichlet problem on a suitable sequence of balls.
+\begin{enumerate}[(a)]
+\item
+Show that there exist countably many open balls $B_k$ such that $\Omega=\bigcup_kB_k$.
+\item
+Consider the sequence $B_1,B_2,B_1,B_2,B_3,B_1,\ldots$, so that each $B_k$ is occurring infinitely many times,
+and let us reuse the notation $B_k$ to denote the $k$-th member of this sequence.
+Then we define the functions $u_1,u_2,\ldots \in C(\overline\Omega)$ by the following recursive procedure:
+For $k=1,2,\ldots$, put $u_k=u_{k-1}$ in $\Omega\setminus B_k$, and let $u_k$ be the solution of $\Delta u_k=0$ in $B_k$ with the boundary condition $u_{k-1}|_{\partial B_k}$.
+%Show that all $u_k$ are subharmonic in $\Omega$, and that $u_k=g$ on $\partial\Omega$.
+%Show that $u_0\lequ_1\leq\ldots\leq M$, where $M=\sup_{\partial\Omega} g$.
+Prove that $u_k\to u$ locally uniformly in $\Omega$, for some $u\in C^\infty(\Omega)$ that is harmonic in $\Omega$.
+\item
+Show that if there exists $v\in C(\overline\Omega)$ satisfying $\Delta v = 0$ in $\Omega$ and $v=g$ on $\partial\Omega$,
+then indeed $u=v$, where $u$ is the function we constructed in (b).
+So if there exists a solution, then our method would produce the same solution.
+However, we want to demonstrate existence without any prior assumption on existence.
+\item
+Prove that if there exists a barrier at $z\in\partial\Omega$, then $u(x)\to g(z)$ as $\Omega\ni x\to z$, where $u$ is the function we constructed in (b).
+Recall that a function $\varphi\in C(\overline\Omega)$ is called a {\em barrier for $\Omega$ at $z\in\partial\Omega$} if
+\begin{itemize}
+\item
+$\varphi$ is subharmonic in $\Omega$,
+\item
+$\varphi(z) = 0$,
+\item
+$\varphi < 0$ in $\overline\Omega\setminus\{z\}$.
+\end{itemize}
+We call the boundary point $z\in\partial\Omega$ {\em regular} if there is a barrier for $\Omega$ at $z\in\partial\Omega$.
+\item
+Assuming that all boundary points are regular, 
+this procedure reduces the Dirichlet problem into the problem of constructing a subharmonic function $u_0$ with $u_0|_{\partial\Omega}=g$.
+Instead of constructing such $u_0$ for the given $g$ directly, let us approximate $g$ by functions for which such a construction is simpler.
+Show that if $\{v_j\}\subset C(\overline\Omega)$ is a sequence with $\Delta v_j=0$ in $\Omega$ and $v_j\to g$ uniformly on $\partial\Omega$,
+then there exists a function $u\in C(\overline\Omega)$ satisfying $\Delta u=0$ in $\Omega$ and $u=g$ on $\partial\Omega$.
+\item
+Show that any polynomial can be written as the difference of two subharmonic functions in $\Omega$.
+Hence it suffices to extend $g$ into a continuos function on $\overline\Omega$,
+and approximate the resulting function by polynomials (explain why).
+State what standard results we need in order to realize this.
+\end{enumerate}
+\item
+Let $\Omega$ be a bounded domain in $\R^n$.
+\begin{enumerate}[(a)]
+\item
+Show that if the Dirichlet problem in $\Omega$ is solvable for any boundary condition $g\in C(\partial\Omega)$, 
+then each boundary point $z\in\partial\Omega$ admits a barrier.
+\item
+Why is regularity of a boundary point a local property?
+In other words, if $z\in\partial\Omega$ is regular, and if $\Omega'$ is a domain that coincides with $\Omega$ in a neighbourhood of $z$ (hence in particular $z\in\partial\Omega'$), 
+then is $z$ also regular as a point on $\partial\Omega'$?
+\end{enumerate}
+\item
+Let $\Omega\subset\R^n$ be a bounded domain and let $u\in C^2(\Omega)$ satisfy 
+$$
+E_*(u):=\int_\Omega (|\nabla u|^2+|u|^2) < \infty.
+$$
+Prove the followings.
+\begin{enumerate}[(a)]
+\item
+If $\Delta u = u$ in $\Omega$, then $E_*(u+v)>E_*(u)$ for all nontrivial $v\in\tstD(\Omega)$.
+\item
+Conversely, if $E_*(u+v)\geq E_*(u)$ for all $v\in\tstD(\Omega)$, then $\Delta u = u$ in $\Omega$.
+\end{enumerate}
+\end{enumerate}
+
+\end{document}  
+
+
+
+
+
+
+
+
+
+
+
+

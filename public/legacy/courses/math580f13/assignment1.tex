@@ -1,0 +1,95 @@
+\documentclass[11pt,reqno]{amsart}
+\usepackage{geometry}                % See geometry.pdf to learn the layout options. There are lots.
+\geometry{letterpaper}                   % ... or a4paper or a5paper or ... 
+%\geometry{landscape}                % Activate for for rotated page geometry
+%\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+
+\usepackage{color}
+\definecolor{darkblue}{rgb}{0.0,0.0,0.6}
+\usepackage[pdfauthor={Tsogtgerel Gantumur},pdftitle={Assignment},pdfsubject={PDE},colorlinks,citecolor=darkblue,linkcolor=black,urlcolor=darkblue]{hyperref}
+
+\usepackage{enumerate}
+\usepackage{nicefrac}
+
+\usepackage{mathrsfs}
+
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\tstD}{\mathscr{D}}
+\newcommand{\tstC}{\mathscr{C}}
+\newcommand{\semP}{\mathscr{P}}
+\newcommand{\eps}{\varepsilon}
+\newcommand{\supp}{\mathrm{supp}}
+\newcommand{\exd}{\mathrm{d}}
+
+\title{Math 580 Assignment 1}
+\author{Due Monday September 23}
+\date{Fall 2013}                                           % Activate to display a given date or no date
+
+\begin{document}
+\maketitle
+
+\begin{enumerate}[1.]
+\item
+Exercises 2, 4, 6, 7, 11 from the lecture notes \href{/legacy/courses/math580f13/harmonic.pdf}{\em Harmonic functions}.
+\item
+Prove that the space of harmonic functions on an open set $\Omega\subset\R^n$ ($n\geq2$) is infinite dimensional.
+\item
+Let $\Omega\subset\R^n$ be a bounded domain,
+and consider the boundary value problem
+\begin{equation}\label{e:nondir}\tag{$*$}
+\Delta u = f(u)\quad\textrm{in }\Omega,
+\qquad
+u = 1\quad\textrm{on }\partial\Omega.
+\end{equation}
+Prove the followings.
+\begin{enumerate}
+\item[a)]
+Any solution of \eqref{e:nondir} in $C^2(\Omega)\cap C(\bar\Omega)$ with $f(u)=u^m$ where $m\in\N$ is odd, must satisfy $0\leq u\leq 1$ in $\bar\Omega$, and is unique.
+\item[b)]
+The only solution of \eqref{e:nondir} in $C^2(\Omega)\cap C(\bar\Omega)$ with $f(u)=u-u^{-1}$ is $u\equiv1$.
+\end{enumerate}
+\item
+Let $\phi:(0,1]\to\R$ be a continuous nonnegative function satisfying
+$$
+\int_\eps^1\phi(r)r^{n-1}\exd r \leq M,
+$$
+for any $\eps>0$, with a fixed constant $M$.
+Define $f(x)=\phi(|x|)$ for $x\in B_1$ where $B_1=\{x\in\R^n:|x|<1\}$.
+Prove in complete detail that $f\in L^1(B_1)$.
+\item
+Let $u\in\tstC^2(\R^n)$ be an entire harmonic function in $\R^n$.
+Prove the followings.
+\begin{enumerate}[(a)]
+\item
+If $u\in L^p(\R^n)$ for some $1\leq p<\infty$ then $u\equiv0$.
+\item
+If $u$ satisfies $u(x)\geq-C(1+|x|)^m$ for some constants $C$ and $m\in\mathbb{N}$,
+then $u$ is a polynomial of degree less or equal to $m$.
+\item
+Any tangent hyperplane to the graph of $u$ intersects the graph more than once.
+\end{enumerate}
+\end{enumerate}
+
+\section*{Homework policy}
+
+You are welcome to consult each other provided (1) you list all people and sources who aided you, or whom you aided and (2) you write-up the solutions independently, in your own language. If you seek help from other people, you should be seeking general advice, not specific solutions, and must disclose this help.
+This applies especially to internet fora such as \texttt{MathStackExchange}.
+
+Similarly, if you consult books and papers outside your notes, you should be looking for better understanding of or different points of view on the material, not solutions to the problems.
+\end{document}  
+
+
+
+
+
+
+
+
+
+
+

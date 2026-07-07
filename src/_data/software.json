@@ -59,18 +59,5 @@
     ],
     "cvInclude": false,
     "source": "_old_site/McGill/index.html"
-  },
-  {
-    "id": "old-mcgill-homepage",
-    "name": "Old McGill homepage archive",
-    "kind": "legacy-link",
-    "description": "Legacy academic pages and course materials from the McGill era.",
-    "url": "http://www.math.mcgill.ca/gantumur/",
-    "status": "legacy link",
-    "languages": [
-      "en"
-    ],
-    "cvInclude": false,
-    "source": "_old_site/McGill/index.html"
   }
 ]

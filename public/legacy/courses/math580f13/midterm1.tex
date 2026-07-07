@@ -1,0 +1,145 @@
+\documentclass[11pt]{amsart}
+\usepackage{geometry}                % See geometry.pdf to learn the layout options. There are lots.
+\geometry{letterpaper}                   % ... or a4paper or a5paper or ... 
+%\geometry{landscape}                % Activate for for rotated page geometry
+%\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+
+\usepackage{enumerate}
+\usepackage{nicefrac}
+
+\usepackage{mathrsfs}
+
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\D}{\mathbb{D}}
+\newcommand{\tstD}{\mathscr{D}}
+\newcommand{\semP}{\mathscr{P}}
+\newcommand{\eps}{\varepsilon}
+\newcommand{\supp}{\mathrm{supp}}
+\newcommand{\exd}{\mathrm{d}}
+\newcommand{\loc}{\mathrm{loc}}
+
+\title{Math 580 Take home midterm exam 1}
+\author{Due Wednesday October 23}
+\date{Fall 2013}                                           % Activate to display a given date or no date
+
+\begin{document}
+\maketitle
+
+\begin{enumerate}[1.]
+\item
+Let $\Omega$ be a domain, and let $\Sigma=\partial\Omega\cap B$ be a smooth and nonempty portion of the boundary, where $B$ is an open ball.
+Let $u\in C^2(\Omega)\cap C^1(\Omega\cup\Sigma)$ satisfy $\Delta u=0$ in $\Omega$ and $u=\partial_\nu u = 0$ on $\Sigma$.
+Show that $u$ is identically zero in $\Omega$.
+\item
+Consider the problem of minimizing the energy
+$$
+Q(u) = \int_I \left( 1+|u'(x)|^2 \right)^{\frac14} \exd x,
+$$
+for all $u\in C^1(I)\cap C(\overline I)$ satisfying $u(0)=0$ and $u(1)=1$, where $I=(0,1)$.
+Show that the infimum of $Q$ over the admissible functions is $1$, but this value is not assumed by any admissible function.
+\item
+Consider the Dirichlet problem on the unit disk $\D\subset\R^2$ with the homogeneous Dirichlet boundary condition.
+The solution is $u\equiv0$, which also minimizes the Dirichlet energy
+$$
+E(u) = \int_{\D}|\nabla u|^2.
+$$
+Construct a sequence $\{u_k\}\subset C(\overline\D)$ of functions satisfying all of the following conditions.
+\begin{itemize}
+\item
+$u_k$ is piecewise smooth and $u_k|_{\partial\D}=0$ for all $k$,
+\item
+$E(u_k)\to0$ as $k\to\infty$, and
+\item
+$u_k$ as $k\to\infty$ diverges in a set that is dense in $\D$.
+\end{itemize}
+Then show that $u_k\to0$ in $H^1(\D)$.
+\item
+Exhibit a sequence $\{v_k\}\subset \tilde C^1(\D)$ that is Cauchy with respect to the $H^1$-norm,
+whose limit is not essentially bounded.
+\item
+In this exercise we will study Sobolev spaces on the interval $I=(0,1)$.
+Let $1\leq p < \infty$, and define the norm
+$$
+\|u\|_{1,p} = \left( \|u\|_{L^p}^p + \|u'\|_{L^p}^p \right)^{1/p},
+$$
+for $u\in C^1(\overline I)$.
+Let $H^{1,p}(I)$ be the completion of $C^1(\overline I)$ with respect to the norm $\|\cdot\|_{1,p}$.
+\begin{enumerate}[a)]
+\item
+Show that there is a continuous injection of $H^{1,p}(I)$ into $L^p(I)$.
+\item
+Prove the {\em Sobolev inequality}
+$$
+\|u\|_{L^\infty} \leq 2^{1-1/p} \|u\|_{1,p},
+\qquad u\in H^{1,p}(I).
+$$
+\item
+Since $H^{1,p}(I)$ is a subspace of $L^p(I)$, an element of $H^{1,p}(I)$ is an equivalence class of functions that differ on sets of measure zero.
+So one can change the values of a function on a set of measure zero, and it would still correspond to the same element in $H^{1,p}(I)$.
+Make sense of, and prove the statement that the elements of $H^{1,p}(I)$ are continuous functions.
+\item
+Prove the {\em Friedrichs inequality}
+$$
+\|u\|_{L^p}^p \leq 2^{p-1} \|u'\|_{L^p}^p + 2^{p-1} |u(\xi)|^p,
+\qquad u\in H^{1,p}(I),
+\quad \xi\in[0,1].
+$$
+In particular, make sense of the derivative $u'$ appearing in the right hand side.
+\item
+Let $H^{1,p}_0(I)$ be the closure of $C^1_c(I)$ in $H^{1,p}(I)$.
+Show that 
+$$
+H^{1,p}_0(I) = \{u\in H^{1,p}(I) : u(0)=u(1)=0\}.
+$$
+\item
+Prove the {\em Poincar\'e inequality}
+$$
+\|u\|_{L^p}^p \leq 2^{p-1} \|u'\|_{L^p}^p + 2^{p-1} \big| \int_I u \big|^p,
+\qquad u\in H^{1,p}(I).
+$$
+\end{enumerate}
+\item
+\begin{enumerate}[a)]
+\item
+Let $\Omega\subset\R^n$ be a bounded domain and let $g\in H^1(\Omega)$.
+Give a detailed proof of the fact that there exists a unique $u\in H^1(\Omega)$ satisfying $u-g\in H^1_0(\Omega)$ and
+$$
+\int_\Omega \nabla u \cdot \nabla v = 0
+\qquad\textrm{for all}\quad 
+v\in\tstD(\Omega).
+$$
+\item
+In the context of a),
+let us denote the map that sends $g$ to $u$ by 
+$$
+S:g\mapsto u:H^1(\Omega)\to H^1(\Omega).
+$$
+Show that $S$ is linear and is Lipschitz continuous in the sense that there is a constant $c$ such that
+$$
+\|S(g_1)-S(g_2)\|_{H^1} \leq c \|g_1-g_2\|_{H^1},
+\qquad
+g_1,g_2\in H^1(\Omega).
+$$
+\item
+Exhibit an example of an unbounded domain $\Omega$ and a sequence $\{u_k\}\subset H^1_0(\Omega)$ 
+such that $\{u_k\}$ minimizes the Dirichlet energy on $\Omega$ and that it is not Cauchy with respect to the $H^1$-norm.
+\end{enumerate}
+\end{enumerate}
+
+\end{document}  
+
+
+
+
+
+
+
+
+
+
+
+

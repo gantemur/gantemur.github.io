@@ -1,0 +1,133 @@
+\documentclass[11pt]{amsart}
+\usepackage{geometry}                % See geometry.pdf to learn the layout options. There are lots.
+\geometry{letterpaper}                   % ... or a4paper or a5paper or ... 
+%\geometry{landscape}                % Activate for for rotated page geometry
+%\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+
+\usepackage{enumerate}
+\usepackage{nicefrac}
+
+\usepackage{mathrsfs}
+
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\tstD}{\mathscr{D}}
+\newcommand{\semP}{\mathscr{P}}
+\newcommand{\eps}{\varepsilon}
+\newcommand{\supp}{\mathrm{supp}}
+\newcommand{\exd}{\mathrm{d}}
+
+\title{Math 581 Assignment 2}
+\author{Due Wednesday February 12}
+\date{Winter 2014}                                           % Activate to display a given date or no date
+
+\begin{document}
+\maketitle
+
+\begin{enumerate}[1.]
+\item
+For each of the following cases, determine the characteristic cones and characteristic surfaces.
+\begin{enumerate}[a)]
+\item
+Wave equation with wave speed $c>0$: $u_{xx}+u_{yy}=c^{-2}u_{tt}$.
+\item
+Tricomi-type equation: $u_{xx}+yu_{yy}=0$.
+\item
+Ultrahyperbolic ``wave'' equation: $u_{xx}+u_{yy}=u_{zz}+u_{tt}$.
+\end{enumerate}
+\item
+Prove that if $\beta\in\R$ and $u\in C^1(\R^2)$ is a solution of $u_t+\beta u_x=0$,
+then 
+$$
+\{(x,t):u\in C^k \textrm{ on a neighbourhood of }(x,t)\},
+$$ 
+is a union of lines.
+\item
+Consider the Laplace equation $\Delta u=0$ on the unit disk, given in polar coordinates by $\mathbb{D}=\{(r,\theta):r<1\}$.
+Specify the Cauchy data
+$$
+u(1,\theta)=f(\theta),\qquad
+\partial_ru(1,\theta)=g(\theta),
+$$
+where $f$ and $g$ are $2\pi$-periodic real analytic functions.
+Then show that a real analytic solution exists in a neighbourhood of the circle $\partial\mathbb{D}$.
+Investigate what happens to the solution as $r\to0$ and $r\to\infty$, if $f$ and $g$ are of the form
+$$
+a_0+\sum_{n=1}^{m} a_n\cos n\theta + b_n\sin n\theta,
+$$
+i.e., trigonometric polynomials.
+\item
+Consider the wave equation
+$$
+u_{tt} - u_{xx} = f ,
+$$
+with the initial data
+$$
+u(x,\alpha x) = \phi(x)
+\qquad\textrm{for}\quad x<0,
+\qquad\textrm{and}\qquad
+u(x,x) = \psi(x)
+\qquad\textrm{for}\quad x\geq0,
+$$
+where $\alpha\neq1$ is a constant, and $\phi$ and $\psi$ are real analytic functions in a neighbourhood of $0\in\R$.
+Note that we are specifying the initial condition on the union of two rays, one of which is characteristic, and the other may or may not be characteristic, depending on $\alpha$.
+Supposing that $f$ is real analytic in a neighbourhood of $0\in\R^2$, 
+investigate if and when the problem is locally solvable near $0\in\R^2$.
+Do we need to impose compatibility conditions on the data $\phi$ and $\psi$?
+\item
+Let $p$ be a nontrivial polynomial of $n$ variables, and let $f$ be a real analytic function in a neighbourhood of $0\in\R^n$.
+\begin{enumerate}[a)]
+\item
+Prove that the set $\{\xi\in\R^n:p(\xi)=0\}$ is closed and of measure zero.
+\item
+Show that there is a neighbourhood of $0\in\R^n$,
+on which the equation $p(\partial)u=f$ has a solution.
+Supposing that $p(\xi)=\sum_{\alpha} a_\alpha \xi^\alpha$, here the operator $p(\partial)$ is given by 
+$$
+\textstyle p(\partial)=\sum_{\alpha} a_\alpha \partial^\alpha .
+$$
+\item
+Extend this local solvability result to linear operators with analytic coefficients.
+That is, assuming that $\{a_\alpha\}$ is a finite collection of real analytic functions in a neighbourhood of $0\in\R^n$,
+with the property that $p(\xi)=\sum_\alpha a_\alpha(0)\xi^\alpha$ is a nontrivial polynomial,
+show that the equation
+$$
+\textstyle \sum_{\alpha} a_\alpha \partial^\alpha u = f ,
+$$
+has a solution on a neighbourhood of $0\in\R^n$.
+\end{enumerate}
+\item
+Let $p$ be a nontrivial polynomial of $n$ variables, and let $H\subset\R^n$ be a (closed) half-space.
+\begin{enumerate}[a)]
+\item
+Show that if $u\in C^\infty(\R^n)$ satisfies $p(\partial)u=0$ in $\R^n$ and $\supp\,u\subset H$,
+and if the boundary of $H$ is noncharacteristic for the constant coefficient operator $p(\partial)$,
+then $u\equiv0$.
+Provide a counterexample when $\partial H$ is characteristic and $p$ is a nonconstant homogeneous polynomial.
+\item
+Show that if we require that $u$ is compactly supported, then the noncharacteristic condition on $\partial H$ can be dropped,
+i.e., prove that if $u\in C_c^\infty(\R^n)$ satisfies $p(\partial)u=0$ in $\R^n$ then $u\equiv0$.
+Imply that if $u\in C^\infty_c(\R^n)$ then $\supp\,u$ is contained in the convex hull of $\supp\,p(\partial)u$.
+\end{enumerate}
+\item
+Let $u$ be a $C^2$ solution of the $n$-dimensional wave equation $\partial_t^2 u - \Delta u = 0$,
+and assume that $u$ and all its first derivatives vanish on the line segment $\{(0,t)\in\R^{n+1}:0<t<T\}$.
+By using Holmgren's theorem, determine the region of $\R^{n+1}$ where $u$ must vanish.
+\end{enumerate}
+
+\end{document}  
+
+
+
+
+
+
+
+
+
+
+
+

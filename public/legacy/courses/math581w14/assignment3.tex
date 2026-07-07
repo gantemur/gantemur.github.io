@@ -1,0 +1,144 @@
+\documentclass[11pt]{amsart}
+\usepackage{geometry}                % See geometry.pdf to learn the layout options. There are lots.
+\geometry{letterpaper}                   % ... or a4paper or a5paper or ... 
+%\geometry{landscape}                % Activate for for rotated page geometry
+%\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+
+\usepackage{enumerate}
+\usepackage{nicefrac}
+
+\usepackage{mathrsfs}
+
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\tstD}{\mathscr{D}}
+\newcommand{\tstE}{\mathscr{E}}
+\newcommand{\tstS}{\mathscr{S}}
+\newcommand{\semP}{\mathscr{P}}
+\newcommand{\eps}{\varepsilon}
+\newcommand{\supp}{\mathrm{supp}}
+\newcommand{\singsupp}{\mathrm{singsupp}}
+\newcommand{\exd}{\mathrm{d}}
+
+\title{Math 581 Assignment 3}
+\author{Due Monday March 10}
+\date{Winter 2014}                                           % Activate to display a given date or no date
+
+\begin{document}
+\maketitle
+
+\begin{enumerate}[1.]
+\item
+Let $\varphi\in\tstD(\R)$, $\varphi\neq0$, and $\varphi(0)=0$.
+In each of the following cases, decide if $\varphi_j\to0$ as $j\to\infty$ in $\tstD(\R)$.
+Does it hold $\varphi_j\to0$ pointwise or uniformly?
+\begin{enumerate}[{\em a)}]
+\item
+$\varphi_j(x)=j^{-1}\varphi(x-j)$;
+\item
+$\varphi_j(x)=j^{-n}\varphi(jx)$, where $n>0$ is an integer.
+\end{enumerate}
+\item
+\begin{enumerate}[{\em a)}]
+\item
+Show that a linear map $f:\tstD(\Omega)\to\tstD(\Omega')$ is continuous iff for each compact set $K\subset\Omega$ there exists a compact set $K'\subset\Omega'$ such that $f:\tstD(K)\to\tstD(K')$ is continuous.
+\item
+Show that $L:\tstD(\Omega)\to\tstD(\Omega)$ is continuous, where $L$ is a linear differential operator with smooth coefficients.
+\end{enumerate}
+\item
+Prove that the space $\tstD^m(\Omega)$ with its inductive limit topology is sequentially complete.
+\item
+Show that any closed bounded subset of $\tstE(\Omega)$ is compact in $\tstE(\Omega)$.
+\item
+In each case, show that $f$ defines a distribution on $\R^2$, and find its order.
+\begin{enumerate}[{\em a)}]
+\item
+$f(\varphi)=\int_{\R^2}|x|^{-1}e^{|x|^2}\varphi(x)\exd x$;
+\item
+$f(\varphi)=\int_{\R}\varphi(s,0)\exd s$;
+\item
+$f(\varphi)=\int_{0}^{1}\partial_1\varphi(0,s)\exd s$.
+\end{enumerate}
+\item
+Compute the following derivatives in the sense of distributions.
+\begin{enumerate}[{\em a)}]
+\item
+$\partial_x|x|$;
+\item
+$\partial_x\mathrm{sign}\,x$ ($\mathrm{sign}\,x=0$ if $x=0$ and $\mathrm{sign}\,x=x/|x|$ otherwise);
+%\item The Cantor (Devil's staircase) function $c(x)$;
+\item
+$\partial_x\log |x|$;
+\item
+$\partial_2f$, where $f\in\tstD'(\R^2)$ is the distribution from {\em b)} of the previous exercise.
+\end{enumerate}
+\item
+Prove the following.
+\begin{enumerate}[{\em a)}]
+\item
+$\partial_j (au) = (\partial_j a) u + a (\partial_j u)$ for $a\in C^\infty(\Omega)$ and $u\in\tstD'(\Omega)$.
+\item
+$\partial_j \partial_k u = \partial_k \partial_j u$ for $u\in\tstD'(\Omega)$.
+\item
+If $u_k\to u$ in $\tstD'(\Omega)$ then $\partial_ju_k\to\partial_ju$ in $\tstD'(\Omega)$.
+\item
+There is no distribution on $\R$ such that its restriction to $\R\setminus\{0\}$ is $e^{1/x}$.
+\end{enumerate}
+\item
+If $u$ is the characteristic function of the unit ball in $\R^n$, compute $x\cdot\nabla u$.
+\item
+Let $\omega\subset\R$ be an open interval, and $u\in\tstD'(\omega)$. Let $0\leq k\leq \infty$.
+\begin{enumerate}[{\em a)}]
+\item
+Show that if $u'=0$ then $u$ is a constant function.
+\item
+Show that if $u'=f$ with $f\in C^{k}(\omega)$, then $u\in C^{k+1}(\omega)$.
+\item
+Show that if $u'+au=f$ with $a\in C^{\infty}(\omega)$ and $f\in C^{k}(\omega)$, then $u\in C^{k+1}(\omega)$.
+\end{enumerate}
+\item
+Find the limits $n\to\infty$ of the following sequences in $\tstD'(\R)$.
+\begin{enumerate}[{\em a)}]
+\item
+$n\phi(nx)$, where $\phi$ is a nonnegative continuous function whose integral over $\R$ is finite.
+\item
+$n^k\sin nx$, where $k>0$ is a constant.
+\item
+$x^{-1}\sin nx$.
+\end{enumerate}
+\item
+\begin{enumerate}[{\em a)}]
+\item
+Let $\Omega\subset\R^n$ be a bounded open set, and let $u\in\tstE'^m(\Omega)$.
+Show that there exists $g\in C(\R^n)$ such that $u=\partial_1^{m+2}\ldots\partial_n^{m+2}  g$ in $\Omega$.
+\item
+Let $u\in\tstD'(\Omega)$. Show that for any open $\omega\subset\Omega$ with $\overline\omega\Subset\Omega$,
+there exists $g\in C(\R^n)$ and a multi-index $\alpha$ such that $u=\partial^\alpha  g$ in $\omega$.
+\end{enumerate}
+\item
+Show that for any given $\eps>0$, there exists a finite sequence $f_0,f_1,\ldots,f_n$ of continuous functions on $\R$,
+such that $\supp\,f_k\subset[-\eps,\eps]$ for each $k$ and 
+$$
+\delta = f_0 + f_1' + \ldots + f_n^{(n)},
+$$
+where $\delta\in\tstD'(\R)$ is the Dirac mass concentrated at the origin.
+Prove that there is no continuous function $f$ with compact support such that $\delta=f^{(n)}$ for some $n$.
+\end{enumerate}
+
+\end{document}  
+
+
+
+
+
+
+
+
+
+
+
+

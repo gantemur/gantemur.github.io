@@ -1,0 +1,61 @@
+---
+layout: layouts/base.njk
+pagination:
+  data: legacyCourses
+  size: 1
+  alias: course
+permalink: "legacy/courses/{{ course.slug }}/index.html"
+eleventyComputed:
+  title: "{{ course.code or course.title }}{% if course.term.label %} {{ course.term.label }}{% endif %}"
+---
+
+<p><a href="/teaching/">Teaching</a> / Course archive</p>
+
+<h1>{{ course.code or "Course" }}{% if course.term.label %}: {{ course.term.label }}{% endif %}</h1>
+<p class="lede narrow">{{ course.title }}</p>
+
+<section class="rule-section">
+  <h2>Course Information</h2>
+  <dl class="contact-list">
+    <dt>Institution</dt>
+    <dd>{{ course.institution }}</dd>
+    <dt>Role</dt>
+    <dd>{{ course.role }}</dd>
+    <dt>Level</dt>
+    <dd>{{ course.level }}</dd>
+    <dt>Language</dt>
+    <dd>{{ course | languages }}</dd>
+    {% if course.topics and course.topics.length %}
+      <dt>Topics</dt>
+      <dd>{{ course.topics | join(", ") }}</dd>
+    {% endif %}
+  </dl>
+</section>
+
+{% if course.noteFiles.length or course.courseFiles.length %}
+  <section class="rule-section">
+    <h2>Materials</h2>
+    {% if course.noteFiles.length %}
+      <h3>Notes</h3>
+      <ul class="plain-list compact-list">
+        {% for item in course.noteFiles %}
+          <li><a href="{{ item.url }}">{{ item.label }}</a> <span>{{ item.kind }}</span></li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+
+    {% if course.courseFiles.length %}
+      <h3>Course Files</h3>
+      <ul class="plain-list compact-list">
+        {% for item in course.courseFiles %}
+          <li><a href="{{ item.url }}">{{ item.label }}</a> <span>{{ item.kind }}</span></li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </section>
+{% else %}
+  <section class="rule-section">
+    <h2>Materials</h2>
+    <p>Course information is preserved here as a local archive record. Additional files are not currently available in the public archive.</p>
+  </section>
+{% endif %}

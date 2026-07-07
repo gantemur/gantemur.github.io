@@ -38,9 +38,18 @@ function existsAsStaticFile(target) {
   return false;
 }
 
-const htmlFiles = walk(siteDir).filter((file) => file.endsWith(".html"));
+const siteFiles = walk(siteDir);
+const textExtensions = new Set([".html", ".css", ".js", ".json", ".txt", ".xml", ".svg", ".md", ".tex"]);
+const htmlFiles = siteFiles.filter((file) => file.endsWith(".html"));
 const broken = [];
 const checked = [];
+const forbiddenOldHomepage = /https?:\/\/www\.math\.mcgill\.ca\/~?gantumur\b|www\.math\.mcgill\.ca\/~?gantumur\b/i;
+const forbidden = [];
+
+for (const file of siteFiles.filter((file) => textExtensions.has(path.extname(file).toLowerCase()))) {
+  const text = fs.readFileSync(file, "utf8");
+  if (forbiddenOldHomepage.test(text)) forbidden.push(path.relative(root, file));
+}
 
 for (const file of htmlFiles) {
   const html = fs.readFileSync(file, "utf8");
@@ -54,6 +63,12 @@ for (const file of htmlFiles) {
       broken.push(`${path.relative(root, file)} -> ${ref}`);
     }
   }
+}
+
+if (forbidden.length) {
+  console.error("Forbidden old McGill personal homepage references:");
+  for (const item of forbidden) console.error(`- ${item}`);
+  process.exit(1);
 }
 
 if (broken.length) {

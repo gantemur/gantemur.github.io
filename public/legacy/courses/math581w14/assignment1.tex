@@ -1,0 +1,133 @@
+\documentclass[11pt]{amsart}
+\usepackage{geometry}                % See geometry.pdf to learn the layout options. There are lots.
+\geometry{letterpaper}                   % ... or a4paper or a5paper or ... 
+%\geometry{landscape}                % Activate for for rotated page geometry
+%\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+
+\usepackage{enumerate}
+\usepackage{nicefrac}
+
+\usepackage{mathrsfs}
+
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\tstD}{\mathscr{D}}
+\newcommand{\semP}{\mathscr{P}}
+\newcommand{\eps}{\varepsilon}
+\newcommand{\supp}{\mathrm{supp}}
+\newcommand{\exd}{\mathrm{d}}
+\newcommand{\curl}{\mathrm{curl}}
+\renewcommand{\div}{\mathrm{div}}
+
+\title{Math 581 Assignment 1}
+\author{Due Wednesday January 29}
+\date{Winter 2014}                                           % Activate to display a given date or no date
+
+\begin{document}
+\maketitle
+
+\begin{enumerate}[1.]
+\item
+Consider the function $v(x,t)=\frac{x}t E(x,t)$ for $x\in\R$ and $t>0$, where 
+$$
+E(x,t) = \frac1{2\sqrt{\pi t}} \, e^{-\frac{|x|^2}{4t}}
+\qquad (x\in\R,\,t>0) ,
+$$
+is the heat kernel of $\R$.
+Show that $\partial_t v = \Delta v$ in $\R\times(0,\infty)$, and that $v(x,t)\to0$ as $t\to0^+$ for each fixed $x\in\R$.
+How do we reconcile this with Tychonov's uniqueness theorem?
+\item
+With $\Omega\subset\R^n$ a bounded smooth domain, consider the initial-boundary value problem
+$$
+\begin{cases}
+\partial_t u = \Delta u + au &\textrm{in} \quad \Omega\times(0,\infty), \\
+u = 0 &\textrm{on} \quad \partial\Omega\times(0,\infty), \\
+u = g &\textrm{on} \quad \Omega\times\{0\},
+\end{cases}
+$$
+where $g\in C(\bar\Omega)$ and $a\in L^\infty(\Omega\times(0,\infty))$ are given functions.
+Assume the existence of a solution $u$ in the class $C^2(\Omega\times(0,\infty)) \cap C(\bar{\Omega}\times[0,\infty))$.
+\begin{enumerate}
+\item[a)]
+Show that the solution is unique in the same class.
+\item[b)]
+Assuming $a\equiv0$, show that
+$$
+\|u(\cdot,t)\|_{L^\infty(\Omega)} \leq {(4\pi t)^{-\frac{n}2}} \|g\|_{L^1(\Omega)} ,
+\qquad \textrm{for all}\quad t>0 .
+$$
+\item[c)]
+Show that there exists $c>0$ with the property that if $\|a\|_{\infty}\leq c$ then the $L^2$-norm of $u(\cdot,t)$ decays exponentially in time.
+\item[d)]
+Under some smallness condition on $a$, can you establish an exponential decay in stronger norms, such as $H^k$ or $L^\infty$?
+\end{enumerate}
+\item
+With $\Omega\subset\R^n$ a bounded smooth domain, consider the initial-boundary value problem
+$$
+\begin{cases}
+\partial_t u = \Delta u &\textrm{in} \quad \Omega\times(0,\infty), \\
+\partial_\nu u = 0 &\textrm{on} \quad \partial\Omega\times(0,\infty), \\
+u = g &\textrm{on} \quad \Omega\times\{0\},
+\end{cases}
+$$
+where $\partial_\nu$ is the outward normal derivative at $\partial\Omega$,
+and $g\in C(\bar\Omega)$ is a given function.
+Assume the existence of a solution $u$ in the class $C^2(\Omega\times(0,\infty)) \cap C(\bar{\Omega}\times[0,\infty))$.
+\begin{enumerate}
+\item[a)]
+Prove the maximum principle: 
+$$
+\sup_{\Omega\times(0,\infty)} u \leq \sup_\Omega g,
+\qquad\textrm{and}\qquad
+\inf_{\Omega\times(0,\infty)} u \geq \inf_\Omega g.
+$$
+\item[b)]
+Show that the solution is unique in the same class.
+\item[c)]
+Show that $u(\cdot,t)$ converges uniformly to a constant as $t\to\infty$.
+What can you say about the {\em rate} of convergence?
+\end{enumerate}
+\item (Duhamel's principle)
+Let $g\in C_b(\R^n)$, and let $f\in C^1(\R^n\times(0,\infty))$ be a function satisfying
+$$
+\sup_{\R^n\times(0,\beta)} |f| < \infty,
+\qquad\textrm{and}\qquad
+\sup_{\R^n\times(\alpha,\beta)} |\nabla_x f| < \infty,
+$$
+for each $0<\alpha<\beta<\infty$, 
+where $C_b(\R^n)$ is the space of bounded continuous functions on $\R^n$,
+and $\nabla_x=(\partial_{x_1},\ldots,\partial_{x_n})$ is the ``spatial gradient''.
+Prove that
+$$
+u(x,t) = \int_{\R^n} E(x-y,t) g(y) \, \exd y +  \int_0^t \int_{\R^n} E(x-y,t-s) f(y,s) \, \exd y \, \exd s ,
+$$
+satisfies the inhomogeneous heat equation
+$$
+\partial_t u - \Delta u = f ,
+\qquad\textrm{in}\quad \R^n\times(0,\infty) ,
+$$
+with $u(\cdot,t)\to g$ locally uniformly in $\R^n$ as $t\to0^+$.
+Here 
+$$
+E(x,t) = (4\pi t)^{-\frac{n}2} e^{-\frac{|x|^2}{4t}}
+\qquad (x\in\R^n,\,t>0) ,
+$$
+is the heat kernel of $\R^n$.
+\end{enumerate}
+
+\end{document}  
+
+
+
+
+
+
+
+
+
+
+
+

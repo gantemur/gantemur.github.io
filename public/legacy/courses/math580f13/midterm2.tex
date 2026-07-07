@@ -1,0 +1,173 @@
+\documentclass[11pt,reqno]{amsart}
+\usepackage{geometry}                % See geometry.pdf to learn the layout options. There are lots.
+\geometry{letterpaper}                   % ... or a4paper or a5paper or ... 
+%\geometry{landscape}                % Activate for for rotated page geometry
+%\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+
+\usepackage{enumerate}
+\usepackage{nicefrac}
+
+\usepackage{mathrsfs}
+
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\D}{\mathbb{D}}
+\newcommand{\tstD}{\mathscr{D}}
+\newcommand{\semP}{\mathscr{P}}
+\newcommand{\eps}{\varepsilon}
+\newcommand{\supp}{\mathrm{supp}}
+\newcommand{\exd}{\mathrm{d}}
+\newcommand{\loc}{\mathrm{loc}}
+\newcommand{\Lip}{\mathrm{Lip}}
+
+\title{Math 580 Take home midterm exam 2}
+\author{Due Wednesday November 27}
+\date{Fall 2013}                                           % Activate to display a given date or no date
+
+\begin{document}
+\maketitle
+
+\begin{enumerate}[1.]
+\item
+In this exercise we continue our study of Sobolev spaces on the interval $I=(0,1)$.
+Let $1\leq p < \infty$, and recall the norm
+$$
+\|u\|_{1,p} = \left( \|u\|_{L^p}^p + \|u'\|_{L^p}^p \right)^{1/p},
+$$
+for $u\in C^1(\overline I)$.
+Then we define $H^{1,p}(I)$ to be the completion of $C^1(\overline I)$ with respect to the norm $\|\cdot\|_{1,p}$,
+and let
+$$
+W^{1,p}(I) = \{ u\in L^p(I) : u' \in L^p(I) \},
+$$
+where $u'$ is understood in the weak sense.
+Prove the followings.
+\begin{enumerate}
+\item
+The {\em Meyers-Serrin theorem}: $H^{1,p}(I)=W^{1,p}(I)$.
+\item
+The space $\{u\in C^1(\overline I):u'(0)=u'(1)=0\}$ is dense in $W^{1,p}(I)$.
+\item
+The {\em Rellich-Kondrashov theorem}:
+The embedding $W^{1,p}(I)\hookrightarrow L^p(I)$ is compact.
+%\item Show that $W^{1,1}(I)=AC(I)$, where $AC(I)$ is the space of absolutely continuous functions.
+\end{enumerate}
+\item
+For a function $u$ on $A\subset\R^n$, and $\alpha>0$, let
+$$
+|u|_{\Lip\alpha} = \sup_{x,y\in A}\frac{|u(x)-u(y)|}{|x-y|^\alpha},
+$$
+and define the {\em H\"older space} $C^{k,\alpha}(A)$ as the space of functions $u\in C^k(A)$ for which
+$$
+\|u\|_{C^{k,\alpha}(A)} 
+= \sum_{|\beta|\leq k} \|\partial^\beta u\|_{C(A)}
++ \sum_{|\beta|=k} |\partial^\beta u|_{\Lip\alpha},
+$$
+is finite.
+In the following, we fix $0<\alpha<1$.
+\begin{enumerate}[(a)]
+\item
+For a compactly supported function $f$, let 
+$$
+(Tf)(x) = \lim_{\eps\to0} \int\limits_{\{|x-y|>\eps\}} K(x-y) f(y) \,\exd y,
+$$
+where the kernel $K\in C^1(\R^n\setminus\{0\})$ satisfies
+\begin{itemize}
+\item
+$|K(x)|\leq c|x|^{-n}$ and $|\nabla K(x)|\leq c|x|^{1-n}$ for some constant $c$,
+\item
+$\int_{B_R\setminus B_r} K(x) \,\exd x = 0$ for $0<r<R<\infty$.
+\end{itemize}
+We showed in class that $Tf$ is well-defined pointwise if $f$ is Dini continuous.
+Prove that for any $0<r<R<\infty$ there exists a constant $C$ such that
+$$
+\|Tf\|_{C^{0,\alpha}(B_r)} \leq C \|f\|_{C^{0,\alpha}(B_R)},
+\qquad f\in C^{0,\alpha}(B_R).
+$$
+\item
+Let $\Omega\subset\R^n$ be an open set and let
+$u\in H^1_\loc(\Omega)$ be a weak solution of $\Delta u=f$ in $\Omega$, with $f\in C^{0,\alpha}(\Omega)$.
+Show that $u\in C^{2,\alpha}(K)$ for any compact $K\subset\Omega$.
+\end{enumerate}
+\item
+Let $\Omega\subset\R^n$ be a bounded domain with smooth boundary, and let
+$$
+a(u,v) = \int_\Omega ( a_{ij}\partial_iu\partial_jv + cuv),
+$$
+where the repeated indices are summer over, and the coefficients $a_{ij}$ and $c$ are smooth functions on $\overline{\Omega}$,
+with $a_{ij}$ satisfying the uniform ellipticity condition
+$$
+a_{ij}(x)\xi_i\xi_j\geq\lambda |\xi|^2,
+\qquad \xi\in\R^n,
+\quad x\in\overline\Omega,
+$$
+for some constant $\lambda>0$.
+\begin{enumerate}
+\item
+Let $u\in H^1_0(\Omega)$ and $f\in H^k(\Omega)$ with $k\geq0$ satisfy
+$a(u,v)=\int_\Omega fv$
+for all $v\in H^1_0(\Omega)$.
+Prove that $u\in H^{k+2}(\Omega)$.
+\item
+Let $u\in H^1(\Omega)$ and $f\in H^k(\Omega)$ with $k\geq0$ satisfy
+$a(u,v)=\int_\Omega fv$
+for all $v\in H^1(\Omega)$.
+Prove that $u\in H^{k+2}(\Omega)$.
+\end{enumerate}
+\item
+Let the bilinear form $a$ be as in the preceding exercise.
+\begin{itemize}
+\item(Dirichlet case)
+We define the map $\tilde A_{D}:H^1_0(\Omega)\to[H^1_0(\Omega)]'$ by
+$\langle \tilde A_{D}u,v\rangle=a(u,v)$ for $u,v\in H^1_0(\Omega)$,
+and then we let $A_D$ be the unbounded operator in $L^2(\Omega)$ that is given by the restriction of $\tilde A_D$ on $L^2(\Omega)$,
+i.e., $A_Du=\tilde A_Du$ for $u\in \mathrm{Dom}(A_D)$ where $\mathrm{Dom}(A_D) = \{u\in H^1_0(\Omega):\tilde A_Du\in L^2(\Omega)\}$.
+\item(Neumann case)
+Similarly, we define the operator $\tilde A_{N}:H^1(\Omega)\to[H^1(\Omega)]'$ by
+$\langle \tilde A_{N}u,v\rangle=a(u,v)$ for $u,v\in H^1(\Omega)$,
+and then we let $A_N$ be the unbounded operator in $L^2(\Omega)$ that is given by the restriction of $\tilde A_N$ on $L^2(\Omega)$,
+i.e., $A_Nu=\tilde A_Nu$ for $u\in \mathrm{Dom}(A_N)$ where $\mathrm{Dom}(A_N) = \{u\in H^1(\Omega):\tilde A_Nu\in L^2(\Omega)\}$.
+\end{itemize}
+Consider the eigenvalue problem
+$$
+A u = \lambda u,
+$$
+on a bounded $C^1$ domain $\Omega\subset\R^n$, 
+where $A$ is either $A_D$ or $A_N$.
+Prove the followings, by using the spectral theorem for compact self-adjoint positive operators where possible.
+\begin{enumerate}
+\item
+The eigenvalues $\{\lambda_k\}$ are countable and real, and that $\lambda_k\to\infty$ as $k\to\infty$.
+Each eigenvalue has a finite multiplicity.
+\item
+The eigenfunctions $\{u_k\}$ form a complete orthonormal system in $L^2(\Omega)$.
+\item
+In the Dirichlet case, the system $\{u_k\}$ is complete and orthogonal in $H^1_0(\Omega)$, with respect to the inner product $a(u,v)+t\int_\Omega uv$, where $t$ is a suitably chosen constant.
+The same holds for the Neumann case, with $H^1_0(\Omega)$ replaced by $H^1(\Omega)$.
+\item
+The eigenfunctions are smooth in $\Omega$, and are smooth up to the boundary if $\partial\Omega$ is smooth.
+\item
+Explicitly compute the eigenvalues and eigenfunctions 
+of the Laplacian with the homogeneous Dirichlet boundary condition
+on the rectangle $\Omega=(0,a)\times(0,b)$.
+Make sure that you don't miss any eigenfunction, i.e.,
+prove that under suitable scaling, the functions you computed form a complete orthonormal system in $L^2(\Omega)$.
+\end{enumerate}
+\end{enumerate}
+
+\end{document}  
+
+
+
+
+
+
+
+
+
+
+
+

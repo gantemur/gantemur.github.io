@@ -7,16 +7,28 @@
   "description": "Independent academic homepage for mathematics, research, teaching, notes, students, and selected software links.",
   "url": "https://gantemur.github.io",
   "language": "en",
-  "languages": ["en", "mn"],
+  "languages": [
+    "en",
+    "mn"
+  ],
   "email": {
     "display": "gantumur -at- math.mcgill.ca",
     "status": "old McGill address"
   },
   "locations": [
-    { "label": "Montreal", "status": "academic history" },
-    { "label": "Ulaanbaatar", "status": "Mongolian teaching context" }
+    {
+      "label": "Montreal",
+      "status": "academic history"
+    },
+    {
+      "label": "Ulaanbaatar",
+      "status": "Mongolian teaching context"
+    }
   ],
-  "location": { "display": "Montreal / Ulaanbaatar", "status": "academic locations" },
+  "location": {
+    "display": "Montreal / Ulaanbaatar",
+    "status": "academic locations"
+  },
   "identity": "I am a mathematician working in analysis, numerical methods, geometry, mathematical physics, and computation.",
   "affiliationDraft": "Mathematician working in analysis, numerical methods, geometry, mathematical physics, and computation.",
   "currentAffiliations": [
@@ -37,8 +49,7 @@
   "external": {
     "googleScholar": "http://scholar.google.com/citations?user=Lr3ZeKwAAAAJ",
     "arxiv": "http://arxiv.org/a/gantumur_t_1",
-    "mathGenealogy": "http://genealogy.math.ndsu.nodak.edu/id.php?id=100175",
-    "oldMcGill": "http://www.math.mcgill.ca/gantumur"
+    "mathGenealogy": "http://genealogy.math.ndsu.nodak.edu/id.php?id=100175"
   },
   "welcome": {
     "en": "I work on analysis, numerical methods, geometry, and mathematical physics, with a recurring interest in how continuous structures are represented by algorithms.",

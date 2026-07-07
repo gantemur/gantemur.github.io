@@ -1,0 +1,166 @@
+\documentclass[11pt]{amsart}
+\usepackage{geometry}                % See geometry.pdf to learn the layout options. There are lots.
+\geometry{letterpaper}                   % ... or a4paper or a5paper or ... 
+%\geometry{landscape}                % Activate for for rotated page geometry
+%\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+
+\usepackage{enumerate}
+\usepackage{nicefrac}
+
+\usepackage{mathrsfs}
+
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\tstD}{\mathscr{D}}
+\newcommand{\tstE}{\mathscr{E}}
+\newcommand{\tstS}{\mathscr{S}}
+\newcommand{\tstC}{\mathscr{C}}
+\newcommand{\semP}{\mathscr{P}}
+\newcommand{\eps}{\varepsilon}
+\newcommand{\supp}{\mathrm{supp}}
+\newcommand{\singsupp}{\mathrm{singsupp}}
+\newcommand{\exd}{\mathrm{d}}
+
+\title{Math 581 Assignment 5}
+\author{Due Wednesday April 9}
+\date{Winter 2014}                                           % Activate to display a given date or no date
+
+\begin{document}
+\maketitle
+
+\begin{enumerate}[1.]
+\item
+For each of the following functions,
+determine if it is a tempered distribution,
+and if so compute its Fourier transform.
+\begin{enumerate}[{\em a)}]
+\item
+$x\sin x$,
+\item
+$\frac1x\sin x$,
+\item
+$e^{i|x|^2}$, 
+\item
+$x\vartheta(x)$, where $\vartheta$ is the Heaviside step function,
+\end{enumerate}
+\item
+For $t>0$, let $\varkappa_t:\R^n\to\R^n$ be the dilation operator $\varkappa_t(x)=tx$.
+We call a function $f$ defined either on $\Omega=\R^n$ or on $\Omega=\R^n\setminus\{0\}$ {\em homogeneous of degree $s\in\C$} if 
+$\varkappa_t^*f=t^sf$ for all $t>0$, that is, $f(tx)=t^sf(x)$ for all $t>0$ and $x\in\Omega$.
+\begin{enumerate}[{\em a)}]
+\item
+Extend the dilation operator $\varkappa_t$ to distributions on $\Omega$, and give a natural definition of homogeneous distributions.
+\item
+Show that differentiation of distributions preserves homogeneity.
+\item
+Derive a formula for $\widehat{u\circ A}$, where $A$ is an $n\times n$ invertible matrix.
+\item
+Show that the Fourier transform of a homogeneous distribution of degree $s$ is
+a homogeneous distribution of degree $-s-n$.
+\item
+From homogeneity considerations, compute the inverse Fourier transform of $|\xi|^{-2}$ up to a constant factor.
+Then determine this constant factor.
+Take the space dimension to be $n\geq3$.
+\end{enumerate}
+\item
+\begin{enumerate}[{\em a)}]
+\item
+There are (at least) two ways to define the Fourier transform on $L^2(\R^n)$.
+\begin{itemize}
+\item
+Extend the Fourier transform from $\tstS$ to $L^2$ by using the density of $\tstS$ in $L^2$ (as well as the Plancherel bound).
+\item
+First define the Fourier transform on $\tstS'$ by duality, and then restrict it to $L^2$.
+\end{itemize}
+Show that these two approaches are consistent with each other.
+\item
+Show that the Fourier transform acting on $L^1$ is not onto $\mathscr{C}_0$.
+\end{enumerate}
+\item
+\begin{enumerate}[{\em a)}]
+\item
+Give an example of $u\in\tstC(\R^n)$ such that $\varphi\mapsto\int u\varphi$ is a tempered distribution and that there is no polynomial $p$ satisfying 
+$|u(x)|\leq|p(x)|$ for all $x\in\R^n$.
+\item
+Show that the Radon measure
+$$
+\varphi\mapsto\sum_{k=1}^\infty a_k \varphi(k) ,
+$$
+is in $\tstS'(\R)$ if and only if there are constants $m\geq0$ and $c>0$ such that
+$$
+|a_k| \leq ck^m ,
+\qquad \textrm{for all} \,\, k .
+$$
+\end{enumerate}
+\item
+\begin{enumerate}[a)]
+\item
+Prove that if $p$ is a polynomial with no real zeroes, then there are constants $c>0$ and $m$ such that $|p(\xi)|\geq c(1+|\xi|)^m$ for all $\xi\in\R^n$.
+Operators $p(D)$ with $p$ satisfying this condition are called {\em strictly elliptic}.
+\item
+Show that if $p(D)$ strictly elliptic, then the equation $p(D)u=f$ has a solution for each $f\in\tstS'$.
+\end{enumerate}
+\item
+Prove the following.
+\begin{enumerate}[a)]
+\item
+The {\em Paley-Wiener-Schwartz theorem}:
+Let $K\subset\R^n$ be a compact convex set, and let $\psi\in\tstS'$.
+Then a necessary and sufficient condition for $\psi$ to be the Fourier transform of a distribution supported in $K$
+is that $\psi$ is entire and satisfies the growth estimate
+$$
+|\psi(\zeta)| \leq C(1+|\zeta|)^{N} e^{I_K(\eta)},
+\qquad \zeta=\xi+i\eta\in\C^n,
+$$
+with some constants $C$ and $N$.
+Hence the Fourier-Laplace transform of a compactly supported distribution is an entire function of exponential type.
+Recall that the indicator function $I_K$ of $K$ is defined as
+$$
+I_K(\eta) = \sup_{x\in K} \eta\cdot x.
+$$
+\item
+If the set of real zeroes of $p$ is bounded, then every tempered distribution solution of $p(D)u=0$ is an entire function of exponential type.
+\item
+If $p(D)$ is a nontrivial differential operator and $u\in\tstE'$ satisfies $p(D)u=0$ then $u=0$.
+\end{enumerate}
+\item
+Let $p$ be a nonzero polynomial. Show the following.
+\begin{enumerate}[a)]
+\item
+The equation $p(D)u=f$ has at least one smooth solution for every $f\in\tstD$.
+\item
+If all solutions of $p(D)u=0$ are smooth, then $p(D)$ is hypoelliptic.
+\item
+If $p(D)$ admits a fundamental solution that is smooth outside some ball of finite radius (centred at the origin), 
+then $p(D)$ is hypoelliptic.
+\end{enumerate}
+\item
+Recall that by H\"ormander's theorem, $p(D)$ is hypoelliptic if and only if 
+for any $\eta\in\R^n$ one has $p(\xi+i\eta)\neq0$ for all sufficiently large $\xi\in\R$.
+\begin{enumerate}[a)]
+\item
+Construct a non-hypoelliptic polynomial $p$ in dimension $n>1$ such that
+$|p(\xi)|\to\infty$ as $|\xi|\to\infty$ for $\xi\in\R^n$.
+\item
+For any given $c>0$, construct a non-hypoelliptic polynomial $p$ in dimension $n>1$ such that
+$|p(\xi+i\eta)|\to\infty$ uniformly in $\{|\eta|\leq c\}$ as $|\xi|\to\infty$ for $\xi\in\R^n$.
+\end{enumerate}
+\end{enumerate}
+
+\end{document}  
+
+
+
+
+
+
+
+
+
+
+
+

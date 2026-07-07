@@ -1,0 +1,159 @@
+\documentclass[11pt]{amsart}
+\usepackage{geometry}                % See geometry.pdf to learn the layout options. There are lots.
+\geometry{letterpaper}                   % ... or a4paper or a5paper or ... 
+%\geometry{landscape}                % Activate for for rotated page geometry
+%\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+
+\usepackage{enumerate}
+\usepackage{nicefrac}
+
+\usepackage{mathrsfs}
+
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\tstD}{\mathscr{D}}
+\newcommand{\semP}{\mathscr{P}}
+\newcommand{\eps}{\varepsilon}
+\newcommand{\supp}{\mathrm{supp}}
+\newcommand{\exd}{\mathrm{d}}
+\newcommand{\loc}{\mathrm{loc}}
+
+\title{Math 580 Assignment 3}
+\author{Due Monday November 11}
+\date{Fall 2013}                                           % Activate to display a given date or no date
+
+\begin{document}
+\maketitle
+
+\begin{enumerate}[1.]
+\item
+Let $Q=(0,1)^n$ and let $Q_h=(h,1-h)^n$.
+For $h>0$ small, define the trace map $\gamma_h:C^1(Q)\to C(\partial Q_h)$ by $\gamma_h v = v|_{\partial Q_h}$.
+\begin{enumerate}[a)]
+\item
+Prove that $\gamma_h$ can be uniquely extended to a bounded map $\gamma_h:H^1(Q)\to L^2(\partial Q_h)$.
+\item
+Make sense of the boundary trace $\displaystyle\gamma_0u=\lim_{h\to0}\gamma_hu$ in $L^2(\partial Q)$ for $u\in H^1(Q)$.
+\item
+Show that $\gamma_0u=0$ for $u\in H^1_0(Q)$.
+\item
+Let $u\in H^1_0(Q)$ and let $u$  be continuous at $0$.
+Show that $u(0)=0$.
+\end{enumerate}
+\item
+Let $\Omega\subset\R^n$ be a domain, and let $W^{1,1}_\loc(\Omega)$ be the set of locally integrable functions whose (weak) derivatives are locally integrable (that is, in $L^1_\loc(\Omega)$).
+\begin{enumerate}[a)]
+\item% (Product rule)
+Show that if $u,v\in W^{1,1}_\loc(\Omega)$ and $uv,u\partial_iv+v\partial_iu\in L^{1}_\loc(\Omega)$, 
+then $uv\in W^{1,1}_\loc(\Omega)$ and $\partial_i(uv)=u\partial_iv+v\partial_iu$.
+\item% (Coordinate change)
+Let $\phi:\Omega\to\Omega'$ be a $C^1$-diffeomorphism between $\Omega$ and $\Omega'$.
+Show that if $u\in W^{1,1}_\loc(\Omega')$ then $v=u\circ\phi\in W^{1,1}_\loc(\Omega)$ and
+$\partial_iv(x) = \sum_j\partial_i\phi_j(x)(\partial_ju)(\phi(x))$, where $\phi_j$ is the $j$-th component of $\phi$, 
+and $(\partial_ju)(\phi(x))$ is the evaluation of $\partial_ju$ at the point $\phi(x)$.
+\item% (Chain rule)
+Let $f\in C^1(\R)$ with both $f$ and $f'$ bounded, and let $u\in W^{1,1}_\loc(\Omega)$.
+Prove that $f\circ u \in W^{1,1}_\loc(\Omega)$ and that $\partial_i (f\circ u) = (f'\circ u) \partial_i u$.
+\item% (Chain rule with a piecewise smooth function)
+Let $u\in W^{1,1}_\loc(\Omega)$ and let $u^+=\max\{u,0\}$ and $u^-=\min\{u,0\}$ pointwise.
+Prove that $\partial_iu^+=\theta(u) \partial_iu$ and $\partial_iu^-=\theta(-u) \partial_iu$ {\em a.e.},
+where $\theta$ is the Heaviside step function.
+In particular, show that $|u|\in W^{1,p}(\Omega)$ if $u\in W^{1,p}(\Omega)$.
+\end{enumerate}
+\item %(Riesz representation theorem)
+Let $H$ be a (real) Hilbert space, and let $H'$ be its dual, 
+defined as the space of continuous linear functionals on $H$.
+Let us denote the inner product of $H$ by $\langle\cdot,\cdot\rangle$.
+Observe that any $y\in H$ defines an element $f\in H'$ by $f(x)= \langle y,x\rangle$ for $x\in H$.
+This defines a map $J:H\to H'$.
+The {\em Riesz representation theorem} (for Hilbert spaces)\footnote{There is another result called Riesz representation theorem that is about representing linear functionals on a space of continuous functions as measures.}
+states that $J$ is invertible, that is, any continuous linear functional on $H$ can be realized through the inner product with an element of $H$.
+We would like to prove this theorem by using a variational method.
+Let $f\in H'$, and let 
+$$
+E(x) = \langle x,x\rangle - 2f(x),
+\qquad x\in H,
+$$
+and consider the problem of finding a minimizer of $E$ over $H$.
+\begin{enumerate}[a)]
+\item Show that a minimizing sequence for $E$ exists and is Cauchy in $H$.
+\item Demonstrate that the limit minimizes $E$ over $H$.
+\item Denoting by $y\in H$ the minimizer, show that $\langle y,x\rangle=f(x)$ for all $x\in H$.
+\item Finally, show that $y$ depends continuously on $f$.
+\end{enumerate}
+\item
+Let $\Omega\subset\R^n$ be a bounded smooth  domain, and
+consider the bilinear form
+$$
+a(u,v) = \int_\Omega ( a_{ij}\partial_iu\partial_jv + cuv),
+$$
+where the repeated indices are summer over, and the coefficients $a_{ij}$ and $c$ are smooth functions on $\overline{\Omega}$,
+with $a_{ij}$ satisfying the uniform ellipticity condition
+$$
+a_{ij}(x)\xi_i\xi_j\geq\lambda |\xi|^2,
+\qquad \xi\in\R^n,
+\quad x\in\overline\Omega,
+$$
+for some constant $\lambda>0$.
+\begin{enumerate}[a)]
+\item
+Show that the mapping $A:H^1_0(\Omega)\to[H^1_0(\Omega)]'$, defined by $\langle Au,v\rangle=a(u,v)$, is bounded, where $\langle\cdot,\cdot\rangle$ is the duality pairing between $[H^1_0(\Omega)]'$ and $H^1_0(\Omega)$.
+\item
+Show that if $c\geq0$ then 
+\begin{equation*}
+\langle Au,u\rangle \geq \alpha\|u\|_{H^1}^2,
+\qquad u\in H^1_0(\Omega),
+\end{equation*}
+for some constant $\alpha>0$.
+Show also that the inequality is still true (with possibly different $\alpha>0$) if $c$ is slightly negative.
+\item
+Supposing that $c\geq0$, show that given $f\in L^2(\Omega)$, there exists a unique function $u\in H^1_0(\Omega)$ satisfying $a(u,v)=\int_\Omega fv$ for all $v\in H^1_0(\Omega)$.
+\item
+Suppose that $u\in H^1_0(\Omega)$ is sufficiently smooth and satisfies $a(u,v)=\int_\Omega fv$ for all $v\in H^1_0(\Omega)$.
+What differential equation does $u$ satisfy in $\Omega$?
+Is $u=0$ on $\partial\Omega$?
+In the language of variational methods,
+this is an {\em essential} boundary condition because it is incorporated into the space $H^1_0(\Omega)$.
+\end{enumerate}
+\item
+Let $a$ be the bilinear form as in the preceding question.
+\begin{enumerate}[a)]
+\item
+Show that the mapping $A:H^1(\Omega)\to[H^1(\Omega)]'$, defined by $\langle Au,v\rangle=a(u,v)$, is bounded, where $\langle\cdot,\cdot\rangle$ is the duality pairing between $[H^1(\Omega)]'$ and $H^1(\Omega)$.
+\item
+Show that if $c>0$ in $\overline\Omega$, then
+\begin{equation*}
+\langle Au,u\rangle \geq \alpha\|u\|_{H^1}^2,
+\qquad u\in H^1(\Omega),
+\end{equation*}
+for some constant $\alpha>0$.
+\item
+Supposing that the condition in b) holds, show that given $f\in L^2(\Omega)$, there exists a unique function $u\in H^1(\Omega)$ satisfying $a(u,v)=\int_\Omega fv$ for all $v\in H^1(\Omega)$.
+\item
+Suppose that $u\in H^1(\Omega)$ is sufficiently smooth and satisfies $a(u,v)=\int_\Omega fv$ for all $v\in H^1(\Omega)$.
+What differential equation does $u$ satisfy in $\Omega$?
+What boundary condition does $u$ satisfy?
+This is a {\em natural} boundary condition because it arises from the equation $u$ has to satisfy in the weak sense.
+\end{enumerate}
+\item
+In the context of the preceding question, assuming $c\equiv0$, prove that 
+there exists a function $u\in H^1(\Omega)$ satisfying $a(u,v)=\int_\Omega fv$ for all $v\in H^1(\Omega)$ if and only if $\int f = 0$.
+Moreover, show that such a function is unique up to addition of a constant.
+\end{enumerate}
+
+\end{document}  
+
+
+
+
+
+
+
+
+
+
+
+
