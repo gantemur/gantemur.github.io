@@ -7,6 +7,9 @@ permalink: /teaching/
 <h1>Teaching</h1>
 <p class="lede narrow">Selected course materials and teaching records, with past McGill courses organized as an archive and Mongolian-language material included where appropriate.</p>
 
+{% set mcgillCourses = courses | where("institution", "McGill University") %}
+{% set otherCourses = courses | where("level", "other") %}
+
 <section class="rule-section">
   <h2>McGill Archive</h2>
   <p>Past McGill course pages are part of the teaching archive. The list below records representative courses from that archive.</p>
@@ -24,10 +27,10 @@ permalink: /teaching/
     </tr>
   </thead>
   <tbody>
-    {% for course in courses %}
+    {% for course in mcgillCourses %}
       <tr>
-        <td>{{ course.code }}</td>
-        <td>{{ course.title }}</td>
+        <td>{{ course.code or "" }}</td>
+        <td>{% if course.url %}<a href="{{ course.url }}">{{ course.title }}</a>{% else %}{{ course.title }}{% endif %}</td>
         <td>{{ course.term.label }}</td>
         <td>{{ course.institution }}</td>
         <td>{{ course.role }}</td>
@@ -38,6 +41,13 @@ permalink: /teaching/
 </table>
 
 <section class="rule-section">
-  <h2>Mongolian Teaching</h2>
-  <p>Mongolian and NUM-facing materials are listed here when they are part of the public teaching archive.</p>
+  <h2>Other Teaching</h2>
+  <ul class="plain-list">
+    {% for course in otherCourses %}
+      <li>
+        {% if course.url %}<a href="{{ course.url }}">{{ course.title }}</a>{% else %}{{ course.title }}{% endif %}
+        <span>{{ course.institution }}{% if course.term.label %}, {{ course.term.label }}{% endif %}</span>
+      </li>
+    {% endfor %}
+  </ul>
 </section>

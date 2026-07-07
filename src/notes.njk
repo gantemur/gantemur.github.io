@@ -7,15 +7,36 @@ permalink: /notes/
 <h1>Notes</h1>
 <p class="lede narrow">Selected notes and teaching materials, organized by topic and language.</p>
 
-<div class="stack">
-  {% for note in notes %}
-    <section class="rule-section">
-      <h2>{{ note.title }}</h2>
-      <p>{{ note.summary }}</p>
-      <p class="meta">Languages: {{ note | languages }}{% if note.topics and note.topics.length %}. {{ note.topics | join(", ") }}{% endif %}.</p>
-    </section>
+{% set analysisNotes = notes | where("category", "analysis-calculus-ode") %}
+{% set complexNotes = notes | where("category", "complex-analysis") %}
+{% set pdeNotes = notes | where("category", "pde") %}
+
+<section class="rule-section">
+  <h2>Calculus, Analysis, and ODE</h2>
+  <ul class="plain-list">
+    {% for note in analysisNotes %}
+      <li><a href="{{ note.links[0].url }}">{{ note.title }}</a></li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section class="rule-section">
+  <h2>Complex Analysis</h2>
+  <ul class="plain-list">
+    {% for note in complexNotes %}
+      <li><a href="{{ note.links[0].url }}">{{ note.title }}</a></li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section class="rule-section">
+  <h2>Partial Differential Equations</h2>
+  <ul class="plain-list">
+    {% for note in pdeNotes %}
+      <li><a href="{{ note.links[0].url }}">{{ note.title }}</a></li>
   {% endfor %}
-</div>
+  </ul>
+</section>
 
 <section class="rule-section">
   <h2>Mongolian Materials</h2>

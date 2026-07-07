@@ -259,6 +259,10 @@ p {
   font-size: 0.96rem;
 }
 
+.compact-list {
+  font-size: 0.95rem;
+}
+
 .featured-work {
   border-bottom: 1px solid var(--line);
   padding-bottom: 0.5rem;

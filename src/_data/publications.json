@@ -7,10 +7,16 @@
     "year": 2026,
     "status": "published",
     "venue": "JHEP",
-    "topicIds": ["lattice-qft-regulators"],
+    "topicIds": [
+      "lattice-qft-regulators"
+    ],
     "featured": true,
-    "cv": { "selected": true },
-    "languages": ["en"],
+    "cv": {
+      "selected": true
+    },
+    "languages": [
+      "en"
+    ],
     "cvInclude": true,
     "source": "user-provided current fact, 2026-07-06"
   },
@@ -18,140 +24,822 @@
     "id": "bolorkhuu-gantumur-relu-loop-controllers-2026",
     "type": "preprint",
     "title": "Exact Loop Controllers for ReLU Realization of Homogeneous Curve Refinements",
-    "authors": ["Bolorkhuu", "Tsogtgerel Gantumur"],
+    "authors": [
+      "Bolorkhuu",
+      "Tsogtgerel Gantumur"
+    ],
     "year": 2026,
     "status": "preprint",
     "arxiv": "2605.01655",
-    "topicIds": ["relu-refinement"],
+    "topicIds": [
+      "relu-refinement"
+    ],
     "featured": true,
-    "cv": { "selected": true },
-    "languages": ["en"],
+    "cv": {
+      "selected": true
+    },
+    "languages": [
+      "en"
+    ],
     "cvInclude": true,
     "source": "user-provided current fact, 2026-07-06"
   },
   {
-    "id": "awanou-tsogtgerel-generated-jacobian-2021",
+    "id": "on-uniqueness-of-weak-solutions-to-the-second-boundary-value-problem-for-generated-prescri-2021",
     "type": "preprint",
     "title": "On uniqueness of weak solutions to the second boundary value problem for generated prescribed Jacobian equations",
-    "authors": ["Gerard Awanou", "Gantumur Tsogtgerel"],
+    "authors": [
+      "Tsogtgerel Gantumur"
+    ],
     "year": 2021,
     "status": "preprint",
     "arxiv": "2110.03084",
-    "topicIds": ["pde-geometry-relativity"],
+    "links": [
+      {
+        "label": "Gerard Awanou",
+        "url": "http://homepages.math.uic.edu/~awanou/"
+      },
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2110.03084"
+      }
+    ],
+    "topicIds": [],
     "featured": false,
-    "cv": { "selected": false },
-    "links": [{ "label": "arXiv", "url": "https://arxiv.org/abs/2110.03084" }],
-    "languages": ["en"],
+    "cv": {
+      "selected": false
+    },
+    "languages": [
+      "en"
+    ],
     "cvInclude": true,
     "source": "_old_site/McGill/research.html"
   },
   {
-    "id": "sicca-goncalves-tsogtgerel-scalar-boundary-mean-curvature-2021",
+    "id": "a-prescribed-scalar-and-boundary-mean-curvature-problem-on-compact-manifolds-with-boundary-2021",
     "type": "preprint",
     "title": "A prescribed scalar and boundary mean curvature problem on compact manifolds with boundary",
-    "authors": ["Vladmir Sicca Goncalves", "Gantumur Tsogtgerel"],
+    "authors": [
+      "Tsogtgerel Gantumur"
+    ],
     "year": 2021,
     "status": "preprint",
     "arxiv": "2102.11236",
-    "topicIds": ["pde-geometry-relativity"],
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2102.11236"
+      }
+    ],
+    "topicIds": [],
     "featured": false,
-    "cv": { "selected": false },
-    "links": [{ "label": "arXiv", "url": "https://arxiv.org/abs/2102.11236" }],
-    "languages": ["en"],
+    "cv": {
+      "selected": false
+    },
+    "languages": [
+      "en"
+    ],
     "cvInclude": true,
     "source": "_old_site/McGill/research.html"
   },
   {
-    "id": "al-balushi-jiang-kim-tsogtgerel-quasi-geostrophic-2020",
+    "id": "on-the-convergence-theory-of-adaptive-mixed-finite-element-methods-for-the-stokes-problem-2014",
+    "type": "preprint",
+    "title": "On the convergence theory of adaptive mixed finite element methods for the Stokes problem",
+    "authors": [
+      "Tsogtgerel Gantumur"
+    ],
+    "year": 2014,
+    "status": "preprint",
+    "arxiv": "1403.0895",
+    "links": [
+      {
+        "label": "arxiv",
+        "url": "http://arxiv.org/abs/1403.0895"
+      }
+    ],
+    "topicIds": [],
+    "featured": false,
+    "cv": {
+      "selected": false
+    },
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "local-convergence-of-adaptive-methods-for-nonlinear-partial-differential-equations-2010",
+    "type": "preprint",
+    "title": "Local convergence of adaptive methods for nonlinear partial differential equations",
+    "authors": [
+      "Tsogtgerel Gantumur"
+    ],
+    "year": 2010,
+    "status": "preprint",
+    "arxiv": "1001.1382",
+    "links": [
+      {
+        "label": "Michael Holst",
+        "url": "http://www.ccom.ucsd.edu/~mholst/"
+      },
+      {
+        "label": "Yunrong Zhu",
+        "url": "http://www.math.ucsd.edu/~yuz011/"
+      },
+      {
+        "label": "arXiv",
+        "url": "http://arxiv.org/abs/1001.1382"
+      }
+    ],
+    "topicIds": [],
+    "featured": false,
+    "cv": {
+      "selected": false
+    },
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "a-posteriori-analysis-of-a-b-spline-based-finite-element-method-for-the-stationary-quasi-g-2020",
     "type": "journal-article",
     "title": "A posteriori analysis of a B-spline based finite-element method for the stationary quasi-geostrophic equations of the ocean",
-    "authors": ["Ibrahim Al Balushi", "Wen Jiang", "Tae-Yeon Kim", "Gantumur Tsogtgerel"],
+    "authors": [
+      "Tsogtgerel Gantumur"
+    ],
     "year": 2020,
     "status": "article",
     "venue": "Computer Methods in Applied Mechanics and Engineering",
-    "volume": "371",
-    "articleNumber": "113317",
-    "details": "371:113317",
-    "topicIds": ["fluid-nudging", "numerical-geometric-discretization"],
+    "details": "371:113317 (2020).",
+    "links": [
+      {
+        "label": "Ibrahim Al Balushi",
+        "url": "http://www.mcgill.ca/mathstat/"
+      },
+      {
+        "label": "Wen Jiang",
+        "url": "https://bios.inl.gov/Lists/Researcher/DisplayOverrideForm.aspx?ID=327"
+      },
+      {
+        "label": "Tae-Yeon Kim",
+        "url": "http://www.kustar.ac.ae/pages/dr-tae-yeon-kim"
+      },
+      {
+        "label": "link",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0045782520305028"
+      }
+    ],
+    "topicIds": [],
     "featured": false,
-    "cv": { "selected": false },
-    "links": [{ "label": "journal", "url": "https://www.sciencedirect.com/science/article/pii/S0045782520305028" }],
-    "languages": ["en"],
+    "cv": {
+      "selected": false
+    },
+    "languages": [
+      "en"
+    ],
     "cvInclude": true,
     "source": "_old_site/McGill/research.html"
   },
   {
-    "id": "schulz-tsogtgerel-dec-poisson-2020",
+    "id": "convergence-of-discrete-exterior-calculus-approximations-for-poisson-problems-2020",
     "type": "journal-article",
     "title": "Convergence of discrete exterior calculus approximations for Poisson problems",
-    "authors": ["Erick Schulz", "Gantumur Tsogtgerel"],
+    "authors": [
+      "Tsogtgerel Gantumur"
+    ],
     "year": 2020,
     "status": "article",
     "venue": "Discrete & Computational Geometry",
-    "volume": "63",
-    "issue": "2",
-    "pages": "346-376",
-    "details": "63(2):346-376",
-    "topicIds": ["numerical-geometric-discretization"],
+    "details": "63(2):346–376 (2020).",
+    "arxiv": "1611.03955",
+    "links": [
+      {
+        "label": "arxiv",
+        "url": "https://arxiv.org/abs/1611.03955"
+      }
+    ],
+    "topicIds": [],
     "featured": false,
-    "cv": { "selected": false },
-    "links": [{ "label": "arXiv", "url": "https://arxiv.org/abs/1611.03955" }],
-    "languages": ["en"],
+    "cv": {
+      "selected": false
+    },
+    "languages": [
+      "en"
+    ],
     "cvInclude": true,
     "source": "_old_site/McGill/research.html"
   },
   {
-    "id": "tsogtgerel-holst-meier-non-cmc-apparent-horizon-2018",
+    "id": "non-cmc-solutions-of-the-einstein-constraint-equations-on-compact-manifolds-with-apparent--2018",
     "type": "journal-article",
     "title": "Non-CMC solutions of the Einstein constraint equations on compact manifolds with apparent horizon boundaries",
-    "authors": ["Gantumur Tsogtgerel", "Michael Holst", "Caleb Meier"],
+    "authors": [
+      "Tsogtgerel Gantumur"
+    ],
     "year": 2018,
     "status": "article",
     "venue": "Communications in Mathematical Physics",
-    "volume": "357",
-    "issue": "2",
-    "pages": "467-517",
-    "details": "357(2):467-517",
-    "topicIds": ["pde-geometry-relativity"],
+    "details": "357(2):467–517 (2018).",
+    "arxiv": "1310.2302",
+    "links": [
+      {
+        "label": "Michael Holst",
+        "url": "http://www.ccom.ucsd.edu/~mholst/"
+      },
+      {
+        "label": "Caleb Meier",
+        "url": "http://www.math.ucsd.edu/~c1meier/"
+      },
+      {
+        "label": "arXiv",
+        "url": "http://arxiv.org/abs/1310.2302"
+      }
+    ],
+    "topicIds": [],
     "featured": false,
-    "cv": { "selected": false },
-    "links": [{ "label": "arXiv", "url": "http://arxiv.org/abs/1310.2302" }],
-    "languages": ["en"],
+    "cv": {
+      "selected": false
+    },
+    "languages": [
+      "en"
+    ],
     "cvInclude": true,
     "source": "_old_site/McGill/research.html"
   },
   {
-    "id": "tsogtgerel-adaptive-methods-besov-multilevel-2017",
+    "id": "adaptivity-of-a-b-spline-based-finite-element-method-for-modeling-wind-driven-ocean-circul-2018",
+    "type": "journal-article",
+    "title": "Adaptivity of a B-spline based finite element method for modeling wind-driven ocean circulation",
+    "authors": [
+      "Tsogtgerel Gantumur"
+    ],
+    "year": 2018,
+    "status": "article",
+    "venue": "Computer Methods in Applied Mechanics and Engineering",
+    "details": "332:1–24 (2018).",
+    "links": [
+      {
+        "label": "Ibrahim Al Balushi",
+        "url": "http://www.mcgill.ca/mathstat/"
+      },
+      {
+        "label": "Wen Jiang",
+        "url": "https://bios.inl.gov/Lists/Researcher/DisplayOverrideForm.aspx?ID=327"
+      },
+      {
+        "label": "Tae-Yeon Kim",
+        "url": "http://www.kustar.ac.ae/pages/dr-tae-yeon-kim"
+      },
+      {
+        "label": "link",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0045782517307600"
+      }
+    ],
+    "topicIds": [],
+    "featured": false,
+    "cv": {
+      "selected": false
+    },
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "convergence-rates-of-adaptive-methods-besov-spaces-and-multilevel-approximation-2017",
     "type": "journal-article",
     "title": "Convergence rates of adaptive methods, Besov spaces, and multilevel approximation",
-    "authors": ["Gantumur Tsogtgerel"],
+    "authors": [
+      "Tsogtgerel Gantumur"
+    ],
     "year": 2017,
     "status": "article",
     "venue": "Foundations of Computational Mathematics",
-    "volume": "17",
-    "issue": "4",
-    "pages": "917-956",
-    "details": "17(4):917-956",
-    "topicIds": ["numerical-geometric-discretization"],
+    "details": "17(4), 917-956 (2017).",
+    "arxiv": "1408.3889",
+    "links": [
+      {
+        "label": "arxiv",
+        "url": "http://arxiv.org/abs/1408.3889"
+      }
+    ],
+    "topicIds": [],
     "featured": false,
-    "cv": { "selected": false },
-    "links": [{ "label": "arXiv", "url": "http://arxiv.org/abs/1408.3889" }],
-    "languages": ["en"],
+    "cv": {
+      "selected": false
+    },
+    "languages": [
+      "en"
+    ],
     "cvInclude": true,
     "source": "_old_site/McGill/research.html"
   },
   {
-    "id": "tsogtgerel-thesis-adaptive-wavelet-2006",
+    "id": "axisymmetric-critical-points-of-a-nonlocal-isoperimetric-problem-on-the-two-sphere-2015",
+    "type": "journal-article",
+    "title": "Axisymmetric critical points of a nonlocal isoperimetric problem on the two-sphere",
+    "authors": [
+      "Tsogtgerel Gantumur"
+    ],
+    "year": 2015,
+    "status": "article",
+    "venue": "ESAIM: Control, Optimisation and Calculus of Variations",
+    "details": "21(1), 247-270 (2015).",
+    "arxiv": "1311.3512",
+    "links": [
+      {
+        "label": "Rustum Choksi",
+        "url": "http://www.math.mcgill.ca/rchoksi/"
+      },
+      {
+        "label": "Ihsan Topaloglu",
+        "url": "http://www.math.mcgill.ca/itopaloglu/"
+      },
+      {
+        "label": "arxiv",
+        "url": "http://arxiv.org/abs/1311.3512"
+      }
+    ],
+    "topicIds": [],
+    "featured": false,
+    "cv": {
+      "selected": false
+    },
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "on-the-consistency-of-the-combinatorial-codifferential-2014",
+    "type": "journal-article",
+    "title": "On the consistency of the combinatorial codifferential",
+    "authors": [
+      "Tsogtgerel Gantumur"
+    ],
+    "year": 2014,
+    "status": "article",
+    "venue": "Transactions of the American Mathematical Society",
+    "details": "366, 5487-5502 (2014).",
+    "arxiv": "1212.4472",
+    "links": [
+      {
+        "label": "Douglas Arnold",
+        "url": "http://www.ima.umn.edu/~arnold/"
+      },
+      {
+        "label": "Richard Falk",
+        "url": "http://www.math.rutgers.edu/~falk/"
+      },
+      {
+        "label": "Johnny Guzmán",
+        "url": "http://www.dam.brown.edu/people/guzman.html"
+      },
+      {
+        "label": "arXiv",
+        "url": "http://arxiv.org/abs/1212.4472"
+      }
+    ],
+    "topicIds": [],
+    "featured": false,
+    "cv": {
+      "selected": false
+    },
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "the-lichnerowicz-equation-on-compact-manifolds-with-boundary-2014",
+    "type": "journal-article",
+    "title": "The Lichnerowicz equation on compact manifolds with boundary",
+    "authors": [
+      "Tsogtgerel Gantumur"
+    ],
+    "year": 2014,
+    "status": "article",
+    "venue": "Classical and Quantum Gravity",
+    "details": "30, 205011 (2013). Selected as a highlight of the journal in 2013-2014.",
+    "arxiv": "arXiv:1306.1801",
+    "links": [
+      {
+        "label": "Michael Holst",
+        "url": "http://www.ccom.ucsd.edu/~mholst/"
+      },
+      {
+        "label": "arXiv",
+        "url": "http://arxiv.org/abs/arXiv:1306.1801"
+      },
+      {
+        "label": "highlight",
+        "url": "http://iopscience.iop.org/journal/0264-9381/page/Highlights%202013-2014"
+      }
+    ],
+    "topicIds": [],
+    "featured": false,
+    "cv": {
+      "selected": false
+    },
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "adaptive-boundary-element-methods-with-convergence-rates-2013",
+    "type": "journal-article",
+    "title": "Adaptive boundary element methods with convergence rates",
+    "authors": [
+      "Tsogtgerel Gantumur"
+    ],
+    "year": 2013,
+    "status": "article",
+    "venue": "Numerische Mathematik",
+    "details": "124(3), 471-516 (2013).",
+    "arxiv": "1107.0524",
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "http://arxiv.org/abs/1107.0524"
+      }
+    ],
+    "topicIds": [],
+    "featured": false,
+    "cv": {
+      "selected": false
+    },
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "analysis-of-a-general-family-of-regularized-navier-stokes-and-magnetohydrodynamics-models-2010",
+    "type": "journal-article",
+    "title": "Analysis of a general family of regularized Navier-Stokes and magnetohydrodynamics models",
+    "authors": [
+      "Tsogtgerel Gantumur"
+    ],
+    "year": 2010,
+    "status": "article",
+    "venue": "Journal of Nonlinear Science",
+    "details": "20(5), 523-567 (2010).",
+    "arxiv": "0901.4412",
+    "links": [
+      {
+        "label": "Michael Holst",
+        "url": "http://www.ccom.ucsd.edu/~mholst/"
+      },
+      {
+        "label": "Evelyn Lunasin",
+        "url": "http://www.usna.edu/MathDept/faculty-directory.php"
+      },
+      {
+        "label": "arXiv",
+        "url": "http://arxiv.org/abs/0901.4412"
+      }
+    ],
+    "topicIds": [],
+    "featured": false,
+    "cv": {
+      "selected": false
+    },
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "rough-solutions-of-the-einstein-constraints-on-closed-manifolds-without-near-cmc-condition-2009",
+    "type": "journal-article",
+    "title": "Rough solutions of the Einstein constraints on closed manifolds without near-CMC conditions",
+    "authors": [
+      "Tsogtgerel Gantumur"
+    ],
+    "year": 2009,
+    "status": "article",
+    "venue": "Communications in Mathematical Physics",
+    "details": "288, 547-613 (2009).",
+    "arxiv": "0712.0798",
+    "links": [
+      {
+        "label": "Michael Holst",
+        "url": "http://www.ccom.ucsd.edu/~mholst/"
+      },
+      {
+        "label": "Gabriel Nagy",
+        "url": "http://math.msu.edu/~gnagy/"
+      },
+      {
+        "label": "arXiv",
+        "url": "http://arxiv.org/abs/0712.0798"
+      }
+    ],
+    "topicIds": [],
+    "featured": false,
+    "cv": {
+      "selected": false
+    },
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "far-from-constant-mean-curvature-solutions-of-einsteins-constraint-equations-with-positive-2008",
+    "type": "journal-article",
+    "title": "Far-from-constant mean curvature solutions of Einstein's constraint equations with positive Yamabe metrics",
+    "authors": [
+      "Tsogtgerel Gantumur"
+    ],
+    "year": 2008,
+    "status": "article",
+    "venue": "Physical Review Letters",
+    "details": "100, 161101 (2008).",
+    "arxiv": "0802.1031",
+    "links": [
+      {
+        "label": "Michael Holst",
+        "url": "http://www.ccom.ucsd.edu/~mholst/"
+      },
+      {
+        "label": "Gabriel Nagy",
+        "url": "http://math.msu.edu/~gnagy/"
+      },
+      {
+        "label": "arXiv",
+        "url": "http://arxiv.org/abs/0802.1031"
+      }
+    ],
+    "topicIds": [],
+    "featured": false,
+    "cv": {
+      "selected": false
+    },
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "an-optimal-adaptive-wavelet-method-for-nonsymmetric-and-indefinite-elliptic-problems-2008",
+    "type": "journal-article",
+    "title": "An optimal adaptive wavelet method for nonsymmetric and indefinite elliptic problems",
+    "authors": [
+      "Tsogtgerel Gantumur"
+    ],
+    "year": 2008,
+    "status": "article",
+    "venue": "Journal of Computational and Applied Mathematics",
+    "details": "211(1), 90-102 (2008).",
+    "links": [
+      {
+        "label": "pdf",
+        "url": "/legacy/files/publications/nonsym.p.pdf"
+      }
+    ],
+    "topicIds": [],
+    "featured": false,
+    "cv": {
+      "selected": false
+    },
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "an-optimal-adaptive-wavelet-method-without-coarsening-of-the-iterands-2007",
+    "type": "journal-article",
+    "title": "An optimal adaptive wavelet method without coarsening of the iterands",
+    "authors": [
+      "Tsogtgerel Gantumur"
+    ],
+    "year": 2007,
+    "status": "article",
+    "venue": "Mathematics of Computation",
+    "details": "76, 615-629 (2007).",
+    "links": [
+      {
+        "label": "Helmut Harbrecht",
+        "url": "http://harbrecht.ins.uni-bonn.de/"
+      },
+      {
+        "label": "Rob Stevenson",
+        "url": "http://staff.science.uva.nl/~rstevens/"
+      },
+      {
+        "label": "pdf",
+        "url": "/legacy/files/publications/nocoarseRevis.pdf"
+      }
+    ],
+    "topicIds": [],
+    "featured": false,
+    "cv": {
+      "selected": false
+    },
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "computation-of-singular-integral-operators-in-wavelet-coordinates-2006",
+    "type": "journal-article",
+    "title": "Computation of singular integral operators in wavelet coordinates",
+    "authors": [
+      "Tsogtgerel Gantumur"
+    ],
+    "year": 2006,
+    "status": "article",
+    "venue": "Computing",
+    "details": "76, 77-107 (2006).",
+    "links": [
+      {
+        "label": "Rob Stevenson",
+        "url": "http://staff.science.uva.nl/~rstevens/"
+      },
+      {
+        "label": "pdf",
+        "url": "/legacy/files/publications/computing.pdf"
+      }
+    ],
+    "topicIds": [],
+    "featured": false,
+    "cv": {
+      "selected": false
+    },
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "computation-of-differential-operators-in-wavelet-coordinates-2006",
+    "type": "journal-article",
+    "title": "Computation of differential operators in wavelet coordinates",
+    "authors": [
+      "Tsogtgerel Gantumur"
+    ],
+    "year": 2006,
+    "status": "article",
+    "venue": "Mathematics of Computation",
+    "details": "75, 697-709 (2006).",
+    "links": [
+      {
+        "label": "Rob Stevenson",
+        "url": "http://staff.science.uva.nl/~rstevens/"
+      },
+      {
+        "label": "pdf",
+        "url": "/legacy/files/publications/computdif.pdf"
+      }
+    ],
+    "topicIds": [],
+    "featured": false,
+    "cv": {
+      "selected": false
+    },
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "on-critical-and-supercritical-regularized-navier-stokes-equations",
+    "type": "manuscript",
+    "title": "On critical and supercritical regularized Navier-Stokes equations",
+    "authors": [
+      "Tsogtgerel Gantumur"
+    ],
+    "status": "in-preparation",
+    "links": [
+      {
+        "label": "Hani Ali",
+        "url": "http://www.math-info.univ-paris5.fr/~hali/"
+      }
+    ],
+    "topicIds": [],
+    "featured": false,
+    "cv": {
+      "selected": false
+    },
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "on-a-modified-oldroyd-b-model",
+    "type": "manuscript",
+    "title": "On a modified Oldroyd-B model",
+    "authors": [
+      "Tsogtgerel Gantumur"
+    ],
+    "status": "in-preparation",
+    "links": [
+      {
+        "label": "Young Ju Lee",
+        "url": "http://www.math.rutgers.edu/~leeyoung/"
+      }
+    ],
+    "topicIds": [],
+    "featured": false,
+    "cv": {
+      "selected": false
+    },
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "adaptive-coupling-of-finite-element-and-boundary-element-methods-for-a-class-of-nonlinear-",
+    "type": "manuscript",
+    "title": "Adaptive coupling of finite element and boundary element methods for a class of nonlinear interface problems",
+    "authors": [
+      "Tsogtgerel Gantumur"
+    ],
+    "status": "in-preparation",
+    "links": [
+      {
+        "label": "Michael Holst",
+        "url": "http://www.ccom.ucsd.edu/~mholst/"
+      },
+      {
+        "label": "Yongcheng Zhou",
+        "url": "http://www.math.colostate.edu/~yzhou/"
+      }
+    ],
+    "topicIds": [],
+    "featured": false,
+    "cv": {
+      "selected": false
+    },
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "adaptive-wavelet-algorithms-for-solving-operator-equations-2006",
     "type": "thesis",
     "title": "Adaptive wavelet algorithms for solving operator equations",
-    "authors": ["Gantumur Tsogtgerel"],
+    "authors": [
+      "Tsogtgerel Gantumur"
+    ],
     "year": 2006,
     "status": "thesis",
     "venue": "Utrecht University",
-    "topicIds": ["numerical-geometric-discretization"],
+    "details": "Thesis Adaptive wavelet algorithms for solving operator equations [summary | samenvatting | main part (1.6M)]. PhD thesis. Department of Mathematics, Utrecht University. August 2006. ISBN 90-393-4365-9. [errata for the printed version]",
+    "links": [
+      {
+        "label": "summary",
+        "url": "/legacy/thesis/summary.pdf"
+      },
+      {
+        "label": "samenvatting",
+        "url": "/legacy/thesis/samenvat.pdf"
+      },
+      {
+        "label": "main part (1.6M)",
+        "url": "/legacy/thesis/thesis.read.pdf"
+      },
+      {
+        "label": "errata",
+        "url": "/legacy/thesis/errata.pdf"
+      }
+    ],
+    "topicIds": [
+      "numerical-geometric-discretization"
+    ],
     "featured": false,
-    "cv": { "selected": false },
-    "languages": ["en"],
+    "cv": {
+      "selected": false
+    },
+    "languages": [
+      "en"
+    ],
     "cvInclude": true,
     "source": "_old_site/McGill/research.html"
   }

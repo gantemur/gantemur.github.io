@@ -1,0 +1,339 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <title>MATH 325: Honours Ordinary Differential Equaitons Winter 2022</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: sans-serif;
+        }
+
+        a {
+            text-decoration: none;
+            color: skyblue;
+        }
+
+        th {
+            font-style: italic;
+            font-weight: bold;
+        }
+
+        td {
+            padding-right: 10px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #303030;
+        }
+
+        @media print {
+            body {
+                background-color: white;
+                color: black;
+            }
+
+            a {
+                color: darkgray;
+            }
+        }
+    </style>
+</head>
+
+<BODY>
+
+    <h2>Class schedule</h2>
+
+    <p>
+        <list>
+            <li>TR 08:35&ndash;09:55, <a href="http://maps.mcgill.ca/?id=Burnside">Burnside Hall 1B45</a>
+        </list>
+    </p>
+
+    <table>
+        <tr>
+            <th>Date</th>
+            <th>Topics</th>
+        </tr>
+        <tr>
+            <td>
+                R 1/6
+            </td>
+            <td>
+                Introduction. IVP. BVP. Examples. Classifications. Complex exponentials.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                T 1/11
+            </td>
+            <td>
+                Constant coefficient first order linear equations.
+                Uniqueness.
+                Stability.
+                Duhamel's principle.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                R 1/13
+            </td>
+            <td>
+                Constant coefficient second order homogeneous equations.
+                Uniqueness.
+                Fundamental set.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                T 1/18
+            </td>
+            <td>
+                Wronskian.
+                Abel's formula.
+                Stability.
+                Inhomogeneity.
+                Undetermined coefficients.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                R 1/20
+            </td>
+            <td>
+                Variation of parameters.
+                Forced oscillators.
+                Transfer function.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                T 1/25
+            </td>
+            <td>
+                Discontinuous source functions. Laplace transform.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                R 1/27
+            </td>
+            <td>
+                Laplace transform table. Dirac's delta.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                T 2/1
+            </td>
+            <td>
+                Euler-Cauchy equations.
+                First order equations.
+                Second order case.
+                Abel's formula.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                R 2/3
+            </td>
+            <td>
+                Fundamental sets.
+                Reduction of order.
+                Variation of constants.
+                Sturm's separation theorem.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                T 2/8
+            </td>
+            <td>
+                Sturm's comparison theorem.
+                Power series method.
+                <!--Phase plane. Stability. Invariant subspaces. Hyperbolicity. Matrix exponentials.-->
+            </td>
+        </tr>
+        <tr>
+            <td>
+                R 2/10
+            </td>
+            <td>
+                Frobenius method.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                T 2/15
+            </td>
+            <td>
+                ...
+            </td>
+        </tr>
+        <tr>
+            <td>
+                R 2/17
+            </td>
+            <td>
+                ...
+            </td>
+        </tr>
+        <tr>
+            <td>
+                T 2/22
+            </td>
+            <td>
+                ...
+            </td>
+        </tr>
+        <tr>
+            <td>
+                R 2/24
+            </td>
+            <td>
+                ...
+            </td>
+        </tr>
+        <tr>
+            <td>
+                T 3/8
+            </td>
+            <td>
+                ...
+            </td>
+        </tr>
+        <tr>
+            <td>
+                R 3/10
+            </td>
+            <td>
+                ...
+            </td>
+        </tr>
+        <tr>
+            <td>
+                T 3/15
+            </td>
+            <td>
+                ...
+            </td>
+        </tr>
+        <tr>
+            <td>
+                R 3/17
+            </td>
+            <td>
+                ...
+            </td>
+        </tr>
+        <tr>
+            <td>
+                T 3/22
+            </td>
+            <td>
+                ...
+            </td>
+        </tr>
+        <tr>
+            <td>
+                R 3/24
+            </td>
+            <td>
+                ...
+            </td>
+        </tr>
+        <tr>
+            <td>
+                T 3/29
+            </td>
+            <td>
+                ...
+            </td>
+        </tr>
+        <tr>
+            <td>
+                R 3/31
+            </td>
+            <td>
+                ...
+            </td>
+        </tr>
+        <tr>
+            <td>
+                T 4/5
+            </td>
+            <td>
+                ...
+            </td>
+        </tr>
+        <tr>
+            <td>
+                R 4/7
+            </td>
+            <td>
+                ...
+            </td>
+        </tr>
+        <tr>
+            <td>
+                T 4/12
+            </td>
+            <td>
+                ...
+            </td>
+        </tr>
+    </table>
+
+    <h2>Recommended books</h2>
+    <p>
+        <ul>
+            <li>Garrett Birkhoff and Gian-Carlo Rota, <i>Ordinary differential equations</i>. Wiley.</li>
+            <li>William E. Boyce and Richard C. DiPrima (and Douglas B. Meade), <i>Elementary differential
+                    equations</i>. Wiley.</li>
+            <li>Dennis G. Zill and Warren S. Wright, <i>Differential equations</i>. Cengage.</li>
+            <li>William F. Trench, <i>Elementary differential equations</i>. Trinity [<a
+                    href="http://ramanujan.math.trinity.edu/wtrench/texts/index.shtml">Download</a>].</li>
+        </ul>
+    </p>
+
+    <h2>Planned topics</h2>
+    <p>
+        <ul>
+            <li>First order equations</li>
+            <li>Second order linear equations</li>
+            <li>Power series solutions, Frobenius method</li>
+            <li>Phase space, linearization, stability, perturbation</li>
+            <li>Second order linear boundary value problems</li>
+            <li>Calculus of variations (if time permits)</li>
+            <li>Sturm-Liouville theory (if time permits)</li>
+        </ul>
+    </p>
+    <h2>Course outline</h2>
+
+    <p><strong>Instructor:</strong> Dr. <a href="http://www.math.mcgill.ca/gantumur">Gantumur Tsogtgerel</a></p>
+
+    <p><strong>Prerequisite:</strong> MATH 222 (Calculus 3)</p>
+
+    <p><strong>Calendar description:</strong>
+        First and second order equations,
+        linear equations,
+        series solutions,
+        Frobenius method,
+        introduction to numerical methods and to linear systems,
+        Laplace transforms,
+        applications.
+    </p>
+
+    <p><strong>Grading:</strong> TBA.</p>
+
+    <p><strong>Homework:</strong> Assigned and graded through MyCourses.</p>
+
+
+    <br>
+    <br>
+    <hr />
+
+</BODY>
+
+</HTML>

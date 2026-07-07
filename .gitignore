@@ -9,4 +9,9 @@ dist/
 *.swp
 .env
 .env.*
-_migration/scratch/
+_migration/
+.cache/
+.parcel-cache/
+.eleventy-cache/
+.npm/
+coverage/

@@ -1,62 +1,955 @@
 [
   {
-    "id": "analysis-ode-notes-index",
-    "type": "notes-index",
-    "title": "Calculus, analysis, and ordinary differential equations",
-    "summary": "Lecture notes and course handouts from advanced calculus, ODE, analysis, and functional analysis.",
-    "languages": ["en"],
-    "status": "selected",
-    "topics": ["calculus", "analysis", "ordinary differential equations"],
-    "relatedCourseIds": ["mcgill-math-325-winter-2022"],
+    "id": "analysis-calculus-ode-functions-of-a-real-variable-1",
+    "type": "note",
+    "title": "Functions of a real variable",
+    "category": "analysis-calculus-ode",
+    "categoryTitle": "Calculus / Analysis / ODE",
+    "links": [
+      {
+        "label": "Functions of a real variable",
+        "url": "/legacy/notes/math248f16-singlevariable.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Calculus / Analysis / ODE"
+    ],
     "cvInclude": false,
     "source": "_old_site/McGill/notes.html"
   },
   {
-    "id": "complex-analysis-notes-index",
-    "type": "notes-index",
-    "title": "Complex analysis",
-    "summary": "Undergraduate and graduate notes on complex variables and advanced complex analysis.",
-    "languages": ["en"],
-    "status": "selected",
-    "topics": ["complex analysis"],
-    "relatedCourseIds": [],
+    "id": "analysis-calculus-ode-continuity-and-differentiation-2",
+    "type": "note",
+    "title": "Continuity and differentiation",
+    "category": "analysis-calculus-ode",
+    "categoryTitle": "Calculus / Analysis / ODE",
+    "links": [
+      {
+        "label": "Continuity and differentiation",
+        "url": "/legacy/notes/math248f19-differentiation.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Calculus / Analysis / ODE"
+    ],
     "cvInclude": false,
     "source": "_old_site/McGill/notes.html"
   },
   {
-    "id": "pde-notes-index",
-    "type": "notes-index",
-    "title": "Partial differential equations",
-    "summary": "PDE notes include introductory examples, distributions, harmonic functions, first order equations, and elliptic theory.",
-    "languages": ["en"],
-    "status": "selected",
-    "topics": ["partial differential equations", "distributions", "elliptic theory"],
-    "relatedCourseIds": ["mcgill-math-581-winter-2022", "mcgill-math-579-winter-2020"],
+    "id": "analysis-calculus-ode-parametrizations-and-loci-3",
+    "type": "note",
+    "title": "Parametrizations and loci",
+    "category": "analysis-calculus-ode",
+    "categoryTitle": "Calculus / Analysis / ODE",
+    "links": [
+      {
+        "label": "Parametrizations and loci",
+        "url": "/legacy/notes/math248f19-paramloci.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Calculus / Analysis / ODE"
+    ],
     "cvInclude": false,
     "source": "_old_site/McGill/notes.html"
   },
   {
-    "id": "mongolian-num-teaching-materials",
-    "type": "notes",
-    "title": "Mongolian and NUM Materials",
-    "summary": "Mongolian teaching notes and NUM-facing materials.",
-    "languages": ["mn"],
-    "status": "selected",
-    "topics": ["Mongolian", "NUM"],
-    "relatedCourseIds": ["num-mongolian-teaching"],
+    "id": "analysis-calculus-ode-critical-points-4",
+    "type": "note",
+    "title": "Critical points",
+    "category": "analysis-calculus-ode",
+    "categoryTitle": "Calculus / Analysis / ODE",
+    "links": [
+      {
+        "label": "Critical points",
+        "url": "http://www.math.mcgill.ca/gantumur/math248f19/critical.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Calculus / Analysis / ODE"
+    ],
     "cvInclude": false,
-    "source": ""
+    "source": "_old_site/McGill/notes.html"
   },
   {
-    "id": "qft-mathematical-physics-notes",
-    "type": "notes",
-    "title": "Mathematical physics and QFT notes",
-    "summary": "Notes around Euclidean QFT, lattice gauge theory, and quantum simulation as computational exploration.",
-    "languages": ["en"],
-    "status": "selected",
-    "topics": ["QFT", "lattice gauge theory", "quantum simulation"],
-    "relatedCourseIds": [],
+    "id": "analysis-calculus-ode-multiple-integrals-5",
+    "type": "note",
+    "title": "Multiple integrals",
+    "category": "analysis-calculus-ode",
+    "categoryTitle": "Calculus / Analysis / ODE",
+    "links": [
+      {
+        "label": "Multiple integrals",
+        "url": "/legacy/notes/math248f19-integration.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Calculus / Analysis / ODE"
+    ],
     "cvInclude": false,
-    "source": ""
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "analysis-calculus-ode-vector-fields-6",
+    "type": "note",
+    "title": "Vector fields",
+    "category": "analysis-calculus-ode",
+    "categoryTitle": "Calculus / Analysis / ODE",
+    "links": [
+      {
+        "label": "Vector fields",
+        "url": "/legacy/notes/math248f19-vectorcalc.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Calculus / Analysis / ODE"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "analysis-calculus-ode-review-of-linear-algebra-7",
+    "type": "note",
+    "title": "Review of linear algebra",
+    "category": "analysis-calculus-ode",
+    "categoryTitle": "Calculus / Analysis / ODE",
+    "links": [
+      {
+        "label": "Review of linear algebra",
+        "url": "/legacy/notes/math248f16-linearalgebra.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Calculus / Analysis / ODE"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "analysis-calculus-ode-differentiation-8",
+    "type": "note",
+    "title": "Differentiation",
+    "category": "analysis-calculus-ode",
+    "categoryTitle": "Calculus / Analysis / ODE",
+    "links": [
+      {
+        "label": "Differentiation",
+        "url": "/legacy/notes/math248f16-differentiation.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Calculus / Analysis / ODE"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "analysis-calculus-ode-introduction-to-manifolds-9",
+    "type": "note",
+    "title": "Introduction to manifolds",
+    "category": "analysis-calculus-ode",
+    "categoryTitle": "Calculus / Analysis / ODE",
+    "links": [
+      {
+        "label": "Introduction to manifolds",
+        "url": "/legacy/notes/math248f16-intromanifolds.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Calculus / Analysis / ODE"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "analysis-calculus-ode-critical-points-10",
+    "type": "note",
+    "title": "Critical points",
+    "summary": "(incomplete)",
+    "category": "analysis-calculus-ode",
+    "categoryTitle": "Calculus / Analysis / ODE",
+    "links": [
+      {
+        "label": "Critical points",
+        "url": "/legacy/notes/math248f16-critical.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Calculus / Analysis / ODE"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "analysis-calculus-ode-riemann-integral-11",
+    "type": "note",
+    "title": "Riemann integral",
+    "category": "analysis-calculus-ode",
+    "categoryTitle": "Calculus / Analysis / ODE",
+    "links": [
+      {
+        "label": "Riemann integral",
+        "url": "/legacy/notes/math248f16-riemannintegral.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Calculus / Analysis / ODE"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "analysis-calculus-ode-stokes-theorem-12",
+    "type": "note",
+    "title": "Stokes' theorem",
+    "category": "analysis-calculus-ode",
+    "categoryTitle": "Calculus / Analysis / ODE",
+    "links": [
+      {
+        "label": "Stokes' theorem",
+        "url": "/legacy/notes/math248f16-stokes.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Calculus / Analysis / ODE"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "analysis-calculus-ode-basic-concepts-13",
+    "type": "note",
+    "title": "Basic concepts",
+    "category": "analysis-calculus-ode",
+    "categoryTitle": "Calculus / Analysis / ODE",
+    "links": [
+      {
+        "label": "Basic concepts",
+        "url": "/legacy/notes/math315w14-odebasics.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Calculus / Analysis / ODE"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "analysis-calculus-ode-abels-identity-14",
+    "type": "note",
+    "title": "Abel's identity",
+    "category": "analysis-calculus-ode",
+    "categoryTitle": "Calculus / Analysis / ODE",
+    "links": [
+      {
+        "label": "Abel's identity",
+        "url": "/legacy/notes/math315w14-abel.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Calculus / Analysis / ODE"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "analysis-calculus-ode-power-series-solutions-15",
+    "type": "note",
+    "title": "Power series solutions",
+    "category": "analysis-calculus-ode",
+    "categoryTitle": "Calculus / Analysis / ODE",
+    "links": [
+      {
+        "label": "Power series solutions",
+        "url": "/legacy/notes/math315w14-power.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Calculus / Analysis / ODE"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "analysis-calculus-ode-frobenius-series-solutions-16",
+    "type": "note",
+    "title": "Frobenius series solutions",
+    "category": "analysis-calculus-ode",
+    "categoryTitle": "Calculus / Analysis / ODE",
+    "links": [
+      {
+        "label": "Frobenius series solutions",
+        "url": "/legacy/notes/math315w14-frobenius.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Calculus / Analysis / ODE"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "analysis-calculus-ode-the-laplace-transform-17",
+    "type": "note",
+    "title": "The Laplace transform",
+    "category": "analysis-calculus-ode",
+    "categoryTitle": "Calculus / Analysis / ODE",
+    "links": [
+      {
+        "label": "The Laplace transform",
+        "url": "/legacy/notes/math315w14-laplace.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Calculus / Analysis / ODE"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "analysis-calculus-ode-computer-arithmetic-18",
+    "type": "note",
+    "title": "Computer arithmetic",
+    "category": "analysis-calculus-ode",
+    "categoryTitle": "Calculus / Analysis / ODE",
+    "links": [
+      {
+        "label": "Computer arithmetic",
+        "url": "/legacy/notes/math387w18-float.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Calculus / Analysis / ODE"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "analysis-calculus-ode-power-series-19",
+    "type": "note",
+    "title": "Power series",
+    "category": "analysis-calculus-ode",
+    "categoryTitle": "Calculus / Analysis / ODE",
+    "links": [
+      {
+        "label": "Power series",
+        "url": "/legacy/notes/math387w18-power.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Calculus / Analysis / ODE"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "analysis-calculus-ode-baires-theorem-20",
+    "type": "note",
+    "title": "Baire's theorem",
+    "category": "analysis-calculus-ode",
+    "categoryTitle": "Calculus / Analysis / ODE",
+    "links": [
+      {
+        "label": "Baire's theorem",
+        "url": "/legacy/notes/math581w14-baire.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Calculus / Analysis / ODE"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "complex-analysis-complex-numbers-21",
+    "type": "note",
+    "title": "Complex numbers",
+    "category": "complex-analysis",
+    "categoryTitle": "Complex analysis",
+    "links": [
+      {
+        "label": "Complex numbers",
+        "url": "/legacy/notes/math249w15-numbers.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Complex analysis"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "complex-analysis-complex-differentiability-22",
+    "type": "note",
+    "title": "Complex differentiability",
+    "category": "complex-analysis",
+    "categoryTitle": "Complex analysis",
+    "links": [
+      {
+        "label": "Complex differentiability",
+        "url": "/legacy/notes/math249w15-diff.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Complex analysis"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "complex-analysis-power-series-23",
+    "type": "note",
+    "title": "Power series",
+    "category": "complex-analysis",
+    "categoryTitle": "Complex analysis",
+    "links": [
+      {
+        "label": "Power series",
+        "url": "/legacy/notes/math249w15-power.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Complex analysis"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "complex-analysis-elementary-functions-24",
+    "type": "note",
+    "title": "Elementary functions",
+    "category": "complex-analysis",
+    "categoryTitle": "Complex analysis",
+    "links": [
+      {
+        "label": "Elementary functions",
+        "url": "/legacy/notes/math249w15-elementary.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Complex analysis"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "complex-analysis-fundamental-theorems-25",
+    "type": "note",
+    "title": "Fundamental theorems",
+    "category": "complex-analysis",
+    "categoryTitle": "Complex analysis",
+    "links": [
+      {
+        "label": "Fundamental theorems",
+        "url": "/legacy/notes/math249w15-fundamental.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Complex analysis"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "complex-analysis-isolated-singularites-26",
+    "type": "note",
+    "title": "Isolated singularites",
+    "category": "complex-analysis",
+    "categoryTitle": "Complex analysis",
+    "links": [
+      {
+        "label": "Isolated singularites",
+        "url": "/legacy/notes/math249w15-residue.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Complex analysis"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "complex-analysis-harmonic-functions-27",
+    "type": "note",
+    "title": "Harmonic functions",
+    "category": "complex-analysis",
+    "categoryTitle": "Complex analysis",
+    "links": [
+      {
+        "label": "Harmonic functions",
+        "url": "/legacy/notes/math566f10-notes1.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Complex analysis"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "complex-analysis-power-series-analyticity-and-elementary-functions-28",
+    "type": "note",
+    "title": "Power series, analyticity and elementary functions",
+    "category": "complex-analysis",
+    "categoryTitle": "Complex analysis",
+    "links": [
+      {
+        "label": "Power series, analyticity and elementary functions",
+        "url": "/legacy/notes/math566f10-notes2.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Complex analysis"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "complex-analysis-foundations-of-cauchys-function-theory-29",
+    "type": "note",
+    "title": "Foundations of Cauchy's function theory",
+    "category": "complex-analysis",
+    "categoryTitle": "Complex analysis",
+    "links": [
+      {
+        "label": "Foundations of Cauchy's function theory",
+        "url": "/legacy/notes/math566f10-notes3.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Complex analysis"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "complex-analysis-isolated-singularities-and-the-residue-theorem-30",
+    "type": "note",
+    "title": "Isolated singularities and the residue theorem",
+    "category": "complex-analysis",
+    "categoryTitle": "Complex analysis",
+    "links": [
+      {
+        "label": "Isolated singularities and the residue theorem",
+        "url": "/legacy/notes/math566f10-notes4.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Complex analysis"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "complex-analysis-the-riemann-mapping-theorem-31",
+    "type": "note",
+    "title": "The Riemann mapping theorem",
+    "category": "complex-analysis",
+    "categoryTitle": "Complex analysis",
+    "links": [
+      {
+        "label": "The Riemann mapping theorem",
+        "url": "/legacy/notes/math566f10-notes5.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Complex analysis"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "complex-analysis-picards-theorems-32",
+    "type": "note",
+    "title": "Picard's theorems",
+    "category": "complex-analysis",
+    "categoryTitle": "Complex analysis",
+    "links": [
+      {
+        "label": "Picard's theorems",
+        "url": "/legacy/notes/math566f10-notes6.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Complex analysis"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "pde-the-cauchy-kovalevskaya-theorem-33",
+    "type": "note",
+    "title": "The Cauchy-Kovalevskaya theorem",
+    "summary": "(Linear version)",
+    "category": "pde",
+    "categoryTitle": "Partial differential equations",
+    "links": [
+      {
+        "label": "The Cauchy-Kovalevskaya theorem",
+        "url": "/legacy/notes/math580f14-analytic.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Partial differential equations"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "pde-the-cauchy-kovalevskaya-theorem-34",
+    "type": "note",
+    "title": "The Cauchy-Kovalevskaya theorem",
+    "summary": "(General version)",
+    "category": "pde",
+    "categoryTitle": "Partial differential equations",
+    "links": [
+      {
+        "label": "The Cauchy-Kovalevskaya theorem",
+        "url": "/legacy/notes/math580f11-notes2.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Partial differential equations"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "pde-elementary-introduction-to-distributions-35",
+    "type": "note",
+    "title": "Elementary introduction to distributions",
+    "category": "pde",
+    "categoryTitle": "Partial differential equations",
+    "links": [
+      {
+        "label": "Elementary introduction to distributions",
+        "url": "/legacy/notes/math580f12-elemdist.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Partial differential equations"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "pde-introduction-to-distributions-36",
+    "type": "note",
+    "title": "Introduction to distributions",
+    "summary": "(More material)",
+    "category": "pde",
+    "categoryTitle": "Partial differential equations",
+    "links": [
+      {
+        "label": "Introduction to distributions",
+        "url": "/legacy/notes/math581w14-distrib.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Partial differential equations"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "pde-first-order-equations-37",
+    "type": "note",
+    "title": "First order equations",
+    "summary": "(More details on flow maps)",
+    "category": "pde",
+    "categoryTitle": "Partial differential equations",
+    "links": [
+      {
+        "label": "First order equations",
+        "url": "/legacy/notes/math580f14-firstorder.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Partial differential equations"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "pde-first-order-equations-38",
+    "type": "note",
+    "title": "First order equations",
+    "summary": "(Small section on conservation laws)",
+    "category": "pde",
+    "categoryTitle": "Partial differential equations",
+    "links": [
+      {
+        "label": "First order equations",
+        "url": "/legacy/notes/math580f12-firstorder.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Partial differential equations"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "pde-harmonic-functions-39",
+    "type": "note",
+    "title": "Harmonic functions",
+    "summary": "(Uses distributions in a nonessential way)",
+    "category": "pde",
+    "categoryTitle": "Partial differential equations",
+    "links": [
+      {
+        "label": "Harmonic functions",
+        "url": "/legacy/notes/math580f12-harmonic.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Partial differential equations"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "pde-harmonic-functions-40",
+    "type": "note",
+    "title": "Harmonic functions",
+    "summary": "(No knowledge of distributions required)",
+    "category": "pde",
+    "categoryTitle": "Partial differential equations",
+    "links": [
+      {
+        "label": "Harmonic functions",
+        "url": "/legacy/notes/math580f13-harmonic.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Partial differential equations"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "pde-perrons-method-41",
+    "type": "note",
+    "title": "Perron's method",
+    "category": "pde",
+    "categoryTitle": "Partial differential equations",
+    "links": [
+      {
+        "label": "Perron's method",
+        "url": "/legacy/notes/math580f14-perron.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Partial differential equations"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "pde-the-dirichlet-problem-42",
+    "type": "note",
+    "title": "The Dirichlet problem",
+    "category": "pde",
+    "categoryTitle": "Partial differential equations",
+    "links": [
+      {
+        "label": "The Dirichlet problem",
+        "url": "/legacy/notes/math580f13-dirichlet.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Partial differential equations"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "pde-poissons-equation-43",
+    "type": "note",
+    "title": "Poisson's equation",
+    "category": "pde",
+    "categoryTitle": "Partial differential equations",
+    "links": [
+      {
+        "label": "Poisson's equation",
+        "url": "/legacy/notes/math580f13-poisson.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Partial differential equations"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "pde-multipole-expansions-in-two-dimensions-44",
+    "type": "note",
+    "title": "Multipole expansions in two dimensions",
+    "category": "pde",
+    "categoryTitle": "Partial differential equations",
+    "links": [
+      {
+        "label": "Multipole expansions in two dimensions",
+        "url": "/legacy/notes/math319w16-multipole2d.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Partial differential equations"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
+  },
+  {
+    "id": "pde-basic-examples-of-pdes-45",
+    "type": "note",
+    "title": "Basic examples of PDEs",
+    "category": "pde",
+    "categoryTitle": "Partial differential equations",
+    "links": [
+      {
+        "label": "Basic examples of PDEs",
+        "url": "/legacy/notes/math580f11-notes1.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Partial differential equations"
+    ],
+    "cvInclude": false,
+    "source": "_old_site/McGill/notes.html"
   }
 ]

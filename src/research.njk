@@ -16,3 +16,23 @@ permalink: /research/
     </section>
   {% endfor %}
 </div>
+
+<section class="rule-section">
+  <h2>Talks</h2>
+  <p>Selected talks and seminars from the research archive.</p>
+  <ol class="pub-list compact-list">
+    {% for talk in talks %}
+      <li>
+        <strong>{{ talk.title }}</strong>
+        <span>{% if talk.year %}{{ talk.year }}. {% endif %}{{ talk.description }}</span>
+        {% if talk.links and talk.links.length %}
+          <span class="links">
+            {% for link in talk.links %}
+              <a href="{{ link.url }}">{{ link.label }}</a>{% if not loop.last %}, {% endif %}
+            {% endfor %}
+          </span>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ol>
+</section>

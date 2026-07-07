@@ -1,100 +1,953 @@
 [
   {
-    "id": "mcgill-math-567-fall-2021",
-    "code": "MATH 567",
-    "title": "Introduction to Functional Analysis",
-    "term": { "season": "Fall", "year": 2021, "label": "Fall 2021" },
+    "id": "math-567-fall-2021",
+    "code": "Math 567",
+    "title": "Introduction to functional analysis",
+    "term": {
+      "label": "Fall 2021"
+    },
     "institution": "McGill University",
     "role": "Instructor",
     "level": "graduate",
-    "languages": ["en"],
-    "topics": ["functional analysis"],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "functional analysis",
+      "analysis"
+    ],
+    "url": "/legacy/courses/Math567f21/",
+    "oldFolder": "Math567f21",
+    "archive": "local",
     "cvInclude": true,
-    "oldSite": { "path": "_old_site/Math567f21/", "linkedFrom": "_old_site/McGill/teaching.html" },
-    "lectureLog": []
+    "source": "_old_site/McGill/teaching.html"
   },
   {
-    "id": "mcgill-math-325-winter-2022",
-    "code": "MATH 325",
-    "title": "Honours Ordinary Differential Equations",
-    "term": { "season": "Winter", "year": 2022, "label": "Winter 2022" },
+    "id": "math-325-winter-2022",
+    "code": "Math 325",
+    "title": "Honours ordinary differential equations",
+    "term": {
+      "label": "Winter 2022"
+    },
     "institution": "McGill University",
     "role": "Instructor",
     "level": "undergraduate",
-    "languages": ["en"],
-    "topics": ["ordinary differential equations"],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "ODE"
+    ],
+    "url": "/legacy/courses/Math325w22/",
+    "oldFolder": "Math325w22",
+    "archive": "local",
     "cvInclude": true,
-    "oldSite": { "path": "_old_site/Math325w22/", "linkedFrom": "_old_site/McGill/teaching.html" },
-    "lectureLog": []
+    "source": "_old_site/McGill/teaching.html"
   },
   {
-    "id": "mcgill-math-581-winter-2022",
-    "code": "MATH 581",
-    "title": "Partial Differential Equations 2",
-    "term": { "season": "Winter", "year": 2022, "label": "Winter 2022" },
+    "id": "math-581-winter-2022",
+    "code": "Math 581",
+    "title": "Partial differential equations 2",
+    "term": {
+      "label": "Winter 2022"
+    },
     "institution": "McGill University",
     "role": "Instructor",
     "level": "graduate",
-    "languages": ["en"],
-    "topics": ["partial differential equations"],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "PDE"
+    ],
+    "url": "/legacy/courses/Math581w22/",
+    "oldFolder": "Math581w22",
+    "archive": "local",
     "cvInclude": true,
-    "oldSite": { "path": "_old_site/Math581w22/", "linkedFrom": "_old_site/McGill/teaching.html" },
-    "lectureLog": []
+    "source": "_old_site/McGill/teaching.html"
   },
   {
-    "id": "mcgill-math-578-fall-2020",
-    "code": "MATH 578",
-    "title": "Numerical Analysis",
-    "term": { "season": "Fall", "year": 2020, "label": "Fall 2020" },
+    "id": "math-581-winter-2021",
+    "code": "Math 581",
+    "title": "Partial differential equations 2",
+    "term": {
+      "label": "Winter 2021"
+    },
     "institution": "McGill University",
     "role": "Instructor",
     "level": "graduate",
-    "languages": ["en"],
-    "topics": ["numerical analysis"],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "PDE"
+    ],
+    "url": "/legacy/courses/Math581w21/",
+    "oldFolder": "Math581w21",
+    "archive": "local",
     "cvInclude": true,
-    "oldSite": { "path": "_old_site/Math578f20/", "linkedFrom": "_old_site/McGill/teaching.html" },
-    "lectureLog": []
+    "source": "_old_site/McGill/teaching.html"
   },
   {
-    "id": "mcgill-math-579-winter-2020",
-    "code": "MATH 579",
-    "title": "Numerical Differential Equations",
-    "term": { "season": "Winter", "year": 2020, "label": "Winter 2020" },
+    "id": "math-578-fall-2020",
+    "code": "Math 578",
+    "title": "Numerical analysis",
+    "term": {
+      "label": "Fall 2020"
+    },
     "institution": "McGill University",
     "role": "Instructor",
     "level": "graduate",
-    "languages": ["en"],
-    "topics": ["numerical differential equations", "PDE"],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "numerical analysis",
+      "analysis"
+    ],
+    "url": "/legacy/courses/Math578f20/",
+    "oldFolder": "Math578f20",
+    "archive": "local",
     "cvInclude": true,
-    "oldSite": { "path": "_old_site/Math579w20/", "linkedFrom": "_old_site/McGill/teaching.html" },
-    "lectureLog": []
+    "source": "_old_site/McGill/teaching.html"
   },
   {
-    "id": "mcgill-math-599-winter-2019",
-    "code": "MATH 599",
-    "title": "Introduction to Mathematical General Relativity",
-    "term": { "season": "Winter", "year": 2019, "label": "Winter 2019" },
+    "id": "math-581-winter-2020",
+    "code": "Math 581",
+    "title": "Partial differential equations 2",
+    "term": {
+      "label": "Winter 2020"
+    },
     "institution": "McGill University",
     "role": "Instructor",
     "level": "graduate",
-    "languages": ["en"],
-    "topics": ["general relativity"],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "PDE"
+    ],
+    "url": "http://www.math.mcgill.ca/gantumur/math581w20/",
+    "oldFolder": "Math581w20",
+    "archive": "old-mcgill",
     "cvInclude": true,
-    "oldSite": { "path": "_old_site/Math599w19/", "linkedFrom": "_old_site/McGill/teaching.html" },
-    "lectureLog": []
+    "source": "_old_site/McGill/teaching.html"
   },
   {
-    "id": "num-mongolian-teaching",
-    "code": "NUM",
-    "title": "Mongolian teaching materials",
-    "term": { "label": "Selected materials" },
-    "institution": "National University of Mongolia",
+    "id": "math-579-winter-2020",
+    "code": "Math 579",
+    "title": "Numerical differential equations",
+    "term": {
+      "label": "Winter 2020"
+    },
+    "institution": "McGill University",
     "role": "Instructor",
-    "level": "to-be-decided",
-    "languages": ["mn"],
+    "level": "graduate",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "numerical analysis"
+    ],
+    "url": "http://www.math.mcgill.ca/gantumur/math579w20/",
+    "oldFolder": "Math579w20",
+    "archive": "old-mcgill",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "math-248-fall-2019",
+    "code": "Math 248",
+    "title": "Honours advanced calculus",
+    "term": {
+      "label": "Fall 2019"
+    },
+    "institution": "McGill University",
+    "role": "Instructor",
+    "level": "undergraduate",
+    "languages": [
+      "en"
+    ],
     "topics": [],
-    "cvInclude": false,
-    "oldSite": null,
-    "lectureLog": []
+    "url": "http://www.math.mcgill.ca/gantumur/math248f19/",
+    "oldFolder": "Math248f19",
+    "archive": "old-mcgill",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "math-599-winter-2019",
+    "code": "Math 599",
+    "title": "Introduction to mathematical general relativity",
+    "term": {
+      "label": "Winter 2019"
+    },
+    "institution": "McGill University",
+    "role": "Instructor",
+    "level": "graduate",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "general relativity"
+    ],
+    "url": "http://www.math.mcgill.ca/gantumur/math599w19/",
+    "oldFolder": "Math599w19",
+    "archive": "old-mcgill",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "math-581-winter-2019",
+    "code": "Math 581",
+    "title": "Partial differential equations 2",
+    "term": {
+      "label": "Winter 2019"
+    },
+    "institution": "McGill University",
+    "role": "Instructor",
+    "level": "graduate",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "PDE"
+    ],
+    "url": "http://www.math.mcgill.ca/gantumur/math581w19/",
+    "oldFolder": "Math581w19",
+    "archive": "old-mcgill",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "math-580-fall-2018",
+    "code": "Math 580",
+    "title": "Partial differential equations 1",
+    "term": {
+      "label": "Fall 2018"
+    },
+    "institution": "McGill University",
+    "role": "Instructor",
+    "level": "graduate",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "PDE"
+    ],
+    "url": "http://www.math.mcgill.ca/gantumur/math580f18/",
+    "oldFolder": "Math580f18",
+    "archive": "old-mcgill",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "math-387-winter-2018",
+    "code": "Math 387",
+    "title": "Honours numerical analysis",
+    "term": {
+      "label": "Winter 2018"
+    },
+    "institution": "McGill University",
+    "role": "Instructor",
+    "level": "undergraduate",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "numerical analysis",
+      "analysis"
+    ],
+    "url": "http://www.math.mcgill.ca/gantumur/math387w18/",
+    "oldFolder": "Math387w18",
+    "archive": "old-mcgill",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "math-599-winter-2017",
+    "code": "Math 599",
+    "title": "Introduction to mathematical general relativity",
+    "term": {
+      "label": "Winter 2017"
+    },
+    "institution": "McGill University",
+    "role": "Instructor",
+    "level": "graduate",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "general relativity"
+    ],
+    "url": "http://www.math.mcgill.ca/gantumur/math599w17/",
+    "oldFolder": "Math599w17",
+    "archive": "old-mcgill",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "math-248-fall-2016",
+    "code": "Math 248",
+    "title": "Honours advanced calculus",
+    "term": {
+      "label": "Fall 2016"
+    },
+    "institution": "McGill University",
+    "role": "Instructor",
+    "level": "undergraduate",
+    "languages": [
+      "en"
+    ],
+    "topics": [],
+    "url": "http://www.math.mcgill.ca/gantumur/math248f16/",
+    "oldFolder": "Math248f16",
+    "archive": "old-mcgill",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "math-387-winter-2016",
+    "code": "Math 387",
+    "title": "Honours numerical analysis",
+    "term": {
+      "label": "Winter 2016"
+    },
+    "institution": "McGill University",
+    "role": "Instructor",
+    "level": "undergraduate",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "numerical analysis",
+      "analysis"
+    ],
+    "url": "http://www.math.mcgill.ca/gantumur/math387w16/",
+    "oldFolder": "Math387w16",
+    "archive": "old-mcgill",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "math-319-winter-2016",
+    "code": "Math 319",
+    "title": "Introduction to partial differential equations",
+    "term": {
+      "label": "Winter 2016"
+    },
+    "institution": "McGill University",
+    "role": "Instructor",
+    "level": "undergraduate",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "PDE"
+    ],
+    "url": "http://www.math.mcgill.ca/gantumur/math319w16/",
+    "oldFolder": "Math319w16",
+    "archive": "old-mcgill",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "math-249-winter-2015",
+    "code": "Math 249",
+    "title": "Honours complex variables",
+    "term": {
+      "label": "Winter 2015"
+    },
+    "institution": "McGill University",
+    "role": "Instructor",
+    "level": "undergraduate",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "complex analysis"
+    ],
+    "url": "http://www.math.mcgill.ca/gantumur/math249w15/",
+    "oldFolder": "Math249w15",
+    "archive": "old-mcgill",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "math-222-winter-2015",
+    "code": "Math 222",
+    "title": "Calculus 3",
+    "term": {
+      "label": "Winter 2015"
+    },
+    "institution": "McGill University",
+    "role": "Instructor",
+    "level": "undergraduate",
+    "languages": [
+      "en"
+    ],
+    "topics": [],
+    "url": "http://www.math.mcgill.ca/gantumur/math222w15/",
+    "oldFolder": "Math222w15",
+    "archive": "old-mcgill",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "math-580-fall-2014",
+    "code": "Math 580",
+    "title": "Partial differential equations 1",
+    "term": {
+      "label": "Fall 2014"
+    },
+    "institution": "McGill University",
+    "role": "Instructor",
+    "level": "graduate",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "PDE"
+    ],
+    "url": "http://www.math.mcgill.ca/gantumur/math580f14/",
+    "oldFolder": "Math580f14",
+    "archive": "old-mcgill",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "math-595597-fall-2014",
+    "code": "Math 595/597",
+    "title": "Intro to analysis of the Navier-Stokes equations",
+    "term": {
+      "label": "Fall 2014"
+    },
+    "institution": "McGill University",
+    "role": "Instructor",
+    "level": "graduate",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "analysis"
+    ],
+    "url": "http://www.math.mcgill.ca/gantumur/math595f14/",
+    "oldFolder": "Math595f14",
+    "archive": "old-mcgill",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "math-581-winter-2014",
+    "code": "Math 581",
+    "title": "Partial differential equations 2",
+    "term": {
+      "label": "Winter 2014"
+    },
+    "institution": "McGill University",
+    "role": "Instructor",
+    "level": "graduate",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "PDE"
+    ],
+    "url": "/legacy/courses/Math581w14/",
+    "oldFolder": "Math581w14",
+    "archive": "local",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "math-315-winter-2014",
+    "code": "Math 315",
+    "title": "Ordinary differential equations",
+    "term": {
+      "label": "Winter 2014"
+    },
+    "institution": "McGill University",
+    "role": "Instructor",
+    "level": "undergraduate",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "ODE"
+    ],
+    "url": "http://www.math.mcgill.ca/gantumur/math315w14/",
+    "oldFolder": "Math315w14",
+    "archive": "old-mcgill",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "math-580-fall-2013",
+    "code": "Math 580",
+    "title": "Partial differential equations 1",
+    "term": {
+      "label": "Fall 2013"
+    },
+    "institution": "McGill University",
+    "role": "Instructor",
+    "level": "graduate",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "PDE"
+    ],
+    "url": "/legacy/courses/Math580f13/",
+    "oldFolder": "Math580f13",
+    "archive": "local",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "math-597765-fall-2013",
+    "code": "Math 597/765",
+    "title": "Analysis of adaptive methods",
+    "term": {
+      "label": "Fall 2013"
+    },
+    "institution": "McGill University",
+    "role": "Instructor",
+    "level": "graduate",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "analysis"
+    ],
+    "url": "http://www.math.mcgill.ca/gantumur/math765f13/",
+    "oldFolder": "Math765f13",
+    "archive": "old-mcgill",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "math-581-winter-2013",
+    "code": "Math 581",
+    "title": "Partial differential equations 2",
+    "term": {
+      "label": "Winter 2013"
+    },
+    "institution": "McGill University",
+    "role": "Instructor",
+    "level": "graduate",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "PDE"
+    ],
+    "url": "http://www.math.mcgill.ca/gantumur/math581w13/",
+    "oldFolder": "Math581w13",
+    "archive": "old-mcgill",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "math-580-fall-2012",
+    "code": "Math 580",
+    "title": "Partial differential equations 1",
+    "term": {
+      "label": "Fall 2012"
+    },
+    "institution": "McGill University",
+    "role": "Instructor",
+    "level": "graduate",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "PDE"
+    ],
+    "url": "http://www.math.mcgill.ca/gantumur/math580f12/",
+    "oldFolder": "Math580f12",
+    "archive": "old-mcgill",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "math-381-fall-2012",
+    "code": "Math 381",
+    "title": "Complex variables and transforms",
+    "term": {
+      "label": "Fall 2012"
+    },
+    "institution": "McGill University",
+    "role": "Instructor",
+    "level": "undergraduate",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "complex analysis"
+    ],
+    "url": "http://www.math.mcgill.ca/gantumur/math381f12/",
+    "oldFolder": "Math381f12",
+    "archive": "old-mcgill",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "math-581-winter-2012",
+    "code": "Math 581",
+    "title": "Partial differential equations 2",
+    "term": {
+      "label": "Winter 2012"
+    },
+    "institution": "McGill University",
+    "role": "Instructor",
+    "level": "graduate",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "PDE"
+    ],
+    "url": "http://www.math.mcgill.ca/gantumur/math581w12/",
+    "oldFolder": "Math581w12",
+    "archive": "old-mcgill",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "math-319-winter-2012",
+    "code": "Math 319",
+    "title": "Introduction to partial differential equations",
+    "term": {
+      "label": "Winter 2012"
+    },
+    "institution": "McGill University",
+    "role": "Instructor",
+    "level": "undergraduate",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "PDE"
+    ],
+    "url": "http://www.math.mcgill.ca/gantumur/math319w12/",
+    "oldFolder": "Math319w12",
+    "archive": "old-mcgill",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "math-580-fall-2011",
+    "code": "Math 580",
+    "title": "Partial differential equations 1",
+    "term": {
+      "label": "Fall 2011"
+    },
+    "institution": "McGill University",
+    "role": "Instructor",
+    "level": "graduate",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "PDE"
+    ],
+    "url": "http://www.math.mcgill.ca/gantumur/math580f11/",
+    "oldFolder": "Math580f11",
+    "archive": "old-mcgill",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "math-319-winter-2011",
+    "code": "Math 319",
+    "title": "Introduction to partial differential equations",
+    "term": {
+      "label": "Winter 2011"
+    },
+    "institution": "McGill University",
+    "role": "Instructor",
+    "level": "undergraduate",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "PDE"
+    ],
+    "url": "http://www.math.mcgill.ca/gantumur/math319w11/",
+    "oldFolder": "Math319w11",
+    "archive": "old-mcgill",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "math-566-fall-2010",
+    "code": "Math 566",
+    "title": "Advanced complex analysis",
+    "term": {
+      "label": "Fall 2010"
+    },
+    "institution": "McGill University",
+    "role": "Instructor",
+    "level": "graduate",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "complex analysis",
+      "analysis"
+    ],
+    "url": "http://www.math.mcgill.ca/gantumur/math566f10/",
+    "oldFolder": "Math566f10",
+    "archive": "old-mcgill",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "math-579-winter-2010",
+    "code": "Math 579",
+    "title": "Numerical analysis of differential equations",
+    "term": {
+      "label": "Winter 2010"
+    },
+    "institution": "McGill University",
+    "role": "Instructor",
+    "level": "graduate",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "numerical analysis",
+      "analysis"
+    ],
+    "url": "http://www.math.mcgill.ca/gantumur/math579w10/",
+    "oldFolder": "Math579w10",
+    "archive": "old-mcgill",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "math-578-fall-2009",
+    "code": "Math 578",
+    "title": "Numerical analysis 1",
+    "term": {
+      "label": "Fall 2009"
+    },
+    "institution": "McGill University",
+    "role": "Instructor",
+    "level": "graduate",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "numerical analysis",
+      "analysis"
+    ],
+    "url": "http://www.math.mcgill.ca/gantumur/math578f09/",
+    "oldFolder": "Math578f09",
+    "archive": "old-mcgill",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "other-a-gentle-introduction-to-the-navier-stokes-regularity-theory-34",
+    "title": "A gentle introduction to the Navier-Stokes regularity theory",
+    "term": {
+      "label": "2013"
+    },
+    "institution": "CIMPA",
+    "role": "Instructor",
+    "level": "other",
+    "languages": [
+      "en"
+    ],
+    "topics": [],
+    "url": "http://www.cimpa-icpam.org/spip.php?article486",
+    "archive": "external",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "other-moving-frames-in-general-relativity-35",
+    "title": "Moving frames in general relativity",
+    "term": {
+      "label": "2019"
+    },
+    "institution": "Mongolian Academy of Sciences",
+    "role": "Instructor",
+    "level": "other",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "general relativity"
+    ],
+    "archive": "external",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "other-introduction-to-general-relativity-36",
+    "title": "Introduction to general relativity",
+    "term": {
+      "label": "2018"
+    },
+    "institution": "Mongolian Academy of Sciences",
+    "role": "Instructor",
+    "level": "other",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "general relativity"
+    ],
+    "archive": "external",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "other-numerical-analysis-of-ordinary-differential-equations-37",
+    "title": "Numerical analysis of ordinary differential equations",
+    "term": {
+      "label": "2007"
+    },
+    "role": "Instructor",
+    "level": "other",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "numerical analysis",
+      "ODE",
+      "analysis"
+    ],
+    "url": "http://www.math.mcgill.ca/gantumur/math170c/",
+    "archive": "external",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "other-linear-algebra-38",
+    "title": "Linear algebra",
+    "term": {
+      "label": "2007"
+    },
+    "role": "Instructor",
+    "level": "other",
+    "languages": [
+      "en"
+    ],
+    "topics": [],
+    "url": "http://www.math.mcgill.ca/gantumur/math20f/",
+    "archive": "external",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "other-ordinary-differential-equations-39",
+    "title": "Ordinary differential equations.",
+    "term": {
+      "label": "2006"
+    },
+    "role": "Instructor",
+    "level": "other",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "ODE"
+    ],
+    "url": "http://www.math.uu.nl/people/kuznetsov/",
+    "archive": "external",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "other-numerical-mathematics-40",
+    "title": "Numerical mathematics.",
+    "term": {
+      "label": "2006"
+    },
+    "role": "Instructor",
+    "level": "other",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "numerical analysis"
+    ],
+    "url": "http://staff.science.uva.nl/~rstevens/",
+    "archive": "external",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "other-integral-calculus-41",
+    "title": "Integral calculus.",
+    "term": {
+      "label": "2005"
+    },
+    "role": "Instructor",
+    "level": "other",
+    "languages": [
+      "en"
+    ],
+    "topics": [],
+    "url": "http://www.math.uu.nl/people/jvoosten/",
+    "archive": "external",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "other-mathematical-ideas-and-methods-42",
+    "title": "Mathematical ideas and methods.",
+    "term": {
+      "label": "2005"
+    },
+    "role": "Instructor",
+    "level": "other",
+    "languages": [
+      "en"
+    ],
+    "topics": [],
+    "url": "http://www.math.uu.nl/people/cushman/",
+    "archive": "external",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "other-mathematics-for-computer-science-students-43",
+    "title": "Mathematics for computer science students.",
+    "term": {
+      "label": "2004"
+    },
+    "role": "Instructor",
+    "level": "other",
+    "languages": [
+      "en"
+    ],
+    "topics": [],
+    "url": "http://www.math.uu.nl/people/kuznetsov/",
+    "archive": "external",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "other-partial-differential-equations-44",
+    "title": "Partial differential equations.",
+    "term": {
+      "label": "2003"
+    },
+    "role": "Instructor",
+    "level": "other",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "PDE"
+    ],
+    "url": "http://www.math.uu.nl/people/verhulst/",
+    "archive": "external",
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
   }
 ]

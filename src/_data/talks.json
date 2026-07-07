@@ -1,25 +1,1135 @@
 [
   {
-    "id": "dec-oberwolfach-2019",
+    "id": "on-convergence-of-discrete-exterior-calculus-2019",
     "title": "On convergence of discrete exterior calculus",
-    "event": "Oberwolfach workshop on Innovative Algorithms",
-    "location": "Oberwolfach",
-    "date": "2019-09-06",
     "year": 2019,
-    "type": "invited-talk",
-    "languages": ["en"],
+    "description": "On convergence of discrete exterior calculus. Oberwolfach workshop on Innovative Algorithms. Oberwolfach. September 6, 2019.",
+    "links": [],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
     "cvInclude": true,
     "source": "_old_site/McGill/research.html"
   },
   {
-    "id": "einstein-constraints-mas-2019",
+    "id": "einstein-constraint-equations-2019",
     "title": "Einstein constraint equations",
-    "event": "Mongolian Academy of Sciences",
-    "location": "Ulaanbaatar",
-    "date": "2019-07-05",
     "year": 2019,
-    "type": "seminar",
-    "languages": ["en"],
+    "description": "Einstein constraint equations. Mongolian Academy of Sciences. Ulan Bator. July 5, 2019.",
+    "links": [],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "on-analysis-of-discrete-exterior-calculus-2019",
+    "title": "On analysis of discrete exterior calculus",
+    "year": 2019,
+    "description": "On analysis of discrete exterior calculus. AMS Sectional Meeting. Honolulu. March 24, 2019.",
+    "links": [],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "elliptic-estimates-for-operators-with-nonsmooth-coefficients-2018",
+    "title": "Elliptic estimates for operators with nonsmooth coefficients",
+    "year": 2018,
+    "description": "Elliptic estimates for operators with nonsmooth coefficients. Capital Normal University. Bejing. China. July 23, 2018.",
+    "links": [],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "a-prescribed-scalar-mean-curvature-problem-2018",
+    "title": "A prescribed scalar-mean curvature problem",
+    "year": 2018,
+    "description": "A prescribed scalar-mean curvature problem. Chinese Academy of Sciences. Bejing. China. July 23, 2018.",
+    "links": [],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "elliptic-estimates-for-operators-with-nonsmooth-coefficients-2018",
+    "title": "Elliptic estimates for operators with nonsmooth coefficients",
+    "year": 2018,
+    "description": "Elliptic estimates for operators with nonsmooth coefficients. International Conference on Partial Differential Equations. Changchun. China. July 18-21, 2018.",
+    "links": [],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "a-prescribed-scalar-mean-curvature-problem-2018",
+    "title": "A prescribed scalar-mean curvature problem",
+    "year": 2018,
+    "description": "A prescribed scalar-mean curvature problem. National University of Mongolia. Ulan Bator. Mongolia. July 5, 2018.",
+    "links": [
+      {
+        "label": "National University of Mongolia",
+        "url": "http://news.num.edu.mn/?p=51444"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "on-analysis-of-discrete-exterior-calculus-2018",
+    "title": "On analysis of discrete exterior calculus",
+    "year": 2018,
+    "description": "On analysis of discrete exterior calculus. Huazhong University of Science and Technology. Wuhan. China. June 21, 2018.",
+    "links": [],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "elliptic-estimates-for-operators-with-nonsmooth-coefficients-2018",
+    "title": "Elliptic estimates for operators with nonsmooth coefficients",
+    "year": 2018,
+    "description": "Elliptic estimates for operators with nonsmooth coefficients. Wuhan University. Wuhan. China. June 21, 2018.",
+    "links": [],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "some-scaling-estimates-in-besov-and-triebel-lizorkin-spaces-2018",
+    "title": "Some scaling estimates in Besov and Triebel-Lizorkin spaces",
+    "year": 2018,
+    "description": "Some scaling estimates in Besov and Triebel-Lizorkin spaces. McGill Geometric Analysis Seminar. February 7, 2018.",
+    "links": [],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "elliptic-estimates-for-operators-with-nonsmooth-coefficients-2018",
+    "title": "Elliptic estimates for operators with nonsmooth coefficients",
+    "year": 2018,
+    "description": "Elliptic estimates for operators with nonsmooth coefficients. Workshop on General Relativity and Finite Element Exterior Calculus. University of California, San Digeo. January 13-16, 2018.",
+    "links": [
+      {
+        "label": "Workshop on General Relativity and Finite Element Exterior Calculus",
+        "url": "http://ccom.ucsd.edu/%7Egpde2018/"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "elliptic-estimates-for-operators-with-rough-coefficients-2017",
+    "title": "Elliptic estimates for operators with rough coefficients",
+    "year": 2017,
+    "description": "Elliptic estimates for operators with rough coefficients. McGill Geometric Analysis Seminar. September 27, 2017.",
+    "links": [],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "on-analysis-of-discrete-exterior-calculus-2017",
+    "title": "On analysis of discrete exterior calculus",
+    "year": 2017,
+    "description": "On analysis of discrete exterior calculus. BIRS Workshop on Geometric Numerical Integration and Structure-Preserving Discretization. Banff. June 11-16, 2017.",
+    "links": [
+      {
+        "label": "BIRS Workshop on Geometric Numerical Integration and Structure-Preserving Discretization",
+        "url": "http://www.birs.ca/"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "on-analysis-of-discrete-exterior-calculus-2017",
+    "title": "On analysis of discrete exterior calculus",
+    "year": 2017,
+    "description": "On analysis of discrete exterior calculus. Trimester Seminar. Hausdroff Research Instritute for Mathematics. Bonn. April 20, 2017.",
+    "links": [
+      {
+        "label": "Trimester Seminar",
+        "url": "https://www.him.uni-bonn.de/en/programs/future-programs/future-trimester-programs/multiscale-problems-2017/trimester-seminar/"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "a-prescribed-scalar-mean-curvature-problem-2016",
+    "title": "A prescribed scalar-mean curvature problem",
+    "year": 2016,
+    "description": "A prescribed scalar-mean curvature problem. Session on Geometric PDEs. Canadian Mathematical Society Winter Meeting. Niagara Falls. December 2-5, 2016.",
+    "links": [
+      {
+        "label": "Canadian Mathematical Society Winter Meeting",
+        "url": "https://cms.math.ca/Events/winter16/"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "approximation-properties-of-finite-element-exterior-calculus-2016",
+    "title": "Approximation properties of finite element exterior calculus",
+    "year": 2016,
+    "description": "Approximation properties of finite element exterior calculus. Session on Structure-Preserving Discretizations. Canadian Mathematical Society Winter Meeting. Niagara Falls. December 2-5, 2016.",
+    "links": [
+      {
+        "label": "Canadian Mathematical Society Winter Meeting",
+        "url": "https://cms.math.ca/Events/winter16/"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "on-approximation-classes-of-adaptive-methods-2016",
+    "title": "On approximation classes of adaptive methods",
+    "year": 2016,
+    "description": "On approximation classes of adaptive methods. Oberwolfach workshop on Adaptive Algorithms. Oberwolfach. September 22, 2016.",
+    "links": [
+      {
+        "label": "Oberwolfach workshop on Adaptive Algorithms",
+        "url": "https://www.mfo.de/occasion/1638a/www_view"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "well-posedness-theory-for-some-regularized-models-of-turbulence-2016",
+    "title": "Well posedness theory for some regularized models of turbulence",
+    "year": 2016,
+    "description": "Well posedness theory for some regularized models of turbulence. PDE Seminar. National University of Mongolia. Ulan Bator. July 29, 2016.",
+    "links": [
+      {
+        "label": "PDE Seminar",
+        "url": "https://www.facebook.com/MongolianMathematicalSociety/photos/a.1687663324787950.1073741828.1662986243922325/1759598384261110/"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "well-posedness-theory-for-some-regularized-models-of-turbulence-2015",
+    "title": "Well posedness theory for some regularized models of turbulence",
+    "year": 2015,
+    "description": "Well posedness theory for some regularized models of turbulence. Session on Nonlinear Evolutionary Equations. Canadian Mathematical Society Winter Meeting. Montreal. December 6, 2015.",
+    "links": [
+      {
+        "label": "Canadian Mathematical Society Winter Meeting",
+        "url": "https://cms.math.ca/Events/winter15/"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "on-analysis-of-discrete-exterior-calculus-2015",
+    "title": "On analysis of discrete exterior calculus",
+    "year": 2015,
+    "description": "On analysis of discrete exterior calculus. Computational Mathematics Seminar. University of Pittsburgh. Pittsburgh. November 10, 2015.",
+    "links": [
+      {
+        "label": "Computational Mathematics Seminar",
+        "url": "http://www.mathematics.pitt.edu/seminar-colloquia/computational-mathematics-seminar"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "on-analysis-of-discrete-exterior-calculus-2015",
+    "title": "On analysis of discrete exterior calculus",
+    "year": 2015,
+    "description": "On analysis of discrete exterior calculus. Applied Mathematics Seminar. University of Leicester. Leicester. October 29, 2015.",
+    "links": [
+      {
+        "label": "Applied Mathematics Seminar",
+        "url": "http://www2.le.ac.uk/departments/mathematics/research/applied/applied_seminar"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "on-analysis-of-discrete-exterior-calculus-2015",
+    "title": "On analysis of discrete exterior calculus",
+    "year": 2015,
+    "description": "On analysis of discrete exterior calculus. Scientific Computation Seminar. University of Nottingham. Nottingham. October 28, 2015.",
+    "links": [
+      {
+        "label": "Scientific Computation Seminar",
+        "url": "http://www.nottingham.ac.uk/mathematics/events/sc/seminarsc281015.aspx"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "on-approximation-classes-of-adaptive-finite-element-methods-2015",
+    "title": "On approximation classes of adaptive finite element methods",
+    "year": 2015,
+    "description": "On approximation classes of adaptive finite element methods. International Congress on Industrial and Applied Mathematics. Beijing. August 14, 2015.",
+    "links": [
+      {
+        "label": "International Congress on Industrial and Applied Mathematics",
+        "url": "http://www.iciam2015.cn"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "the-navier-stokes-equations-with-random-initial-data-2015",
+    "title": "The Navier-Stokes equations with random initial data",
+    "year": 2015,
+    "description": "The Navier-Stokes equations with random initial data. Stochastic Analysis and Applications Mongolia. National University of Mongolia. Ulan Bator. August 6, 2015.",
+    "links": [
+      {
+        "label": "Stochastic Analysis and Applications Mongolia",
+        "url": "http://www.cimpa-icpam.org/ecoles-de-recherche/ecoles-de-recherche-2015/liste-chronologique-des-ecoles-de/article/stochastic-analysis-and-its-659"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "the-lichnerowicz-equation-and-the-prescribed-scalar-mean-curvature-problem-in-the-compact--2015",
+    "title": "The Lichnerowicz equation and the prescribed scalar-mean curvature problem in the compact-with-boundary setting",
+    "year": 2015,
+    "description": "The Lichnerowicz equation and the prescribed scalar-mean curvature problem in the compact-with-boundary setting. Focus Program on 100 Years of General Relativity. Fields Institute. Toronto. May 13, 2015.",
+    "links": [
+      {
+        "label": "Focus Program on 100 Years of General Relativity",
+        "url": "http://www.fields.utoronto.ca/programs/scientific/14-15/generalrelativity/"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "on-approximation-classes-of-adaptive-finite-element-methods-2014",
+    "title": "On approximation classes of adaptive finite element methods",
+    "year": 2014,
+    "description": "On approximation classes of adaptive finite element methods [slides]. LMS-EPSRC Durham Symposium. Durham. July 9, 2014.",
+    "links": [
+      {
+        "label": "slides",
+        "url": "/legacy/slides/Durham14.pdf"
+      },
+      {
+        "label": "LMS-EPSRC Durham Symposium",
+        "url": "http://www.maths.dur.ac.uk/lms/2014/NPDE14/"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "adaptive-mixed-finite-element-methods-for-the-stokes-problem-2014",
+    "title": "Adaptive mixed finite element methods for the Stokes problem",
+    "year": 2014,
+    "description": "Adaptive mixed finite element methods for the Stokes problem. McGill Applied Math Working Seminar. February 25, 2014.",
+    "links": [],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "the-einstein-constraint-equations-on-compact-manifolds-with-or-without-boundary-2013",
+    "title": "The Einstein constraint equations on compact manifolds with or without boundary",
+    "year": 2013,
+    "description": "The Einstein constraint equations on compact manifolds with or without boundary. PIMS-AMI seminar. Edmonton. October 25, 2013.",
+    "links": [
+      {
+        "label": "PIMS-AMI seminar",
+        "url": "http://www.math.ualberta.ca/~xinweiyu/AMI_Current.html"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "convergence-rates-of-adaptive-boundary-element-methods-2013",
+    "title": "Convergence rates of adaptive boundary element methods",
+    "year": 2013,
+    "description": "Convergence rates of adaptive boundary element methods [slides]. Numerical Analysis & PDE seminar. University of Delaware. May 2, 2013.",
+    "links": [
+      {
+        "label": "slides",
+        "url": "/legacy/slides/Delaware13.pdf"
+      },
+      {
+        "label": "Numerical Analysis & PDE seminar",
+        "url": "http://www.math.udel.edu/seminars/analysis/index.html"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "on-the-consistency-of-the-combinatorial-codifferential-2013",
+    "title": "On the consistency of the combinatorial codifferential",
+    "year": 2013,
+    "description": "On the consistency of the combinatorial codifferential [slides]. Joint Mathematics Meetings. San Diego. January 11, 2013.",
+    "links": [
+      {
+        "label": "slides",
+        "url": "/legacy/slides/SanDiego13.pdf"
+      },
+      {
+        "label": "Joint Mathematics Meetings",
+        "url": "http://jointmathematicsmeetings.org/jmm"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "adaptive-boundary-element-methods-with-convergence-rates-2012",
+    "title": "Adaptive boundary element methods with convergence rates",
+    "year": 2012,
+    "description": "Adaptive boundary element methods with convergence rates. ESI Workshop on Wavelet Methods in Scientific Computing. Vienna. November 12, 2012.",
+    "links": [
+      {
+        "label": "ESI Workshop on Wavelet Methods in Scientific Computing",
+        "url": "http://www.univie.ac.at/nuhag-php/event_NEW/make.php?page=w4&event=esi12"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "on-well-posedness-of-the-navier-stokes-equations-with-the-wall-eddy-boundary-conditions-2012",
+    "title": "On well-posedness of the Navier-Stokes-αβ equations with the wall-eddy boundary conditions",
+    "year": 2012,
+    "description": "On well-posedness of the Navier-Stokes-αβ equations with the wall-eddy boundary conditions [slides]. BIRS Workshop on Regularized and LES Methods for Turbulence. Banff. May 18, 2012.",
+    "links": [
+      {
+        "label": "slides",
+        "url": "/legacy/slides/Banff12.pdf"
+      },
+      {
+        "label": "BIRS Workshop on Regularized and LES Methods for Turbulence",
+        "url": "http://www.birs.ca/"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "nonconstant-mean-curvature-solutions-of-the-einstein-constraint-equations-2012",
+    "title": "Nonconstant mean curvature solutions of the Einstein constraint equations",
+    "year": 2012,
+    "description": "Nonconstant mean curvature solutions of the Einstein constraint equations [slides]. CRM Workshop on Geometric PDE. Montreal. April 27, 2012.",
+    "links": [
+      {
+        "label": "slides",
+        "url": "/legacy/slides/Montreal12.pdf"
+      },
+      {
+        "label": "CRM Workshop on Geometric PDE",
+        "url": "http://www.crm.umontreal.ca/EDP12/index_e.php"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "einstein-constraint-equations-2012",
+    "title": "Einstein constraint equations",
+    "year": 2012,
+    "description": "Einstein constraint equations. McGill Applied Math Working Seminar. March 14, 2012.",
+    "links": [],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "einstein-field-equations-2012",
+    "title": "Einstein field equations",
+    "year": 2012,
+    "description": "Einstein field equations. McGill Applied Math Working Seminar. Montreal. February 8, 2012.",
+    "links": [],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "adaptive-boundary-element-methods-with-convergence-rates-2011",
+    "title": "Adaptive boundary element methods with convergence rates",
+    "year": 2011,
+    "description": "Adaptive boundary element methods with convergence rates. SIAM Conference on Analysis of PDEs. San Diego. November 14, 2011.",
+    "links": [
+      {
+        "label": "SIAM Conference on Analysis of PDEs",
+        "url": "http://www.siam.org/meetings/pd11/"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "partial-regularity-results-for-generalized-alpha-models-of-turbulence-2011",
+    "title": "Partial regularity results for generalized alpha models of turbulence",
+    "year": 2011,
+    "description": "Partial regularity results for generalized alpha models of turbulence [slides]. SIAM Conference on Analysis of PDEs. San Diego. November 14, 2011.",
+    "links": [
+      {
+        "label": "slides",
+        "url": "/legacy/slides/SanDiego11fluid.pdf"
+      },
+      {
+        "label": "SIAM Conference on Analysis of PDEs",
+        "url": "http://www.siam.org/meetings/pd11/"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "adaptive-boundary-element-methods-with-convergence-rates-2011",
+    "title": "Adaptive boundary element methods with convergence rates",
+    "year": 2011,
+    "description": "Adaptive boundary element methods with convergence rates [slides]. CRM-McGill Applied Mathematics Seminar. Montreal. September 19, 2011.",
+    "links": [
+      {
+        "label": "slides",
+        "url": "/legacy/slides/Montreal11.pdf"
+      },
+      {
+        "label": "CRM-McGill Applied Mathematics Seminar",
+        "url": "http://www.dms.umontreal.ca/~mathapp/"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "generalized-navier-stokes-type-models-2011",
+    "title": "Generalized Navier-Stokes type models",
+    "year": 2011,
+    "description": "Generalized Navier-Stokes type models. McGill Applied Math Working Seminar. Montreal. September 14, 2011.",
+    "links": [],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "wavelet-galerkin-methods-2010",
+    "title": "Wavelet Galerkin methods",
+    "year": 2010,
+    "description": "Wavelet Galerkin methods. Applied Mathematics Seminar. National University of Mongolia. Ulan Bator. June 9, 2010.",
+    "links": [],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "einsteins-constraint-equations-2010",
+    "title": "Einstein's constraint equations",
+    "year": 2010,
+    "description": "Einstein's constraint equations. Analysis Seminar. National University of Mongolia. Ulan Bator. June 7, 2010.",
+    "links": [],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "partial-regularity-for-generalized-navier-stokes-equations-2010",
+    "title": "Partial regularity for generalized Navier-Stokes equations",
+    "year": 2010,
+    "description": "Partial regularity for generalized Navier-Stokes equations. McGill Analysis Seminar. McGill University. Montreal. Febuary 12, 2010.",
+    "links": [
+      {
+        "label": "McGill Analysis Seminar",
+        "url": "http://www.math.mcgill.ca/jakobson/analysish/seminar.html"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "mathematical-general-relativity-2010",
+    "title": "Mathematical general relativity",
+    "year": 2010,
+    "description": "Mathematical general relativity [slides]. Winter school in pure and applied math. McGill University. Montreal. January 8-11, 2010.",
+    "links": [
+      {
+        "label": "slides",
+        "url": "/legacy/slides/ws10.pdf"
+      },
+      {
+        "label": "Winter school in pure and applied math",
+        "url": "http://www.math.mcgill.ca/node/1458"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "local-convergence-of-adaptive-finite-element-methods-for-nonlinear-problems-2009",
+    "title": "Local convergence of adaptive finite element methods for nonlinear problems",
+    "year": 2009,
+    "description": "Local convergence of adaptive finite element methods for nonlinear problems [slides]. CRM-McGill Applied Mathematics Seminar. Montreal. November 23, 2009.",
+    "links": [
+      {
+        "label": "slides",
+        "url": "/legacy/slides/Montreal09f.pdf"
+      },
+      {
+        "label": "CRM-McGill Applied Mathematics Seminar",
+        "url": "http://www.dms.umontreal.ca/~mathapp/"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "solutions-of-the-einstein-constraint-equations-on-asymptotically-euclidean-manifolds-2009",
+    "title": "Solutions of the Einstein constraint equations on asymptotically Euclidean manifolds",
+    "year": 2009,
+    "description": "Solutions of the Einstein constraint equations on asymptotically Euclidean manifolds. 25th Pacific Coast Gravity Meeting. University of Oregon, Eugene. March 27-28, 2009.",
+    "links": [
+      {
+        "label": "25th Pacific Coast Gravity Meeting",
+        "url": "http://www.tapir.caltech.edu/pcgm25/"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "on-analysis-and-numerical-treatment-of-einsteins-constraint-equations-in-general-relativit-2009",
+    "title": "On analysis and numerical treatment of Einstein's constraint equations in general relativity",
+    "year": 2009,
+    "description": "On analysis and numerical treatment of Einstein's constraint equations in general relativity [slides]. CRM-McGill Applied Mathematics Seminar. McGill University. Montreal. Canada. February 13, 2009.",
+    "links": [
+      {
+        "label": "slides",
+        "url": "/legacy/slides/Montreal09.pdf"
+      },
+      {
+        "label": "CRM-McGill Applied Mathematics Seminar",
+        "url": "http://www.dms.umontreal.ca/~mathapp/"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "finite-elements-for-the-lichnerowicz-equation-2008",
+    "title": "Finite elements for the Lichnerowicz equation",
+    "year": 2008,
+    "description": "Finite elements for the Lichnerowicz equation. Mathematical and Computational Physics Group Meeting. University of California, San Diego. April 21, 2008.",
+    "links": [
+      {
+        "label": "Mathematical and Computational Physics Group Meeting",
+        "url": "http://ccom.ucsd.edu/seminar_mcpgroup.html"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "non-constant-mean-curvature-solutions-to-einsteins-constraint-equations-a-fixed-point-argu-2008",
+    "title": "Non-constant mean curvature solutions to Einstein's constraint equations: A fixed point argument",
+    "year": 2008,
+    "description": "Non-constant mean curvature solutions to Einstein's constraint equations: A fixed point argument [slides]. 24th Pacific Coast Gravity Meeting. University of California, Santa Barbara. March 21-22, 2008.",
+    "links": [
+      {
+        "label": "slides",
+        "url": "/legacy/slides/SantaBarbara08.pdf"
+      },
+      {
+        "label": "24th Pacific Coast Gravity Meeting",
+        "url": "http://www.physics.ucsb.edu/~relativity/24thPCGM.html"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "analysis-and-convergent-adaptive-solution-of-the-einstein-constraint-equations-2008",
+    "title": "Analysis and convergent adaptive solution of the Einstein constraint equations",
+    "year": 2008,
+    "description": "Analysis and convergent adaptive solution of the Einstein constraint equations [slides]. Workshop on Adaptive Numerical Methods for PDE's. Wolfgang Pauli Institute. Vienna University. Austria. January 21-25, 2008.",
+    "links": [
+      {
+        "label": "slides",
+        "url": "/legacy/slides/Wien08.pdf"
+      },
+      {
+        "label": "Workshop on Adaptive Numerical Methods for PDE's",
+        "url": "http://www.wpi.ac.at/event_view.php?id_activity=95"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "a-short-tour-of-sobolev-spaces-2008",
+    "title": "A short tour of Sobolev spaces",
+    "year": 2008,
+    "description": "A short tour of Sobolev spaces. Mathematical and Computational Physics Group Meeting. University of California, San Diego. February 27, 2008.",
+    "links": [
+      {
+        "label": "Mathematical and Computational Physics Group Meeting",
+        "url": "http://ccom.ucsd.edu/seminar_mcpgroup.html"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "einstein-constraints-on-closed-manifolds-2007",
+    "title": "Einstein constraints on closed manifolds",
+    "year": 2007,
+    "description": "Einstein constraints on closed manifolds. Mathematical and Computational Physics Group Meeting. University of California, San Diego. October 24, 2007.",
+    "links": [
+      {
+        "label": "Mathematical and Computational Physics Group Meeting",
+        "url": "http://ccom.ucsd.edu/seminar_mcpgroup.html"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "a-priori-estimates-for-petrov-galerkin-approximation-on-riemannian-manifolds-2007",
+    "title": "A priori estimates for Petrov-Galerkin approximation on Riemannian manifolds",
+    "year": 2007,
+    "description": "A priori estimates for Petrov-Galerkin approximation on Riemannian manifolds. Mathematical and Computational Physics Group Meeting. University of California, San Diego. June 7, 2007.",
+    "links": [
+      {
+        "label": "Mathematical and Computational Physics Group Meeting",
+        "url": "http://ccom.ucsd.edu/seminar_mcpgroup.html"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "wavelet-methods-for-operator-equations-2007",
+    "title": "Wavelet methods for operator equations",
+    "year": 2007,
+    "description": "Wavelet methods for operator equations. Mathematical and Computational Physics Group Meeting. University of California, San Diego. February 6, 2007.",
+    "links": [
+      {
+        "label": "Mathematical and Computational Physics Group Meeting",
+        "url": "http://ccom.ucsd.edu/seminar_mcpgroup.html"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "adaptive-wavelet-algorithms-for-solving-operator-equations-2006",
+    "title": "Adaptive wavelet algorithms for solving operator equations",
+    "year": 2006,
+    "description": "Adaptive wavelet algorithms for solving operator equations [slides]. General Mathematical Colloquium. Mathematisch Instituut. Universiteit Utrecht. September 21, 2006.",
+    "links": [
+      {
+        "label": "slides",
+        "url": "/legacy/slides/Utrecht06.pdf"
+      },
+      {
+        "label": "General Mathematical Colloquium",
+        "url": "http://www.math.uu.nl/Announcements/stafcol/"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "adaptive-wavelet-algorithms-with-truncated-residuals-2006",
+    "title": "Adaptive wavelet algorithms with truncated residuals",
+    "year": 2006,
+    "description": "Adaptive wavelet algorithms with truncated residuals [slides]. EC-IHP Breaking Complexity Final Meeting. Wolfgang Pauli Institute. Vienna University. Austria. September 14-18, 2006.",
+    "links": [
+      {
+        "label": "slides",
+        "url": "/legacy/slides/Wien06.pdf"
+      },
+      {
+        "label": "EC-IHP Breaking Complexity Final Meeting",
+        "url": "http://www.imati.cnr.it/aivlis/IHP/"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "adaptive-wavelet-methods-with-truncated-residuals-2006",
+    "title": "Adaptive wavelet methods with truncated residuals",
+    "year": 2006,
+    "description": "Adaptive wavelet methods with truncated residuals. Postgraduate seminar IGPM. RWTH Aachen. Germany. August 31, 2006.",
+    "links": [
+      {
+        "label": "Postgraduate seminar IGPM",
+        "url": "http://www.igpm.rwth-aachen.de/Oberseminar.html"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "adaptive-wavelet-algorithms-for-solving-operator-equations-2006",
+    "title": "Adaptive wavelet algorithms for solving operator equations",
+    "year": 2006,
+    "description": "Adaptive wavelet algorithms for solving operator equations. International Conference on Multilevel Iterative Methods. Peking University. Beijing. China. August 14-18, 2006.",
+    "links": [
+      {
+        "label": "International Conference on Multilevel Iterative Methods",
+        "url": "http://ccse.pku.edu.cn/06summerschool/ob.html"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "adaptive-wavelet-methods-with-truncated-residuals-2006",
+    "title": "Adaptive wavelet methods with truncated residuals",
+    "year": 2006,
+    "description": "Adaptive wavelet methods with truncated residuals. EC-IHP Breaking Complexity Spring Meeting. Politecnico di Torino. Turin. Italy. April 20-22, 2006.",
+    "links": [
+      {
+        "label": "EC-IHP Breaking Complexity Spring Meeting",
+        "url": "http://calvino.polito.it/%7Etabacco/torino2006/ihp.html"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "an-optimal-adaptive-wavelet-method-without-coarsening-of-the-iterands-2006",
+    "title": "An optimal adaptive wavelet method without coarsening of the iterands",
+    "year": 2006,
+    "description": "An optimal adaptive wavelet method without coarsening of the iterands [slides]. Joint HASSIP/DFG-SPP1114 Workshop \"Recent Progress in Wavelet Analysis and Frame Theory\". Universität Bremen. Bremen. Germany. January 23-26, 2006.",
+    "links": [
+      {
+        "label": "slides",
+        "url": "/legacy/slides/Bremen06.pdf"
+      },
+      {
+        "label": "Joint HASSIP/DFG-SPP1114 Workshop \"Recent Progress in Wavelet Analysis and Frame Theory\"",
+        "url": "http://www.mathematik.uni-marburg.de/%7Edahlke/ag-numerik/workshop/"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "an-optimal-adaptive-wavelet-method-for-strongly-elliptic-operator-equations-2005",
+    "title": "An optimal adaptive wavelet method for strongly elliptic operator equations",
+    "year": 2005,
+    "description": "An optimal adaptive wavelet method for strongly elliptic operator equations [slides]. Workshop on Fast Numerical Solution of PDE's. Mathematisch Instituut. Universiteit Utrecht. December 20-22, 2005.",
+    "links": [
+      {
+        "label": "slides",
+        "url": "/legacy/slides/051221.pdf"
+      },
+      {
+        "label": "Workshop on Fast Numerical Solution of PDE's",
+        "url": "http://www.math.uu.nl/fastsolvers/"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "optimal-adaptive-wavelet-methods-for-linear-operator-equations-2005",
+    "title": "Optimal adaptive wavelet methods for linear operator equations",
+    "year": 2005,
+    "description": "Optimal adaptive wavelet methods for linear operator equations [slides for screen, for printer]. Biweekly numerical mathematics colloquium. Mathematisch Instituut. Universiteit Utrecht. June 17, 2005.",
+    "links": [
+      {
+        "label": "slides for screen",
+        "url": "/legacy/slides/050617d.pdf"
+      },
+      {
+        "label": "for printer",
+        "url": "/legacy/slides/050617p.pdf"
+      },
+      {
+        "label": "Biweekly numerical mathematics colloquium",
+        "url": "http://www.math.uu.nl/people/dijkema/numwcol/"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "computation-of-operators-in-wavelet-coordinates-2004",
+    "title": "Computation of operators in wavelet coordinates",
+    "year": 2004,
+    "description": "Computation of operators in wavelet coordinates [slides]. EC-IHP Breaking Complexity Mid-Term Meeting. Istituto di Matematica Applicata alle Tecnologie Industriali. Pavia. Italy. December 9 - 10, 2004.",
+    "links": [
+      {
+        "label": "slides",
+        "url": "/legacy/slides/IHP04.pdf"
+      },
+      {
+        "label": "EC-IHP Breaking Complexity Mid-Term Meeting",
+        "url": "http://www-dimat.unipv.it/falletta/IHP/index.html"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/research.html"
+  },
+  {
+    "id": "computation-of-operators-in-wavelet-coordinates-2004",
+    "title": "Computation of operators in wavelet coordinates",
+    "year": 2004,
+    "description": "Computation of operators in wavelet coordinates [slides]. 6th Minisimposium \"Topics In and Around Numerical Analysis\". KdV Institute for Mathematics. Amsterdam. October 27, 2004.",
+    "links": [
+      {
+        "label": "slides",
+        "url": "/legacy/slides/TIANA6.pdf"
+      },
+      {
+        "label": "6th Minisimposium",
+        "url": "http://staff.science.uva.nl/%7Ebrandts/UVANUM/"
+      }
+    ],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
     "cvInclude": true,
     "source": "_old_site/McGill/research.html"
   }
