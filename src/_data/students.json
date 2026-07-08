@@ -1819,7 +1819,7 @@
     ],
     "cvInclude": true,
     "source": "_old_site/McGill/index.html; cv.pdf",
-    "background": "PhD 2012, Mathematics, Indiana University Bloomington; now at McMaster",
+    "background": "PhD 2012, Mathematics, Indiana University Bloomington",
     "period": "2012-2014",
     "year": 2014,
     "nowAt": {
@@ -1843,7 +1843,7 @@
     ],
     "cvInclude": true,
     "source": "_old_site/McGill/index.html; cv.pdf",
-    "background": "PhD 2012, Applied Mathematics, Catania; now at Calabria/Trieste",
+    "background": "PhD 2012, Applied Mathematics, Catania",
     "period": "2012-2013",
     "year": 2013
   },
