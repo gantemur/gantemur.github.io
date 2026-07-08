@@ -5,7 +5,7 @@ permalink: /software/
 ---
 
 <h1>Software</h1>
-<p class="lede narrow">Selected software and computational projects are listed here as curated links. <em>Sol</em> is a separate collection of lightweight computational tools.</p>
+<p class="lede narrow">Selected standalone software projects and computational tools.</p>
 
 <div class="stack">
   {% for item in software %}
@@ -14,7 +14,17 @@ permalink: /software/
       <p>{{ item.description }}</p>
       <p class="meta">Languages: {{ item | languages }}.</p>
       {% if item.url %}
-        <p><a href="{{ item.url }}">Link</a></p>
+        <p><a href="{{ item.url }}">Project page</a></p>
+      {% endif %}
+      {% if item.links and item.links.length %}
+        <ul class="plain-list compact-list">
+          {% for link in item.links %}
+            <li>
+              <a href="{{ link.url }}">{{ link.label }}</a>
+              {% if link.description %}<span>{{ link.description }}</span>{% endif %}
+            </li>
+          {% endfor %}
+        </ul>
       {% endif %}
     </section>
   {% endfor %}

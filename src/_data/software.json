@@ -2,62 +2,77 @@
   {
     "id": "sol",
     "name": "Sol",
-    "kind": "separate-project",
-    "description": "A separate collection for lightweight computational tools, visual demonstrations, calendars, and small mathematical applications. This homepage acts as a map rather than a container for those tools.",
-    "status": "separate project",
-    "languages": [
-      "en"
-    ],
-    "cvInclude": false,
-    "source": "project boundary from homepage planning"
-  },
-  {
-    "id": "hamiltonian-lgt-quantum-simulation",
-    "name": "Hamiltonian LGT and quantum simulation explorations",
-    "kind": "project-link",
-    "description": "Computational experiments related to Hamiltonian lattice gauge theory and quantum simulation.",
-    "status": "separate project",
-    "languages": [
-      "en"
-    ],
-    "cvInclude": false,
-    "source": "homepage planning"
-  },
-  {
-    "id": "mongolian-calendar",
-    "name": "Mongolian calendar computation",
-    "kind": "tool-link",
-    "description": "Calendar-computation material belongs outside this homepage and can be linked here as a separate project.",
+    "kind": "tool-collection",
+    "description": "A separate collection of lightweight scientific and computational web tools, including planetary-model animations and small educational calculators.",
+    "url": "https://gantemur.github.io/sol/",
     "status": "separate project",
     "languages": [
       "en",
       "mn"
     ],
+    "links": [
+      {
+        "label": "Ptolemaic planetary models",
+        "url": "https://gantemur.github.io/sol/tools/planets-en/",
+        "description": "English planetary and Ptolemaic model animations."
+      },
+      {
+        "label": "Гаригуудын загвар",
+        "url": "https://gantemur.github.io/sol/tools/planets-mn/",
+        "description": "Mongolian planetary and Ptolemaic model animations."
+      },
+      {
+        "label": "Doppler effect",
+        "url": "https://gantemur.github.io/sol/tools/doppler/",
+        "description": "Mongolian canvas demonstrations for sound and light Doppler effects."
+      },
+      {
+        "label": "Kinetic particle toy",
+        "url": "https://gantemur.github.io/sol/tools/kinetic/",
+        "description": "Mongolian educational animation for particles, wind, and waves."
+      },
+      {
+        "label": "Armature calculator",
+        "url": "https://gantemur.github.io/sol/tools/armatur/",
+        "description": "A reinforcing-bar cutting calculator."
+      }
+    ],
     "cvInclude": false,
-    "source": "homepage planning"
+    "source": "https://gantemur.github.io/sol/"
   },
   {
-    "id": "illustrative-simulations",
-    "name": "Illustrative simulations",
-    "kind": "external-project-link",
-    "description": "A curated pointer to illustrative simulations and animations kept outside the main homepage.",
+    "id": "caltib",
+    "name": "caltib",
+    "kind": "library",
+    "description": "A Python library and web laboratory for high-precision Tibetan calendrical mathematics, historical traditions, reform models, diagnostics, and interactive calendar generation.",
+    "url": "https://gantemur.github.io/caltib/",
     "status": "separate project",
     "languages": [
       "en"
     ],
-    "cvInclude": false,
-    "source": "_old_site/McGill/index.html"
-  },
-  {
-    "id": "ancient-planetary-models",
-    "name": "Ancient planetary models",
-    "kind": "animation-link",
-    "description": "Animations and notes related to ancient planetary models, kept as a separate computational or historical project.",
-    "status": "separate project",
-    "languages": [
-      "en"
+    "links": [
+      {
+        "label": "Live web calendar",
+        "url": "https://gantemur.github.io/caltib/app.html",
+        "description": "Interactive localized calendar generator."
+      },
+      {
+        "label": "Diagnostics lab",
+        "url": "https://gantemur.github.io/caltib/diag.html",
+        "description": "Tools for drift and reform diagnostics."
+      },
+      {
+        "label": "API reference",
+        "url": "https://gantemur.github.io/caltib/api/",
+        "description": "Generated API documentation."
+      },
+      {
+        "label": "GitHub repository",
+        "url": "https://github.com/gantemur/caltib",
+        "description": "Source code for the library."
+      }
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/index.html"
+    "source": "https://gantemur.github.io/caltib/"
   }
 ]

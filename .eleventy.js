@@ -18,6 +18,23 @@ module.exports = function (eleventyConfig) {
     return item.language || "";
   });
 
+  eleventyConfig.addFilter("studentRelationships", function (items, relationships) {
+    if (!Array.isArray(items)) return [];
+    const wanted = new Set(String(relationships).split(",").map((item) => item.trim()));
+    return items.filter((item) => item && wanted.has(item.relationship));
+  });
+
+  eleventyConfig.addFilter("byStudentYear", function (items) {
+    if (!Array.isArray(items)) return [];
+    const sortYear = (item) => {
+      if (Number.isFinite(Number(item.year))) return Number(item.year);
+      if (String(item.status || "").toLowerCase().includes("current")) return Number.POSITIVE_INFINITY;
+      const match = String(item.period || "").match(/(\d{4})(?!.*\d{4})/);
+      return match ? Number(match[1]) : 0;
+    };
+    return [...items].sort((a, b) => sortYear(b) - sortYear(a) || String(a.name || "").localeCompare(String(b.name || "")));
+  });
+
   return {
     dir: {
       input: "src",

@@ -4,7 +4,7 @@
     "name": "Seth Taylor",
     "relationship": "doctoral-student",
     "degree": "PhD",
-    "topic": "Numerical analysis",
+    "topic": "Lie group integrators",
     "status": "current or recent",
     "coSupervisors": [
       "Nave"
@@ -19,7 +19,9 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html; ActivityReport2022-2024",
+    "period": "2020-2025",
+    "year": 2025
   },
   {
     "id": "vladmir-sicca-goncalves-phd-2022",
@@ -42,7 +44,8 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html; ActivityReport2022",
+    "period": "2017-2022"
   },
   {
     "id": "ibrahim-al-balushi-phd-2020",
@@ -62,11 +65,11 @@
   },
   {
     "id": "marc-mekhanik-msc-",
-    "name": "Marc Mekhanik",
+    "name": "Marc Mehanik",
     "relationship": "masters-student",
     "degree": "MSc",
-    "topic": "Numerical analysis",
-    "status": "current or recent",
+    "topic": "Neural networks for PDEs",
+    "status": "completed",
     "coSupervisors": [
       "Choksi"
     ],
@@ -80,7 +83,9 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html; ActivityReport2022-2023",
+    "period": "2022-2023",
+    "year": 2023
   },
   {
     "id": "pauline-lelandais-msc-2022",
@@ -96,7 +101,8 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html; ActivityReport2022",
+    "period": "2020-2022"
   },
   {
     "id": "karim-elmallakh-msc-2022",
@@ -119,7 +125,8 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html; ActivityReport2022",
+    "period": "2020-2022"
   },
   {
     "id": "seth-taylor-msc-2020",
@@ -299,7 +306,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2022,
-    "topic": "Summer research 2022, Quantum computation",
+    "topic": "Quantum computation",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -307,7 +314,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Summer research"
   },
   {
     "id": "yanghao-zhou-undergraduate-2022",
@@ -315,7 +323,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2022,
-    "topic": "Summer research 2022, Differential geometry",
+    "topic": "Differential geometry",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -323,7 +331,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Summer research"
   },
   {
     "id": "tomer-moran-undergraduate-2022",
@@ -331,7 +340,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2022,
-    "topic": "Honours research project 2022, Calculus of variations",
+    "topic": "Calculus of variations",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -339,7 +348,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Honours research project"
   },
   {
     "id": "antoine-laporte-undergraduate-2022",
@@ -347,7 +357,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2022,
-    "topic": "Honours research project 2022, Navier-Stokes equations",
+    "topic": "Navier-Stokes equations",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -355,7 +365,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Honours research project"
   },
   {
     "id": "samuel-zeitler-undergraduate-2022",
@@ -363,7 +374,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2022,
-    "topic": "Honours research project 2022, Einstein constraint problem",
+    "topic": "Einstein constraint problem",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -371,7 +382,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Honours research project"
   },
   {
     "id": "john-bei-undergraduate-2021",
@@ -379,7 +391,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2021,
-    "topic": "Honours research project 2021, Perfectly matched layers",
+    "topic": "Perfectly matched layers",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -387,7 +399,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Honours research project"
   },
   {
     "id": "hanghui-di-undergraduate-2021",
@@ -395,7 +408,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2021,
-    "topic": "Honours research project 2021, Neural networks for solving PDEs",
+    "topic": "Neural networks for solving PDEs",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -403,7 +416,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Honours research project"
   },
   {
     "id": "jonathan-carr-undergraduate-2021",
@@ -411,7 +425,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2021,
-    "topic": "Summer research 2021, Quantifying quantum entanglement",
+    "topic": "Quantifying quantum entanglement",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -419,7 +433,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Summer research"
   },
   {
     "id": "noah-nicodemo-undergraduate-2021",
@@ -427,7 +442,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2021,
-    "topic": "Summer research 2021, Classical lattice gauge theory",
+    "topic": "Classical lattice gauge theory",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -435,7 +450,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Summer research"
   },
   {
     "id": "ioan-dobas-undergraduate-2021",
@@ -443,7 +459,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2021,
-    "topic": "Summer research 2021, Wildfire smoke distribution",
+    "topic": "Wildfire smoke distribution",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -451,7 +467,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Summer research"
   },
   {
     "id": "viktor-pavlovic-undergraduate-2021",
@@ -459,7 +476,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2021,
-    "topic": "Summer research 2021, Data assimilation in fluid mechanics",
+    "topic": "Data assimilation in fluid mechanics",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -467,7 +484,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Summer research"
   },
   {
     "id": "shereen-elaidi-undergraduate-2020",
@@ -475,7 +493,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2020,
-    "topic": "Summer research 2020, Wave equation in cosmological spacetimes",
+    "topic": "Wave equation in cosmological spacetimes",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -483,7 +501,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Summer research"
   },
   {
     "id": "selim-amar-undergraduate-2020",
@@ -504,7 +523,9 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "award": "ISM",
+    "kind": "Summer research"
   },
   {
     "id": "noah-nicodemo-undergraduate-2020",
@@ -512,7 +533,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2020,
-    "topic": "Summer research 2020, Geometric discrteization of evolution equations",
+    "topic": "Geometric discretization of evolution equations",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -520,7 +541,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Summer research"
   },
   {
     "id": "stephen-fay-undergraduate-2020",
@@ -528,7 +550,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2020,
-    "topic": "Summer research 2020, Lie groups and differential equations",
+    "topic": "Lie groups and differential equations",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -536,7 +558,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Summer research"
   },
   {
     "id": "dima-yakimenko-undergraduate-2020",
@@ -544,7 +567,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2020,
-    "topic": "CEGEP student research project 2020, Relativity paradoxes",
+    "topic": "Relativity paradoxes",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -552,7 +575,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "CEGEP student research project"
   },
   {
     "id": "zachary-tremblay-undergraduate-2020",
@@ -560,7 +584,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2020,
-    "topic": "CEGEP student research project 2020, Relativity paradoxes",
+    "topic": "Relativity paradoxes",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -568,7 +592,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "CEGEP student research project"
   },
   {
     "id": "francis-clavette-undergraduate-2020",
@@ -576,7 +601,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2020,
-    "topic": "CEGEP student research project 2020, From square roots to Newton-Raphson",
+    "topic": "From square roots to Newton-Raphson",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -584,7 +609,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "CEGEP student research project"
   },
   {
     "id": "vincent-theberge-undergraduate-2020",
@@ -592,7 +618,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2020,
-    "topic": "CEGEP student research project 2020, From square roots to Newton-Raphson",
+    "topic": "From square roots to Newton-Raphson",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -600,7 +626,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "CEGEP student research project"
   },
   {
     "id": "pauline-lelandais-undergraduate-2019",
@@ -608,7 +635,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2019,
-    "topic": "Honours research project 2019, Inverse problems in underwater acoustics",
+    "topic": "Inverse problems in underwater acoustics",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -616,7 +643,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Honours research project"
   },
   {
     "id": "karim-elmallakh-undergraduate-2019",
@@ -624,7 +652,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2019,
-    "topic": "Honours research project 2019, Differential equations on fractals",
+    "topic": "Differential equations on fractals",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -632,7 +660,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Honours research project"
   },
   {
     "id": "benjamin-langer-undergraduate-2019",
@@ -640,7 +669,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2019,
-    "topic": "Honours research project 2019, A topic in functional analysis",
+    "topic": "A topic in functional analysis",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -648,7 +677,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Honours research project"
   },
   {
     "id": "hugo-latourelle-vigeant-undergraduate-2019",
@@ -656,7 +686,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2019,
-    "topic": "Summer research 2019, Elliptic functions and integrals",
+    "topic": "Elliptic functions and integrals",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -664,7 +694,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Summer research"
   },
   {
     "id": "leo-kim-undergraduate-2019",
@@ -672,7 +703,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2019,
-    "topic": "Summer research 2019, Regge calculus",
+    "topic": "Regge calculus",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -680,7 +711,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Summer research"
   },
   {
     "id": "jonah-saks-undergraduate-2019",
@@ -688,7 +720,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2019,
-    "topic": "Summer research 2019, Prime number distribution",
+    "topic": "Prime number distribution",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -696,7 +728,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Summer research"
   },
   {
     "id": "artiom-matvei-undergraduate-2019",
@@ -717,7 +750,9 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "award": "NSERC USRA",
+    "kind": "Summer research"
   },
   {
     "id": "amanda-gu-undergraduate-2019",
@@ -725,7 +760,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2019,
-    "topic": "Independent study 2019, Functional analysis",
+    "topic": "Functional analysis",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -733,7 +768,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Independent study"
   },
   {
     "id": "eric-metzger-undergraduate-2019",
@@ -741,7 +777,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2019,
-    "topic": "Independent study 2019, Functional analysis",
+    "topic": "Functional analysis",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -749,7 +785,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Independent study"
   },
   {
     "id": "dominic-petti-undergraduate-2019",
@@ -757,7 +794,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2019,
-    "topic": "Independent study 2019, Functional analysis",
+    "topic": "Functional analysis",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -765,7 +802,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Independent study"
   },
   {
     "id": "zheng-wu-undergraduate-2019",
@@ -773,7 +811,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2019,
-    "topic": "Independent study 2019, Functional analysis",
+    "topic": "Functional analysis",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -781,7 +819,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Independent study"
   },
   {
     "id": "shenshun-yao-undergraduate-2019",
@@ -789,7 +828,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2019,
-    "topic": "Independent study 2019, Functional analysis",
+    "topic": "Functional analysis",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -797,7 +836,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Independent study"
   },
   {
     "id": "jing-ning-undergraduate-2019",
@@ -805,7 +845,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2019,
-    "topic": "Undergraduate research project 2019, Mathematical models of neurons",
+    "topic": "Mathematical models of neurons",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -813,7 +853,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Undergraduate research project"
   },
   {
     "id": "justin-legrand-undergraduate-2019",
@@ -821,7 +862,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2019,
-    "topic": "CEGEP student research project 2019, Computation of pi",
+    "topic": "Computation of pi",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -829,7 +870,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "CEGEP student research project"
   },
   {
     "id": "apolline-bard-undergraduate-2018",
@@ -837,7 +879,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2018,
-    "topic": "Undergraduate research project 2018, Data assimilation methods for dynamical systems",
+    "topic": "Data assimilation methods for dynamical systems",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -845,7 +887,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Undergraduate research project"
   },
   {
     "id": "nathaniel-leitao-undergraduate-2017",
@@ -853,7 +896,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2017,
-    "topic": "Honours research project 2017, Cauchy problem in general relativity",
+    "topic": "Cauchy problem in general relativity",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -861,7 +904,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Honours research project"
   },
   {
     "id": "tracey-nilsen-ames-undergraduate-2017",
@@ -869,7 +913,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2017,
-    "topic": "Undergraduate research project 2017, Perfectly matched layers for gravitational waves",
+    "topic": "Perfectly matched layers for gravitational waves",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -877,7 +921,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Undergraduate research project"
   },
   {
     "id": "jia-lu-undergraduate-2016",
@@ -885,7 +930,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2016,
-    "topic": "Undergraduate research project 2016, Near wall models of turbulent flows",
+    "topic": "Near wall models of turbulent flows",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -893,7 +938,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Undergraduate research project"
   },
   {
     "id": "remmelt-amerlaan-undergraduate-2016",
@@ -901,7 +947,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2016,
-    "topic": "Honours research project 2016, Discrete exterior calculus",
+    "topic": "Discrete exterior calculus",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -909,7 +955,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Honours research project"
   },
   {
     "id": "valentin-duruisseaux-undergraduate-2016",
@@ -917,7 +964,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2016,
-    "topic": "Honours research project 2016, Symplectic integrators",
+    "topic": "Symplectic integrators",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -925,7 +972,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Honours research project"
   },
   {
     "id": "xuan-dai-undergraduate-2016",
@@ -933,7 +981,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2016,
-    "topic": "Summer research 2016, Lie group methods in differential equations",
+    "topic": "Lie group methods in differential equations",
     "status": "completed",
     "coSupervisors": [
       "Wan"
@@ -948,7 +996,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Summer research"
   },
   {
     "id": "nicolas-fortier-undergraduate-2016",
@@ -956,7 +1005,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2016,
-    "topic": "Summer research 2016, Computer verification of the Riemann hypothesis",
+    "topic": "Computer verification of the Riemann hypothesis",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -964,7 +1013,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Summer research"
   },
   {
     "id": "alex-lague-undergraduate-2016",
@@ -985,7 +1035,9 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "award": "NSERC USRA",
+    "kind": "Summer research"
   },
   {
     "id": "guillaume-feigna-undergraduate-2016",
@@ -993,7 +1045,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2016,
-    "topic": "Summer internship 2016, Adaptive mixed finite element methods",
+    "topic": "Adaptive mixed finite element methods",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -1001,7 +1053,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Summer internship"
   },
   {
     "id": "tian-xia-undergraduate-2016",
@@ -1009,7 +1062,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2016,
-    "topic": "Summer research 2016, Adaptive ODE integrators",
+    "topic": "Adaptive ODE integrators",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -1017,7 +1070,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Summer research"
   },
   {
     "id": "woo-jin-jang-undergraduate-2016",
@@ -1025,7 +1079,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2016,
-    "topic": "Summer research 2016, Probabilistic analysis of Gaussian elimination",
+    "topic": "Probabilistic analysis of Gaussian elimination",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -1033,7 +1087,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Summer research"
   },
   {
     "id": "erick-schultz-undergraduate-2015",
@@ -1054,7 +1109,9 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "award": "NSERC USRA",
+    "kind": "Summer research"
   },
   {
     "id": "serena-mcdonnell-undergraduate-2014",
@@ -1062,7 +1119,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2014,
-    "topic": "Independent study 2014, Technical analysis in financial markets",
+    "topic": "Technical analysis in financial markets",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -1070,7 +1127,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Independent study"
   },
   {
     "id": "david-kleiman-undergraduate-2014",
@@ -1078,7 +1136,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2014,
-    "topic": "Honours research project 2014, Mechanical properties of Möbius bands",
+    "topic": "Mechanical properties of Mobius bands",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -1086,7 +1144,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Honours research project"
   },
   {
     "id": "raphael-hebert-undergraduate-2013",
@@ -1094,7 +1153,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2013,
-    "topic": "Honours independent study 2013, Geometry of surfaces",
+    "topic": "Geometry of surfaces",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -1102,7 +1161,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Honours independent study"
   },
   {
     "id": "aditya-kumar-undergraduate-2013",
@@ -1110,7 +1170,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2013,
-    "topic": "Honours thesis 2013, Density functional theory",
+    "topic": "Density functional theory",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -1118,7 +1178,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Honours thesis"
   },
   {
     "id": "mashbat-suzuki-undergraduate-2012",
@@ -1126,7 +1187,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2012,
-    "topic": "Summer research 2012, Randomness in general relativity",
+    "topic": "Randomness in general relativity",
     "status": "completed",
     "coSupervisors": [
       "Chen and  Jakobson"
@@ -1149,7 +1210,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Summer research"
   },
   {
     "id": "olivier-ouelette-undergraduate-2012",
@@ -1157,7 +1219,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2012,
-    "topic": "Summer research 2012, Sobolev spaces",
+    "topic": "Sobolev spaces",
     "status": "completed",
     "coSupervisors": [
       "Chen and  Jakobson"
@@ -1176,7 +1238,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Summer research"
   },
   {
     "id": "antony-della-vecchia-undergraduate-2012",
@@ -1197,7 +1260,9 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "award": "NSERC USRA",
+    "kind": "Summer research"
   },
   {
     "id": "spencer-frei-undergraduate-2012",
@@ -1228,7 +1293,9 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "award": "ISM",
+    "kind": "Summer research"
   },
   {
     "id": "ryan-sicilliano-undergraduate-2012",
@@ -1236,7 +1303,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2012,
-    "topic": "Independent study 2012, Hodgkin-Huxley model and its numerics",
+    "topic": "Hodgkin-Huxley model and its numerics",
     "status": "completed",
     "coSupervisors": [],
     "links": [
@@ -1253,7 +1320,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Independent study"
   },
   {
     "id": "zhe-chen-undergraduate-2011",
@@ -1284,7 +1352,9 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "award": "ISM",
+    "kind": "Summer research"
   },
   {
     "id": "joshua-lackman-undergraduate-2011",
@@ -1292,7 +1362,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2011,
-    "topic": "Summer research 2011, Nonlinear elliptic equations",
+    "topic": "Nonlinear elliptic equations",
     "status": "completed",
     "coSupervisors": [],
     "links": [
@@ -1305,7 +1375,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "kind": "Summer research"
   },
   {
     "id": "robert-gibson-undergraduate-2010",
@@ -1336,7 +1407,9 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html",
+    "award": "ISM",
+    "kind": "Summer research"
   },
   {
     "id": "writing-mean-curvature-flow-73",
@@ -1571,5 +1644,216 @@
     ],
     "cvInclude": false,
     "source": "_old_site/McGill/students.html"
+  },
+  {
+    "id": "david-le-nir-undergraduate-2022",
+    "name": "David Le Nir",
+    "relationship": "undergraduate-project",
+    "degree": "Undergraduate",
+    "year": 2022,
+    "topic": "Proca equations",
+    "status": "completed",
+    "supervision": "co-supervision",
+    "coSupervisors": [],
+    "links": [],
+    "languages": [
+      "en"
+    ],
+    "cvInclude": false,
+    "source": "ActivityReport2022",
+    "kind": "Honours research project"
+  },
+  {
+    "id": "andrew-zeng-undergraduate-2024-honours",
+    "name": "Andrew Zeng",
+    "relationship": "undergraduate-project",
+    "degree": "Undergraduate",
+    "year": 2024,
+    "topic": "Gravitational collapse",
+    "status": "completed",
+    "supervision": "sole",
+    "coSupervisors": [],
+    "links": [],
+    "languages": [
+      "en"
+    ],
+    "cvInclude": false,
+    "source": "ActivityReport2024",
+    "kind": "Honours research project"
+  },
+  {
+    "id": "andrew-zeng-undergraduate-2024-research-trainee",
+    "name": "Andrew Zeng",
+    "relationship": "undergraduate-project",
+    "degree": "Undergraduate",
+    "year": 2024,
+    "topic": "Gauge theory",
+    "status": "completed",
+    "supervision": "sole",
+    "coSupervisors": [],
+    "links": [],
+    "languages": [
+      "en"
+    ],
+    "cvInclude": false,
+    "source": "ActivityReport2024",
+    "kind": "Research trainee"
+  },
+  {
+    "id": "lizhen-zhang-postdoctoral-fellow-2025",
+    "name": "Lizhen Zhang",
+    "relationship": "postdoctoral-fellow",
+    "degree": "Postdoctoral fellow",
+    "year": 2027,
+    "period": "2025-2027",
+    "status": "current or recent",
+    "supervision": "co-supervision",
+    "funding": "NSERC",
+    "coSupervisors": [
+      "Ming Mei"
+    ],
+    "links": [],
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "ActivityReport2025",
+    "coAdvisorLabel": "Ming Mei",
+    "background": "PhD 2025, Mathematics, Shanghai Jiao Tong University"
+  },
+  {
+    "id": "bayarsaikhan-altankhuu-phd-current",
+    "name": "Bayarsaikhan Altankhuu",
+    "relationship": "doctoral-student",
+    "degree": "PhD",
+    "topic": "Continuous data assimilation",
+    "status": "current",
+    "coSupervisors": [],
+    "links": [],
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "user update 2026-07-08",
+    "yearLabel": "current"
+  },
+  {
+    "id": "yann-meing-law-postdoctoral-fellow",
+    "name": "Yann-Meing Law",
+    "relationship": "postdoctoral-fellow",
+    "degree": "Postdoctoral fellow",
+    "status": "past",
+    "coSupervisors": [
+      "Nave"
+    ],
+    "links": [],
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/index.html",
+    "background": "PhD 2018, Applied Mathematics, Ecole Polytechnique de Montreal"
+  },
+  {
+    "id": "rohit-jain-postdoctoral-fellow",
+    "name": "Rohit Jain",
+    "relationship": "postdoctoral-fellow",
+    "degree": "Postdoctoral fellow",
+    "status": "past",
+    "coSupervisors": [
+      "Choksi"
+    ],
+    "links": [],
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/index.html",
+    "background": "PhD 2016, Mathematics, UT Austin"
+  },
+  {
+    "id": "andy-wan-postdoctoral-fellow",
+    "name": "Andy Wan",
+    "relationship": "postdoctoral-fellow",
+    "degree": "Postdoctoral fellow",
+    "status": "past",
+    "coSupervisors": [
+      "Nave"
+    ],
+    "links": [],
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/index.html",
+    "background": "PhD 2014, Applied Mathematics, Ecole Polytechnique de Montreal"
+  },
+  {
+    "id": "ihsan-topaloglu-postdoctoral-fellow",
+    "name": "Ihsan Topaloglu",
+    "relationship": "postdoctoral-fellow",
+    "degree": "Postdoctoral fellow",
+    "status": "past",
+    "coSupervisors": [
+      "Choksi"
+    ],
+    "links": [],
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/index.html",
+    "background": "PhD 2012, Mathematics, Indiana University Bloomington"
+  },
+  {
+    "id": "nella-rotundo-postdoctoral-fellow",
+    "name": "Nella Rotundo",
+    "relationship": "postdoctoral-fellow",
+    "degree": "Postdoctoral fellow",
+    "status": "past",
+    "coSupervisors": [
+      "Fried"
+    ],
+    "links": [],
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/index.html",
+    "background": "PhD 2012, Applied Mathematics, Catania"
+  },
+  {
+    "id": "boldsaikhan-bolorkhuu-research-trainee-2026",
+    "name": "Boldsaikhan Bolorkhuu",
+    "relationship": "undergraduate-project",
+    "degree": "Undergraduate",
+    "year": 2026,
+    "topic": "Neural network approximation",
+    "status": "completed",
+    "coSupervisors": [],
+    "links": [],
+    "languages": [
+      "en"
+    ],
+    "cvInclude": false,
+    "source": "user update 2026-07-08",
+    "kind": "Research trainee"
+  },
+  {
+    "id": "sevag-ghazarian-research-trainee-2026",
+    "name": "Sevag Ghazarian",
+    "relationship": "undergraduate-project",
+    "degree": "Undergraduate",
+    "year": 2026,
+    "topic": "Lattice quantum models",
+    "status": "completed",
+    "coSupervisors": [],
+    "links": [],
+    "languages": [
+      "en"
+    ],
+    "cvInclude": false,
+    "source": "user update 2026-07-08",
+    "kind": "Summer research"
   }
 ]

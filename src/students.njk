@@ -9,7 +9,9 @@ permalink: /students/
 
 {% set doctoral = students | where("relationship", "doctoral-student") %}
 {% set masters = students | where("relationship", "masters-student") %}
-{% set undergraduate = students | where("relationship", "undergraduate-project") %}
+{% set graduate = students | studentRelationships("doctoral-student,masters-student") | byStudentYear %}
+{% set postdoctoral = students | where("relationship", "postdoctoral-fellow") | byStudentYear %}
+{% set undergraduate = students | where("relationship", "undergraduate-project") | byStudentYear %}
 {% set writings = students | where("relationship", "student-writing") %}
 
 <section class="rule-section">
@@ -21,59 +23,104 @@ permalink: /students/
       <th>Degree</th>
       <th>Year</th>
       <th>Topic</th>
-      <th>Status</th>
-      <th>Lang.</th>
+      <th>Co-supervisors</th>
     </tr>
   </thead>
   <tbody>
-    {% for student in doctoral %}
+    {% for student in graduate %}
       <tr>
         <td>{{ student.name }}</td>
         <td>{{ student.degree }}</td>
-        <td>{{ student.year or "" }}</td>
+        <td>{{ student.yearLabel or student.year or "" }}</td>
         <td>{{ student.topic }}</td>
-        <td>{{ student.status }}</td>
-        <td>{{ student | languages }}</td>
-      </tr>
-    {% endfor %}
-    {% for student in masters %}
-      <tr>
-        <td>{{ student.name }}</td>
-        <td>{{ student.degree }}</td>
-        <td>{{ student.year or "" }}</td>
-        <td>{{ student.topic }}</td>
-        <td>{{ student.status }}</td>
-        <td>{{ student | languages }}</td>
+        <td>{% if student.coSupervisors and student.coSupervisors.length %}{{ student.coSupervisors | join(", ") }}{% endif %}</td>
       </tr>
     {% endfor %}
   </tbody>
 </table>
 </section>
 
+{% if postdoctoral.length %}
+  <section class="rule-section">
+    <h2>Postdoctoral Fellows</h2>
+    <table class="data-table">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Year</th>
+          <th>Background</th>
+          <th>Co-advisor</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for fellow in postdoctoral %}
+          <tr>
+            <td>{{ fellow.name }}</td>
+            <td>{{ fellow.period or fellow.year or "" }}</td>
+            <td>{{ fellow.background or fellow.topic or "" }}</td>
+            <td>{% if fellow.coSupervisors and fellow.coSupervisors.length %}{{ fellow.coSupervisors | join(", ") }}{% endif %}</td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </section>
+{% endif %}
+
 <section class="rule-section">
-  <h2>Undergraduate Projects</h2>
-  <ul class="plain-list compact-list">
-    {% for student in undergraduate %}
-      <li>
-        <strong>{{ student.name }}</strong>
-        <span>{% if student.year %}{{ student.year }}. {% endif %}{{ student.topic }}</span>
-      </li>
-    {% endfor %}
-  </ul>
+  <h2>Undergraduate Projects and Research Trainees</h2>
+  <table class="data-table">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Year</th>
+        <th>Type</th>
+        <th>Topic</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for student in undergraduate %}
+        <tr>
+          <td>{{ student.name }}</td>
+          <td>{{ student.year or "" }}</td>
+          <td>
+            {% set typeLabel = student.kind or student.degree or "" %}
+            {{ typeLabel }}{% if student.award %} ({{ student.award }}){% endif %}
+          </td>
+          <td>
+            {% if student.links and student.links.length %}
+              <a href="{{ student.links[0].url }}">{{ student.topic }}</a>
+            {% else %}
+              {{ student.topic }}
+            {% endif %}
+          </td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
 </section>
 
 <section class="rule-section">
-  <h2>Student Writings</h2>
-  <ul class="plain-list compact-list">
-    {% for item in writings %}
-      <li>
-        {% if item.links and item.links.length %}
-          <a href="{{ item.links[0].url }}">{{ item.topic }}</a>
-        {% else %}
-          {{ item.topic }}
-        {% endif %}
-        {% if item.name %}<span>{{ item.name }}</span>{% endif %}
-      </li>
-    {% endfor %}
-  </ul>
+  <h2>Selected Student Writing</h2>
+  <table class="data-table">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Topic</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for item in writings %}
+        <tr>
+          <td>{{ item.name or "" }}</td>
+          <td>
+            {% if item.links and item.links.length %}
+              <a href="{{ item.links[0].url }}">{{ item.topic }}</a>
+            {% else %}
+              {{ item.topic }}
+            {% endif %}
+          </td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
 </section>
