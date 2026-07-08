@@ -1821,7 +1821,12 @@
     "source": "_old_site/McGill/index.html; cv.pdf",
     "background": "PhD 2012, Mathematics, Indiana University Bloomington; now at McMaster",
     "period": "2012-2014",
-    "year": 2014
+    "year": 2014,
+    "nowAt": {
+      "label": "Virginia Commonwealth University",
+      "url": "https://math.vcu.edu/directory/topaloglu.html",
+      "note": "Associate Professor"
+    }
   },
   {
     "id": "nella-rotundo-postdoctoral-fellow",
