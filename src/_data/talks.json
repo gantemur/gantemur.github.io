@@ -1,5 +1,122 @@
 [
   {
+    "id": "pde-seminar-jiangxi-normal-university-2025",
+    "title": "PDE seminar",
+    "year": 2025,
+    "description": "Jiangxi Normal University, Nanchang.",
+    "links": [],
+    "type": "invited lecture",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "cv.pdf"
+  },
+  {
+    "id": "pde-seminar-nanchang-university-2025",
+    "title": "PDE seminar",
+    "year": 2025,
+    "description": "Nanchang University, Nanchang.",
+    "links": [],
+    "type": "invited lecture",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "cv.pdf"
+  },
+  {
+    "id": "pde-seminar-inner-mongolia-university-2024",
+    "title": "PDE seminar",
+    "year": 2024,
+    "description": "Inner Mongolia University, Hohhot.",
+    "links": [],
+    "type": "invited lecture",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "cv.pdf"
+  },
+  {
+    "id": "canadian-mathematical-society-winter-meeting-2023",
+    "title": "Canadian Mathematical Society Winter Meeting",
+    "year": 2023,
+    "description": "Montreal.",
+    "links": [],
+    "type": "invited meeting",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "cv.pdf"
+  },
+  {
+    "id": "international-conference-on-computational-and-applied-mathematics-2023",
+    "title": "International Conference on Computational and Applied Mathematics",
+    "year": 2023,
+    "description": "Ulan Bator.",
+    "links": [],
+    "type": "invited meeting",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "cv.pdf"
+  },
+  {
+    "id": "international-workshop-on-mathematical-analysis-and-applications-2023",
+    "title": "International Workshop on Mathematical Analysis and Applications",
+    "year": 2023,
+    "description": "Ulan Bator.",
+    "links": [],
+    "type": "invited meeting",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "cv.pdf"
+  },
+  {
+    "id": "international-conference-on-applied-sciences-and-engineering-2023",
+    "title": "International Conference on Applied Sciences and Engineering",
+    "year": 2023,
+    "description": "Ulan Bator.",
+    "links": [],
+    "type": "invited meeting",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "cv.pdf"
+  },
+  {
+    "id": "international-conference-on-optimization-simulation-and-control-2022",
+    "title": "International Conference on Optimization, Simulation and Control",
+    "year": 2022,
+    "description": "Ulan Bator.",
+    "links": [],
+    "type": "invited meeting",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "cv.pdf"
+  },
+  {
+    "id": "international-conference-on-applied-sciences-and-engineering-2021",
+    "title": "International Conference on Applied Sciences and Engineering",
+    "year": 2021,
+    "description": "Ulan Bator.",
+    "links": [],
+    "type": "invited meeting",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "cv.pdf"
+  },
+  {
     "id": "on-convergence-of-discrete-exterior-calculus-2019",
     "title": "On convergence of discrete exterior calculus",
     "year": 2019,

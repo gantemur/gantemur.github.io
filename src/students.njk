@@ -33,7 +33,7 @@ permalink: /students/
         <td>{{ student.degree }}</td>
         <td>{{ student.yearLabel or student.year or "" }}</td>
         <td>{{ student.topic }}</td>
-        <td>{% if student.coSupervisors and student.coSupervisors.length %}{{ student.coSupervisors | join(", ") }}{% endif %}</td>
+        <td>{% if student.coSupervisors and student.coSupervisors.length %}{{ student | linkedCoSupervisors | safe }}{% endif %}</td>
       </tr>
     {% endfor %}
   </tbody>
@@ -58,7 +58,7 @@ permalink: /students/
             <td>{{ fellow.name }}</td>
             <td>{{ fellow.period or fellow.year or "" }}</td>
             <td>{{ fellow.background or fellow.topic or "" }}</td>
-            <td>{% if fellow.coSupervisors and fellow.coSupervisors.length %}{{ fellow.coSupervisors | join(", ") }}{% endif %}</td>
+            <td>{% if fellow.coSupervisors and fellow.coSupervisors.length %}{{ fellow | linkedCoSupervisors | safe }}{% endif %}</td>
           </tr>
         {% endfor %}
       </tbody>
@@ -67,7 +67,7 @@ permalink: /students/
 {% endif %}
 
 <section class="rule-section">
-  <h2>Undergraduate Projects and Research Trainees</h2>
+  <h2>Undergraduate Trainees</h2>
   <table class="data-table">
     <thead>
       <tr>

@@ -4,8 +4,8 @@
     "name": "Seth Taylor",
     "relationship": "doctoral-student",
     "degree": "PhD",
-    "topic": "Lie group integrators",
-    "status": "current or recent",
+    "topic": "Geometric integration",
+    "status": "completed",
     "coSupervisors": [
       "Nave"
     ],
@@ -19,8 +19,8 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/students.html; ActivityReport2022-2024",
-    "period": "2020-2025",
+    "source": "_old_site/McGill/students.html; ActivityReport2022-2024; cv.pdf",
+    "period": "2021-2025",
     "year": 2025
   },
   {
@@ -29,7 +29,7 @@
     "relationship": "doctoral-student",
     "degree": "PhD",
     "year": 2022,
-    "topic": "Conformal geometry",
+    "topic": "Einstein constraint equations",
     "status": "completed",
     "coSupervisors": [
       "Vétois"
@@ -44,8 +44,8 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/students.html; ActivityReport2022",
-    "period": "2017-2022"
+    "source": "_old_site/McGill/students.html; ActivityReport2022; cv.pdf",
+    "period": "2019-2022"
   },
   {
     "id": "ibrahim-al-balushi-phd-2020",
@@ -61,14 +61,15 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html; cv.pdf",
+    "period": "2013-2020"
   },
   {
     "id": "marc-mekhanik-msc-",
-    "name": "Marc Mehanik",
+    "name": "Marc Mekhanik",
     "relationship": "masters-student",
     "degree": "MSc",
-    "topic": "Neural networks for PDEs",
+    "topic": "Deep learning and PDE",
     "status": "completed",
     "coSupervisors": [
       "Choksi"
@@ -83,8 +84,8 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/students.html; ActivityReport2022-2023",
-    "period": "2022-2023",
+    "source": "_old_site/McGill/students.html; ActivityReport2022-2023; cv.pdf",
+    "period": "2021-2023",
     "year": 2023
   },
   {
@@ -93,7 +94,7 @@
     "relationship": "masters-student",
     "degree": "MSc",
     "year": 2022,
-    "topic": "Data assimilation in fluid dynamics",
+    "topic": "Data assimilation in fluid mechanics",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -101,7 +102,7 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/students.html; ActivityReport2022",
+    "source": "_old_site/McGill/students.html; ActivityReport2022; cv.pdf",
     "period": "2020-2022"
   },
   {
@@ -110,7 +111,7 @@
     "relationship": "masters-student",
     "degree": "MSc",
     "year": 2022,
-    "topic": "Laplacian on fractals",
+    "topic": "Differential operators on fractals",
     "status": "completed",
     "coSupervisors": [
       "Jakobson"
@@ -125,7 +126,7 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/students.html; ActivityReport2022",
+    "source": "_old_site/McGill/students.html; ActivityReport2022; cv.pdf",
     "period": "2020-2022"
   },
   {
@@ -149,7 +150,8 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html; cv.pdf",
+    "period": "2019-2020"
   },
   {
     "id": "hilton-maurer-msc-2020",
@@ -157,7 +159,7 @@
     "relationship": "masters-student",
     "degree": "MSc",
     "year": 2020,
-    "topic": "Elliptic equations",
+    "topic": "Semilinear elliptic systems",
     "status": "completed",
     "coSupervisors": [
       "Vétois"
@@ -172,7 +174,8 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html; cv.pdf",
+    "period": "2017-2020"
   },
   {
     "id": "philippe-blain-msc-2018",
@@ -195,7 +198,8 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html; cv.pdf",
+    "period": "2016-2018"
   },
   {
     "id": "erick-schulz-msc-2017",
@@ -211,7 +215,8 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html; cv.pdf",
+    "period": "2016-2017"
   },
   {
     "id": "mashbat-suzuki-msc-2015",
@@ -234,7 +239,8 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html; cv.pdf",
+    "period": "2014-2015"
   },
   {
     "id": "joshua-lackman-msc-2015",
@@ -242,7 +248,7 @@
     "relationship": "masters-student",
     "degree": "MSc",
     "year": 2015,
-    "topic": "Einstein constraints",
+    "topic": "Non-CMC solutions of the Einstein constraint equations",
     "status": "completed",
     "coSupervisors": [
       "Mei"
@@ -257,7 +263,8 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html; cv.pdf",
+    "period": "2013-2015"
   },
   {
     "id": "ibrahim-al-balushi-msc-2013",
@@ -265,7 +272,7 @@
     "relationship": "masters-student",
     "degree": "MSc",
     "year": 2013,
-    "topic": "Compressed sensing",
+    "topic": "Compressed sensing in infinite dimensions",
     "status": "completed",
     "coSupervisors": [],
     "links": [],
@@ -273,7 +280,8 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html; cv.pdf",
+    "period": "2011-2013"
   },
   {
     "id": "alexandra-tcheng-msc-2011",
@@ -298,7 +306,8 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/students.html"
+    "source": "_old_site/McGill/students.html; cv.pdf",
+    "period": "2009-2011"
   },
   {
     "id": "meron-seyoum-undergraduate-2022",
@@ -1687,7 +1696,7 @@
     "relationship": "undergraduate-project",
     "degree": "Undergraduate",
     "year": 2024,
-    "topic": "Gauge theory",
+    "topic": "Classical lattice gauge theory",
     "status": "completed",
     "supervision": "sole",
     "coSupervisors": [],
@@ -1696,8 +1705,8 @@
       "en"
     ],
     "cvInclude": false,
-    "source": "ActivityReport2024",
-    "kind": "Research trainee"
+    "source": "ActivityReport2024; cv.pdf",
+    "kind": "Summer research"
   },
   {
     "id": "lizhen-zhang-postdoctoral-fellow-2025",
@@ -1710,15 +1719,15 @@
     "supervision": "co-supervision",
     "funding": "NSERC",
     "coSupervisors": [
-      "Ming Mei"
+      "Mei"
     ],
     "links": [],
     "languages": [
       "en"
     ],
     "cvInclude": true,
-    "source": "ActivityReport2025",
-    "coAdvisorLabel": "Ming Mei",
+    "source": "ActivityReport2025; cv.pdf",
+    "coAdvisorLabel": "Mei",
     "background": "PhD 2025, Mathematics, Shanghai Jiao Tong University"
   },
   {
@@ -1734,8 +1743,9 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "user update 2026-07-08",
-    "yearLabel": "current"
+    "source": "user update 2026-07-08; cv.pdf",
+    "yearLabel": "current",
+    "period": "from 2022"
   },
   {
     "id": "yann-meing-law-postdoctoral-fellow",
@@ -1751,8 +1761,10 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/index.html",
-    "background": "PhD 2018, Applied Mathematics, Ecole Polytechnique de Montreal"
+    "source": "_old_site/McGill/index.html; cv.pdf",
+    "background": "PhD 2018, Applied Mathematics, Ecole Polytechnique de Montreal",
+    "period": "2020-2021",
+    "year": 2021
   },
   {
     "id": "rohit-jain-postdoctoral-fellow",
@@ -1768,8 +1780,10 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/index.html",
-    "background": "PhD 2016, Mathematics, UT Austin"
+    "source": "_old_site/McGill/index.html; cv.pdf",
+    "background": "PhD 2016, Mathematics, UT Austin",
+    "period": "2016-2018",
+    "year": 2018
   },
   {
     "id": "andy-wan-postdoctoral-fellow",
@@ -1785,8 +1799,10 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/index.html",
-    "background": "PhD 2014, Applied Mathematics, Ecole Polytechnique de Montreal"
+    "source": "_old_site/McGill/index.html; cv.pdf",
+    "background": "PhD 2014, Applied Mathematics, Ecole Polytechnique de Montreal",
+    "period": "2016-2018",
+    "year": 2018
   },
   {
     "id": "ihsan-topaloglu-postdoctoral-fellow",
@@ -1802,8 +1818,10 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/index.html",
-    "background": "PhD 2012, Mathematics, Indiana University Bloomington"
+    "source": "_old_site/McGill/index.html; cv.pdf",
+    "background": "PhD 2012, Mathematics, Indiana University Bloomington; now at McMaster",
+    "period": "2012-2014",
+    "year": 2014
   },
   {
     "id": "nella-rotundo-postdoctoral-fellow",
@@ -1819,8 +1837,10 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/index.html",
-    "background": "PhD 2012, Applied Mathematics, Catania"
+    "source": "_old_site/McGill/index.html; cv.pdf",
+    "background": "PhD 2012, Applied Mathematics, Catania; now at Calabria/Trieste",
+    "period": "2012-2013",
+    "year": 2013
   },
   {
     "id": "boldsaikhan-bolorkhuu-research-trainee-2026",
@@ -1854,6 +1874,40 @@
     ],
     "cvInclude": false,
     "source": "user update 2026-07-08",
+    "kind": "Summer research"
+  },
+  {
+    "id": "baljmaa-byambakhand-undergraduate-2025",
+    "name": "Baljmaa Byambakhand",
+    "relationship": "undergraduate-project",
+    "degree": "Undergraduate",
+    "year": 2025,
+    "topic": "Einstein-Yang-Mills cosmology",
+    "status": "completed",
+    "coSupervisors": [],
+    "links": [],
+    "languages": [
+      "en"
+    ],
+    "cvInclude": false,
+    "source": "cv.pdf",
+    "kind": "Bachelor's thesis"
+  },
+  {
+    "id": "xinyu-huo-undergraduate-2020",
+    "name": "Xinyu Huo",
+    "relationship": "undergraduate-project",
+    "degree": "Undergraduate",
+    "year": 2020,
+    "topic": "Wave equation in cosmological spacetimes",
+    "status": "completed",
+    "coSupervisors": [],
+    "links": [],
+    "languages": [
+      "en"
+    ],
+    "cvInclude": false,
+    "source": "cv.pdf",
     "kind": "Summer research"
   }
 ]

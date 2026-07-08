@@ -7,6 +7,7 @@ dist/
 *.tmp
 *.bak
 *.swp
+tmp/
 .env
 .env.*
 _migration/
