@@ -31,7 +31,23 @@ let failures = 0;
 for (const file of requiredData) {
   const fullPath = path.join(dataDir, file);
   try {
-    JSON.parse(fs.readFileSync(fullPath, "utf8"));
+    const data = JSON.parse(fs.readFileSync(fullPath, "utf8"));
+    if (file === "students.json" && Array.isArray(data)) {
+      for (const item of data) {
+        if (!item || item.nowAt === undefined) continue;
+        if (!item.nowAt || typeof item.nowAt !== "object" || Array.isArray(item.nowAt)) {
+          throw new Error(`${item.id || item.name || "student"} nowAt must be an object`);
+        }
+        if (typeof item.nowAt.label !== "string" || item.nowAt.label.trim() === "") {
+          throw new Error(`${item.id || item.name || "student"} nowAt.label must be a non-empty string`);
+        }
+        for (const key of ["url", "note"]) {
+          if (item.nowAt[key] !== undefined && typeof item.nowAt[key] !== "string") {
+            throw new Error(`${item.id || item.name || "student"} nowAt.${key} must be a string`);
+          }
+        }
+      }
+    }
     console.log(`ok data ${file}`);
   } catch (error) {
     failures += 1;

@@ -59,6 +59,19 @@ module.exports = function (eleventyConfig) {
     return [...items].sort((a, b) => sortYear(b) - sortYear(a) || String(a.name || "").localeCompare(String(b.name || "")));
   });
 
+  eleventyConfig.addFilter("hasNowAt", function (items) {
+    return Array.isArray(items) && items.some((item) => item && item.nowAt && item.nowAt.label);
+  });
+
+  eleventyConfig.addFilter("renderNowAt", function (item) {
+    const nowAt = item && item.nowAt;
+    if (!nowAt || !nowAt.label) return '<span class="now-at-empty">-</span>';
+    const label = escapeHtml(nowAt.label);
+    const linkedLabel = nowAt.url ? `<a href="${escapeHtml(nowAt.url)}">${label}</a>` : label;
+    const note = nowAt.note ? `<span class="now-at-note">${escapeHtml(nowAt.note)}</span>` : "";
+    return `${linkedLabel}${note}`;
+  });
+
   eleventyConfig.addFilter("linkedCoSupervisors", function (item) {
     if (!item || !Array.isArray(item.coSupervisors)) return "";
     return item.coSupervisors.map((name) => {

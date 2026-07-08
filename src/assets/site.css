@@ -291,6 +291,7 @@ p {
 .data-table th,
 .data-table td {
   border-bottom: 1px solid var(--line);
+  overflow-wrap: anywhere;
   padding: 0.65rem 0.5rem 0.65rem 0;
   text-align: left;
   vertical-align: top;
@@ -302,6 +303,20 @@ p {
   font-size: 0.78rem;
   font-weight: 600;
   text-transform: uppercase;
+}
+
+.now-at-cell {
+  min-width: 8rem;
+}
+
+.now-at-empty,
+.now-at-note {
+  color: var(--muted);
+}
+
+.now-at-note {
+  display: block;
+  font-size: 0.88em;
 }
 
 .contact-list {
@@ -388,6 +403,6 @@ code {
   .data-table {
     display: block;
     overflow-x: auto;
-    white-space: nowrap;
+    white-space: normal;
   }
 }

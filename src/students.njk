@@ -13,6 +13,9 @@ permalink: /students/
 {% set postdoctoral = students | where("relationship", "postdoctoral-fellow") | byStudentYear %}
 {% set undergraduate = students | where("relationship", "undergraduate-project") | byStudentYear %}
 {% set writings = students | where("relationship", "student-writing") %}
+{% set graduateHasNowAt = graduate | hasNowAt %}
+{% set postdoctoralHasNowAt = postdoctoral | hasNowAt %}
+{% set undergraduateHasNowAt = undergraduate | hasNowAt %}
 
 <section class="rule-section">
   <h2>Graduate Students</h2>
@@ -24,6 +27,7 @@ permalink: /students/
       <th>Year</th>
       <th>Topic</th>
       <th>Co-supervisors</th>
+      {% if graduateHasNowAt %}<th>Now at</th>{% endif %}
     </tr>
   </thead>
   <tbody>
@@ -34,6 +38,7 @@ permalink: /students/
         <td>{{ student.yearLabel or student.year or "" }}</td>
         <td>{{ student.topic }}</td>
         <td>{% if student.coSupervisors and student.coSupervisors.length %}{{ student | linkedCoSupervisors | safe }}{% endif %}</td>
+        {% if graduateHasNowAt %}<td class="now-at-cell">{{ student | renderNowAt | safe }}</td>{% endif %}
       </tr>
     {% endfor %}
   </tbody>
@@ -50,6 +55,7 @@ permalink: /students/
           <th>Year</th>
           <th>Background</th>
           <th>Co-advisor</th>
+          {% if postdoctoralHasNowAt %}<th>Now at</th>{% endif %}
         </tr>
       </thead>
       <tbody>
@@ -59,6 +65,7 @@ permalink: /students/
             <td>{{ fellow.period or fellow.year or "" }}</td>
             <td>{{ fellow.background or fellow.topic or "" }}</td>
             <td>{% if fellow.coSupervisors and fellow.coSupervisors.length %}{{ fellow | linkedCoSupervisors | safe }}{% endif %}</td>
+            {% if postdoctoralHasNowAt %}<td class="now-at-cell">{{ fellow | renderNowAt | safe }}</td>{% endif %}
           </tr>
         {% endfor %}
       </tbody>
@@ -75,6 +82,7 @@ permalink: /students/
         <th>Year</th>
         <th>Type</th>
         <th>Topic</th>
+        {% if undergraduateHasNowAt %}<th>Now at</th>{% endif %}
       </tr>
     </thead>
     <tbody>
@@ -93,6 +101,7 @@ permalink: /students/
               {{ student.topic }}
             {% endif %}
           </td>
+          {% if undergraduateHasNowAt %}<td class="now-at-cell">{{ student | renderNowAt | safe }}</td>{% endif %}
         </tr>
       {% endfor %}
     </tbody>
