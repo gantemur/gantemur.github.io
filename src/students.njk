@@ -1,21 +1,42 @@
 ---
 layout: layouts/base.njk
-title: Students
-permalink: /students/
+title: Supervision and Mentoring
+permalink: /supervision/
 ---
 
-<h1>Students</h1>
-<p class="lede narrow">Selected supervision and student project records from the academic archive.</p>
+<h1>Supervision and Mentoring</h1>
+<p class="lede narrow">Selected supervision, mentoring, trainee, and student-project records.</p>
 
-{% set doctoral = students | where("relationship", "doctoral-student") %}
-{% set masters = students | where("relationship", "masters-student") %}
 {% set graduate = students | studentRelationships("doctoral-student,masters-student") | byStudentYear %}
 {% set postdoctoral = students | where("relationship", "postdoctoral-fellow") | byStudentYear %}
-{% set undergraduate = students | where("relationship", "undergraduate-project") | byStudentYear %}
+{% set allUndergraduate = students | where("relationship", "undergraduate-project") | byStudentYear %}
+{% set researchTrainees = allUndergraduate | studentKind("Research trainee") %}
+{% set undergraduate = allUndergraduate | excludeStudentKind("Research trainee") %}
 {% set writings = students | where("relationship", "student-writing") %}
 {% set graduateHasNowAt = graduate | hasNowAt %}
-{% set postdoctoralHasNowAt = postdoctoral | hasNowAt %}
+{% set researchTraineesHasNowAt = researchTrainees | hasNowAt %}
 {% set undergraduateHasNowAt = undergraduate | hasNowAt %}
+
+{% if postdoctoral.length %}
+  <section class="rule-section">
+    <h2>Postdoctoral Fellows</h2>
+    <ul class="supervision-list">
+      {% for fellow in postdoctoral %}
+        <li class="supervision-item">
+          <p><strong>{{ fellow | linkedPersonName | safe }}</strong>{% if fellow.period %}, {{ fellow.period }}{% elif fellow.year %}, {{ fellow.year }}{% endif %}.</p>
+          {% if fellow.background %}<p>{{ fellow.background }}</p>{% endif %}
+          {% if fellow.topic %}<p>{{ fellow.topic }}</p>{% endif %}
+          {% if fellow.coSupervisors and fellow.coSupervisors.length %}
+            <p><span class="supervision-label">Co-advisor:</span> {{ fellow | linkedCoSupervisors | safe }}</p>
+          {% endif %}
+          {% if fellow.nowAt and fellow.nowAt.label %}
+            <p><span class="supervision-label">Now at:</span> <span class="now-at-cell">{{ fellow | renderNowAt | safe }}</span></p>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+{% endif %}
 
 <section class="rule-section">
   <h2>Graduate Students</h2>
@@ -33,7 +54,7 @@ permalink: /students/
   <tbody>
     {% for student in graduate %}
       <tr>
-        <td>{{ student.name }}</td>
+        <td>{{ student | linkedPersonName | safe }}</td>
         <td>{{ student.degree }}</td>
         <td>{{ student.yearLabel or student.year or "" }}</td>
         <td>{{ student.topic }}</td>
@@ -45,27 +66,25 @@ permalink: /students/
 </table>
 </section>
 
-{% if postdoctoral.length %}
+{% if researchTrainees.length %}
   <section class="rule-section">
-    <h2>Postdoctoral Fellows</h2>
+    <h2>Research Trainees</h2>
     <table class="data-table">
       <thead>
         <tr>
           <th>Name</th>
           <th>Year</th>
-          <th>Background</th>
-          <th>Co-advisor</th>
-          {% if postdoctoralHasNowAt %}<th>Now at</th>{% endif %}
+          <th>Topic</th>
+          {% if researchTraineesHasNowAt %}<th>Now at</th>{% endif %}
         </tr>
       </thead>
       <tbody>
-        {% for fellow in postdoctoral %}
+        {% for trainee in researchTrainees %}
           <tr>
-            <td>{{ fellow.name }}</td>
-            <td>{{ fellow.period or fellow.year or "" }}</td>
-            <td>{{ fellow.background or fellow.topic or "" }}</td>
-            <td>{% if fellow.coSupervisors and fellow.coSupervisors.length %}{{ fellow | linkedCoSupervisors | safe }}{% endif %}</td>
-            {% if postdoctoralHasNowAt %}<td class="now-at-cell">{{ fellow | renderNowAt | safe }}</td>{% endif %}
+            <td>{{ trainee | linkedPersonName | safe }}</td>
+            <td>{{ trainee.year or "" }}</td>
+            <td>{{ trainee.topic }}</td>
+            {% if researchTraineesHasNowAt %}<td class="now-at-cell">{{ trainee | renderNowAt | safe }}</td>{% endif %}
           </tr>
         {% endfor %}
       </tbody>
@@ -88,7 +107,7 @@ permalink: /students/
     <tbody>
       {% for student in undergraduate %}
         <tr>
-          <td>{{ student.name }}</td>
+          <td>{{ student | linkedPersonName | safe }}</td>
           <td>{{ student.year or "" }}</td>
           <td>
             {% set typeLabel = student.kind or student.degree or "" %}
@@ -109,7 +128,7 @@ permalink: /students/
 </section>
 
 <section class="rule-section">
-  <h2>Selected Student Writing</h2>
+  <h2>Student Writings and Projects</h2>
   <table class="data-table">
     <thead>
       <tr>

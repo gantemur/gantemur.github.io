@@ -59,6 +59,16 @@ module.exports = function (eleventyConfig) {
     return [...items].sort((a, b) => sortYear(b) - sortYear(a) || String(a.name || "").localeCompare(String(b.name || "")));
   });
 
+  eleventyConfig.addFilter("studentKind", function (items, kind) {
+    if (!Array.isArray(items)) return [];
+    return items.filter((item) => item && item.kind === kind);
+  });
+
+  eleventyConfig.addFilter("excludeStudentKind", function (items, kind) {
+    if (!Array.isArray(items)) return [];
+    return items.filter((item) => item && item.kind !== kind);
+  });
+
   eleventyConfig.addFilter("hasNowAt", function (items) {
     return Array.isArray(items) && items.some((item) => item && item.nowAt && item.nowAt.label);
   });
@@ -67,9 +77,24 @@ module.exports = function (eleventyConfig) {
     const nowAt = item && item.nowAt;
     if (!nowAt || !nowAt.label) return '<span class="now-at-empty">-</span>';
     const label = escapeHtml(nowAt.label);
-    const linkedLabel = nowAt.url ? `<a href="${escapeHtml(nowAt.url)}">${label}</a>` : label;
     const note = nowAt.note ? `<span class="now-at-note">${escapeHtml(nowAt.note)}</span>` : "";
-    return `${linkedLabel}${note}`;
+    return `${label}${note}`;
+  });
+
+  eleventyConfig.addFilter("linkedPersonName", function (item) {
+    if (!item || !item.name) return "";
+    const normalizedName = normalizeName(item.name);
+    const profileUrl =
+      item.profileUrl ||
+      item.personUrl ||
+      item.homepageUrl ||
+      item.homepage ||
+      (Array.isArray(item.links)
+        ? (item.links.find((link) => normalizeName(link.label) === normalizedName) || {}).url
+        : null) ||
+      (item.nowAt && item.nowAt.url);
+    const label = escapeHtml(item.name);
+    return profileUrl ? `<a href="${escapeHtml(profileUrl)}">${label}</a>` : label;
   });
 
   eleventyConfig.addFilter("linkedCoSupervisors", function (item) {

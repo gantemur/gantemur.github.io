@@ -305,6 +305,27 @@ p {
   text-transform: uppercase;
 }
 
+.supervision-list {
+  display: grid;
+  gap: 1rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.supervision-item {
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 1rem;
+}
+
+.supervision-item p {
+  margin-bottom: 0.25rem;
+}
+
+.supervision-label {
+  color: var(--muted);
+}
+
 .now-at-cell {
   min-width: 8rem;
 }
@@ -404,5 +425,10 @@ code {
     display: block;
     overflow-x: auto;
     white-space: normal;
+  }
+
+  .data-table th,
+  .data-table td {
+    min-width: 7rem;
   }
 }
