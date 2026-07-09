@@ -309,6 +309,13 @@ p {
   white-space: nowrap;
 }
 
+.teaching-role-note {
+  color: var(--muted);
+  font-size: 0.86rem;
+  line-height: 1.35;
+  margin-top: 0.18rem;
+}
+
 .course-schedule td:first-child {
   white-space: nowrap;
   width: 8rem;

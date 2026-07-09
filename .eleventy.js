@@ -110,6 +110,27 @@ module.exports = function (eleventyConfig) {
     return "";
   });
 
+  eleventyConfig.addFilter("teachingRoleNote", function (course) {
+    if (!course || !course.role) return "";
+    const role = String(course.role).trim();
+    const ordinaryRoles = new Set(["instructor", "sole instructor", "lecturer", "professor"]);
+    if (ordinaryRoles.has(role.toLowerCase())) return "";
+
+    let note = escapeHtml(role);
+    if (course.roleNote) note += `; ${escapeHtml(course.roleNote)}`;
+
+    const instructor = course.instructorOfRecord;
+    if (instructor && instructor.name) {
+      const name = escapeHtml(instructor.name);
+      const lecturer = instructor.url
+        ? `<a href="${escapeHtml(instructor.url)}">${name}</a>`
+        : name;
+      note += `. Lecturer: ${lecturer}`;
+    }
+
+    return note;
+  });
+
   eleventyConfig.addFilter("studentRelationships", function (items, relationships) {
     if (!Array.isArray(items)) return [];
     const wanted = new Set(String(relationships).split(",").map((item) => item.trim()));

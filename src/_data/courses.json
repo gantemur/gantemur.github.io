@@ -1,5 +1,103 @@
 [
   {
+    "id": "mcgill-math263-winter-2027",
+    "code": "Math 263",
+    "title": "ODE for engineers",
+    "term": {
+      "label": "Winter 2027"
+    },
+    "year": 2027,
+    "institution": "McGill University",
+    "institutionShort": "McGill",
+    "role": "Instructor",
+    "level": "undergraduate",
+    "status": "scheduled",
+    "category": "course",
+    "kind": "course",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "ODE"
+    ],
+    "cvInclude": true,
+    "source": "user-scheduled"
+  },
+  {
+    "id": "mcgill-math595-winter-2027",
+    "code": "Math 595",
+    "title": "Rigorous and computational aspects of lattice QFT",
+    "term": {
+      "label": "Winter 2027"
+    },
+    "year": 2027,
+    "institution": "McGill University",
+    "institutionShort": "McGill",
+    "role": "Instructor",
+    "level": "graduate",
+    "status": "scheduled",
+    "category": "course",
+    "kind": "course",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "QFT",
+      "mathematical physics"
+    ],
+    "cvInclude": true,
+    "source": "user-scheduled"
+  },
+  {
+    "id": "mcgill-math271-fall-2026",
+    "code": "Math 271",
+    "title": "Linear algebra and PDE",
+    "term": {
+      "label": "Fall 2026"
+    },
+    "year": 2026,
+    "institution": "McGill University",
+    "institutionShort": "McGill",
+    "role": "Instructor",
+    "level": "undergraduate",
+    "status": "scheduled",
+    "category": "course",
+    "kind": "course",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "linear algebra",
+      "PDE"
+    ],
+    "cvInclude": true,
+    "source": "user-scheduled"
+  },
+  {
+    "id": "mcgill-math319-winter-2026",
+    "code": "Math 319",
+    "title": "Introduction to PDE",
+    "term": {
+      "label": "Winter 2026"
+    },
+    "year": 2026,
+    "institution": "McGill University",
+    "institutionShort": "McGill",
+    "role": "Instructor",
+    "level": "undergraduate",
+    "status": "scheduled",
+    "category": "course",
+    "kind": "course",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "PDE"
+    ],
+    "cvInclude": true,
+    "source": "user-scheduled"
+  },
+  {
     "id": "math-262-fall-2025",
     "code": "Math 262",
     "title": "Intermediate calculus",
@@ -45,6 +143,123 @@
     ],
     "cvInclude": true,
     "source": "homepage/tmp/pdfs/cv.txt"
+  },
+  {
+    "id": "num-phys310-winter-2025",
+    "code": "PHYS310",
+    "title": "Classical mechanics",
+    "officialTitleMn": "Онолын физикийн арга",
+    "publicTitleSource": "user-corrected-cv",
+    "term": {
+      "label": "Winter 2025"
+    },
+    "displayTerm": "Winter 2025",
+    "year": 2025,
+    "institution": "National University of Mongolia",
+    "institutionShort": "NUM",
+    "role": "Instructor",
+    "level": "undergraduate",
+    "category": "course",
+    "kind": "course",
+    "components": [
+      "lecture",
+      "seminar"
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "classical mechanics"
+    ],
+    "cvInclude": true,
+    "source": "user-corrected; homepage/tmp/pdfs/cv.txt"
+  },
+  {
+    "id": "num-math101-fall-2024",
+    "code": "MATH101",
+    "title": "Functions of a single real variable",
+    "officialTitleMn": "Нэг хувьсагчийн функцийн онол 1б",
+    "term": {
+      "label": "Fall 2024"
+    },
+    "displayTerm": "Fall 2024",
+    "year": 2024,
+    "institution": "National University of Mongolia",
+    "institutionShort": "NUM",
+    "role": "Instructor",
+    "level": "undergraduate",
+    "category": "course",
+    "kind": "course",
+    "components": [
+      "lecture",
+      "seminar"
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "real analysis"
+    ],
+    "cvInclude": true,
+    "source": "user-corrected; homepage/tmp/pdfs/cv.txt"
+  },
+  {
+    "id": "num-phys405-fall-2024",
+    "code": "PHYS405",
+    "title": "Introduction to topology",
+    "officialTitleMn": "Шугаман бус динамик ба хаос",
+    "publicTitleSource": "user-corrected-cv",
+    "term": {
+      "label": "Fall 2024"
+    },
+    "displayTerm": "Fall 2024",
+    "year": 2024,
+    "institution": "National University of Mongolia",
+    "institutionShort": "NUM",
+    "role": "Instructor",
+    "level": "undergraduate",
+    "category": "course",
+    "kind": "course",
+    "components": [
+      "lecture",
+      "seminar"
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "topology"
+    ],
+    "cvInclude": true,
+    "source": "user-corrected; homepage/tmp/pdfs/cv.txt"
+  },
+  {
+    "id": "num-phys801-fall-2024",
+    "code": "PHYS801",
+    "title": "Advanced quantum physics",
+    "officialTitleMn": "Квант физик",
+    "term": {
+      "label": "Fall 2024"
+    },
+    "displayTerm": "Fall 2024",
+    "year": 2024,
+    "institution": "National University of Mongolia",
+    "institutionShort": "NUM",
+    "role": "Instructor",
+    "level": "doctoral",
+    "category": "course",
+    "kind": "course",
+    "components": [
+      "lecture"
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "quantum physics"
+    ],
+    "cvInclude": true,
+    "source": "user-corrected; homepage/tmp/pdfs/cv.txt"
   },
   {
     "id": "math-387-winter-2024",
@@ -94,6 +309,63 @@
     "source": "homepage/tmp/pdfs/cv.txt"
   },
   {
+    "id": "num-phys408-winter-2024",
+    "code": "PHYS408",
+    "title": "Special relativity",
+    "term": {
+      "label": "Winter 2024"
+    },
+    "displayTerm": "Winter 2024",
+    "year": 2024,
+    "institution": "National University of Mongolia",
+    "institutionShort": "NUM",
+    "role": "Instructor",
+    "level": "undergraduate",
+    "category": "course",
+    "kind": "course",
+    "components": [
+      "lecture",
+      "seminar"
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "special relativity"
+    ],
+    "cvInclude": true,
+    "source": "user-corrected; homepage/tmp/pdfs/cv.txt"
+  },
+  {
+    "id": "num-phys310-winter-2024",
+    "code": "PHYS310",
+    "title": "Theoretical mechanics",
+    "term": {
+      "label": "Winter 2024"
+    },
+    "displayTerm": "Winter 2024",
+    "year": 2024,
+    "institution": "National University of Mongolia",
+    "institutionShort": "NUM",
+    "role": "Instructor",
+    "level": "undergraduate",
+    "category": "course",
+    "kind": "course",
+    "delivery": "remote",
+    "components": [
+      "lecture",
+      "seminar"
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "classical mechanics"
+    ],
+    "cvInclude": true,
+    "source": "user-corrected; YouTube-course-supported; homepage/tmp/pdfs/cv.txt"
+  },
+  {
     "id": "math-317-fall-2023",
     "code": "Math 317",
     "title": "Numerical analysis",
@@ -116,6 +388,151 @@
     ],
     "cvInclude": true,
     "source": "homepage/tmp/pdfs/cv.txt"
+  },
+  {
+    "id": "num-phys310-fall-2023",
+    "code": "PHYS310",
+    "title": "Classical mechanics",
+    "term": {
+      "label": "Fall 2023"
+    },
+    "displayTerm": "Fall 2023",
+    "year": 2023,
+    "institution": "National University of Mongolia",
+    "institutionShort": "NUM",
+    "role": "Instructor",
+    "level": "undergraduate",
+    "category": "course",
+    "kind": "course",
+    "components": [
+      "lecture",
+      "seminar"
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "classical mechanics"
+    ],
+    "cvInclude": true,
+    "source": "user-corrected; homepage/tmp/pdfs/cv.txt"
+  },
+  {
+    "id": "num-phys603-fall-2023",
+    "code": "PHYS603",
+    "title": "Equations of mathematical physics",
+    "term": {
+      "label": "Fall 2023"
+    },
+    "displayTerm": "Fall 2023",
+    "year": 2023,
+    "institution": "National University of Mongolia",
+    "institutionShort": "NUM",
+    "role": "Instructor",
+    "level": "graduate",
+    "category": "course",
+    "kind": "course",
+    "components": [
+      "lecture",
+      "seminar"
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "mathematical physics"
+    ],
+    "cvInclude": true,
+    "source": "user-corrected; homepage/tmp/pdfs/cv.txt"
+  },
+  {
+    "id": "num-phys447-winter-2023",
+    "code": "PHYS447",
+    "title": "Synthetic and differential geometry",
+    "officialTitleMn": "Квант ба опто электроник",
+    "publicTitleSource": "user-corrected-cv",
+    "term": {
+      "label": "Winter 2023"
+    },
+    "displayTerm": "Winter 2023",
+    "year": 2023,
+    "institution": "National University of Mongolia",
+    "institutionShort": "NUM",
+    "role": "Instructor",
+    "level": "undergraduate",
+    "category": "course",
+    "kind": "course",
+    "components": [
+      "lecture",
+      "seminar"
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "geometry"
+    ],
+    "cvInclude": true,
+    "source": "user-corrected; homepage/tmp/pdfs/cv.txt"
+  },
+  {
+    "id": "num-phys403-winter-2023",
+    "code": "PHYS403",
+    "title": "General relativity",
+    "officialTitleMn": "Харьцангуй ерөнхий онол",
+    "term": {
+      "label": "Winter 2023"
+    },
+    "displayTerm": "Winter 2023",
+    "year": 2023,
+    "institution": "National University of Mongolia",
+    "institutionShort": "NUM",
+    "role": "Instructor",
+    "level": "undergraduate",
+    "category": "course",
+    "kind": "course",
+    "components": [
+      "lecture",
+      "seminar"
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "general relativity"
+    ],
+    "cvInclude": true,
+    "source": "user-corrected; homepage/tmp/pdfs/cv.txt"
+  },
+  {
+    "id": "num-phys405-fall-2022",
+    "code": "PHYS405",
+    "title": "Nonlinear dynamics and chaos",
+    "officialTitleMn": "Шугаман бус динамик ба хаос",
+    "term": {
+      "label": "Fall 2022"
+    },
+    "displayTerm": "Fall 2022",
+    "year": 2022,
+    "institution": "National University of Mongolia",
+    "institutionShort": "NUM",
+    "role": "Instructor",
+    "level": "undergraduate",
+    "category": "course",
+    "kind": "course",
+    "components": [
+      "lecture",
+      "seminar"
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "nonlinear dynamics",
+      "chaos"
+    ],
+    "cvInclude": true,
+    "source": "user-corrected; homepage/tmp/pdfs/cv.txt"
   },
   {
     "id": "math-567-fall-2021",
@@ -143,7 +560,7 @@
   {
     "id": "math-325-winter-2022",
     "code": "Math 325",
-    "title": "Honours ordinary differential equations",
+    "title": "Honours ODE",
     "term": {
       "label": "Winter 2022"
     },
@@ -169,7 +586,7 @@
   {
     "id": "math-581-winter-2022",
     "code": "Math 581",
-    "title": "Partial differential equations 2",
+    "title": "PDE 2",
     "term": {
       "label": "Winter 2022"
     },
@@ -193,9 +610,40 @@
     "source": "_old_site/McGill/teaching.html; homepage/tmp/pdfs/cv.txt"
   },
   {
+    "id": "num-phys403-winter-2022",
+    "code": "PHYS403",
+    "title": "General relativity",
+    "term": {
+      "label": "Winter 2022"
+    },
+    "displayTerm": "Winter 2022",
+    "period": "2021/2022",
+    "year": 2022,
+    "yearStart": 2021,
+    "institution": "National University of Mongolia",
+    "institutionShort": "NUM",
+    "role": "Instructor",
+    "level": "undergraduate",
+    "category": "course",
+    "kind": "course",
+    "delivery": "remote",
+    "components": [
+      "lecture",
+      "seminar"
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "general relativity"
+    ],
+    "cvInclude": true,
+    "source": "user-corrected; homepage/tmp/pdfs/cv.txt"
+  },
+  {
     "id": "math-581-winter-2021",
     "code": "Math 581",
-    "title": "Partial differential equations 2",
+    "title": "PDE 2",
     "term": {
       "label": "Winter 2021"
     },
@@ -240,7 +688,7 @@
   {
     "id": "math-581-winter-2020",
     "code": "Math 581",
-    "title": "Partial differential equations 2",
+    "title": "PDE 2",
     "term": {
       "label": "Winter 2020"
     },
@@ -304,7 +752,7 @@
   {
     "id": "math-599-winter-2019",
     "code": "Math 599",
-    "title": "Introduction to mathematical general relativity",
+    "title": "Introduction to mathematical GR",
     "term": {
       "label": "Winter 2019"
     },
@@ -326,7 +774,7 @@
   {
     "id": "math-581-winter-2019",
     "code": "Math 581",
-    "title": "Partial differential equations 2",
+    "title": "PDE 2",
     "term": {
       "label": "Winter 2019"
     },
@@ -348,7 +796,7 @@
   {
     "id": "math-580-fall-2018",
     "code": "Math 580",
-    "title": "Partial differential equations 1",
+    "title": "PDE 1",
     "term": {
       "label": "Fall 2018"
     },
@@ -393,7 +841,7 @@
   {
     "id": "math-599-winter-2017",
     "code": "Math 599",
-    "title": "Introduction to mathematical general relativity",
+    "title": "Introduction to mathematical GR",
     "term": {
       "label": "Winter 2017"
     },
@@ -458,7 +906,7 @@
   {
     "id": "math-319-winter-2016",
     "code": "Math 319",
-    "title": "Introduction to partial differential equations",
+    "title": "Introduction to PDE",
     "term": {
       "label": "Winter 2016"
     },
@@ -522,7 +970,7 @@
   {
     "id": "math-580-fall-2014",
     "code": "Math 580",
-    "title": "Partial differential equations 1",
+    "title": "PDE 1",
     "term": {
       "label": "Fall 2014"
     },
@@ -566,7 +1014,7 @@
   {
     "id": "math-581-winter-2014",
     "code": "Math 581",
-    "title": "Partial differential equations 2",
+    "title": "PDE 2",
     "term": {
       "label": "Winter 2014"
     },
@@ -610,7 +1058,7 @@
   {
     "id": "math-580-fall-2013",
     "code": "Math 580",
-    "title": "Partial differential equations 1",
+    "title": "PDE 1",
     "term": {
       "label": "Fall 2013"
     },
@@ -654,7 +1102,7 @@
   {
     "id": "math-581-winter-2013",
     "code": "Math 581",
-    "title": "Partial differential equations 2",
+    "title": "PDE 2",
     "term": {
       "label": "Winter 2013"
     },
@@ -676,7 +1124,7 @@
   {
     "id": "math-580-fall-2012",
     "code": "Math 580",
-    "title": "Partial differential equations 1",
+    "title": "PDE 1",
     "term": {
       "label": "Fall 2012"
     },
@@ -720,7 +1168,7 @@
   {
     "id": "math-581-winter-2012",
     "code": "Math 581",
-    "title": "Partial differential equations 2",
+    "title": "PDE 2",
     "term": {
       "label": "Winter 2012"
     },
@@ -742,7 +1190,7 @@
   {
     "id": "math-319-winter-2012",
     "code": "Math 319",
-    "title": "Introduction to partial differential equations",
+    "title": "Introduction to PDE",
     "term": {
       "label": "Winter 2012"
     },
@@ -764,7 +1212,7 @@
   {
     "id": "math-580-fall-2011",
     "code": "Math 580",
-    "title": "Partial differential equations 1",
+    "title": "PDE 1",
     "term": {
       "label": "Fall 2011"
     },
@@ -786,7 +1234,7 @@
   {
     "id": "math-319-winter-2011",
     "code": "Math 319",
-    "title": "Introduction to partial differential equations",
+    "title": "Introduction to PDE",
     "term": {
       "label": "Winter 2011"
     },
@@ -896,7 +1344,7 @@
   },
   {
     "id": "short-course-moving-frames-general-relativity-mas-2019",
-    "title": "Moving frames in general relativity",
+    "title": "Moving frames in GR",
     "term": {
       "label": "2019"
     },
@@ -918,7 +1366,7 @@
   },
   {
     "id": "short-course-introduction-general-relativity-mas-2018",
-    "title": "Introduction to general relativity",
+    "title": "Introduction to GR",
     "term": {
       "label": "June 2018"
     },
@@ -942,7 +1390,7 @@
   {
     "id": "ucsd-math-170c-spring-2007",
     "code": "Math 170C",
-    "title": "Numerical analysis of ordinary differential equations",
+    "title": "Numerical analysis of ODE",
     "term": {
       "label": "Spring 2007"
     },
@@ -996,7 +1444,12 @@
     "yearStart": 2005,
     "institution": "Utrecht University",
     "institutionShort": "Utrecht",
-    "role": "Tutorial teacher",
+    "role": "Teaching assistant",
+    "roleNote": "problem-solving/tutorial sessions",
+    "instructorOfRecord": {
+      "name": "Yuri Kuznetsov",
+      "url": "http://www.math.uu.nl/people/kuznetsov/"
+    },
     "level": "undergraduate",
     "category": "tutorial",
     "kind": "tutorial",
@@ -1020,7 +1473,12 @@
     "yearStart": 2005,
     "institution": "Utrecht University",
     "institutionShort": "Utrecht",
-    "role": "Tutorial teacher",
+    "role": "Teaching assistant",
+    "roleNote": "problem-solving/tutorial sessions",
+    "instructorOfRecord": {
+      "name": "Rob Stevenson",
+      "url": "http://staff.science.uva.nl/~rstevens/"
+    },
     "level": "undergraduate",
     "category": "tutorial",
     "kind": "tutorial",
@@ -1044,7 +1502,12 @@
     "yearStart": 2005,
     "institution": "Utrecht University",
     "institutionShort": "Utrecht",
-    "role": "Tutorial teacher",
+    "role": "Teaching assistant",
+    "roleNote": "problem-solving/tutorial sessions",
+    "instructorOfRecord": {
+      "name": "Jaap van Oosten",
+      "url": "http://www.math.uu.nl/people/jvoosten/"
+    },
     "level": "undergraduate",
     "category": "tutorial",
     "kind": "tutorial",
@@ -1066,7 +1529,12 @@
     "yearStart": 2004,
     "institution": "Utrecht University",
     "institutionShort": "Utrecht",
-    "role": "Tutorial teacher",
+    "role": "Teaching assistant",
+    "roleNote": "problem-solving/tutorial sessions",
+    "instructorOfRecord": {
+      "name": "Jaap van Oosten",
+      "url": "http://www.math.uu.nl/people/jvoosten/"
+    },
     "level": "undergraduate",
     "category": "tutorial",
     "kind": "tutorial",
@@ -1088,7 +1556,12 @@
     "yearStart": 2004,
     "institution": "Utrecht University",
     "institutionShort": "Utrecht",
-    "role": "Tutorial teacher",
+    "role": "Teaching assistant",
+    "roleNote": "problem-solving/tutorial sessions",
+    "instructorOfRecord": {
+      "name": "Richard Cushman",
+      "url": "http://www.math.uu.nl/people/cushman/"
+    },
     "level": "undergraduate",
     "category": "tutorial",
     "kind": "tutorial",
@@ -1100,7 +1573,7 @@
     "source": "_old_site/McGill/teaching.html"
   },
   {
-    "id": "utrecht-math-cs-2004-2005",
+    "id": "utrecht-mathematics-cs-2004-2005",
     "title": "Mathematics for computer science students",
     "term": {
       "label": "2004/2005"
@@ -1110,7 +1583,12 @@
     "yearStart": 2004,
     "institution": "Utrecht University",
     "institutionShort": "Utrecht",
-    "role": "Tutorial teacher",
+    "role": "Teaching assistant",
+    "roleNote": "problem-solving/tutorial sessions",
+    "instructorOfRecord": {
+      "name": "Yuri Kuznetsov",
+      "url": "http://www.math.uu.nl/people/kuznetsov/"
+    },
     "level": "undergraduate",
     "category": "tutorial",
     "kind": "tutorial",
@@ -1122,7 +1600,7 @@
     "source": "_old_site/McGill/teaching.html"
   },
   {
-    "id": "utrecht-math-cs-2003-2004",
+    "id": "utrecht-mathematics-cs-2003-2004",
     "title": "Mathematics for computer science students",
     "term": {
       "label": "2003/2004"
@@ -1132,7 +1610,12 @@
     "yearStart": 2003,
     "institution": "Utrecht University",
     "institutionShort": "Utrecht",
-    "role": "Tutorial teacher",
+    "role": "Teaching assistant",
+    "roleNote": "problem-solving/tutorial sessions",
+    "instructorOfRecord": {
+      "name": "Yuri Kuznetsov",
+      "url": "http://www.math.uu.nl/people/kuznetsov/"
+    },
     "level": "undergraduate",
     "category": "tutorial",
     "kind": "tutorial",
@@ -1154,7 +1637,12 @@
     "yearStart": 2003,
     "institution": "Utrecht University",
     "institutionShort": "Utrecht",
-    "role": "Tutorial teacher",
+    "role": "Teaching assistant",
+    "roleNote": "problem-solving/tutorial sessions",
+    "instructorOfRecord": {
+      "name": "Ferdinand Verhulst",
+      "url": "http://www.math.uu.nl/people/verhulst/"
+    },
     "level": "undergraduate",
     "category": "tutorial",
     "kind": "tutorial",
@@ -1178,7 +1666,12 @@
     "yearStart": 2002,
     "institution": "Utrecht University",
     "institutionShort": "Utrecht",
-    "role": "Tutorial teacher",
+    "role": "Teaching assistant",
+    "roleNote": "problem-solving/tutorial sessions",
+    "instructorOfRecord": {
+      "name": "Ferdinand Verhulst",
+      "url": "http://www.math.uu.nl/people/verhulst/"
+    },
     "level": "undergraduate",
     "category": "tutorial",
     "kind": "tutorial",

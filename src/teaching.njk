@@ -24,9 +24,13 @@ permalink: /teaching/
   <tbody>
     {% for course in courses | teachingArchive %}
       {% set courseUrl = course | localCourseUrl %}
+      {% set roleNote = course | teachingRoleNote %}
       <tr>
         <td>{{ course | courseCode }}</td>
-        <td>{% if courseUrl %}<a href="{{ courseUrl }}">{{ course.title }}</a>{% else %}{{ course.title }}{% endif %}</td>
+        <td>
+          {% if courseUrl %}<a href="{{ courseUrl }}">{{ course.title }}</a>{% else %}{{ course.title }}{% endif %}
+          {% if roleNote %}<div class="teaching-role-note">{{ roleNote | safe }}</div>{% endif %}
+        </td>
         <td>{{ course | courseTerm }}</td>
         <td>{{ course | courseInstitution }}</td>
       </tr>
