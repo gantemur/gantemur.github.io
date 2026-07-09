@@ -60,10 +60,10 @@ module.exports = function (eleventyConfig) {
 
   function courseTermOrder(course) {
     const label = courseTermLabel(course).toLowerCase();
-    if (/winter|wint/.test(label)) return 1;
-    if (/spring/.test(label)) return 2;
-    if (/summer|summ/.test(label)) return 3;
-    if (/fall|autumn/.test(label)) return 4;
+    if (/fall|autumn/.test(label)) return 1;
+    if (/summer|summ/.test(label)) return 2;
+    if (/spring/.test(label)) return 3;
+    if (/winter|wint/.test(label)) return 4;
     return 5;
   }
 
