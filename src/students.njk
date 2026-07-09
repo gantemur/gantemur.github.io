@@ -9,12 +9,9 @@ permalink: /supervision/
 
 {% set graduate = students | studentRelationships("doctoral-student,masters-student") | byStudentYear %}
 {% set postdoctoral = students | where("relationship", "postdoctoral-fellow") | byStudentYear %}
-{% set allUndergraduate = students | where("relationship", "undergraduate-project") | byStudentYear %}
-{% set researchTrainees = allUndergraduate | studentKind("Research trainee") %}
-{% set undergraduate = allUndergraduate | excludeStudentKind("Research trainee") %}
+{% set undergraduate = students | where("relationship", "undergraduate-project") | byStudentYear %}
 {% set writings = students | where("relationship", "student-writing") %}
 {% set graduateHasNowAt = graduate | hasNowAt %}
-{% set researchTraineesHasNowAt = researchTrainees | hasNowAt %}
 {% set undergraduateHasNowAt = undergraduate | hasNowAt %}
 
 {% if postdoctoral.length %}
@@ -23,14 +20,15 @@ permalink: /supervision/
     <ul class="supervision-list">
       {% for fellow in postdoctoral %}
         <li class="supervision-item">
-          <p><strong>{{ fellow | linkedPersonName | safe }}</strong>{% if fellow.period %}, {{ fellow.period }}{% elif fellow.year %}, {{ fellow.year }}{% endif %}.</p>
-          {% if fellow.background %}<p>{{ fellow.background }}</p>{% endif %}
-          {% if fellow.topic %}<p>{{ fellow.topic }}</p>{% endif %}
-          {% if fellow.coSupervisors and fellow.coSupervisors.length %}
-            <p><span class="supervision-label">Co-advisor:</span> {{ fellow | linkedCoSupervisors | safe }}</p>
-          {% endif %}
-          {% if fellow.nowAt and fellow.nowAt.label %}
-            <p><span class="supervision-label">Now at:</span> <span class="now-at-cell">{{ fellow | renderNowAt | safe }}</span></p>
+          <p class="supervision-line">
+            <strong>{{ fellow | linkedPersonName | safe }}</strong>{% if fellow.period %}, {{ fellow.period | formatPeriod | safe }}{% elif fellow.year %}, {{ fellow.year }}{% endif %}{% if fellow.background %} <span aria-hidden="true">&mdash;</span> {{ fellow.background }}{% endif %}
+          </p>
+          {% if fellow.topic or (fellow.coSupervisors and fellow.coSupervisors.length) or (fellow.nowAt and fellow.nowAt.label) %}
+            <p class="supervision-meta">
+              {% if fellow.topic %}<span class="supervision-meta-part">{{ fellow.topic }}</span>{% endif %}
+              {% if fellow.coSupervisors and fellow.coSupervisors.length %}<span class="supervision-meta-part"><span class="supervision-label">Co-advisor:</span> {{ fellow | linkedCoSupervisors | safe }}</span>{% endif %}
+              {% if fellow.nowAt and fellow.nowAt.label %}<span class="supervision-meta-part"><span class="supervision-label">Now at:</span> {{ fellow | renderNowAt | safe }}</span>{% endif %}
+            </p>
           {% endif %}
         </li>
       {% endfor %}
@@ -65,32 +63,6 @@ permalink: /supervision/
   </tbody>
 </table>
 </section>
-
-{% if researchTrainees.length %}
-  <section class="rule-section">
-    <h2>Research Trainees</h2>
-    <table class="data-table">
-      <thead>
-        <tr>
-          <th>Name</th>
-          <th>Year</th>
-          <th>Topic</th>
-          {% if researchTraineesHasNowAt %}<th>Now at</th>{% endif %}
-        </tr>
-      </thead>
-      <tbody>
-        {% for trainee in researchTrainees %}
-          <tr>
-            <td>{{ trainee | linkedPersonName | safe }}</td>
-            <td>{{ trainee.year or "" }}</td>
-            <td>{{ trainee.topic }}</td>
-            {% if researchTraineesHasNowAt %}<td class="now-at-cell">{{ trainee | renderNowAt | safe }}</td>{% endif %}
-          </tr>
-        {% endfor %}
-      </tbody>
-    </table>
-  </section>
-{% endif %}
 
 <section class="rule-section">
   <h2>Undergraduate Trainees</h2>

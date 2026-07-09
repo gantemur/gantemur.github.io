@@ -59,16 +59,6 @@ module.exports = function (eleventyConfig) {
     return [...items].sort((a, b) => sortYear(b) - sortYear(a) || String(a.name || "").localeCompare(String(b.name || "")));
   });
 
-  eleventyConfig.addFilter("studentKind", function (items, kind) {
-    if (!Array.isArray(items)) return [];
-    return items.filter((item) => item && item.kind === kind);
-  });
-
-  eleventyConfig.addFilter("excludeStudentKind", function (items, kind) {
-    if (!Array.isArray(items)) return [];
-    return items.filter((item) => item && item.kind !== kind);
-  });
-
   eleventyConfig.addFilter("hasNowAt", function (items) {
     return Array.isArray(items) && items.some((item) => item && item.nowAt && item.nowAt.label);
   });
@@ -79,6 +69,10 @@ module.exports = function (eleventyConfig) {
     const label = escapeHtml(nowAt.label);
     const note = nowAt.note ? `<span class="now-at-note">${escapeHtml(nowAt.note)}</span>` : "";
     return `${label}${note}`;
+  });
+
+  eleventyConfig.addFilter("formatPeriod", function (value) {
+    return escapeHtml(value || "").replace(/(\d{4})-(\d{4})/g, "$1&#8211;$2");
   });
 
   eleventyConfig.addFilter("linkedPersonName", function (item) {

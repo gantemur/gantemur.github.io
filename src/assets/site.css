@@ -307,7 +307,7 @@ p {
 
 .supervision-list {
   display: grid;
-  gap: 1rem;
+  gap: 0;
   list-style: none;
   margin: 0;
   padding: 0;
@@ -315,15 +315,41 @@ p {
 
 .supervision-item {
   border-bottom: 1px solid var(--line);
-  padding-bottom: 1rem;
+  padding: 0.45rem 0 0.5rem;
 }
 
 .supervision-item p {
-  margin-bottom: 0.25rem;
+  margin-bottom: 0;
+}
+
+.supervision-line {
+  font-size: 0.98rem;
+}
+
+.supervision-meta {
+  color: var(--muted);
+  display: flex;
+  flex-wrap: wrap;
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.82rem;
+  gap: 0 0.45rem;
+}
+
+.supervision-meta-part + .supervision-meta-part::before {
+  content: "·";
+  margin-right: 0.45rem;
 }
 
 .supervision-label {
   color: var(--muted);
+}
+
+.supervision-meta .now-at-note {
+  display: inline;
+}
+
+.supervision-meta .now-at-note::before {
+  content: ", ";
 }
 
 .now-at-cell {
