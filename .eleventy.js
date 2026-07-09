@@ -42,6 +42,71 @@ module.exports = function (eleventyConfig) {
     return item.language || "";
   });
 
+  function courseTermLabel(course) {
+    return (
+      (course && course.displayTerm) ||
+      (course && course.period) ||
+      (course && course.term && course.term.label) ||
+      ""
+    );
+  }
+
+  function courseYear(course) {
+    const explicitYear = Number(course && course.year);
+    if (Number.isFinite(explicitYear)) return explicitYear;
+    const match = courseTermLabel(course).match(/\d{4}/);
+    return match ? Number(match[0]) : 0;
+  }
+
+  function courseTermOrder(course) {
+    const label = courseTermLabel(course).toLowerCase();
+    if (/winter|wint/.test(label)) return 1;
+    if (/spring/.test(label)) return 2;
+    if (/summer|summ/.test(label)) return 3;
+    if (/fall|autumn/.test(label)) return 4;
+    return 5;
+  }
+
+  eleventyConfig.addFilter("teachingArchive", function (items) {
+    if (!Array.isArray(items)) return [];
+    return [...items].sort((a, b) => {
+      return (
+        courseYear(b) - courseYear(a) ||
+        courseTermOrder(a) - courseTermOrder(b) ||
+        String(a.code || "").localeCompare(String(b.code || "")) ||
+        String(a.title || "").localeCompare(String(b.title || ""))
+      );
+    });
+  });
+
+  eleventyConfig.addFilter("courseTerm", courseTermLabel);
+
+  eleventyConfig.addFilter("courseInstitution", function (course) {
+    if (!course) return "";
+    if (course.institutionShort) return course.institutionShort;
+    if (course.institution === "McGill University") return "McGill";
+    if (course.institution === "University of California, San Diego") return "UCSD";
+    if (course.institution === "Utrecht University") return "Utrecht";
+    if (course.institution === "National University of Mongolia") return "NUM";
+    if (course.institution === "Mongolian Academy of Sciences") return "MAS";
+    if (course.institution) return course.institution;
+    if (/^\/legacy\/courses\/math(?:170c|20f)\//i.test(course.url || "")) return "UCSD";
+    if (String(course.id || "").startsWith("other-")) return "Utrecht";
+    return "";
+  });
+
+  eleventyConfig.addFilter("courseCode", function (course) {
+    if (!course) return "";
+    if (course.code) return course.code;
+    if (["CIMPA", "Mongolian Academy of Sciences"].includes(course.institution)) return "Short course";
+    return "";
+  });
+
+  eleventyConfig.addFilter("localCourseUrl", function (course) {
+    if (!course || !course.url) return "";
+    return course.url.startsWith("/") ? course.url : "";
+  });
+
   eleventyConfig.addFilter("studentRelationships", function (items, relationships) {
     if (!Array.isArray(items)) return [];
     const wanted = new Set(String(relationships).split(",").map((item) => item.trim()));

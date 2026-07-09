@@ -305,6 +305,10 @@ p {
   text-transform: uppercase;
 }
 
+.teaching-table td:first-child {
+  white-space: nowrap;
+}
+
 .supervision-list {
   display: grid;
   gap: 0;
@@ -456,5 +460,9 @@ code {
   .data-table th,
   .data-table td {
     min-width: 7rem;
+  }
+
+  .teaching-table td:nth-child(2) {
+    min-width: 14rem;
   }
 }

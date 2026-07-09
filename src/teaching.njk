@@ -5,49 +5,36 @@ permalink: /teaching/
 ---
 
 <h1>Teaching</h1>
-<p class="lede narrow">Selected course materials and teaching records, with past McGill courses organized as an archive and Mongolian-language material included where appropriate.</p>
-
-{% set mcgillCourses = courses | where("institution", "McGill University") %}
-{% set otherCourses = courses | where("level", "other") %}
+<p class="lede narrow">Recent and selected courses, short courses, and archived teaching materials.</p>
 
 <section class="rule-section">
-  <h2>McGill Archive</h2>
-  <p>Past McGill course pages are part of the teaching archive. The list below records representative courses from that archive.</p>
+  <h2>Teaching Archive</h2>
+  <p>Course pages and local materials are linked when a maintained local archive page exists.</p>
 </section>
 
-<table class="data-table">
+<table class="data-table teaching-table">
   <thead>
     <tr>
       <th>Course</th>
       <th>Title</th>
       <th>Term</th>
       <th>Institution</th>
-      <th>Role</th>
-      <th>Lang.</th>
     </tr>
   </thead>
   <tbody>
-    {% for course in mcgillCourses %}
+    {% for course in courses | teachingArchive %}
+      {% set courseUrl = course | localCourseUrl %}
       <tr>
-        <td>{{ course.code or "" }}</td>
-        <td>{% if course.url %}<a href="{{ course.url }}">{{ course.title }}</a>{% else %}{{ course.title }}{% endif %}</td>
-        <td>{{ course.term.label }}</td>
-        <td>{{ course.institution }}</td>
-        <td>{{ course.role }}</td>
-        <td>{{ course | languages }}</td>
+        <td>{{ course | courseCode }}</td>
+        <td>{% if courseUrl %}<a href="{{ courseUrl }}">{{ course.title }}</a>{% else %}{{ course.title }}{% endif %}</td>
+        <td>{{ course | courseTerm }}</td>
+        <td>{{ course | courseInstitution }}</td>
       </tr>
     {% endfor %}
   </tbody>
 </table>
 
 <section class="rule-section">
-  <h2>Other Teaching</h2>
-  <ul class="plain-list">
-    {% for course in otherCourses %}
-      <li>
-        {% if course.url %}<a href="{{ course.url }}">{{ course.title }}</a>{% else %}{{ course.title }}{% endif %}
-        <span>{{ course.institution }}{% if course.term.label %}, {{ course.term.label }}{% endif %}</span>
-      </li>
-    {% endfor %}
-  </ul>
+  <h2>Course Pages and Materials</h2>
+  <p>Local course pages preserve selected schedules, notes, assignments, and downloadable material where they are available.</p>
 </section>
