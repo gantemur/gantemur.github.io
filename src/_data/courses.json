@@ -1,5 +1,123 @@
 [
   {
+    "id": "math-262-fall-2025",
+    "code": "Math 262",
+    "title": "Intermediate calculus",
+    "term": {
+      "label": "Fall 2025"
+    },
+    "year": 2025,
+    "institution": "McGill University",
+    "institutionShort": "McGill",
+    "role": "Instructor",
+    "level": "undergraduate",
+    "category": "course",
+    "kind": "course",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "calculus"
+    ],
+    "cvInclude": true,
+    "source": "homepage/tmp/pdfs/cv.txt"
+  },
+  {
+    "id": "math-317-fall-2025",
+    "code": "Math 317",
+    "title": "Numerical analysis",
+    "term": {
+      "label": "Fall 2025"
+    },
+    "year": 2025,
+    "institution": "McGill University",
+    "institutionShort": "McGill",
+    "role": "Instructor",
+    "level": "undergraduate",
+    "category": "course",
+    "kind": "course",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "numerical analysis",
+      "analysis"
+    ],
+    "cvInclude": true,
+    "source": "homepage/tmp/pdfs/cv.txt"
+  },
+  {
+    "id": "math-387-winter-2024",
+    "code": "Math 387",
+    "title": "Honours numerical analysis",
+    "term": {
+      "label": "Winter 2024"
+    },
+    "year": 2024,
+    "institution": "McGill University",
+    "institutionShort": "McGill",
+    "role": "Instructor",
+    "level": "undergraduate",
+    "category": "course",
+    "kind": "course",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "numerical analysis",
+      "analysis"
+    ],
+    "cvInclude": true,
+    "source": "homepage/tmp/pdfs/cv.txt"
+  },
+  {
+    "id": "math-579-winter-2024",
+    "code": "Math 579",
+    "title": "Numerical differential equations",
+    "term": {
+      "label": "Winter 2024"
+    },
+    "year": 2024,
+    "institution": "McGill University",
+    "institutionShort": "McGill",
+    "role": "Instructor",
+    "level": "graduate",
+    "category": "course",
+    "kind": "course",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "numerical analysis"
+    ],
+    "cvInclude": true,
+    "source": "homepage/tmp/pdfs/cv.txt"
+  },
+  {
+    "id": "math-317-fall-2023",
+    "code": "Math 317",
+    "title": "Numerical analysis",
+    "term": {
+      "label": "Fall 2023"
+    },
+    "year": 2023,
+    "institution": "McGill University",
+    "institutionShort": "McGill",
+    "role": "Instructor",
+    "level": "undergraduate",
+    "category": "course",
+    "kind": "course",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "numerical analysis",
+      "analysis"
+    ],
+    "cvInclude": true,
+    "source": "homepage/tmp/pdfs/cv.txt"
+  },
+  {
     "id": "math-567-fall-2021",
     "code": "Math 567",
     "title": "Introduction to functional analysis",
@@ -29,9 +147,13 @@
     "term": {
       "label": "Winter 2022"
     },
+    "year": 2022,
     "institution": "McGill University",
+    "institutionShort": "McGill",
     "role": "Instructor",
     "level": "undergraduate",
+    "category": "course",
+    "kind": "course",
     "languages": [
       "en"
     ],
@@ -42,7 +164,7 @@
     "oldFolder": "math325w22",
     "archive": "local-simplified",
     "cvInclude": true,
-    "source": "_old_site/McGill/teaching.html"
+    "source": "_old_site/McGill/teaching.html; homepage/tmp/pdfs/cv.txt"
   },
   {
     "id": "math-581-winter-2022",
@@ -51,9 +173,13 @@
     "term": {
       "label": "Winter 2022"
     },
+    "year": 2022,
     "institution": "McGill University",
+    "institutionShort": "McGill",
     "role": "Instructor",
     "level": "graduate",
+    "category": "course",
+    "kind": "course",
     "languages": [
       "en"
     ],
@@ -64,7 +190,7 @@
     "oldFolder": "math581w22",
     "archive": "local-simplified",
     "cvInclude": true,
-    "source": "_old_site/McGill/teaching.html"
+    "source": "_old_site/McGill/teaching.html; homepage/tmp/pdfs/cv.txt"
   },
   {
     "id": "math-581-winter-2021",
@@ -749,69 +875,84 @@
     "source": "_old_site/McGill/teaching.html"
   },
   {
-    "id": "other-a-gentle-introduction-to-the-navier-stokes-regularity-theory-34",
+    "id": "short-course-navier-stokes-cimpa-2013",
     "title": "A gentle introduction to the Navier-Stokes regularity theory",
     "term": {
       "label": "2013"
     },
+    "year": 2013,
     "institution": "CIMPA",
+    "institutionShort": "CIMPA",
     "role": "Instructor",
-    "level": "other",
+    "level": "short-course",
+    "category": "short-course",
+    "kind": "short-course",
     "languages": [
       "en"
     ],
     "topics": [],
-    "url": "http://www.cimpa-icpam.org/spip.php?article486",
-    "archive": "external",
     "cvInclude": true,
-    "source": "_old_site/McGill/teaching.html"
+    "source": "_old_site/McGill/teaching.html; academic/data/private/annual/mcgill-2009-2018.yml"
   },
   {
-    "id": "other-moving-frames-in-general-relativity-35",
+    "id": "short-course-moving-frames-general-relativity-mas-2019",
     "title": "Moving frames in general relativity",
     "term": {
       "label": "2019"
     },
+    "year": 2019,
     "institution": "Mongolian Academy of Sciences",
+    "institutionShort": "MAS",
     "role": "Instructor",
-    "level": "other",
+    "level": "short-course",
+    "category": "short-course",
+    "kind": "short-course",
     "languages": [
       "en"
     ],
     "topics": [
       "general relativity"
     ],
-    "archive": "external",
     "cvInclude": true,
     "source": "_old_site/McGill/teaching.html"
   },
   {
-    "id": "other-introduction-to-general-relativity-36",
+    "id": "short-course-introduction-general-relativity-mas-2018",
     "title": "Introduction to general relativity",
     "term": {
-      "label": "2018"
+      "label": "June 2018"
     },
+    "displayTerm": "June 2018",
+    "year": 2018,
     "institution": "Mongolian Academy of Sciences",
+    "institutionShort": "MAS",
     "role": "Instructor",
-    "level": "other",
+    "level": "short-course",
+    "category": "short-course",
+    "kind": "short-course",
     "languages": [
       "en"
     ],
     "topics": [
       "general relativity"
     ],
-    "archive": "external",
     "cvInclude": true,
-    "source": "_old_site/McGill/teaching.html"
+    "source": "_old_site/McGill/teaching.html; academic/data/private/annual/mcgill-2009-2018.yml; homepage/tmp/pdfs/cv.txt"
   },
   {
-    "id": "other-numerical-analysis-of-ordinary-differential-equations-37",
+    "id": "ucsd-math-170c-spring-2007",
+    "code": "Math 170C",
     "title": "Numerical analysis of ordinary differential equations",
     "term": {
-      "label": "2007"
+      "label": "Spring 2007"
     },
+    "year": 2007,
+    "institution": "University of California, San Diego",
+    "institutionShort": "UCSD",
     "role": "Instructor",
-    "level": "other",
+    "level": "undergraduate",
+    "category": "course",
+    "kind": "course",
     "languages": [
       "en"
     ],
@@ -820,135 +961,165 @@
       "ODE",
       "analysis"
     ],
-    "url": "/legacy/courses/math170c/",
-    "archive": "local-simplified",
     "cvInclude": true,
-    "source": "_old_site/McGill/teaching.html",
-    "oldFolder": "math170c"
+    "source": "_old_site/McGill/teaching.html; homepage/tmp/pdfs/cv.txt"
   },
   {
-    "id": "other-linear-algebra-38",
+    "id": "ucsd-math-20f-winter-2007",
+    "code": "Math 20F",
     "title": "Linear algebra",
     "term": {
-      "label": "2007"
+      "label": "Winter 2007"
     },
+    "year": 2007,
+    "institution": "University of California, San Diego",
+    "institutionShort": "UCSD",
     "role": "Instructor",
-    "level": "other",
+    "level": "undergraduate",
+    "category": "course",
+    "kind": "course",
     "languages": [
       "en"
     ],
     "topics": [],
-    "url": "/legacy/courses/math20f/",
-    "archive": "local-simplified",
     "cvInclude": true,
-    "source": "_old_site/McGill/teaching.html",
-    "oldFolder": "math20f"
+    "source": "_old_site/McGill/teaching.html; homepage/tmp/pdfs/cv.txt"
   },
   {
-    "id": "other-ordinary-differential-equations-39",
-    "title": "Ordinary differential equations.",
+    "id": "utrecht-ordinary-differential-equations-2005-2006",
+    "title": "Ordinary differential equations",
     "term": {
-      "label": "2006"
+      "label": "2005/2006"
     },
-    "role": "Instructor",
-    "level": "other",
+    "period": "2005/2006",
+    "year": 2006,
+    "yearStart": 2005,
+    "institution": "Utrecht University",
+    "institutionShort": "Utrecht",
+    "role": "Tutorial teacher",
+    "level": "undergraduate",
+    "category": "tutorial",
+    "kind": "tutorial",
     "languages": [
       "en"
     ],
     "topics": [
       "ODE"
     ],
-    "url": "http://www.math.uu.nl/people/kuznetsov/",
-    "archive": "external",
     "cvInclude": true,
     "source": "_old_site/McGill/teaching.html"
   },
   {
-    "id": "other-numerical-mathematics-40",
-    "title": "Numerical mathematics.",
+    "id": "utrecht-numerical-mathematics-2005-2006",
+    "title": "Numerical mathematics",
     "term": {
-      "label": "2006"
+      "label": "2005/2006"
     },
-    "role": "Instructor",
-    "level": "other",
+    "period": "2005/2006",
+    "year": 2006,
+    "yearStart": 2005,
+    "institution": "Utrecht University",
+    "institutionShort": "Utrecht",
+    "role": "Tutorial teacher",
+    "level": "undergraduate",
+    "category": "tutorial",
+    "kind": "tutorial",
     "languages": [
       "en"
     ],
     "topics": [
       "numerical analysis"
     ],
-    "url": "http://staff.science.uva.nl/~rstevens/",
-    "archive": "external",
     "cvInclude": true,
     "source": "_old_site/McGill/teaching.html"
   },
   {
-    "id": "other-integral-calculus-41",
-    "title": "Integral calculus.",
+    "id": "utrecht-integral-calculus-2004-2006",
+    "title": "Integral calculus",
     "term": {
-      "label": "2005"
+      "label": "2004/2005 and 2005/2006"
     },
-    "role": "Instructor",
-    "level": "other",
+    "period": "2004/2005 and 2005/2006",
+    "year": 2006,
+    "yearStart": 2004,
+    "institution": "Utrecht University",
+    "institutionShort": "Utrecht",
+    "role": "Tutorial teacher",
+    "level": "undergraduate",
+    "category": "tutorial",
+    "kind": "tutorial",
     "languages": [
       "en"
     ],
     "topics": [],
-    "url": "http://www.math.uu.nl/people/jvoosten/",
-    "archive": "external",
     "cvInclude": true,
     "source": "_old_site/McGill/teaching.html"
   },
   {
-    "id": "other-mathematical-ideas-and-methods-42",
-    "title": "Mathematical ideas and methods.",
+    "id": "utrecht-mathematical-ideas-and-methods-2004-2005",
+    "title": "Mathematical ideas and methods",
     "term": {
-      "label": "2005"
+      "label": "2004/2005"
     },
-    "role": "Instructor",
-    "level": "other",
+    "period": "2004/2005",
+    "year": 2005,
+    "yearStart": 2004,
+    "institution": "Utrecht University",
+    "institutionShort": "Utrecht",
+    "role": "Tutorial teacher",
+    "level": "undergraduate",
+    "category": "tutorial",
+    "kind": "tutorial",
     "languages": [
       "en"
     ],
     "topics": [],
-    "url": "http://www.math.uu.nl/people/cushman/",
-    "archive": "external",
     "cvInclude": true,
     "source": "_old_site/McGill/teaching.html"
   },
   {
-    "id": "other-mathematics-for-computer-science-students-43",
-    "title": "Mathematics for computer science students.",
+    "id": "utrecht-mathematics-computer-science-students-2003-2005",
+    "title": "Mathematics for computer science students",
     "term": {
-      "label": "2004"
+      "label": "2003/2004 and 2004/2005"
     },
-    "role": "Instructor",
-    "level": "other",
+    "period": "2003/2004 and 2004/2005",
+    "year": 2005,
+    "yearStart": 2003,
+    "institution": "Utrecht University",
+    "institutionShort": "Utrecht",
+    "role": "Tutorial teacher",
+    "level": "undergraduate",
+    "category": "tutorial",
+    "kind": "tutorial",
     "languages": [
       "en"
     ],
     "topics": [],
-    "url": "http://www.math.uu.nl/people/kuznetsov/",
-    "archive": "external",
     "cvInclude": true,
     "source": "_old_site/McGill/teaching.html"
   },
   {
-    "id": "other-partial-differential-equations-44",
-    "title": "Partial differential equations.",
+    "id": "utrecht-partial-differential-equations-2002-2004",
+    "title": "Partial differential equations",
     "term": {
-      "label": "2003"
+      "label": "2002/2003 and 2003/2004"
     },
-    "role": "Instructor",
-    "level": "other",
+    "period": "2002/2003 and 2003/2004",
+    "year": 2004,
+    "yearStart": 2002,
+    "institution": "Utrecht University",
+    "institutionShort": "Utrecht",
+    "role": "Tutorial teacher",
+    "level": "undergraduate",
+    "category": "tutorial",
+    "kind": "tutorial",
     "languages": [
       "en"
     ],
     "topics": [
       "PDE"
     ],
-    "url": "http://www.math.uu.nl/people/verhulst/",
-    "archive": "external",
     "cvInclude": true,
     "source": "_old_site/McGill/teaching.html"
   }
