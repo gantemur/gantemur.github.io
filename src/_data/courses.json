@@ -1034,13 +1034,35 @@
     "source": "_old_site/McGill/teaching.html"
   },
   {
-    "id": "utrecht-integral-calculus-2004-2006",
+    "id": "utrecht-integral-calculus-2005-2006",
     "title": "Integral calculus",
     "term": {
-      "label": "2004/2005 and 2005/2006"
+      "label": "2005/2006"
     },
-    "period": "2004/2005 and 2005/2006",
+    "period": "2005/2006",
     "year": 2006,
+    "yearStart": 2005,
+    "institution": "Utrecht University",
+    "institutionShort": "Utrecht",
+    "role": "Tutorial teacher",
+    "level": "undergraduate",
+    "category": "tutorial",
+    "kind": "tutorial",
+    "languages": [
+      "en"
+    ],
+    "topics": [],
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "utrecht-integral-calculus-2004-2005",
+    "title": "Integral calculus",
+    "term": {
+      "label": "2004/2005"
+    },
+    "period": "2004/2005",
+    "year": 2005,
     "yearStart": 2004,
     "institution": "Utrecht University",
     "institutionShort": "Utrecht",
@@ -1078,13 +1100,35 @@
     "source": "_old_site/McGill/teaching.html"
   },
   {
-    "id": "utrecht-mathematics-computer-science-students-2003-2005",
+    "id": "utrecht-math-cs-2004-2005",
     "title": "Mathematics for computer science students",
     "term": {
-      "label": "2003/2004 and 2004/2005"
+      "label": "2004/2005"
     },
-    "period": "2003/2004 and 2004/2005",
+    "period": "2004/2005",
     "year": 2005,
+    "yearStart": 2004,
+    "institution": "Utrecht University",
+    "institutionShort": "Utrecht",
+    "role": "Tutorial teacher",
+    "level": "undergraduate",
+    "category": "tutorial",
+    "kind": "tutorial",
+    "languages": [
+      "en"
+    ],
+    "topics": [],
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "utrecht-math-cs-2003-2004",
+    "title": "Mathematics for computer science students",
+    "term": {
+      "label": "2003/2004"
+    },
+    "period": "2003/2004",
+    "year": 2004,
     "yearStart": 2003,
     "institution": "Utrecht University",
     "institutionShort": "Utrecht",
@@ -1100,13 +1144,37 @@
     "source": "_old_site/McGill/teaching.html"
   },
   {
-    "id": "utrecht-partial-differential-equations-2002-2004",
+    "id": "utrecht-pde-2003-2004",
     "title": "Partial differential equations",
     "term": {
-      "label": "2002/2003 and 2003/2004"
+      "label": "2003/2004"
     },
-    "period": "2002/2003 and 2003/2004",
+    "period": "2003/2004",
     "year": 2004,
+    "yearStart": 2003,
+    "institution": "Utrecht University",
+    "institutionShort": "Utrecht",
+    "role": "Tutorial teacher",
+    "level": "undergraduate",
+    "category": "tutorial",
+    "kind": "tutorial",
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "PDE"
+    ],
+    "cvInclude": true,
+    "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "utrecht-pde-2002-2003",
+    "title": "Partial differential equations",
+    "term": {
+      "label": "2002/2003"
+    },
+    "period": "2002/2003",
+    "year": 2003,
     "yearStart": 2002,
     "institution": "Utrecht University",
     "institutionShort": "Utrecht",

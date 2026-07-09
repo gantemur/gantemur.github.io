@@ -103,8 +103,11 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter("localCourseUrl", function (course) {
-    if (!course || !course.url) return "";
-    return course.url.startsWith("/") ? course.url : "";
+    if (!course) return "";
+    if (course.url && course.url.startsWith("/")) return course.url;
+    if (course.id === "ucsd-math-170c-spring-2007") return "/legacy/courses/math170c/";
+    if (course.id === "ucsd-math-20f-winter-2007") return "/legacy/courses/math20f/";
+    return "";
   });
 
   eleventyConfig.addFilter("studentRelationships", function (items, relationships) {

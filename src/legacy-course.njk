@@ -9,22 +9,24 @@ eleventyComputed:
   title: "{{ course.code or course.title }}{% if course.term.label %} {{ course.term.label }}{% endif %}"
 ---
 
+{% set archive = course.archiveContent %}
+
 <p><a href="/teaching/">Teaching</a> / Course archive</p>
 
 <h1>{{ course.code or "Course" }}{% if course.term.label %}: {{ course.term.label }}{% endif %}</h1>
 <p class="lede narrow">{{ course.title }}</p>
 
 <section class="rule-section">
-  <h2>Course Information</h2>
-  <dl class="contact-list">
+  <h2>Course Record</h2>
+  <dl class="contact-list course-meta">
     <dt>Institution</dt>
-    <dd>{{ course.institution }}</dd>
-    <dt>Role</dt>
-    <dd>{{ course.role }}</dd>
+    <dd>{{ course | courseInstitution }}</dd>
+    {% if course.term.label %}
+      <dt>Term</dt>
+      <dd>{{ course.term.label }}</dd>
+    {% endif %}
     <dt>Level</dt>
     <dd>{{ course.level }}</dd>
-    <dt>Language</dt>
-    <dd>{{ course | languages }}</dd>
     {% if course.topics and course.topics.length %}
       <dt>Topics</dt>
       <dd>{{ course.topics | join(", ") }}</dd>
@@ -32,9 +34,97 @@ eleventyComputed:
   </dl>
 </section>
 
+{% if archive.overview and archive.overview.length %}
+  <section class="rule-section">
+    <h2>Overview</h2>
+    {% for paragraph in archive.overview %}
+      <p>{{ paragraph }}</p>
+    {% endfor %}
+  </section>
+{% endif %}
+
+{% if archive.schedule and archive.schedule.length or archive.plannedTopics and archive.plannedTopics.length %}
+  <section class="rule-section">
+    <h2>Schedule and Topics</h2>
+    {% if archive.schedule and archive.schedule.length %}
+      <table class="data-table course-schedule">
+        <thead>
+          <tr>
+            <th>Date</th>
+            <th>Topic</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for item in archive.schedule %}
+            <tr>
+              <td>{{ item[0] }}</td>
+              <td>{{ item[1] }}</td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    {% endif %}
+
+    {% if archive.plannedTopics and archive.plannedTopics.length %}
+      <h3>Topic List</h3>
+      <ul class="plain-list compact-list">
+        {% for item in archive.plannedTopics %}
+          <li>{{ item }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </section>
+{% endif %}
+
+{% if archive.books and archive.books.length or archive.relatedCourses and archive.relatedCourses.length %}
+  <section class="rule-section">
+    <h2>Books and Related Pages</h2>
+    {% if archive.books and archive.books.length %}
+      <h3>Books</h3>
+      <ul class="plain-list compact-list">
+        {% for item in archive.books %}
+          <li>{{ item }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+
+    {% if archive.relatedCourses and archive.relatedCourses.length %}
+      <h3>Related Course Pages</h3>
+      <ul class="plain-list compact-list">
+        {% for item in archive.relatedCourses %}
+          <li><a href="{{ item.url }}">{{ item.label }}</a></li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </section>
+{% endif %}
+
+{% if archive.assignments and archive.assignments.length or archive.projects and archive.projects.length %}
+  <section class="rule-section">
+    <h2>Assignments and Projects</h2>
+    {% if archive.assignments and archive.assignments.length %}
+      <h3>Assignments and Exams</h3>
+      <ul class="plain-list compact-list">
+        {% for item in archive.assignments %}
+          <li>{{ item }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+
+    {% if archive.projects and archive.projects.length %}
+      <h3>Projects</h3>
+      <ul class="plain-list compact-list">
+        {% for item in archive.projects %}
+          <li>{{ item }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </section>
+{% endif %}
+
 {% if course.noteFiles.length or course.courseFiles.length %}
   <section class="rule-section">
-    <h2>Materials</h2>
+    <h2>Local Materials</h2>
     {% if course.noteFiles.length %}
       <h3>Notes</h3>
       <ul class="plain-list compact-list">
@@ -53,9 +143,16 @@ eleventyComputed:
       </ul>
     {% endif %}
   </section>
-{% else %}
+{% endif %}
+
+{% if archive.archiveNote %}
+  <section class="rule-section">
+    <h2>Archive Note</h2>
+    <p class="archive-note">{{ archive.archiveNote }}</p>
+  </section>
+{% elif not course.hasArchiveContent and not course.noteFiles.length and not course.courseFiles.length %}
   <section class="rule-section">
     <h2>Materials</h2>
-    <p>Course information is preserved here as a local archive record. Additional files are not currently available in the public archive.</p>
+    <p>Course information is preserved here as a compact local archive record. Selected materials are not currently available.</p>
   </section>
 {% endif %}

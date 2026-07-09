@@ -309,6 +309,20 @@ p {
   white-space: nowrap;
 }
 
+.course-schedule td:first-child {
+  white-space: nowrap;
+  width: 8rem;
+}
+
+.course-meta dd {
+  margin-bottom: 0.3rem;
+}
+
+.archive-note {
+  color: var(--muted);
+  max-width: 68ch;
+}
+
 .supervision-list {
   display: grid;
   gap: 0;
@@ -464,5 +478,9 @@ code {
 
   .teaching-table td:nth-child(2) {
     min-width: 14rem;
+  }
+
+  .course-schedule td:nth-child(2) {
+    min-width: 18rem;
   }
 }

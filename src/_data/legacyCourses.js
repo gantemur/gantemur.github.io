@@ -3,11 +3,28 @@ const path = require("path");
 
 const root = path.join(__dirname, "..", "..");
 const courses = require("./courses.json");
+const coursePages = require("./coursePages.js");
+
+const coursePageSlugsById = new Map([
+  ["ucsd-math-170c-spring-2007", "math170c"],
+  ["ucsd-math-20f-winter-2007", "math20f"]
+]);
+
+function legacySlug(course) {
+  if (!course) return "";
+  if (course.oldFolder) return course.oldFolder.toLowerCase();
+  if (coursePageSlugsById.has(course.id)) return coursePageSlugsById.get(course.id);
+  if (course.url && course.url.startsWith("/legacy/courses/")) {
+    return course.url.replace(/^\/legacy\/courses\//, "").replace(/\/$/, "").toLowerCase();
+  }
+  return "";
+}
 
 function humanLabel(file) {
   return path
     .basename(file, path.extname(file))
     .replace(/[-_]+/g, " ")
+    .replace(/([a-z])(\d)/gi, "$1 $2")
     .replace(/\b\w/g, (letter) => letter.toUpperCase());
 }
 
@@ -25,9 +42,9 @@ function filesIn(dir, publicPrefix) {
 }
 
 module.exports = courses
-  .filter((course) => course.oldFolder && course.url && course.url.startsWith("/legacy/courses/"))
+  .filter((course) => legacySlug(course) && ((course.url && course.url.startsWith("/legacy/courses/")) || coursePages[legacySlug(course)]))
   .map((course) => {
-    const slug = course.oldFolder.toLowerCase();
+    const slug = legacySlug(course);
     const courseDir = path.join(root, "public", "legacy", "courses", slug);
     const notesDir = path.join(root, "public", "legacy", "notes");
     const notePrefix = `${slug}-`;
@@ -45,8 +62,11 @@ module.exports = courses
 
     return {
       ...course,
+      url: course.url || `/legacy/courses/${slug}/`,
       slug,
+      archiveContent: coursePages[slug] || {},
       courseFiles: filesIn(courseDir, `/legacy/courses/${slug}`),
-      noteFiles: notes
+      noteFiles: notes,
+      hasArchiveContent: Boolean(coursePages[slug])
     };
   });
