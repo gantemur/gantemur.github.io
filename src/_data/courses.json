@@ -1435,6 +1435,7 @@
   },
   {
     "id": "utrecht-ordinary-differential-equations-2005-2006",
+    "code": "WISB231",
     "title": "Ordinary differential equations",
     "term": {
       "label": "2005/2006"
@@ -1464,6 +1465,7 @@
   },
   {
     "id": "utrecht-numerical-mathematics-2005-2006",
+    "code": "WISB251",
     "title": "Numerical mathematics",
     "term": {
       "label": "2005/2006"
