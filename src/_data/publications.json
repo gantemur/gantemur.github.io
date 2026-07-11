@@ -220,32 +220,6 @@
     "source": "_old_site/McGill/research.html; arXiv author page, checked 2026-07-10"
   },
   {
-    "id": "gantumur-adaptive-mixed-fem-stokes-2014",
-    "type": "preprint",
-    "title": "On the convergence theory of adaptive mixed finite element methods for the Stokes problem",
-    "authors": [],
-    "year": 2014,
-    "status": "preprint",
-    "category": "preprint",
-    "arxiv": "1403.0895",
-    "links": [
-      {
-        "label": "arXiv",
-        "url": "https://arxiv.org/abs/1403.0895"
-      }
-    ],
-    "topicIds": [],
-    "featured": false,
-    "cv": {
-      "selected": false
-    },
-    "languages": [
-      "en"
-    ],
-    "cvInclude": true,
-    "source": "_old_site/McGill/research.html; arXiv author page, checked 2026-07-10"
-  },
-  {
     "id": "gantumur-holst-zhu-local-convergence-nonlinear-pdes-2010",
     "type": "preprint",
     "title": "Local convergence of adaptive methods for nonlinear partial differential equations",
@@ -347,6 +321,46 @@
     ],
     "cvInclude": true,
     "source": "Springer JHEP article and arXiv author page, checked 2026-07-10"
+  },
+  {
+    "id": "gantumur-adaptive-mixed-fem-stokes-2014",
+    "type": "journal-article",
+    "title": "Convergence Theory of Adaptive Mixed Finite Element Methods for the Stokes Problem",
+    "authors": [],
+    "year": 2024,
+    "status": "published",
+    "category": "published",
+    "venue": "Journal of Mathematical Sciences",
+    "journal": "Journal of Mathematical Sciences",
+    "details": "Journal of Mathematical Sciences, 279, 794-813 (2024)",
+    "citation": "Journal of Mathematical Sciences, 279, 794-813 (2024)",
+    "publishedDate": "2024-03-28",
+    "doi": "10.1007/s10958-024-07061-9",
+    "arxiv": "1403.0895",
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/1403.0895"
+      },
+      {
+        "label": "journal",
+        "url": "https://link.springer.com/article/10.1007/s10958-024-07061-9"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1007/s10958-024-07061-9"
+      }
+    ],
+    "topicIds": [],
+    "featured": false,
+    "cv": {
+      "selected": false
+    },
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "Crossref/Springer DOI metadata and arXiv, checked 2026-07-11"
   },
   {
     "id": "sicca-gantumur-yamabe-ae-inner-boundary-2023",
