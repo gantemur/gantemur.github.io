@@ -1,14 +1,19 @@
 <li>
-  <strong>{{ pub.title }}</strong>
-  {% if pub.authors and pub.authors.length %}
-    <span>{{ pub.authors | join(", ") }}.</span>
+  {% set coauthors = pub | publicationCoauthors %}
+  {% set citation = pub | publicationCitation %}
+  {% set links = pub | publicationLinks %}
+
+  <strong class="publication-title">{{ pub.title }}</strong>
+  {% if coauthors %}
+    <span class="publication-coauthors">{{ coauthors | safe }}</span>
   {% endif %}
-  <span>{{ pub.year }}{% if pub.venue %}. <em>{{ pub.venue }}</em>{% endif %}{% if pub.details %}, {{ pub.details }}{% elif pub.articleNumber %}, {{ pub.articleNumber }}{% endif %}.</span>
-  <span class="meta">{{ pub.type }}{% if pub.arxiv %}. arXiv:{{ pub.arxiv }}{% endif %}. Languages: {{ pub | languages }}.</span>
-  {% if pub.links %}
-    <span class="links">
-      {% for link in pub.links %}
-        <a href="{{ link.url }}">{{ link.label }}</a>{% if not loop.last %}, {% endif %}
+  {% if citation %}
+    <span class="publication-citation">{{ citation | safe }}</span>
+  {% endif %}
+  {% if links and links.length %}
+    <span class="publication-links">
+      {% for link in links %}
+        <a href="{{ link.url }}">{{ link.label }}</a>{% if not loop.last %} · {% endif %}
       {% endfor %}
     </span>
   {% endif %}

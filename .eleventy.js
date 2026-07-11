@@ -26,6 +26,71 @@ module.exports = function (eleventyConfig) {
     ["vetois", "http://www.math.mcgill.ca/vetois/"]
   ]);
 
+  const selfAuthorNames = new Set([
+    "tsogtgerel gantumur",
+    "gantumur tsogtgerel",
+    "t. gantumur",
+    "g. tsogtgerel"
+  ]);
+
+  function normalizeAuthorText(value) {
+    return String(value || "")
+      .replace(/^with\s+/i, "")
+      .replace(/\s+/g, " ")
+      .trim()
+      .replace(/\.$/, "");
+  }
+
+  function splitAuthorText(value) {
+    return normalizeAuthorText(value)
+      .replace(/,\s+and\s+/gi, ", ")
+      .replace(/\s+and\s+/gi, ", ")
+      .split(/\s*,\s*/)
+      .map((name) => name.trim())
+      .filter(Boolean);
+  }
+
+  function coauthorUrl(name, pub) {
+    const normalized = normalizeName(name);
+    for (const key of ["authorUrls", "coauthorUrls"]) {
+      const map = pub && pub[key];
+      if (map && typeof map === "object" && !Array.isArray(map)) {
+        if (map[name]) return map[name];
+        const match = Object.keys(map).find((item) => normalizeName(item) === normalized);
+        if (match) return map[match];
+      }
+    }
+    for (const key of ["authorLinks", "coauthorLinks"]) {
+      const links = pub && pub[key];
+      if (Array.isArray(links)) {
+        const match = links.find((link) => link && normalizeName(link.name || link.label) === normalized);
+        if (match && match.url) return match.url;
+      }
+    }
+    return "";
+  }
+
+  function compactLinkLabel(label) {
+    const clean = String(label || "").toLowerCase();
+    if (clean.includes("arxiv")) return "arXiv";
+    if (clean.includes("doi")) return "DOI";
+    if (clean.includes("pdf") || clean.includes("download") || clean.includes("main part")) return "pdf";
+    if (clean.includes("journal")) return "journal";
+    return "link";
+  }
+
+  function thesisLinkLabel(label) {
+    return String(label || "link")
+      .replace(/\s*\([^)]*\)\s*/g, " ")
+      .replace(/\s+/g, " ")
+      .trim()
+      .toLowerCase();
+  }
+
+  function isThesis(pub) {
+    return ["status", "category", "type"].some((key) => String(pub && pub[key]).toLowerCase() === "thesis");
+  }
+
   eleventyConfig.addFilter("where", function (items, key, value) {
     if (!Array.isArray(items)) return [];
     return items.filter((item) => item && item[key] === value);
@@ -129,6 +194,90 @@ module.exports = function (eleventyConfig) {
     }
 
     return note;
+  });
+
+  eleventyConfig.addFilter("publicationCoauthors", function (pub) {
+    if (!pub || !Array.isArray(pub.authors)) return "";
+    const coauthors = [];
+    for (const author of pub.authors) {
+      if (!author) continue;
+      if (typeof author === "string") {
+        for (const name of splitAuthorText(author)) {
+          if (!selfAuthorNames.has(normalizeName(name))) {
+            coauthors.push({ name, url: coauthorUrl(name, pub) });
+          }
+        }
+      } else if (author.name && !selfAuthorNames.has(normalizeName(author.name))) {
+        coauthors.push({ name: author.name, url: author.url || coauthorUrl(author.name, pub) });
+      }
+    }
+    if (!coauthors.length) return "";
+    const rendered = coauthors.map((author) => {
+      const name = escapeHtml(author.name);
+      return author.url ? `<a href="${escapeHtml(author.url)}">${name}</a>` : name;
+    });
+    return `with ${rendered.join(", ")}.`;
+  });
+
+  eleventyConfig.addFilter("publicationCitation", function (pub) {
+    if (!pub) return "";
+    if (isThesis(pub)) {
+      const details = String(pub.details || "")
+        .split(/\s*,\s*/)
+        .map((part) => part.trim())
+        .filter(Boolean)
+        .map(escapeHtml);
+      return details.length ? `${details.join(". ")}.` : pub.year ? `${escapeHtml(pub.year)}.` : "";
+    }
+
+    const pieces = [];
+    if (pub.year) pieces.push(escapeHtml(pub.year));
+    if (pub.citation) {
+      pieces.push(escapeHtml(pub.citation));
+    } else {
+      const details = pub.details || pub.articleNumber || "";
+      if (pub.venue && details) pieces.push(`<em>${escapeHtml(pub.venue)}</em>, ${escapeHtml(details)}`);
+      else if (pub.venue) pieces.push(`<em>${escapeHtml(pub.venue)}</em>`);
+      else if (details) pieces.push(escapeHtml(details));
+    }
+    return pieces.length ? `${pieces.join(". ")}.` : "";
+  });
+
+  eleventyConfig.addFilter("publicationLinks", function (pub) {
+    if (!pub) return [];
+    const links = Array.isArray(pub.links) ? pub.links : [];
+    const out = [];
+    const seen = new Set();
+    const add = (label, url) => {
+      if (!url || seen.has(url)) return;
+      seen.add(url);
+      out.push({ label, url });
+    };
+    const findLink = (pattern) => links.find((link) => link && pattern.test(link.label || ""));
+
+    if (isThesis(pub)) {
+      for (const link of links) {
+        if (!link) continue;
+        add(thesisLinkLabel(link.label), link.url);
+      }
+      return out;
+    }
+
+    const arxiv = findLink(/arxiv/i);
+    add("arXiv", arxiv ? arxiv.url : pub.arxiv ? `https://arxiv.org/abs/${pub.arxiv}` : "");
+
+    const journal = findLink(/journal/i) || links.find((link) => link && !/arxiv|doi|pdf|download/i.test(link.label || "") && /^https?:/i.test(link.url || ""));
+    add(journal ? compactLinkLabel(journal.label) : "journal", journal && journal.url);
+
+    const doi = findLink(/doi/i);
+    add("DOI", doi ? doi.url : pub.doi ? `https://doi.org/${pub.doi}` : "");
+
+    for (const link of links) {
+      if (!link || !/pdf|download|main part/i.test(link.label || "")) continue;
+      add("pdf", link.url);
+    }
+
+    return out;
   });
 
   eleventyConfig.addFilter("studentRelationships", function (items, relationships) {

@@ -15,6 +15,7 @@ permalink: /publications/
 {% set articles = publications | where("status", "article") %}
 {% set published = publications | where("status", "published") %}
 {% set accepted = publications | where("status", "accepted") %}
+{% set theses = publications | where("status", "thesis") %}
 
 <section>
   <h2>Preprints</h2>
@@ -35,6 +36,15 @@ permalink: /publications/
       {% include "partials/publication.njk" %}
     {% endfor %}
     {% for pub in articles %}
+      {% include "partials/publication.njk" %}
+    {% endfor %}
+  </ol>
+</section>
+
+<section>
+  <h2>Thesis</h2>
+  <ol class="pub-list">
+    {% for pub in theses %}
       {% include "partials/publication.njk" %}
     {% endfor %}
   </ol>
