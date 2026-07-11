@@ -5,35 +5,16 @@ permalink: /publications/
 ---
 
 <h1>Publications</h1>
-<p class="lede narrow">Selected and recent publications, with older entries carried over from the previous academic homepage. Missing bibliographic details are simply omitted until they are part of the public record.</p>
+<p class="profile-links compact">
+  <a href="https://arxiv.org/a/gantumur_t_1.html">arXiv</a>
+  <span aria-hidden="true"> · </span>
+  <a href="https://scholar.google.com/citations?hl=en&amp;user=Lr3ZeKwAAAAJ">Google Scholar</a>
+</p>
 
-{% set featured = publications | where("featured", true) %}
 {% set preprints = publications | where("status", "preprint") %}
 {% set articles = publications | where("status", "article") %}
 {% set published = publications | where("status", "published") %}
-{% set inPreparation = publications | where("status", "in-preparation") %}
-{% set theses = publications | where("status", "thesis") %}
-
-<section>
-  <h2>Selected Recent Work</h2>
-  <ol class="pub-list">
-    {% for pub in featured %}
-      {% include "partials/publication.njk" %}
-    {% endfor %}
-  </ol>
-</section>
-
-<section>
-  <h2>Published and Accepted</h2>
-  <ol class="pub-list">
-    {% for pub in published %}
-      {% include "partials/publication.njk" %}
-    {% endfor %}
-    {% for pub in articles %}
-      {% include "partials/publication.njk" %}
-    {% endfor %}
-  </ol>
-</section>
+{% set accepted = publications | where("status", "accepted") %}
 
 <section>
   <h2>Preprints</h2>
@@ -45,18 +26,15 @@ permalink: /publications/
 </section>
 
 <section>
-  <h2>Thesis</h2>
+  <h2>Published and accepted</h2>
   <ol class="pub-list">
-    {% for pub in theses %}
+    {% for pub in published %}
       {% include "partials/publication.njk" %}
     {% endfor %}
-  </ol>
-</section>
-
-<section>
-  <h2>Manuscripts</h2>
-  <ol class="pub-list">
-    {% for pub in inPreparation %}
+    {% for pub in accepted %}
+      {% include "partials/publication.njk" %}
+    {% endfor %}
+    {% for pub in articles %}
       {% include "partials/publication.njk" %}
     {% endfor %}
   </ol>

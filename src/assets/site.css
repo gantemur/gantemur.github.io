@@ -255,6 +255,28 @@ p {
   display: block;
 }
 
+.profile-links {
+  margin-top: -0.35rem;
+}
+
+.publication-title {
+  display: block;
+  font-weight: 650;
+}
+
+.publication-coauthors {
+  color: var(--muted);
+}
+
+.publication-citation {
+  color: var(--text);
+}
+
+.publication-links {
+  font-size: 0.92rem;
+  margin-top: 0.12rem;
+}
+
 .compact {
   font-size: 0.96rem;
 }
