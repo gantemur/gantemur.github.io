@@ -363,6 +363,43 @@
     "source": "Crossref/Springer DOI metadata and arXiv, checked 2026-07-11"
   },
   {
+    "id": "feng-hu-mei-gantumur-zhang-semiconductor-relaxation-2024",
+    "type": "journal-article",
+    "title": "Relaxation Time Limits of Subsonic Steady States for Multidimensional Hydrodynamic Model of Semiconductors",
+    "authors": [
+      "with Yue-Hong Feng, Haifeng Hu, Ming Mei, and Guojing Zhang"
+    ],
+    "year": 2024,
+    "status": "published",
+    "category": "published",
+    "venue": "SIAM Journal on Mathematical Analysis",
+    "journal": "SIAM Journal on Mathematical Analysis",
+    "details": "SIAM Journal on Mathematical Analysis, 56(5), 6933-6962 (2024)",
+    "citation": "SIAM Journal on Mathematical Analysis, 56(5), 6933-6962 (2024)",
+    "publishedDate": "2024-10-17",
+    "doi": "10.1137/24M1648879",
+    "links": [
+      {
+        "label": "journal",
+        "url": "https://epubs.siam.org/doi/10.1137/24M1648879"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1137/24M1648879"
+      }
+    ],
+    "topicIds": [],
+    "featured": false,
+    "cv": {
+      "selected": false
+    },
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "Current CV and Crossref/SIAM DOI metadata, checked 2026-07-11"
+  },
+  {
     "id": "sicca-gantumur-yamabe-ae-inner-boundary-2023",
     "type": "journal-article",
     "title": "A prescribed scalar and boundary mean curvature problem and the Yamabe classification on asymptotically Euclidean manifolds with inner boundary",
@@ -414,6 +451,90 @@
     ],
     "cvInclude": true,
     "source": "Springer Journal of Geometric Analysis article and arXiv, checked 2026-07-11"
+  },
+  {
+    "id": "rubasinghe-yao-niu-gantumur-polyharmonic-splines-interpolation-2023",
+    "type": "journal-article",
+    "title": "Polyharmonic splines interpolation on scattered data in 2D and 3D with applications",
+    "authors": [
+      "with Kalani Rubasinghe, Guangming Yao, and Jing Niu"
+    ],
+    "year": 2023,
+    "status": "published",
+    "category": "published",
+    "venue": "Engineering Analysis with Boundary Elements",
+    "journal": "Engineering Analysis with Boundary Elements",
+    "details": "Engineering Analysis with Boundary Elements, 156, 240-250 (2023)",
+    "citation": "Engineering Analysis with Boundary Elements, 156, 240-250 (2023)",
+    "doi": "10.1016/j.enganabound.2023.08.001",
+    "corrections": [
+      {
+        "citation": "Corrigendum, Engineering Analysis with Boundary Elements, 160, 298 (2024)",
+        "doi": "10.1016/j.enganabound.2024.01.006",
+        "url": "https://doi.org/10.1016/j.enganabound.2024.01.006"
+      }
+    ],
+    "links": [
+      {
+        "label": "journal",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0955799723004022"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1016/j.enganabound.2023.08.001"
+      },
+      {
+        "label": "corrigendum",
+        "url": "https://doi.org/10.1016/j.enganabound.2024.01.006"
+      }
+    ],
+    "topicIds": [],
+    "featured": false,
+    "cv": {
+      "selected": false
+    },
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "Current CV and Crossref/Elsevier DOI metadata, checked 2026-07-11"
+  },
+  {
+    "id": "rubasinghe-yao-li-gantumur-nonlinear-elliptic-phs-2023",
+    "type": "journal-article",
+    "title": "Solving Nonlinear Elliptic PDEs in 2D and 3D Using Polyharmonic Splines and Low-Degree of Polynomials",
+    "authors": [
+      "with Kalani Rubasinghe, Guangming Yao, and Wen Li"
+    ],
+    "year": 2023,
+    "status": "published",
+    "category": "published",
+    "venue": "International Journal of Computational Methods",
+    "journal": "International Journal of Computational Methods",
+    "details": "International Journal of Computational Methods, 20(8), 2250051 (2023)",
+    "citation": "International Journal of Computational Methods, 20(8), 2250051 (2023)",
+    "publishedDate": "2023-05-26",
+    "doi": "10.1142/S0219876222500517",
+    "links": [
+      {
+        "label": "journal",
+        "url": "https://www.worldscientific.com/doi/10.1142/S0219876222500517"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1142/S0219876222500517"
+      }
+    ],
+    "topicIds": [],
+    "featured": false,
+    "cv": {
+      "selected": false
+    },
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "Current CV and Crossref/World Scientific DOI metadata, checked 2026-07-11"
   },
   {
     "id": "al-balushi-gantumur-jiang-kim-bspline-qg-2020",
