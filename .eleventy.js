@@ -105,6 +105,59 @@ module.exports = function (eleventyConfig) {
     return arxiv ? arxiv.url : pub && pub.arxiv ? `https://arxiv.org/abs/${pub.arxiv}` : "";
   }
 
+  function publicationKind(pub) {
+    return ["status", "category", "type"]
+      .map((key) => (pub && pub[key] ? String(pub[key]).toLowerCase() : ""))
+      .filter(Boolean);
+  }
+
+  function hasPublicationKind(pub, kinds) {
+    return publicationKind(pub).some((kind) => kinds.has(kind));
+  }
+
+  function publicationYear(pub) {
+    const year = Number(pub && pub.year);
+    return Number.isFinite(year) ? year : 0;
+  }
+
+  function publicationDateValue(pub) {
+    for (const key of ["publishedDate", "date", "publicationDate"]) {
+      const time = Date.parse(pub && pub[key]);
+      if (Number.isFinite(time)) return time;
+    }
+    const year = publicationYear(pub);
+    return year ? Date.UTC(year, 11, 31) : 0;
+  }
+
+  function arxivId(pub) {
+    return String(
+      (pub && pub.arxiv) ||
+      String((pub && pub.details) || "").match(/arxiv:([^\s()]+)/i)?.[1] ||
+      ""
+    ).trim();
+  }
+
+  function arxivSortValue(pub) {
+    const id = arxivId(pub);
+    const modern = id.match(/^(\d{2})(\d{2})\.(\d+)/);
+    if (modern) {
+      const yy = Number(modern[1]);
+      const year = yy >= 90 ? 1900 + yy : 2000 + yy;
+      return year * 100000000 + Number(modern[2]) * 1000000 + Number(modern[3]);
+    }
+    const digits = id.replace(/\D/g, "");
+    return digits ? Number(digits.slice(0, 12)) : 0;
+  }
+
+  function publicationTitleCompare(a, b) {
+    return String((a && a.title) || "").localeCompare(String((b && b.title) || ""));
+  }
+
+  function sortPublicationSection(items, kinds, compare) {
+    if (!Array.isArray(items)) return [];
+    return items.filter((pub) => hasPublicationKind(pub, kinds)).sort(compare);
+  }
+
   eleventyConfig.addFilter("where", function (items, key, value) {
     if (!Array.isArray(items)) return [];
     return items.filter((item) => item && item[key] === value);
@@ -325,6 +378,32 @@ module.exports = function (eleventyConfig) {
     }
 
     return out;
+  });
+
+  eleventyConfig.addFilter("publicationPreprints", function (items) {
+    return sortPublicationSection(items, new Set(["preprint"]), (a, b) => {
+      return (
+        (arxivSortValue(b) || publicationYear(b) * 100000000) -
+        (arxivSortValue(a) || publicationYear(a) * 100000000) ||
+        publicationTitleCompare(a, b)
+      );
+    });
+  });
+
+  eleventyConfig.addFilter("publicationPublishedAndAccepted", function (items) {
+    return sortPublicationSection(items, new Set(["published", "accepted", "article"]), (a, b) => {
+      return (
+        publicationDateValue(b) - publicationDateValue(a) ||
+        arxivSortValue(b) - arxivSortValue(a) ||
+        publicationTitleCompare(a, b)
+      );
+    });
+  });
+
+  eleventyConfig.addFilter("publicationTheses", function (items) {
+    return sortPublicationSection(items, new Set(["thesis"]), (a, b) => {
+      return publicationDateValue(b) - publicationDateValue(a) || publicationTitleCompare(a, b);
+    });
   });
 
   eleventyConfig.addFilter("studentRelationships", function (items, relationships) {

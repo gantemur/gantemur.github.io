@@ -11,11 +11,9 @@ permalink: /publications/
   <a href="https://scholar.google.com/citations?hl=en&amp;user=Lr3ZeKwAAAAJ">Google Scholar</a>
 </p>
 
-{% set preprints = publications | where("status", "preprint") %}
-{% set articles = publications | where("status", "article") %}
-{% set published = publications | where("status", "published") %}
-{% set accepted = publications | where("status", "accepted") %}
-{% set theses = publications | where("status", "thesis") %}
+{% set preprints = publications | publicationPreprints %}
+{% set publishedAndAccepted = publications | publicationPublishedAndAccepted %}
+{% set theses = publications | publicationTheses %}
 
 <section>
   <h2>Preprints</h2>
@@ -29,13 +27,7 @@ permalink: /publications/
 <section>
   <h2>Published and accepted</h2>
   <ol class="pub-list">
-    {% for pub in published %}
-      {% include "partials/publication.njk" %}
-    {% endfor %}
-    {% for pub in accepted %}
-      {% include "partials/publication.njk" %}
-    {% endfor %}
-    {% for pub in articles %}
+    {% for pub in publishedAndAccepted %}
       {% include "partials/publication.njk" %}
     {% endfor %}
   </ol>
