@@ -74,9 +74,10 @@ module.exports = function (eleventyConfig) {
     const clean = String(label || "").toLowerCase();
     if (clean.includes("arxiv")) return "arXiv";
     if (clean.includes("doi")) return "DOI";
+    if (clean.includes("correction")) return "correction";
     if (clean.includes("pdf") || clean.includes("download") || clean.includes("main part")) return "pdf";
     if (clean.includes("journal")) return "journal";
-    return "link";
+    return clean.replace(/\s*\([^)]*\)\s*/g, " ").replace(/\s+/g, " ").trim() || "link";
   }
 
   function thesisLinkLabel(label) {
@@ -89,6 +90,19 @@ module.exports = function (eleventyConfig) {
 
   function isThesis(pub) {
     return ["status", "category", "type"].some((key) => String(pub && pub[key]).toLowerCase() === "thesis");
+  }
+
+  function isPreprint(pub) {
+    return ["status", "category", "type"].some((key) => String(pub && pub[key]).toLowerCase() === "preprint");
+  }
+
+  function hasParenthesizedYear(value) {
+    return /\(\d{4}\)/.test(String(value || ""));
+  }
+
+  function arxivUrl(pub, links) {
+    const arxiv = Array.isArray(links) ? links.find((link) => link && /arxiv/i.test(link.label || "")) : null;
+    return arxiv ? arxiv.url : pub && pub.arxiv ? `https://arxiv.org/abs/${pub.arxiv}` : "";
   }
 
   eleventyConfig.addFilter("where", function (items, key, value) {
@@ -221,25 +235,45 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addFilter("publicationCitation", function (pub) {
     if (!pub) return "";
+    const links = Array.isArray(pub.links) ? pub.links : [];
+    if (isPreprint(pub)) {
+      const arxivId = pub.arxiv || String(pub.details || "").match(/arxiv:([^\s()]+)/i)?.[1];
+      if (arxivId) {
+        const label = `arXiv:${escapeHtml(arxivId)}`;
+        const linked = arxivUrl(pub, links) ? `<a href="${escapeHtml(arxivUrl(pub, links))}">${label}</a>` : label;
+        return `${linked}${pub.year ? ` (${escapeHtml(pub.year)})` : ""}.`;
+      }
+      if (pub.details) return `${escapeHtml(pub.details).replace(/\.$/, "")}.`;
+      return pub.year ? `${escapeHtml(pub.year)}.` : "";
+    }
+
     if (isThesis(pub)) {
       const details = String(pub.details || "")
         .split(/\s*,\s*/)
         .map((part) => part.trim())
-        .filter(Boolean)
-        .map(escapeHtml);
-      return details.length ? `${details.join(". ")}.` : pub.year ? `${escapeHtml(pub.year)}.` : "";
+        .filter(Boolean);
+      if (/^phd thesis$/i.test(details[0] || "") && details.length >= 5) {
+        const formatted = [
+          details[0],
+          `${details[1]}, ${details[2]}`,
+          ...details.slice(3)
+        ].map(escapeHtml);
+        return `${formatted.join(". ")}.`;
+      }
+      const formatted = details.map(escapeHtml);
+      return formatted.length ? `${formatted.join(". ")}.` : pub.year ? `${escapeHtml(pub.year)}.` : "";
+    }
+
+    if (pub.citation) {
+      return `${escapeHtml(pub.citation).replace(/\.$/, "")}.`;
     }
 
     const pieces = [];
-    if (pub.year) pieces.push(escapeHtml(pub.year));
-    if (pub.citation) {
-      pieces.push(escapeHtml(pub.citation));
-    } else {
-      const details = pub.details || pub.articleNumber || "";
-      if (pub.venue && details) pieces.push(`<em>${escapeHtml(pub.venue)}</em>, ${escapeHtml(details)}`);
-      else if (pub.venue) pieces.push(`<em>${escapeHtml(pub.venue)}</em>`);
-      else if (details) pieces.push(escapeHtml(details));
-    }
+    const details = pub.details || pub.journalDetails || pub.articleNumber || "";
+    if (pub.venue && details) pieces.push(`<em>${escapeHtml(pub.venue)}</em>, ${escapeHtml(details)}`);
+    else if (details) pieces.push(escapeHtml(details));
+    else if (pub.venue) pieces.push(`<em>${escapeHtml(pub.venue)}</em>`);
+    if (pub.year && !hasParenthesizedYear(details)) pieces.unshift(escapeHtml(pub.year));
     return pieces.length ? `${pieces.join(". ")}.` : "";
   });
 
@@ -263,6 +297,14 @@ module.exports = function (eleventyConfig) {
       return out;
     }
 
+    if (isPreprint(pub) && pub.arxiv) {
+      for (const link of links) {
+        if (!link || /arxiv/i.test(link.label || "")) continue;
+        add(compactLinkLabel(link.label), link.url);
+      }
+      return out;
+    }
+
     const arxiv = findLink(/arxiv/i);
     add("arXiv", arxiv ? arxiv.url : pub.arxiv ? `https://arxiv.org/abs/${pub.arxiv}` : "");
 
@@ -275,6 +317,11 @@ module.exports = function (eleventyConfig) {
     for (const link of links) {
       if (!link || !/pdf|download|main part/i.test(link.label || "")) continue;
       add("pdf", link.url);
+    }
+
+    for (const link of links) {
+      if (!link || /arxiv|journal|doi|pdf|download|main part/i.test(link.label || "")) continue;
+      add(compactLinkLabel(link.label), link.url);
     }
 
     return out;

@@ -274,6 +274,39 @@
     "source": "_old_site/McGill/research.html"
   },
   {
+    "id": "holst-maxwell-gantumur-scaling-elliptic-operators-2023",
+    "type": "preprint",
+    "title": "A scaling approach to elliptic theory for geometrically-natural differential operators with Sobolev-type coefficients",
+    "authors": [
+      "with Michael Holst and David Maxwell"
+    ],
+    "year": 2023,
+    "status": "preprint",
+    "category": "preprint",
+    "arxiv": "2306.15842",
+    "details": "arXiv:2306.15842 (2023)",
+    "subjects": [
+      "Analysis of PDEs",
+      "Differential Geometry"
+    ],
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2306.15842"
+      }
+    ],
+    "topicIds": [],
+    "featured": false,
+    "cv": {
+      "selected": false
+    },
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "arXiv, checked 2026-07-11"
+  },
+  {
     "id": "gantumur-dynamical-lattice-regulators-jhep-2026",
     "type": "journal-article",
     "title": "Rotationally invariant dynamical lattice regulators for Euclidean quantum field theories",
@@ -316,6 +349,59 @@
     "source": "Springer JHEP article and arXiv author page, checked 2026-07-10"
   },
   {
+    "id": "sicca-gantumur-yamabe-ae-inner-boundary-2023",
+    "type": "journal-article",
+    "title": "A prescribed scalar and boundary mean curvature problem and the Yamabe classification on asymptotically Euclidean manifolds with inner boundary",
+    "authors": [
+      "with Vladmir Sicca"
+    ],
+    "year": 2023,
+    "status": "published",
+    "category": "published",
+    "venue": "Journal of Geometric Analysis",
+    "journal": "Journal of Geometric Analysis",
+    "details": "J. Geom. Anal. 33, 342 (2023)",
+    "citation": "J. Geom. Anal. 33, 342 (2023)",
+    "publishedDate": "2023-08-11",
+    "doi": "10.1007/s12220-023-01346-2",
+    "arxiv": "2204.01002",
+    "corrections": [
+      {
+        "citation": "J. Geom. Anal. 34, 199 (2024)",
+        "doi": "10.1007/s12220-024-01660-3",
+        "url": "https://doi.org/10.1007/s12220-024-01660-3"
+      }
+    ],
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2204.01002"
+      },
+      {
+        "label": "journal",
+        "url": "https://link.springer.com/article/10.1007/s12220-023-01346-2"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1007/s12220-023-01346-2"
+      },
+      {
+        "label": "correction",
+        "url": "https://doi.org/10.1007/s12220-024-01660-3"
+      }
+    ],
+    "topicIds": [],
+    "featured": false,
+    "cv": {
+      "selected": false
+    },
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "Springer Journal of Geometric Analysis article and arXiv, checked 2026-07-11"
+  },
+  {
     "id": "al-balushi-gantumur-jiang-kim-bspline-qg-2020",
     "type": "journal-article",
     "title": "A posteriori analysis of a B-spline based finite-element method for the stationary quasi-geostrophic equations of the ocean",
@@ -327,10 +413,15 @@
     "category": "published",
     "venue": "Computer Methods in Applied Mechanics and Engineering",
     "details": "371:113317 (2020)",
+    "doi": "10.1016/j.cma.2020.113317",
     "links": [
       {
         "label": "journal",
         "url": "https://www.sciencedirect.com/science/article/pii/S0045782520305028"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1016/j.cma.2020.113317"
       }
     ],
     "topicIds": [],
@@ -356,11 +447,16 @@
     "category": "published",
     "venue": "Discrete & Computational Geometry",
     "details": "63(2):346-376 (2020)",
+    "doi": "10.1007/s00454-019-00159-x",
     "arxiv": "1611.03955",
     "links": [
       {
         "label": "arXiv",
         "url": "https://arxiv.org/abs/1611.03955"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1007/s00454-019-00159-x"
       }
     ],
     "topicIds": [],
@@ -386,11 +482,16 @@
     "category": "published",
     "venue": "Communications in Mathematical Physics",
     "details": "357(2):467-517 (2018)",
+    "doi": "10.1007/s00220-017-3004-9",
     "arxiv": "1310.2302",
     "links": [
       {
         "label": "arXiv",
         "url": "https://arxiv.org/abs/1310.2302"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1007/s00220-017-3004-9"
       }
     ],
     "topicIds": [],
@@ -416,10 +517,15 @@
     "category": "published",
     "venue": "Computer Methods in Applied Mechanics and Engineering",
     "details": "332:1-24 (2018)",
+    "doi": "10.1016/j.cma.2017.12.008",
     "links": [
       {
         "label": "journal",
         "url": "https://www.sciencedirect.com/science/article/pii/S0045782517307600"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1016/j.cma.2017.12.008"
       }
     ],
     "topicIds": [],
@@ -443,11 +549,16 @@
     "category": "published",
     "venue": "Foundations of Computational Mathematics",
     "details": "17(4), 917-956 (2017)",
+    "doi": "10.1007/s10208-016-9308-x",
     "arxiv": "1408.3889",
     "links": [
       {
         "label": "arXiv",
         "url": "https://arxiv.org/abs/1408.3889"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1007/s10208-016-9308-x"
       }
     ],
     "topicIds": [],
@@ -473,11 +584,16 @@
     "category": "published",
     "venue": "ESAIM: Control, Optimisation and Calculus of Variations",
     "details": "21(1), 247-270 (2015)",
+    "doi": "10.1051/cocv/2014031",
     "arxiv": "1311.3512",
     "links": [
       {
         "label": "arXiv",
         "url": "https://arxiv.org/abs/1311.3512"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1051/cocv/2014031"
       }
     ],
     "topicIds": [],
@@ -503,11 +619,16 @@
     "category": "published",
     "venue": "Transactions of the American Mathematical Society",
     "details": "366, 5487-5502 (2014)",
+    "doi": "10.1090/s0002-9947-2014-06134-5",
     "arxiv": "1212.4472",
     "links": [
       {
         "label": "arXiv",
         "url": "https://arxiv.org/abs/1212.4472"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1090/s0002-9947-2014-06134-5"
       }
     ],
     "topicIds": [],
@@ -533,11 +654,16 @@
     "category": "published",
     "venue": "Classical and Quantum Gravity",
     "details": "30, 205011 (2013); selected as a journal highlight in 2013-2014",
+    "doi": "10.1088/0264-9381/30/20/205011",
     "arxiv": "1306.1801",
     "links": [
       {
         "label": "arXiv",
         "url": "https://arxiv.org/abs/1306.1801"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1088/0264-9381/30/20/205011"
       },
       {
         "label": "highlight",
@@ -565,11 +691,16 @@
     "category": "published",
     "venue": "Numerische Mathematik",
     "details": "124(3), 471-516 (2013)",
+    "doi": "10.1007/s00211-013-0524-x",
     "arxiv": "1107.0524",
     "links": [
       {
         "label": "arXiv",
         "url": "https://arxiv.org/abs/1107.0524"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1007/s00211-013-0524-x"
       }
     ],
     "topicIds": [],
@@ -595,11 +726,16 @@
     "category": "published",
     "venue": "Journal of Nonlinear Science",
     "details": "20(5), 523-567 (2010)",
+    "doi": "10.1007/s00332-010-9066-x",
     "arxiv": "0901.4412",
     "links": [
       {
         "label": "arXiv",
         "url": "https://arxiv.org/abs/0901.4412"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1007/s00332-010-9066-x"
       }
     ],
     "topicIds": [],
@@ -625,11 +761,16 @@
     "category": "published",
     "venue": "Communications in Mathematical Physics",
     "details": "288, 547-613 (2009)",
+    "doi": "10.1007/s00220-009-0743-2",
     "arxiv": "0712.0798",
     "links": [
       {
         "label": "arXiv",
         "url": "https://arxiv.org/abs/0712.0798"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1007/s00220-009-0743-2"
       }
     ],
     "topicIds": [],
@@ -655,11 +796,16 @@
     "category": "published",
     "venue": "Physical Review Letters",
     "details": "100, 161101 (2008)",
+    "doi": "10.1103/physrevlett.100.161101",
     "arxiv": "0802.1031",
     "links": [
       {
         "label": "arXiv",
         "url": "https://arxiv.org/abs/0802.1031"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1103/physrevlett.100.161101"
       }
     ],
     "topicIds": [],
@@ -683,10 +829,15 @@
     "category": "published",
     "venue": "Journal of Computational and Applied Mathematics",
     "details": "211(1), 90-102 (2008)",
+    "doi": "10.1016/j.cam.2006.11.013",
     "links": [
       {
         "label": "pdf",
         "url": "/legacy/files/publications/nonsym.p.pdf"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1016/j.cam.2006.11.013"
       }
     ],
     "topicIds": [],
@@ -712,10 +863,15 @@
     "category": "published",
     "venue": "Mathematics of Computation",
     "details": "76, 615-629 (2007)",
+    "doi": "10.1090/s0025-5718-06-01917-x",
     "links": [
       {
         "label": "pdf",
         "url": "/legacy/files/publications/nocoarseRevis.pdf"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1090/s0025-5718-06-01917-x"
       }
     ],
     "topicIds": [],
@@ -741,10 +897,15 @@
     "category": "published",
     "venue": "Computing",
     "details": "76, 77-107 (2006)",
+    "doi": "10.1007/s00607-005-0135-1",
     "links": [
       {
         "label": "pdf",
         "url": "/legacy/files/publications/computing.pdf"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1007/s00607-005-0135-1"
       }
     ],
     "topicIds": [],
@@ -770,10 +931,15 @@
     "category": "published",
     "venue": "Mathematics of Computation",
     "details": "75, 697-709 (2006)",
+    "doi": "10.1090/s0025-5718-05-01807-7",
     "links": [
       {
         "label": "pdf",
         "url": "/legacy/files/publications/computdif.pdf"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1090/s0025-5718-05-01807-7"
       }
     ],
     "topicIds": [],
@@ -796,6 +962,10 @@
     "status": "thesis",
     "category": "thesis",
     "venue": "Utrecht University",
+    "degree": "PhD thesis",
+    "institution": "Department of Mathematics, Utrecht University",
+    "date": "August 2006",
+    "isbn": "90-393-4365-9",
     "details": "PhD thesis, Department of Mathematics, Utrecht University, August 2006, ISBN 90-393-4365-9",
     "links": [
       {
