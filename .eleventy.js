@@ -158,6 +158,11 @@ module.exports = function (eleventyConfig) {
     return items.filter((pub) => hasPublicationKind(pub, kinds)).sort(compare);
   }
 
+  function authorSortKey(name) {
+    const parts = String(name || "").trim().split(/\s+/).filter(Boolean);
+    return normalizeName(parts.length ? parts[parts.length - 1] : name);
+  }
+
   eleventyConfig.addFilter("where", function (items, key, value) {
     if (!Array.isArray(items)) return [];
     return items.filter((item) => item && item[key] === value);
@@ -378,6 +383,43 @@ module.exports = function (eleventyConfig) {
     }
 
     return out;
+  });
+
+  eleventyConfig.addFilter("publicationCollaborators", function (items) {
+    if (!Array.isArray(items)) return [];
+
+    const collaborators = new Map();
+    const add = (name, url) => {
+      const cleanName = String(name || "").trim();
+      if (!cleanName || selfAuthorNames.has(normalizeName(cleanName))) return;
+
+      const key = normalizeName(cleanName);
+      if (!key) return;
+      const existing = collaborators.get(key);
+      if (existing) {
+        if (!existing.url && url) existing.url = url;
+        return;
+      }
+      collaborators.set(key, { name: cleanName, url: url || "" });
+    };
+
+    for (const pub of items) {
+      if (!pub || !Array.isArray(pub.authors)) continue;
+      for (const author of pub.authors) {
+        if (!author) continue;
+        if (typeof author === "string") {
+          for (const name of splitAuthorText(author)) {
+            add(name, coauthorUrl(name, pub));
+          }
+        } else if (author.name) {
+          add(author.name, author.url || coauthorUrl(author.name, pub));
+        }
+      }
+    }
+
+    return [...collaborators.values()].sort((a, b) => {
+      return authorSortKey(a.name).localeCompare(authorSortKey(b.name)) || a.name.localeCompare(b.name);
+    });
   });
 
   eleventyConfig.addFilter("publicationPreprints", function (items) {

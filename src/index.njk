@@ -7,11 +7,9 @@ description: Academic homepage for Tsogtgerel Gantumur.
 {% set featuredPublications = publications | where("featured", true) %}
 
 <section class="intro home-intro">
-  <p class="eyebrow">Academic homepage</p>
-  <h1>{{ site.name }}</h1>
+  <h1 class="eyebrow">Academic homepage</h1>
   <p class="name-mn" lang="mn">{{ site.name_mn }}</p>
   <p class="lede">{{ site.welcome.en }}</p>
-  <p class="affiliation-note">{{ site.affiliationDraft }}</p>
   <div class="link-row" aria-label="Primary links">
     <a href="/research/">Research</a>
     <a href="/publications/">Publications</a>

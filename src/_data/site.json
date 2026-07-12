@@ -12,8 +12,8 @@
     "mn"
   ],
   "email": {
-    "display": "gantumur -at- math.mcgill.ca",
-    "status": "old McGill address"
+    "display": "gantimur -at- gmail.com",
+    "status": "durable personal email"
   },
   "locations": [
     {
@@ -52,7 +52,7 @@
     "mathGenealogy": "http://genealogy.math.ndsu.nodak.edu/id.php?id=100175"
   },
   "welcome": {
-    "en": "I work on analysis, numerical methods, geometry, and mathematical physics, with a recurring interest in how continuous structures are represented by algorithms.",
+    "en": "I work on analysis, numerical methods, geometry, and mathematical physics, with interests in continuous models and their approximation, computation, and structure.",
     "mn": "Сайн байна уу. Энэ хуудсанд миний судалгаа, хичээл, тэмдэглэл, мөн Монгол хэлээрх сургалтын материалуудын холбоос багтана."
   },
   "sourceNotes": {

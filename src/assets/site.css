@@ -285,6 +285,11 @@ p {
   font-size: 0.95rem;
 }
 
+.collaborator-list {
+  font-size: 0.95rem;
+  max-width: var(--text-measure);
+}
+
 .featured-work {
   border-bottom: 1px solid var(--line);
   padding-bottom: 0.5rem;

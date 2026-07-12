@@ -17,6 +17,20 @@ permalink: /research/
   {% endfor %}
 </div>
 
+{% set collaborators = publications | publicationCollaborators %}
+{% if collaborators.length %}
+  <section class="rule-section">
+    <h2>Collaborators and coauthors</h2>
+    <p>A compact list drawn from joint publications. See <a href="/supervision/">Supervision</a> for students and postdoctoral fellows.</p>
+    <p class="collaborator-list">
+      {% for person in collaborators %}
+        {% if person.url %}
+          <a href="{{ person.url }}">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}{% if not loop.last %}, {% endif %}
+      {% endfor %}
+    </p>
+  </section>
+{% endif %}
+
 <section class="rule-section">
   <h2>Talks</h2>
   <p>Selected talks and seminars from the research archive.</p>
