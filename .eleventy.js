@@ -26,6 +26,27 @@ module.exports = function (eleventyConfig) {
     ["vetois", "http://www.math.mcgill.ca/vetois/"]
   ]);
 
+  const coauthorProfileUrls = new Map([
+    ["caleb meier", "http://www.math.ucsd.edu/~c1meier/"],
+    ["douglas n. arnold", "http://www.ima.umn.edu/~arnold/"],
+    ["evelyn lunasin", "http://www.usna.edu/MathDept/faculty-directory.php"],
+    ["gabriel nagy", "http://math.msu.edu/~gnagy/"],
+    ["gerard awanou", "http://homepages.math.uic.edu/~awanou/"],
+    ["helmut harbrecht", "http://harbrecht.ins.uni-bonn.de/"],
+    ["ihsan topaloglu", "https://www.ihsantopaloglu.com"],
+    ["ibrahim al balushi", "http://www.mcgill.ca/mathstat/"],
+    ["johnny guzman", "http://www.dam.brown.edu/people/guzman.html"],
+    ["johnny guzmán", "http://www.dam.brown.edu/people/guzman.html"],
+    ["michael holst", "http://www.ccom.ucsd.edu/~mholst/"],
+    ["ming mei", "http://www.math.mcgill.ca/~mei/"],
+    ["richard s. falk", "http://www.math.rutgers.edu/~falk/"],
+    ["rob stevenson", "http://staff.science.uva.nl/~rstevens/"],
+    ["rustum choksi", "http://www.math.mcgill.ca/rchoksi/"],
+    ["tae-yeon kim", "http://www.kustar.ac.ae/pages/dr-tae-yeon-kim"],
+    ["wen jiang", "https://bios.inl.gov/Lists/Researcher/DisplayOverrideForm.aspx?ID=327"],
+    ["yunrong zhu", "http://www.math.ucsd.edu/~yuz011/"]
+  ]);
+
   const selfAuthorNames = new Set([
     "tsogtgerel gantumur",
     "gantumur tsogtgerel",
@@ -67,7 +88,7 @@ module.exports = function (eleventyConfig) {
         if (match && match.url) return match.url;
       }
     }
-    return "";
+    return coauthorProfileUrls.get(normalized) || "";
   }
 
   function compactLinkLabel(label) {
