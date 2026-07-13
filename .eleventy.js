@@ -26,71 +26,6 @@ module.exports = function (eleventyConfig) {
     ["vetois", "http://www.math.mcgill.ca/vetois/"]
   ]);
 
-  const coauthorProfileUrls = new Map([
-    ["caleb meier", "http://www.math.ucsd.edu/~c1meier/"],
-    ["douglas n. arnold", "http://www.ima.umn.edu/~arnold/"],
-    ["evelyn lunasin", "http://www.usna.edu/MathDept/faculty-directory.php"],
-    ["gabriel nagy", "http://math.msu.edu/~gnagy/"],
-    ["gerard awanou", "http://homepages.math.uic.edu/~awanou/"],
-    ["helmut harbrecht", "http://harbrecht.ins.uni-bonn.de/"],
-    ["ihsan topaloglu", "https://www.ihsantopaloglu.com"],
-    ["ibrahim al balushi", "http://www.mcgill.ca/mathstat/"],
-    ["johnny guzman", "http://www.dam.brown.edu/people/guzman.html"],
-    ["johnny guzmán", "http://www.dam.brown.edu/people/guzman.html"],
-    ["michael holst", "http://www.ccom.ucsd.edu/~mholst/"],
-    ["ming mei", "http://www.math.mcgill.ca/~mei/"],
-    ["richard s. falk", "http://www.math.rutgers.edu/~falk/"],
-    ["rob stevenson", "http://staff.science.uva.nl/~rstevens/"],
-    ["rustum choksi", "http://www.math.mcgill.ca/rchoksi/"],
-    ["tae-yeon kim", "http://www.kustar.ac.ae/pages/dr-tae-yeon-kim"],
-    ["wen jiang", "https://bios.inl.gov/Lists/Researcher/DisplayOverrideForm.aspx?ID=327"],
-    ["yunrong zhu", "http://www.math.ucsd.edu/~yuz011/"]
-  ]);
-
-  const selfAuthorNames = new Set([
-    "tsogtgerel gantumur",
-    "gantumur tsogtgerel",
-    "t. gantumur",
-    "g. tsogtgerel"
-  ]);
-
-  function normalizeAuthorText(value) {
-    return String(value || "")
-      .replace(/^with\s+/i, "")
-      .replace(/\s+/g, " ")
-      .trim()
-      .replace(/\.$/, "");
-  }
-
-  function splitAuthorText(value) {
-    return normalizeAuthorText(value)
-      .replace(/,\s+and\s+/gi, ", ")
-      .replace(/\s+and\s+/gi, ", ")
-      .split(/\s*,\s*/)
-      .map((name) => name.trim())
-      .filter(Boolean);
-  }
-
-  function coauthorUrl(name, pub) {
-    const normalized = normalizeName(name);
-    for (const key of ["authorUrls", "coauthorUrls"]) {
-      const map = pub && pub[key];
-      if (map && typeof map === "object" && !Array.isArray(map)) {
-        if (map[name]) return map[name];
-        const match = Object.keys(map).find((item) => normalizeName(item) === normalized);
-        if (match) return map[match];
-      }
-    }
-    for (const key of ["authorLinks", "coauthorLinks"]) {
-      const links = pub && pub[key];
-      if (Array.isArray(links)) {
-        const match = links.find((link) => link && normalizeName(link.name || link.label) === normalized);
-        if (match && match.url) return match.url;
-      }
-    }
-    return coauthorProfileUrls.get(normalized) || "";
-  }
-
   function compactLinkLabel(label) {
     const clean = String(label || "").toLowerCase();
     if (clean.includes("arxiv")) return "arXiv";
@@ -179,9 +114,28 @@ module.exports = function (eleventyConfig) {
     return items.filter((pub) => hasPublicationKind(pub, kinds)).sort(compare);
   }
 
-  function authorSortKey(name) {
-    const parts = String(name || "").trim().split(/\s+/).filter(Boolean);
+  function authorSortKey(author) {
+    const sortName = author && author.sortName;
+    if (sortName) return normalizeName(sortName);
+    const name = String((author && author.name) || author || "");
+    const parts = name.trim().split(/\s+/).filter(Boolean);
     return normalizeName(parts.length ? parts[parts.length - 1] : name);
+  }
+
+  function isSelfAuthor(author) {
+    return Boolean(author && (author.self === true || author.id === "tsogtgerel-gantumur"));
+  }
+
+  function renderAuthorLink(author) {
+    const name = escapeHtml(author.name);
+    return author.url ? `<a href="${escapeHtml(author.url)}">${name}</a>` : name;
+  }
+
+  function formatLinkedNameList(authors) {
+    const rendered = authors.map(renderAuthorLink);
+    if (rendered.length <= 1) return rendered[0] || "";
+    if (rendered.length === 2) return `${rendered[0]} and ${rendered[1]}`;
+    return `${rendered.slice(0, -1).join(", ")}, and ${rendered[rendered.length - 1]}`;
   }
 
   eleventyConfig.addFilter("where", function (items, key, value) {
@@ -291,25 +245,9 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addFilter("publicationCoauthors", function (pub) {
     if (!pub || !Array.isArray(pub.authors)) return "";
-    const coauthors = [];
-    for (const author of pub.authors) {
-      if (!author) continue;
-      if (typeof author === "string") {
-        for (const name of splitAuthorText(author)) {
-          if (!selfAuthorNames.has(normalizeName(name))) {
-            coauthors.push({ name, url: coauthorUrl(name, pub) });
-          }
-        }
-      } else if (author.name && !selfAuthorNames.has(normalizeName(author.name))) {
-        coauthors.push({ name: author.name, url: author.url || coauthorUrl(author.name, pub) });
-      }
-    }
+    const coauthors = pub.authors.filter((author) => author && author.name && !isSelfAuthor(author));
     if (!coauthors.length) return "";
-    const rendered = coauthors.map((author) => {
-      const name = escapeHtml(author.name);
-      return author.url ? `<a href="${escapeHtml(author.url)}">${name}</a>` : name;
-    });
-    return `with ${rendered.join(", ")}.`;
+    return `with ${formatLinkedNameList(coauthors)}.`;
   });
 
   eleventyConfig.addFilter("publicationCitation", function (pub) {
@@ -410,36 +348,32 @@ module.exports = function (eleventyConfig) {
     if (!Array.isArray(items)) return [];
 
     const collaborators = new Map();
-    const add = (name, url) => {
-      const cleanName = String(name || "").trim();
-      if (!cleanName || selfAuthorNames.has(normalizeName(cleanName))) return;
-
-      const key = normalizeName(cleanName);
+    const add = (author) => {
+      if (!author || !author.name || isSelfAuthor(author)) return;
+      const key = author.id || author.name;
       if (!key) return;
       const existing = collaborators.get(key);
       if (existing) {
-        if (!existing.url && url) existing.url = url;
+        if (!existing.url && author.url) existing.url = author.url;
         return;
       }
-      collaborators.set(key, { name: cleanName, url: url || "" });
+      collaborators.set(key, {
+        id: author.id || "",
+        name: author.name,
+        sortName: author.sortName || "",
+        url: author.url || ""
+      });
     };
 
     for (const pub of items) {
       if (!pub || !Array.isArray(pub.authors)) continue;
       for (const author of pub.authors) {
-        if (!author) continue;
-        if (typeof author === "string") {
-          for (const name of splitAuthorText(author)) {
-            add(name, coauthorUrl(name, pub));
-          }
-        } else if (author.name) {
-          add(author.name, author.url || coauthorUrl(author.name, pub));
-        }
+        add(author);
       }
     }
 
     return [...collaborators.values()].sort((a, b) => {
-      return authorSortKey(a.name).localeCompare(authorSortKey(b.name)) || a.name.localeCompare(b.name);
+      return authorSortKey(a).localeCompare(authorSortKey(b)) || a.name.localeCompare(b.name);
     });
   });
 

@@ -3,7 +3,9 @@
     "id": "gantumur-relu-tensor-product-refinement-2026",
     "type": "preprint",
     "title": "Exact ReLU realization of tensor-product refinement iterates",
-    "authors": [],
+    "authorIds": [
+      "tsogtgerel-gantumur"
+    ],
     "year": 2026,
     "status": "preprint",
     "category": "preprint",
@@ -25,14 +27,23 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "arXiv author page, checked 2026-07-10"
+    "source": "arXiv author page, checked 2026-07-10",
+    "authors": [
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
   },
   {
     "id": "bolorkhuu-gantumur-relu-loop-controllers-2026",
     "type": "preprint",
     "title": "Exact Loop Controllers for ReLU Realization of Homogeneous Curve Refinements",
-    "authors": [
-      "with Boldsaikhan Bolorkhuu"
+    "authorIds": [
+      "boldsaikhan-bolorkhuu",
+      "tsogtgerel-gantumur"
     ],
     "year": 2026,
     "status": "preprint",
@@ -55,13 +66,28 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "arXiv author page, checked 2026-07-10"
+    "source": "arXiv author page, checked 2026-07-10",
+    "authors": [
+      {
+        "id": "boldsaikhan-bolorkhuu",
+        "name": "Boldsaikhan Bolorkhuu",
+        "self": false
+      },
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
   },
   {
     "id": "gantumur-tibetan-lunisolar-calendar-2026",
     "type": "preprint",
     "title": "Possible Reforms of the Tibetan Lunisolar Calendar",
-    "authors": [],
+    "authorIds": [
+      "tsogtgerel-gantumur"
+    ],
     "year": 2026,
     "status": "preprint",
     "category": "preprint",
@@ -81,14 +107,23 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "arXiv author page, checked 2026-07-10"
+    "source": "arXiv author page, checked 2026-07-10",
+    "authors": [
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
   },
   {
     "id": "rotundo-gantumur-navier-stokes-alpha-beta-2025",
     "type": "preprint",
     "title": "Regularity of solutions of the Navier-Stokes-alpha-beta equations with wall-eddy boundary conditions",
-    "authors": [
-      "with Nella Rotundo"
+    "authorIds": [
+      "nella-rotundo",
+      "tsogtgerel-gantumur"
     ],
     "year": 2025,
     "status": "preprint",
@@ -109,13 +144,28 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "arXiv author page, checked 2026-07-10"
+    "source": "arXiv author page, checked 2026-07-10",
+    "authors": [
+      {
+        "id": "nella-rotundo",
+        "name": "Nella Rotundo",
+        "self": false
+      },
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
   },
   {
     "id": "gantumur-chebyshev-sylvester-2025",
     "type": "preprint",
     "title": "An expository review of the Chebyshev-Sylvester method in prime number theory",
-    "authors": [],
+    "authorIds": [
+      "tsogtgerel-gantumur"
+    ],
     "year": 2025,
     "status": "preprint",
     "category": "preprint",
@@ -135,13 +185,23 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "arXiv author page, checked 2026-07-10"
+    "source": "arXiv author page, checked 2026-07-10",
+    "authors": [
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
   },
   {
     "id": "gantumur-dirichlet-principle-perron-method-2025",
     "type": "preprint",
     "title": "A direct proof of the equivalence between Dirichlet's principle and Perron's method",
-    "authors": [],
+    "authorIds": [
+      "tsogtgerel-gantumur"
+    ],
     "year": 2025,
     "status": "preprint",
     "category": "preprint",
@@ -161,14 +221,23 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "arXiv author page, checked 2026-07-10"
+    "source": "arXiv author page, checked 2026-07-10",
+    "authors": [
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
   },
   {
     "id": "awanou-gantumur-generated-jacobian-weak-solutions-2021",
     "type": "preprint",
     "title": "On uniqueness of weak solutions to the second boundary value problem for generated prescribed Jacobian equations",
-    "authors": [
-      "with Gerard Awanou"
+    "authorIds": [
+      "gerard-awanou",
+      "tsogtgerel-gantumur"
     ],
     "year": 2021,
     "status": "preprint",
@@ -189,14 +258,29 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/research.html; arXiv checked 2026-07-10"
+    "source": "_old_site/McGill/research.html; arXiv checked 2026-07-10",
+    "authors": [
+      {
+        "id": "gerard-awanou",
+        "name": "Gerard Awanou",
+        "self": false,
+        "url": "http://homepages.math.uic.edu/~awanou/"
+      },
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
   },
   {
     "id": "sicca-gantumur-scalar-boundary-mean-curvature-2021",
     "type": "preprint",
     "title": "A prescribed scalar and boundary mean curvature problem on compact manifolds with boundary",
-    "authors": [
-      "with Vladmir Sicca"
+    "authorIds": [
+      "vladmir-sicca",
+      "tsogtgerel-gantumur"
     ],
     "year": 2021,
     "status": "preprint",
@@ -217,14 +301,29 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/research.html; arXiv author page, checked 2026-07-10"
+    "source": "_old_site/McGill/research.html; arXiv author page, checked 2026-07-10",
+    "authors": [
+      {
+        "id": "vladmir-sicca",
+        "name": "Vladmir Sicca",
+        "self": false
+      },
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
   },
   {
     "id": "gantumur-holst-zhu-local-convergence-nonlinear-pdes-2010",
     "type": "preprint",
     "title": "Local convergence of adaptive methods for nonlinear partial differential equations",
-    "authors": [
-      "with Michael Holst and Yunrong Zhu"
+    "authorIds": [
+      "tsogtgerel-gantumur",
+      "michael-holst",
+      "yunrong-zhu"
     ],
     "year": 2010,
     "status": "preprint",
@@ -245,14 +344,36 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/research.html"
+    "source": "_old_site/McGill/research.html",
+    "authors": [
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      },
+      {
+        "id": "michael-holst",
+        "name": "Michael Holst",
+        "self": false,
+        "url": "http://www.ccom.ucsd.edu/~mholst/"
+      },
+      {
+        "id": "yunrong-zhu",
+        "name": "Yunrong Zhu",
+        "self": false,
+        "url": "http://www.math.ucsd.edu/~yuz011/"
+      }
+    ]
   },
   {
     "id": "holst-maxwell-gantumur-scaling-elliptic-operators-2023",
     "type": "preprint",
     "title": "A scaling approach to elliptic theory for geometrically-natural differential operators with Sobolev-type coefficients",
-    "authors": [
-      "with Michael Holst and David Maxwell"
+    "authorIds": [
+      "michael-holst",
+      "david-maxwell",
+      "tsogtgerel-gantumur"
     ],
     "year": 2023,
     "status": "preprint",
@@ -278,13 +399,34 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "arXiv, checked 2026-07-11"
+    "source": "arXiv, checked 2026-07-11",
+    "authors": [
+      {
+        "id": "michael-holst",
+        "name": "Michael Holst",
+        "self": false,
+        "url": "http://www.ccom.ucsd.edu/~mholst/"
+      },
+      {
+        "id": "david-maxwell",
+        "name": "David Maxwell",
+        "self": false
+      },
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
   },
   {
     "id": "gantumur-dynamical-lattice-regulators-jhep-2026",
     "type": "journal-article",
     "title": "Rotationally invariant dynamical lattice regulators for Euclidean quantum field theories",
-    "authors": [],
+    "authorIds": [
+      "tsogtgerel-gantumur"
+    ],
     "year": 2026,
     "status": "published",
     "category": "published",
@@ -320,13 +462,23 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "Springer JHEP article and arXiv author page, checked 2026-07-10"
+    "source": "Springer JHEP article and arXiv author page, checked 2026-07-10",
+    "authors": [
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
   },
   {
     "id": "gantumur-adaptive-mixed-fem-stokes-2014",
     "type": "journal-article",
     "title": "Convergence Theory of Adaptive Mixed Finite Element Methods for the Stokes Problem",
-    "authors": [],
+    "authorIds": [
+      "tsogtgerel-gantumur"
+    ],
     "year": 2024,
     "status": "published",
     "category": "published",
@@ -360,14 +512,26 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "Crossref/Springer DOI metadata and arXiv, checked 2026-07-11"
+    "source": "Crossref/Springer DOI metadata and arXiv, checked 2026-07-11",
+    "authors": [
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
   },
   {
     "id": "feng-hu-mei-gantumur-zhang-semiconductor-relaxation-2024",
     "type": "journal-article",
     "title": "Relaxation Time Limits of Subsonic Steady States for Multidimensional Hydrodynamic Model of Semiconductors",
-    "authors": [
-      "with Yue-Hong Feng, Haifeng Hu, Ming Mei, and Guojing Zhang"
+    "authorIds": [
+      "yue-hong-feng",
+      "haifeng-hu",
+      "ming-mei",
+      "tsogtgerel-gantumur",
+      "guojing-zhang"
     ],
     "year": 2024,
     "status": "published",
@@ -397,14 +561,44 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "Current CV and Crossref/SIAM DOI metadata, checked 2026-07-11"
+    "source": "Current CV and Crossref/SIAM DOI metadata, checked 2026-07-11",
+    "authors": [
+      {
+        "id": "yue-hong-feng",
+        "name": "Yue-Hong Feng",
+        "self": false
+      },
+      {
+        "id": "haifeng-hu",
+        "name": "Haifeng Hu",
+        "self": false
+      },
+      {
+        "id": "ming-mei",
+        "name": "Ming Mei",
+        "self": false,
+        "url": "http://www.math.mcgill.ca/~mei/"
+      },
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      },
+      {
+        "id": "guojing-zhang",
+        "name": "Guojing Zhang",
+        "self": false
+      }
+    ]
   },
   {
     "id": "sicca-gantumur-yamabe-ae-inner-boundary-2023",
     "type": "journal-article",
     "title": "A prescribed scalar and boundary mean curvature problem and the Yamabe classification on asymptotically Euclidean manifolds with inner boundary",
-    "authors": [
-      "with Vladmir Sicca"
+    "authorIds": [
+      "vladmir-sicca",
+      "tsogtgerel-gantumur"
     ],
     "year": 2023,
     "status": "published",
@@ -450,14 +644,30 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "Springer Journal of Geometric Analysis article and arXiv, checked 2026-07-11"
+    "source": "Springer Journal of Geometric Analysis article and arXiv, checked 2026-07-11",
+    "authors": [
+      {
+        "id": "vladmir-sicca",
+        "name": "Vladmir Sicca",
+        "self": false
+      },
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
   },
   {
     "id": "rubasinghe-yao-niu-gantumur-polyharmonic-splines-interpolation-2023",
     "type": "journal-article",
     "title": "Polyharmonic splines interpolation on scattered data in 2D and 3D with applications",
-    "authors": [
-      "with Kalani Rubasinghe, Guangming Yao, and Jing Niu"
+    "authorIds": [
+      "kalani-rubasinghe",
+      "guangming-yao",
+      "jing-niu",
+      "tsogtgerel-gantumur"
     ],
     "year": 2023,
     "status": "published",
@@ -497,14 +707,40 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "Current CV and Crossref/Elsevier DOI metadata, checked 2026-07-11"
+    "source": "Current CV and Crossref/Elsevier DOI metadata, checked 2026-07-11",
+    "authors": [
+      {
+        "id": "kalani-rubasinghe",
+        "name": "Kalani Rubasinghe",
+        "self": false
+      },
+      {
+        "id": "guangming-yao",
+        "name": "Guangming Yao",
+        "self": false
+      },
+      {
+        "id": "jing-niu",
+        "name": "Jing Niu",
+        "self": false
+      },
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
   },
   {
     "id": "rubasinghe-yao-li-gantumur-nonlinear-elliptic-phs-2023",
     "type": "journal-article",
     "title": "Solving Nonlinear Elliptic PDEs in 2D and 3D Using Polyharmonic Splines and Low-Degree of Polynomials",
-    "authors": [
-      "with Kalani Rubasinghe, Guangming Yao, and Wen Li"
+    "authorIds": [
+      "kalani-rubasinghe",
+      "guangming-yao",
+      "wen-li",
+      "tsogtgerel-gantumur"
     ],
     "year": 2023,
     "status": "published",
@@ -534,14 +770,40 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "Current CV and Crossref/World Scientific DOI metadata, checked 2026-07-11"
+    "source": "Current CV and Crossref/World Scientific DOI metadata, checked 2026-07-11",
+    "authors": [
+      {
+        "id": "kalani-rubasinghe",
+        "name": "Kalani Rubasinghe",
+        "self": false
+      },
+      {
+        "id": "guangming-yao",
+        "name": "Guangming Yao",
+        "self": false
+      },
+      {
+        "id": "wen-li",
+        "name": "Wen Li",
+        "self": false
+      },
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
   },
   {
     "id": "al-balushi-gantumur-jiang-kim-bspline-qg-2020",
     "type": "journal-article",
     "title": "A posteriori analysis of a B-spline based finite-element method for the stationary quasi-geostrophic equations of the ocean",
-    "authors": [
-      "with Ibrahim Al Balushi, Wen Jiang, and Tae-Yeon Kim"
+    "authorIds": [
+      "ibrahim-al-balushi",
+      "tsogtgerel-gantumur",
+      "wen-jiang",
+      "tae-yeon-kim"
     ],
     "year": 2020,
     "status": "published",
@@ -568,14 +830,41 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/research.html"
+    "source": "_old_site/McGill/research.html",
+    "authors": [
+      {
+        "id": "ibrahim-al-balushi",
+        "name": "Ibrahim Al Balushi",
+        "self": false,
+        "url": "http://www.mcgill.ca/mathstat/"
+      },
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      },
+      {
+        "id": "wen-jiang",
+        "name": "Wen Jiang",
+        "self": false,
+        "url": "https://bios.inl.gov/Lists/Researcher/DisplayOverrideForm.aspx?ID=327"
+      },
+      {
+        "id": "tae-yeon-kim",
+        "name": "Tae-Yeon Kim",
+        "self": false,
+        "url": "http://www.kustar.ac.ae/pages/dr-tae-yeon-kim"
+      }
+    ]
   },
   {
     "id": "schulz-gantumur-dec-poisson-2020",
     "type": "journal-article",
     "title": "Convergence of discrete exterior calculus approximations for Poisson problems",
-    "authors": [
-      "with Erick Schulz"
+    "authorIds": [
+      "erick-schulz",
+      "tsogtgerel-gantumur"
     ],
     "year": 2020,
     "status": "published",
@@ -603,14 +892,29 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/research.html; arXiv author page, checked 2026-07-10"
+    "source": "_old_site/McGill/research.html; arXiv author page, checked 2026-07-10",
+    "authors": [
+      {
+        "id": "erick-schulz",
+        "name": "Erick Schulz",
+        "self": false
+      },
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
   },
   {
     "id": "holst-gantumur-meier-non-cmc-apparent-horizon-2018",
     "type": "journal-article",
     "title": "Non-CMC solutions of the Einstein constraint equations on compact manifolds with apparent horizon boundaries",
-    "authors": [
-      "with Michael Holst and Caleb Meier"
+    "authorIds": [
+      "michael-holst",
+      "tsogtgerel-gantumur",
+      "caleb-meier"
     ],
     "year": 2018,
     "status": "published",
@@ -638,14 +942,37 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/research.html"
+    "source": "_old_site/McGill/research.html",
+    "authors": [
+      {
+        "id": "michael-holst",
+        "name": "Michael Holst",
+        "self": false,
+        "url": "http://www.ccom.ucsd.edu/~mholst/"
+      },
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      },
+      {
+        "id": "caleb-meier",
+        "name": "Caleb Meier",
+        "self": false,
+        "url": "http://www.math.ucsd.edu/~c1meier/"
+      }
+    ]
   },
   {
     "id": "al-balushi-gantumur-jiang-kim-bspline-ocean-2018",
     "type": "journal-article",
     "title": "Adaptivity of a B-spline based finite element method for modeling wind-driven ocean circulation",
-    "authors": [
-      "with Ibrahim Al Balushi, Wen Jiang, and Tae-Yeon Kim"
+    "authorIds": [
+      "ibrahim-al-balushi",
+      "tsogtgerel-gantumur",
+      "wen-jiang",
+      "tae-yeon-kim"
     ],
     "year": 2018,
     "status": "published",
@@ -672,13 +999,41 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/research.html"
+    "source": "_old_site/McGill/research.html",
+    "authors": [
+      {
+        "id": "ibrahim-al-balushi",
+        "name": "Ibrahim Al Balushi",
+        "self": false,
+        "url": "http://www.mcgill.ca/mathstat/"
+      },
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      },
+      {
+        "id": "wen-jiang",
+        "name": "Wen Jiang",
+        "self": false,
+        "url": "https://bios.inl.gov/Lists/Researcher/DisplayOverrideForm.aspx?ID=327"
+      },
+      {
+        "id": "tae-yeon-kim",
+        "name": "Tae-Yeon Kim",
+        "self": false,
+        "url": "http://www.kustar.ac.ae/pages/dr-tae-yeon-kim"
+      }
+    ]
   },
   {
     "id": "gantumur-besov-multilevel-approximation-2017",
     "type": "journal-article",
     "title": "Convergence rates of adaptive methods, Besov spaces, and multilevel approximation",
-    "authors": [],
+    "authorIds": [
+      "tsogtgerel-gantumur"
+    ],
     "year": 2017,
     "status": "published",
     "category": "published",
@@ -705,14 +1060,24 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/research.html; arXiv author page, checked 2026-07-10"
+    "source": "_old_site/McGill/research.html; arXiv author page, checked 2026-07-10",
+    "authors": [
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
   },
   {
     "id": "choksi-topaloglu-gantumur-nonlocal-isoperimetric-sphere-2015",
     "type": "journal-article",
     "title": "Axisymmetric critical points of a nonlocal isoperimetric problem on the two-sphere",
-    "authors": [
-      "with Rustum Choksi and Ihsan Topaloglu"
+    "authorIds": [
+      "rustum-choksi",
+      "ihsan-topaloglu",
+      "tsogtgerel-gantumur"
     ],
     "year": 2015,
     "status": "published",
@@ -740,14 +1105,37 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/research.html; arXiv author page, checked 2026-07-10"
+    "source": "_old_site/McGill/research.html; arXiv author page, checked 2026-07-10",
+    "authors": [
+      {
+        "id": "rustum-choksi",
+        "name": "Rustum Choksi",
+        "self": false,
+        "url": "http://www.math.mcgill.ca/rchoksi/"
+      },
+      {
+        "id": "ihsan-topaloglu",
+        "name": "Ihsan Topaloglu",
+        "self": false,
+        "url": "https://www.ihsantopaloglu.com"
+      },
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
   },
   {
     "id": "arnold-falk-guzman-gantumur-combinatorial-codifferential-2014",
     "type": "journal-article",
     "title": "On the consistency of the combinatorial codifferential",
-    "authors": [
-      "with Douglas N. Arnold, Richard S. Falk, and Johnny Guzmán"
+    "authorIds": [
+      "douglas-n-arnold",
+      "richard-s-falk",
+      "johnny-guzman",
+      "tsogtgerel-gantumur"
     ],
     "year": 2014,
     "status": "published",
@@ -775,14 +1163,41 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/research.html; arXiv author page, checked 2026-07-10"
+    "source": "_old_site/McGill/research.html; arXiv author page, checked 2026-07-10",
+    "authors": [
+      {
+        "id": "douglas-n-arnold",
+        "name": "Douglas N. Arnold",
+        "self": false,
+        "url": "http://www.ima.umn.edu/~arnold/"
+      },
+      {
+        "id": "richard-s-falk",
+        "name": "Richard S. Falk",
+        "self": false,
+        "url": "http://www.math.rutgers.edu/~falk/"
+      },
+      {
+        "id": "johnny-guzman",
+        "name": "Johnny Guzmán",
+        "self": false,
+        "url": "http://www.dam.brown.edu/people/guzman.html"
+      },
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
   },
   {
     "id": "holst-gantumur-lichnerowicz-boundary-2013",
     "type": "journal-article",
     "title": "The Lichnerowicz equation on compact manifolds with boundary",
-    "authors": [
-      "with Michael Holst"
+    "authorIds": [
+      "michael-holst",
+      "tsogtgerel-gantumur"
     ],
     "year": 2013,
     "status": "published",
@@ -814,13 +1229,29 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/research.html; arXiv author page, checked 2026-07-10"
+    "source": "_old_site/McGill/research.html; arXiv author page, checked 2026-07-10",
+    "authors": [
+      {
+        "id": "michael-holst",
+        "name": "Michael Holst",
+        "self": false,
+        "url": "http://www.ccom.ucsd.edu/~mholst/"
+      },
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
   },
   {
     "id": "gantumur-adaptive-boundary-element-methods-2013",
     "type": "journal-article",
     "title": "Adaptive boundary element methods with convergence rates",
-    "authors": [],
+    "authorIds": [
+      "tsogtgerel-gantumur"
+    ],
     "year": 2013,
     "status": "published",
     "category": "published",
@@ -847,14 +1278,24 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/research.html; arXiv author page, checked 2026-07-10"
+    "source": "_old_site/McGill/research.html; arXiv author page, checked 2026-07-10",
+    "authors": [
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
   },
   {
     "id": "holst-lunasin-gantumur-regularized-navier-stokes-mhd-2010",
     "type": "journal-article",
     "title": "Analysis of a general family of regularized Navier-Stokes and magnetohydrodynamics models",
-    "authors": [
-      "with Michael Holst and Evelyn Lunasin"
+    "authorIds": [
+      "michael-holst",
+      "evelyn-lunasin",
+      "tsogtgerel-gantumur"
     ],
     "year": 2010,
     "status": "published",
@@ -882,14 +1323,36 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/research.html; arXiv author page, checked 2026-07-10"
+    "source": "_old_site/McGill/research.html; arXiv author page, checked 2026-07-10",
+    "authors": [
+      {
+        "id": "michael-holst",
+        "name": "Michael Holst",
+        "self": false,
+        "url": "http://www.ccom.ucsd.edu/~mholst/"
+      },
+      {
+        "id": "evelyn-lunasin",
+        "name": "Evelyn Lunasin",
+        "self": false,
+        "url": "http://www.usna.edu/MathDept/faculty-directory.php"
+      },
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
   },
   {
     "id": "holst-nagy-gantumur-rough-einstein-constraints-2009",
     "type": "journal-article",
     "title": "Rough solutions of the Einstein constraints on closed manifolds without near-CMC conditions",
-    "authors": [
-      "with Michael Holst and Gabriel Nagy"
+    "authorIds": [
+      "michael-holst",
+      "gabriel-nagy",
+      "tsogtgerel-gantumur"
     ],
     "year": 2009,
     "status": "published",
@@ -917,14 +1380,36 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/research.html; arXiv author page, checked 2026-07-10"
+    "source": "_old_site/McGill/research.html; arXiv author page, checked 2026-07-10",
+    "authors": [
+      {
+        "id": "michael-holst",
+        "name": "Michael Holst",
+        "self": false,
+        "url": "http://www.ccom.ucsd.edu/~mholst/"
+      },
+      {
+        "id": "gabriel-nagy",
+        "name": "Gabriel Nagy",
+        "self": false,
+        "url": "http://math.msu.edu/~gnagy/"
+      },
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
   },
   {
     "id": "holst-nagy-gantumur-positive-yamabe-einstein-constraints-2008",
     "type": "journal-article",
     "title": "Far-from-constant mean curvature solutions of Einstein's constraint equations with positive Yamabe metrics",
-    "authors": [
-      "with Michael Holst and Gabriel Nagy"
+    "authorIds": [
+      "michael-holst",
+      "gabriel-nagy",
+      "tsogtgerel-gantumur"
     ],
     "year": 2008,
     "status": "published",
@@ -952,13 +1437,35 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/research.html; arXiv author page, checked 2026-07-10"
+    "source": "_old_site/McGill/research.html; arXiv author page, checked 2026-07-10",
+    "authors": [
+      {
+        "id": "michael-holst",
+        "name": "Michael Holst",
+        "self": false,
+        "url": "http://www.ccom.ucsd.edu/~mholst/"
+      },
+      {
+        "id": "gabriel-nagy",
+        "name": "Gabriel Nagy",
+        "self": false,
+        "url": "http://math.msu.edu/~gnagy/"
+      },
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
   },
   {
     "id": "gantumur-nonsymmetric-indefinite-wavelet-method-2008",
     "type": "journal-article",
     "title": "An optimal adaptive wavelet method for nonsymmetric and indefinite elliptic problems",
-    "authors": [],
+    "authorIds": [
+      "tsogtgerel-gantumur"
+    ],
     "year": 2008,
     "status": "published",
     "category": "published",
@@ -984,14 +1491,24 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/research.html; homepage/public/legacy/files/publications/nonsym.p.pdf"
+    "source": "_old_site/McGill/research.html; homepage/public/legacy/files/publications/nonsym.p.pdf",
+    "authors": [
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
   },
   {
     "id": "harbrecht-gantumur-stevenson-wavelet-without-coarsening-2007",
     "type": "journal-article",
     "title": "An optimal adaptive wavelet method without coarsening of the iterands",
-    "authors": [
-      "with Helmut Harbrecht and Rob Stevenson"
+    "authorIds": [
+      "helmut-harbrecht",
+      "tsogtgerel-gantumur",
+      "rob-stevenson"
     ],
     "year": 2007,
     "status": "published",
@@ -1018,14 +1535,35 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/research.html; homepage/public/legacy/files/publications/nocoarseRevis.pdf"
+    "source": "_old_site/McGill/research.html; homepage/public/legacy/files/publications/nocoarseRevis.pdf",
+    "authors": [
+      {
+        "id": "helmut-harbrecht",
+        "name": "Helmut Harbrecht",
+        "self": false,
+        "url": "http://harbrecht.ins.uni-bonn.de/"
+      },
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      },
+      {
+        "id": "rob-stevenson",
+        "name": "Rob Stevenson",
+        "self": false,
+        "url": "http://staff.science.uva.nl/~rstevens/"
+      }
+    ]
   },
   {
     "id": "gantumur-stevenson-singular-integral-wavelet-coordinates-2006",
     "type": "journal-article",
     "title": "Computation of singular integral operators in wavelet coordinates",
-    "authors": [
-      "with Rob Stevenson"
+    "authorIds": [
+      "tsogtgerel-gantumur",
+      "rob-stevenson"
     ],
     "year": 2006,
     "status": "published",
@@ -1052,14 +1590,29 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/research.html; homepage/public/legacy/files/publications/computing.pdf"
+    "source": "_old_site/McGill/research.html; homepage/public/legacy/files/publications/computing.pdf",
+    "authors": [
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      },
+      {
+        "id": "rob-stevenson",
+        "name": "Rob Stevenson",
+        "self": false,
+        "url": "http://staff.science.uva.nl/~rstevens/"
+      }
+    ]
   },
   {
     "id": "gantumur-stevenson-differential-operators-wavelet-coordinates-2006",
     "type": "journal-article",
     "title": "Computation of differential operators in wavelet coordinates",
-    "authors": [
-      "with Rob Stevenson"
+    "authorIds": [
+      "tsogtgerel-gantumur",
+      "rob-stevenson"
     ],
     "year": 2006,
     "status": "published",
@@ -1086,13 +1639,29 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/research.html; homepage/public/legacy/files/publications/computdif.pdf"
+    "source": "_old_site/McGill/research.html; homepage/public/legacy/files/publications/computdif.pdf",
+    "authors": [
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      },
+      {
+        "id": "rob-stevenson",
+        "name": "Rob Stevenson",
+        "self": false,
+        "url": "http://staff.science.uva.nl/~rstevens/"
+      }
+    ]
   },
   {
     "id": "adaptive-wavelet-algorithms-for-solving-operator-equations-2006",
     "type": "thesis",
     "title": "Adaptive wavelet algorithms for solving operator equations",
-    "authors": [],
+    "authorIds": [
+      "tsogtgerel-gantumur"
+    ],
     "year": 2006,
     "status": "thesis",
     "category": "thesis",
@@ -1131,6 +1700,14 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/research.html; homepage/public/legacy/thesis"
+    "source": "_old_site/McGill/research.html; homepage/public/legacy/thesis",
+    "authors": [
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
   }
 ]
