@@ -17,15 +17,6 @@ module.exports = function (eleventyConfig) {
       .trim()
       .toLowerCase();
 
-  const advisorUrls = new Map([
-    ["choksi", "http://www.math.mcgill.ca/~rchoksi/"],
-    ["fried", "https://groups.oist.jp/mmmu/eliot-fried"],
-    ["jakobson", "http://www.math.mcgill.ca/~jakobson/"],
-    ["mei", "http://www.math.mcgill.ca/~mei/"],
-    ["nave", "http://www.math.mcgill.ca/~jcnave/"],
-    ["vetois", "http://www.math.mcgill.ca/vetois/"]
-  ]);
-
   function compactLinkLabel(label) {
     const clean = String(label || "").toLowerCase();
     if (clean.includes("arxiv")) return "arXiv";
@@ -436,33 +427,34 @@ module.exports = function (eleventyConfig) {
     return escapeHtml(value || "").replace(/(\d{4})-(\d{4})/g, "$1&#8211;$2");
   });
 
+  function renderPersonName(person, fallbackName) {
+    const name = person && person.name ? person.name : fallbackName;
+    if (!name) return "";
+    const url = person && (person.url || person.personUrl || person.profileUrl);
+    const label = escapeHtml(name);
+    return url ? `<a href="${escapeHtml(url)}">${label}</a>` : label;
+  }
+
   eleventyConfig.addFilter("linkedPersonName", function (item) {
     if (!item || !item.name) return "";
-    const normalizedName = normalizeName(item.name);
     const profileUrl =
-      item.profileUrl ||
       item.personUrl ||
+      item.url ||
+      item.profileUrl ||
       item.homepageUrl ||
       item.homepage ||
-      (Array.isArray(item.links)
-        ? (item.links.find((link) => normalizeName(link.label) === normalizedName) || {}).url
-        : null) ||
       (item.nowAt && item.nowAt.url);
     const label = escapeHtml(item.name);
     return profileUrl ? `<a href="${escapeHtml(profileUrl)}">${label}</a>` : label;
   });
 
   eleventyConfig.addFilter("linkedCoSupervisors", function (item) {
-    if (!item || !Array.isArray(item.coSupervisors)) return "";
-    return item.coSupervisors.map((name) => {
-      const normalizedName = normalizeName(name);
-      const recordLink = Array.isArray(item.links)
-        ? item.links.find((link) => normalizeName(link.label).includes(normalizedName))
-        : null;
-      const url = recordLink ? recordLink.url : advisorUrls.get(normalizedName);
-      const label = escapeHtml(name);
-      return url ? `<a href="${escapeHtml(url)}">${label}</a>` : label;
-    }).join(", ");
+    if (!item) return "";
+    if (Array.isArray(item.coadvisorPeople) && item.coadvisorPeople.length) {
+      return item.coadvisorPeople.map((person) => renderPersonName(person)).filter(Boolean).join(", ");
+    }
+    if (!Array.isArray(item.coSupervisors)) return "";
+    return item.coSupervisors.map((name) => renderPersonName(null, name)).filter(Boolean).join(", ");
   });
 
   return {
