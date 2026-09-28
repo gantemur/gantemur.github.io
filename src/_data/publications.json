@@ -1,5 +1,169 @@
 [
   {
+    "id": "gantumur-projection-geometry-quasi-orthogonality-2026",
+    "type": "preprint",
+    "title": "Projection geometry and relaxed quasi-orthogonality for inf-sup stable Galerkin methods",
+    "authorIds": [
+      "tsogtgerel-gantumur"
+    ],
+    "year": 2026,
+    "status": "preprint",
+    "category": "preprint",
+    "arxiv": "2609.16265",
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2609.16265"
+      }
+    ],
+    "topicIds": [
+      "numerical-geometric-discretization"
+    ],
+    "featured": false,
+    "cv": {
+      "selected": true
+    },
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "arXiv abstract page, checked 2026-09-28",
+    "authors": [
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
+  },
+  {
+    "id": "bolorkhuu-gantumur-relu-binary-affine-refinement-2026",
+    "type": "preprint",
+    "title": "Exact ReLU realization of binary affine refinement iterates via reflection folding and cone switching",
+    "authorIds": [
+      "boldsaikhan-bolorkhuu",
+      "tsogtgerel-gantumur"
+    ],
+    "year": 2026,
+    "status": "preprint",
+    "category": "preprint",
+    "arxiv": "2609.11962",
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2609.11962"
+      }
+    ],
+    "topicIds": [
+      "approximation-adaptivity-neural-realization"
+    ],
+    "featured": false,
+    "cv": {
+      "selected": true
+    },
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "arXiv abstract page, checked 2026-09-28",
+    "authors": [
+      {
+        "id": "boldsaikhan-bolorkhuu",
+        "name": "Boldsaikhan Bolorkhuu",
+        "self": false
+      },
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
+  },
+  {
+    "id": "bolorkhuu-gantumur-relu-one-dimensional-refinement-2026",
+    "type": "preprint",
+    "title": "Exact ReLU realization of affine one-dimensional refinement iterates via residual memory and offset frames",
+    "authorIds": [
+      "boldsaikhan-bolorkhuu",
+      "tsogtgerel-gantumur"
+    ],
+    "year": 2026,
+    "status": "preprint",
+    "category": "preprint",
+    "arxiv": "2607.20586",
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2607.20586"
+      }
+    ],
+    "topicIds": [
+      "approximation-adaptivity-neural-realization"
+    ],
+    "featured": false,
+    "cv": {
+      "selected": true
+    },
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "arXiv abstract page, checked 2026-09-28",
+    "authors": [
+      {
+        "id": "boldsaikhan-bolorkhuu",
+        "name": "Boldsaikhan Bolorkhuu",
+        "self": false
+      },
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
+  },
+  {
+    "id": "gantumur-conditional-euclidean-hamiltonian-reductions-2026",
+    "type": "preprint",
+    "title": "Conditional Euclidean-Hamiltonian reductions for sign-problem toy models",
+    "authorIds": [
+      "tsogtgerel-gantumur"
+    ],
+    "year": 2026,
+    "status": "preprint",
+    "category": "preprint",
+    "arxiv": "2607.15950",
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2607.15950"
+      }
+    ],
+    "topicIds": [
+      "quantum-fields-computational-regularization"
+    ],
+    "featured": false,
+    "cv": {
+      "selected": true
+    },
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "arXiv abstract page, checked 2026-09-28",
+    "authors": [
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
+  },
+  {
     "id": "gantumur-relu-tensor-product-refinement-2026",
     "type": "preprint",
     "title": "Exact ReLU realization of tensor-product refinement iterates",
@@ -119,15 +283,19 @@
   },
   {
     "id": "rotundo-gantumur-navier-stokes-alpha-beta-2025",
-    "type": "preprint",
+    "type": "journal-article",
     "title": "Regularity of solutions of the Navier-Stokes-alpha-beta equations with wall-eddy boundary conditions",
     "authorIds": [
       "nella-rotundo",
       "tsogtgerel-gantumur"
     ],
     "year": 2025,
-    "status": "preprint",
-    "category": "preprint",
+    "status": "accepted",
+    "category": "accepted",
+    "venue": "Zeitschrift für angewandte Mathematik und Physik",
+    "journal": "Zeitschrift für angewandte Mathematik und Physik",
+    "details": "Accepted for publication in Zeitschrift für angewandte Mathematik und Physik",
+    "acceptedYear": 2026,
     "arxiv": "2512.22436",
     "links": [
       {
@@ -144,7 +312,7 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "arXiv author page, checked 2026-07-10",
+    "source": "arXiv abstract page; acceptance reported by author, checked 2026-09-28",
     "authors": [
       {
         "id": "nella-rotundo",
@@ -233,15 +401,19 @@
   },
   {
     "id": "awanou-gantumur-generated-jacobian-weak-solutions-2021",
-    "type": "preprint",
-    "title": "On uniqueness of weak solutions to the second boundary value problem for generated prescribed Jacobian equations",
+    "type": "journal-article",
+    "title": "Uniqueness of Weak Solutions to Second Boundary Value Problems for Generated Prescribed Jacobian Equations",
     "authorIds": [
       "gerard-awanou",
       "tsogtgerel-gantumur"
     ],
     "year": 2021,
-    "status": "preprint",
-    "category": "preprint",
+    "status": "accepted",
+    "category": "accepted",
+    "venue": "Electronic Journal of Differential Equations",
+    "journal": "Electronic Journal of Differential Equations",
+    "details": "Accepted for publication in Electronic Journal of Differential Equations, Special Issue 03 (2026)",
+    "acceptedYear": 2026,
     "arxiv": "2110.03084",
     "links": [
       {
@@ -258,7 +430,7 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/research.html; arXiv checked 2026-07-10",
+    "source": "_old_site/McGill/research.html; arXiv checked 2026-07-10; acceptance and venue confirmed by author 2026-09-28",
     "authors": [
       {
         "id": "gerard-awanou",
@@ -469,6 +641,81 @@
         "name": "Tsogtgerel Gantumur",
         "self": true,
         "url": "https://gantemur.github.io"
+      }
+    ]
+  },
+  {
+    "id": "badarch-byambaa-park-gantumur-alnajjar-gochoo-tcubes-2027",
+    "type": "journal-article",
+    "title": "TCubes: Non-privacy invasive dataset for activities of daily living as thermal cubes",
+    "authorIds": [
+      "luubaatar-badarch",
+      "dorj-byambaa",
+      "hansaem-park",
+      "tsogtgerel-gantumur",
+      "fady-alnajjar",
+      "munkhjargal-gochoo"
+    ],
+    "year": 2027,
+    "status": "published",
+    "category": "published",
+    "venue": "Expert Systems with Applications",
+    "journal": "Expert Systems with Applications",
+    "details": "Expert Systems with Applications, 333, 133943 (2027)",
+    "citation": "Expert Systems with Applications, 333, 133943 (2027)",
+    "publishedDate": "2027-01-01",
+    "doi": "10.1016/j.eswa.2026.133943",
+    "links": [
+      {
+        "label": "journal",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0957417426028502"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1016/j.eswa.2026.133943"
+      }
+    ],
+    "topicIds": [],
+    "featured": false,
+    "cv": {
+      "selected": false
+    },
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "ScienceDirect article page, checked 2026-09-28",
+    "authors": [
+      {
+        "id": "luubaatar-badarch",
+        "name": "Luubaatar Badarch",
+        "self": false
+      },
+      {
+        "id": "dorj-byambaa",
+        "name": "Dorj Byambaa",
+        "self": false
+      },
+      {
+        "id": "hansaem-park",
+        "name": "Hansaem Park",
+        "self": false
+      },
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      },
+      {
+        "id": "fady-alnajjar",
+        "name": "Fady Alnajjar",
+        "self": false
+      },
+      {
+        "id": "munkhjargal-gochoo",
+        "name": "Munkhjargal Gochoo",
+        "self": false
       }
     ]
   },
