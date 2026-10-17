@@ -1340,7 +1340,7 @@
     ],
     "topics": [],
     "cvInclude": true,
-    "source": "_old_site/McGill/teaching.html; academic/data/private/annual/mcgill-2009-2018.yml"
+    "source": "_old_site/McGill/teaching.html"
   },
   {
     "id": "short-course-moving-frames-general-relativity-mas-2019",
@@ -1385,7 +1385,7 @@
       "general relativity"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/teaching.html; academic/data/private/annual/mcgill-2009-2018.yml; homepage/tmp/pdfs/cv.txt"
+    "source": "_old_site/McGill/teaching.html; homepage/tmp/pdfs/cv.txt"
   },
   {
     "id": "ucsd-math-170c-spring-2007",
