@@ -421,6 +421,27 @@
     "source": "_old_site/McGill/notes.html"
   },
   {
+    "id": "analysis-calculus-ode-constant-coefficient-linear-differential-equations-46",
+    "type": "note",
+    "title": "Constant coefficient linear differential equations",
+    "category": "analysis-calculus-ode",
+    "categoryTitle": "Calculus / Analysis / ODE",
+    "links": [
+      {
+        "label": "Constant coefficient linear differential equations",
+        "url": "/legacy/notes/math325w22-constcoeff.pdf"
+      }
+    ],
+    "languages": [
+      "en"
+    ],
+    "topics": [
+      "Calculus / Analysis / ODE"
+    ],
+    "cvInclude": false,
+    "source": "Author-supplied PDF"
+  },
+  {
     "id": "complex-analysis-complex-numbers-21",
     "type": "note",
     "title": "Complex numbers",
