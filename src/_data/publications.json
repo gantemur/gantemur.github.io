@@ -1,5 +1,47 @@
 [
   {
+    "id": "gantumur-projectional-cda-torus-2026",
+    "type": "journal-article",
+    "title": "Projectional continuous data assimilation on the torus: Resonant and kernel-free regimes",
+    "authorIds": [
+      "tsogtgerel-gantumur"
+    ],
+    "year": 2026,
+    "status": "accepted",
+    "category": "accepted",
+    "venue": "Journal of Mathematical Fluid Mechanics",
+    "journal": "Journal of Mathematical Fluid Mechanics",
+    "details": "Accepted for publication",
+    "acceptedYear": 2026,
+    "arxiv": "2607.16827",
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2607.16827"
+      }
+    ],
+    "topicIds": [
+      "geometric-pde-relativity-fluid-dynamics"
+    ],
+    "featured": false,
+    "cv": {
+      "selected": true
+    },
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "arXiv:2607.16827; acceptance in JMFM reported by author, 2026-10-24",
+    "authors": [
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
+  },
+  {
     "id": "gantumur-projection-geometry-quasi-orthogonality-2026",
     "type": "preprint",
     "title": "Projection geometry and relaxed quasi-orthogonality for inf-sup stable Galerkin methods",
