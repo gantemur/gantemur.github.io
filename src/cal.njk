@@ -7,12 +7,14 @@ permalink: /cal/
 langnames:
   mn: { mn: Монгол, en: Mongolian }
   en: { mn: Англи, en: English }
-  bo: { mn: Төвд, en: Tibetan }
-  dz: { mn: Зонха, en: Dzongkha }
+  bo: { mn: བོད་ཡིག, en: བོད་ཡིག }
+  dz: { mn: རྫོང་ཁ, en: རྫོང་ཁ }
 days:
   d115: { mn: Шинийн 1 ба 15, en: 1st and 15th }
   d1: { mn: Зөвхөн шинийн 1, en: 1st only }
   ausp: { mn: Зурхайн онцлох өдрүүд, en: Auspicious days }
+  d115_tib: { mn: ཚེས་༡ དང་༡༥, en: ཚེས་༡ དང་༡༥ }
+  d1_tib: { mn: ཚེས་༡ ཁོ་ན།, en: ཚེས་༡ ཁོ་ན། }
 feeds:
   - name: { mn: Монгол билгийн тоолол, en: Mongol lunar calendar }
     festivals:
@@ -31,24 +33,24 @@ feeds:
       mn: "Баяр ёслол: Лосар ба дөрвөн их дүйчин."
       en: "Festivals: Losar and the four düchen."
     rows:
-      - [phugpa-bo.ics, bo, d115]
-      - [phugpa-bo-no15.ics, bo, d1]
+      - [phugpa-bo.ics, bo, d115_tib]
+      - [phugpa-bo-no15.ics, bo, d1_tib]
       - [phugpa-en.ics, en, d115]
       - [phugpa-en-no15.ics, en, d1]
   - name: { mn: Төвд зурхай (Цүр), en: Tibetan calendar (Tsurphu) }
     native: བོད་ཀྱི་ལོ་ཐོ། (མཚུར་ལུགས།)
     festivals: *tibfest
     rows:
-      - [tsurphu-bo.ics, bo, d115]
-      - [tsurphu-bo-no15.ics, bo, d1]
+      - [tsurphu-bo.ics, bo, d115_tib]
+      - [tsurphu-bo-no15.ics, bo, d1_tib]
       - [tsurphu-en.ics, en, d115]
       - [tsurphu-en-no15.ics, en, d1]
   - name: { mn: Бутан зурхай, en: Bhutanese calendar }
     native: འབྲུག་གི་ལོ་ཐོ།
     festivals: *tibfest
     rows:
-      - [bhutan-dz.ics, dz, d115]
-      - [bhutan-dz-no15.ics, dz, d1]
+      - [bhutan-dz.ics, dz, d115_tib]
+      - [bhutan-dz-no15.ics, dz, d1_tib]
       - [bhutan-en.ics, en, d115]
       - [bhutan-en-no15.ics, en, d1]
 ---
