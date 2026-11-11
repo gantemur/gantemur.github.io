@@ -16,8 +16,8 @@ days:
 feeds:
   - name: { mn: Монгол билгийн тоолол, en: Mongol lunar calendar }
     festivals:
-      mn: "Баяр ёслол: Битүүн, Цагаан сар, Их дүйчин, Чингис хааны төрсөн өдөр. Зурхайн онцлох өдрүүд: Балжинням, Дашням (сайн), Модон хохимой, Тэрсүүд (цээртэй). Энэ нь үндсэн хуанлийн нэмэлт тул хамт захиалахад юу ч давхардахгүй."
-      en: "Festivals: Bituun, Tsagaan Sar, Ikh Düichen, Chinggis Khaan's birthday. Auspicious days: Baljinnyam, Dashnyam (auspicious), Modon khokhimoi, Tersüüd (days to be careful). It is an add-on to the calendar above: subscribe to both and nothing appears twice."
+      mn: "Баяр ёслол: Битүүн, Цагаан сар, Их дүйчин, Чингис хааны төрсөн өдөр. Зурхайн онцлох өдрүүд: уламжлалт зурхайн бичигт заасан Балжинням, Дашням, Модон хохимой, Тэрсүүд. Энэ нь үндсэн хуанлийн нэмэлт тул хамт захиалахад юу ч давхардахгүй."
+      en: "Festivals: Bituun, Tsagaan Sar, Ikh Düichen, Chinggis Khaan's birthday. Auspicious days: Baljinnyam, Dashnyam, Modon khokhimoi and Tersüüd, as given in the traditional Mongolian almanac. It is an add-on to the calendar above: subscribe to both and nothing appears twice."
     rows:
       - [mongol-mn.ics, mn, d115]
       - [mongol-mn-no15.ics, mn, d1]
@@ -69,6 +69,7 @@ feeds:
 <style>
   html:not(.ui-en) .l-en,
   html.ui-en .l-mn { display: none !important; }
+  .cal-head h1 { max-width: none; }
   .cal-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 1rem; }
   .lang-switch { font-size: 0.95rem; white-space: nowrap; padding-top: 0.6rem; }
   .lang-switch a { text-decoration: none; }
