@@ -15,8 +15,7 @@ UID:mongol-mn-no15-2019-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200125
 DTEND;VALUE=DATE:20200126
-SUMMARY:Шинийн 1 · Өвлийн сүүл улаагчин үхэр 
- сар · 17-р жарны 33 он шарагчин гахай жил
+SUMMARY:Шинийн 1 · Өвлийн сүүл сар
 DESCRIPTION:Өвлийн сүүл улаагчин үхэр сар\n17-р 
  жарны 33 он шарагчин гахай жил
 TRANSP:TRANSPARENT
@@ -35,8 +34,7 @@ UID:mongol-mn-no15-2020-01-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200224
 DTEND;VALUE=DATE:20200225
-SUMMARY:Шинийн 1 · Хаврын тэргүүн шар барс са
- р · 17-р жарны 34 он цагаан хулгана жил
+SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн шар барс сар\n17-р жа
  рны 34 он цагаан хулгана жил
 TRANSP:TRANSPARENT
@@ -56,8 +54,7 @@ UID:mongol-mn-no15-2020-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200325
 DTEND;VALUE=DATE:20200326
-SUMMARY:Шинийн 1 · Хаврын дунд шарагчин туула
- й сар · 17-р жарны 34 он цагаан хулгана жил
+SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд шарагчин туулай сар\n17-
  р жарны 34 он цагаан хулгана жил
 TRANSP:TRANSPARENT
@@ -67,8 +64,7 @@ UID:mongol-mn-no15-2020-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200423
 DTEND;VALUE=DATE:20200424
-SUMMARY:Шинийн 1 · Хаврын сүүл цагаан луу сар 
- · 17-р жарны 34 он цагаан хулгана жил
+SUMMARY:Шинийн 1 · Хаврын сүүл сар
 DESCRIPTION:Хаврын сүүл цагаан луу сар\n17-р жар
  ны 34 он цагаан хулгана жил
 TRANSP:TRANSPARENT
@@ -78,7 +74,7 @@ UID:mongol-mn-no15-2020-03-d01r@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200424
 DTEND;VALUE=DATE:20200425
-SUMMARY:Шинийн 1 (давхар)
+SUMMARY:Шинийн 1 (давхар) · Хаврын сүүл сар
 DESCRIPTION:Хаврын сүүл цагаан луу сар\n17-р жар
  ны 34 он цагаан хулгана жил
 TRANSP:TRANSPARENT
@@ -88,8 +84,7 @@ UID:mongol-mn-no15-2020-04-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200523
 DTEND;VALUE=DATE:20200524
-SUMMARY:Шинийн 1 · Зуны эхэн цагаагчин могой 
- сар · 17-р жарны 34 он цагаан хулгана жил
+SUMMARY:Шинийн 1 · Зуны эхэн сар
 DESCRIPTION:Зуны эхэн цагаагчин могой сар\n17-р 
  жарны 34 он цагаан хулгана жил
 TRANSP:TRANSPARENT
@@ -110,8 +105,7 @@ UID:mongol-mn-no15-2020-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200622
 DTEND;VALUE=DATE:20200623
-SUMMARY:Шинийн 1 · Зуны дунд хар морь сар · 17-р
-  жарны 34 он цагаан хулгана жил
+SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд хар морь сар\n17-р жарны 34 
  он цагаан хулгана жил
 TRANSP:TRANSPARENT
@@ -121,8 +115,7 @@ UID:mongol-mn-no15-2020-06-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200721
 DTEND;VALUE=DATE:20200722
-SUMMARY:Шинийн 1 · Зуны сүүл харагчин хонь са
- р · 17-р жарны 34 он цагаан хулгана жил
+SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл харагчин хонь сар\n17-р жа
  рны 34 он цагаан хулгана жил
 TRANSP:TRANSPARENT
@@ -132,8 +125,7 @@ UID:mongol-mn-no15-2020-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200820
 DTEND;VALUE=DATE:20200821
-SUMMARY:Шинийн 1 · Намрын эхэн хөх бич сар · 17-
- р жарны 34 он цагаан хулгана жил
+SUMMARY:Шинийн 1 · Намрын эхэн сар
 DESCRIPTION:Намрын эхэн хөх бич сар\n17-р жарны 34
   он цагаан хулгана жил
 TRANSP:TRANSPARENT
@@ -143,8 +135,7 @@ UID:mongol-mn-no15-2020-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200918
 DTEND;VALUE=DATE:20200919
-SUMMARY:Шинийн 1 · Намрын дунд хөхөгчин тахиа
-  сар · 17-р жарны 34 он цагаан хулгана жил
+SUMMARY:Шинийн 1 · Намрын дунд сар
 DESCRIPTION:Намрын дунд хөхөгчин тахиа сар\n17-р
   жарны 34 он цагаан хулгана жил
 TRANSP:TRANSPARENT
@@ -154,8 +145,7 @@ UID:mongol-mn-no15-2020-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20201017
 DTEND;VALUE=DATE:20201018
-SUMMARY:Шинийн 1 · Намрын сүүл улаан нохой са
- р · 17-р жарны 34 он цагаан хулгана жил
+SUMMARY:Шинийн 1 · Намрын сүүл сар
 DESCRIPTION:Намрын сүүл улаан нохой сар\n17-р жа
  рны 34 он цагаан хулгана жил
 TRANSP:TRANSPARENT
@@ -177,8 +167,7 @@ UID:mongol-mn-no15-2020-10-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20201116
 DTEND;VALUE=DATE:20201117
-SUMMARY:Шинийн 1 · Өвлийн эхэн улаагчин гахай
-  сар · 17-р жарны 34 он цагаан хулгана жил
+SUMMARY:Шинийн 1 · Өвлийн эхэн сар
 DESCRIPTION:Өвлийн эхэн улаагчин гахай сар\n17-р
   жарны 34 он цагаан хулгана жил
 TRANSP:TRANSPARENT
@@ -188,8 +177,7 @@ UID:mongol-mn-no15-2020-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20201215
 DTEND;VALUE=DATE:20201216
-SUMMARY:Шинийн 1 · Өвлийн дунд шар хулгана са
- р · 17-р жарны 34 он цагаан хулгана жил
+SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд шар хулгана сар\n17-р жа
  рны 34 он цагаан хулгана жил
 TRANSP:TRANSPARENT
@@ -199,8 +187,7 @@ UID:mongol-mn-no15-2020-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210114
 DTEND;VALUE=DATE:20210115
-SUMMARY:Шинийн 1 · Өвлийн сүүл шарагчин үхэр 
- сар · 17-р жарны 34 он цагаан хулгана жил
+SUMMARY:Шинийн 1 · Өвлийн сүүл сар
 DESCRIPTION:Өвлийн сүүл шарагчин үхэр сар\n17-р 
  жарны 34 он цагаан хулгана жил
 TRANSP:TRANSPARENT
@@ -219,8 +206,7 @@ UID:mongol-mn-no15-2021-01-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210212
 DTEND;VALUE=DATE:20210213
-SUMMARY:Шинийн 1 · Хаврын тэргүүн цагаан барс
-  сар · 17-р жарны 35 он цагаагчин үхэр жил
+SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн цагаан барс сар\n17-р
   жарны 35 он цагаагчин үхэр жил
 TRANSP:TRANSPARENT
@@ -240,8 +226,7 @@ UID:mongol-mn-no15-2021-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210314
 DTEND;VALUE=DATE:20210315
-SUMMARY:Шинийн 1 · Хаврын дунд цагаагчин туул
- ай сар · 17-р жарны 35 он цагаагчин үхэр жил
+SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд цагаагчин туулай сар\n1
  7-р жарны 35 он цагаагчин үхэр жил
 TRANSP:TRANSPARENT
@@ -251,8 +236,7 @@ UID:mongol-mn-no15-2021-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210413
 DTEND;VALUE=DATE:20210414
-SUMMARY:Шинийн 1 · Хаврын сүүл хар луу сар · 17-
- р жарны 35 он цагаагчин үхэр жил
+SUMMARY:Шинийн 1 · Хаврын сүүл сар
 DESCRIPTION:Хаврын сүүл хар луу сар\n17-р жарны 35
   он цагаагчин үхэр жил
 TRANSP:TRANSPARENT
@@ -262,8 +246,7 @@ UID:mongol-mn-no15-2021-04-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210512
 DTEND;VALUE=DATE:20210513
-SUMMARY:Шинийн 1 · Зуны эхэн харагчин могой с
- ар · 17-р жарны 35 он цагаагчин үхэр жил
+SUMMARY:Шинийн 1 · Зуны эхэн сар
 DESCRIPTION:Зуны эхэн харагчин могой сар\n17-р ж
  арны 35 он цагаагчин үхэр жил
 TRANSP:TRANSPARENT
@@ -284,8 +267,7 @@ UID:mongol-mn-no15-2021-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210611
 DTEND;VALUE=DATE:20210612
-SUMMARY:Шинийн 1 · Зуны дунд хөх морь сар · 17-р
-  жарны 35 он цагаагчин үхэр жил
+SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд хөх морь сар\n17-р жарны 35 
  он цагаагчин үхэр жил
 TRANSP:TRANSPARENT
@@ -295,8 +277,7 @@ UID:mongol-mn-no15-2021-06-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210710
 DTEND;VALUE=DATE:20210711
-SUMMARY:Шинийн 1 · Зуны сүүл хөхөгчин хонь са
- р · 17-р жарны 35 он цагаагчин үхэр жил
+SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл хөхөгчин хонь сар\n17-р жа
  рны 35 он цагаагчин үхэр жил
 TRANSP:TRANSPARENT
@@ -306,7 +287,7 @@ UID:mongol-mn-no15-2021-06-d01r@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210711
 DTEND;VALUE=DATE:20210712
-SUMMARY:Шинийн 1 (давхар)
+SUMMARY:Шинийн 1 (давхар) · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл хөхөгчин хонь сар\n17-р жа
  рны 35 он цагаагчин үхэр жил
 TRANSP:TRANSPARENT
@@ -316,8 +297,7 @@ UID:mongol-mn-no15-2021-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210809
 DTEND;VALUE=DATE:20210810
-SUMMARY:Шинийн 1 · Намрын эхэн улаан бич сар ·
-  17-р жарны 35 он цагаагчин үхэр жил
+SUMMARY:Шинийн 1 · Намрын эхэн сар
 DESCRIPTION:Намрын эхэн улаан бич сар\n17-р жарн
  ы 35 он цагаагчин үхэр жил
 TRANSP:TRANSPARENT
@@ -327,9 +307,8 @@ UID:mongol-mn-no15-2021-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210908
 DTEND;VALUE=DATE:20210909
-SUMMARY:Шинийн 2 · Намрын дунд улаагчин тахиа
-  сар (шинийн 1 тасарсан) · 17-р жарны 35 он ца
- гаагчин үхэр жил
+SUMMARY:Шинийн 2 · Намрын дунд сар (шинийн 1 та
+ сарсан)
 DESCRIPTION:Намрын дунд улаагчин тахиа сар\n17-р
   жарны 35 он цагаагчин үхэр жил
 TRANSP:TRANSPARENT
@@ -339,8 +318,7 @@ UID:mongol-mn-no15-2021-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20211007
 DTEND;VALUE=DATE:20211008
-SUMMARY:Шинийн 1 · Намрын сүүл шар нохой сар ·
-  17-р жарны 35 он цагаагчин үхэр жил
+SUMMARY:Шинийн 1 · Намрын сүүл сар
 DESCRIPTION:Намрын сүүл шар нохой сар\n17-р жарн
  ы 35 он цагаагчин үхэр жил
 TRANSP:TRANSPARENT
@@ -362,8 +340,7 @@ UID:mongol-mn-no15-2021-10-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20211105
 DTEND;VALUE=DATE:20211106
-SUMMARY:Шинийн 1 · Өвлийн эхэн шарагчин гахай
-  сар · 17-р жарны 35 он цагаагчин үхэр жил
+SUMMARY:Шинийн 1 · Өвлийн эхэн сар
 DESCRIPTION:Өвлийн эхэн шарагчин гахай сар\n17-р
   жарны 35 он цагаагчин үхэр жил
 TRANSP:TRANSPARENT
@@ -373,8 +350,7 @@ UID:mongol-mn-no15-2021-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20211205
 DTEND;VALUE=DATE:20211206
-SUMMARY:Шинийн 1 · Өвлийн дунд цагаан хулгана
-  сар · 17-р жарны 35 он цагаагчин үхэр жил
+SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд цагаан хулгана сар\n17-р
   жарны 35 он цагаагчин үхэр жил
 TRANSP:TRANSPARENT
@@ -384,8 +360,7 @@ UID:mongol-mn-no15-2021-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220103
 DTEND;VALUE=DATE:20220104
-SUMMARY:Шинийн 1 · Өвлийн сүүл цагаагчин үхэр
-  сар · 17-р жарны 35 он цагаагчин үхэр жил
+SUMMARY:Шинийн 1 · Өвлийн сүүл сар
 DESCRIPTION:Өвлийн сүүл цагаагчин үхэр сар\n17-р
   жарны 35 он цагаагчин үхэр жил
 TRANSP:TRANSPARENT
@@ -404,8 +379,7 @@ UID:mongol-mn-no15-2022-01-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220202
 DTEND;VALUE=DATE:20220203
-SUMMARY:Шинийн 1 · Хаврын тэргүүн хар барс са
- р · 17-р жарны 36 он хар бар жил
+SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн хар барс сар\n17-р жа
  рны 36 он хар бар жил
 TRANSP:TRANSPARENT
@@ -425,8 +399,7 @@ UID:mongol-mn-no15-2022-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220303
 DTEND;VALUE=DATE:20220304
-SUMMARY:Шинийн 1 · Хаврын дунд харагчин туула
- й сар · 17-р жарны 36 он хар бар жил
+SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд харагчин туулай сар\n17-
  р жарны 36 он хар бар жил
 TRANSP:TRANSPARENT
@@ -436,8 +409,7 @@ UID:mongol-mn-no15-2022-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220402
 DTEND;VALUE=DATE:20220403
-SUMMARY:Шинийн 1 · Хаврын сүүл хөх луу сар · 17-
- р жарны 36 он хар бар жил
+SUMMARY:Шинийн 1 · Хаврын сүүл сар
 DESCRIPTION:Хаврын сүүл хөх луу сар\n17-р жарны 36
   он хар бар жил
 TRANSP:TRANSPARENT
@@ -447,8 +419,7 @@ UID:mongol-mn-no15-2022-04L-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220501
 DTEND;VALUE=DATE:20220502
-SUMMARY:Шинийн 1 · Зуны эхэн (илүү) хөхөгчин м
- огой сар · 17-р жарны 36 он хар бар жил
+SUMMARY:Шинийн 1 · Зуны эхэн (илүү) сар
 DESCRIPTION:Зуны эхэн (илүү) хөхөгчин могой сар
  \n17-р жарны 36 он хар бар жил
 TRANSP:TRANSPARENT
@@ -458,8 +429,7 @@ UID:mongol-mn-no15-2022-04-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220531
 DTEND;VALUE=DATE:20220601
-SUMMARY:Шинийн 1 · Зуны эхэн хөхөгчин могой с
- ар · 17-р жарны 36 он хар бар жил
+SUMMARY:Шинийн 1 · Зуны эхэн сар
 DESCRIPTION:Зуны эхэн хөхөгчин могой сар\n17-р ж
  арны 36 он хар бар жил
 TRANSP:TRANSPARENT
@@ -480,8 +450,7 @@ UID:mongol-mn-no15-2022-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220630
 DTEND;VALUE=DATE:20220701
-SUMMARY:Шинийн 1 · Зуны дунд улаан морь сар · 1
- 7-р жарны 36 он хар бар жил
+SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд улаан морь сар\n17-р жарны 
  36 он хар бар жил
 TRANSP:TRANSPARENT
@@ -491,8 +460,7 @@ UID:mongol-mn-no15-2022-06-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220729
 DTEND;VALUE=DATE:20220730
-SUMMARY:Шинийн 1 · Зуны сүүл улаагчин хонь са
- р · 17-р жарны 36 он хар бар жил
+SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл улаагчин хонь сар\n17-р жа
  рны 36 он хар бар жил
 TRANSP:TRANSPARENT
@@ -502,8 +470,7 @@ UID:mongol-mn-no15-2022-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220828
 DTEND;VALUE=DATE:20220829
-SUMMARY:Шинийн 1 · Намрын эхэн шар бич сар · 17-
- р жарны 36 он хар бар жил
+SUMMARY:Шинийн 1 · Намрын эхэн сар
 DESCRIPTION:Намрын эхэн шар бич сар\n17-р жарны 36
   он хар бар жил
 TRANSP:TRANSPARENT
@@ -513,8 +480,7 @@ UID:mongol-mn-no15-2022-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220926
 DTEND;VALUE=DATE:20220927
-SUMMARY:Шинийн 1 · Намрын дунд шарагчин тахиа
-  сар · 17-р жарны 36 он хар бар жил
+SUMMARY:Шинийн 1 · Намрын дунд сар
 DESCRIPTION:Намрын дунд шарагчин тахиа сар\n17-р
   жарны 36 он хар бар жил
 TRANSP:TRANSPARENT
@@ -524,8 +490,7 @@ UID:mongol-mn-no15-2022-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20221026
 DTEND;VALUE=DATE:20221027
-SUMMARY:Шинийн 1 · Намрын сүүл цагаан нохой с
- ар · 17-р жарны 36 он хар бар жил
+SUMMARY:Шинийн 1 · Намрын сүүл сар
 DESCRIPTION:Намрын сүүл цагаан нохой сар\n17-р ж
  арны 36 он хар бар жил
 TRANSP:TRANSPARENT
@@ -547,8 +512,7 @@ UID:mongol-mn-no15-2022-10-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20221124
 DTEND;VALUE=DATE:20221125
-SUMMARY:Шинийн 1 · Өвлийн эхэн цагаагчин гаха
- й сар · 17-р жарны 36 он хар бар жил
+SUMMARY:Шинийн 1 · Өвлийн эхэн сар
 DESCRIPTION:Өвлийн эхэн цагаагчин гахай сар\n17-
  р жарны 36 он хар бар жил
 TRANSP:TRANSPARENT
@@ -558,8 +522,7 @@ UID:mongol-mn-no15-2022-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20221224
 DTEND;VALUE=DATE:20221225
-SUMMARY:Шинийн 1 · Өвлийн дунд хар хулгана са
- р · 17-р жарны 36 он хар бар жил
+SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд хар хулгана сар\n17-р жа
  рны 36 он хар бар жил
 TRANSP:TRANSPARENT
@@ -569,8 +532,7 @@ UID:mongol-mn-no15-2022-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230122
 DTEND;VALUE=DATE:20230123
-SUMMARY:Шинийн 1 · Өвлийн сүүл харагчин үхэр 
- сар · 17-р жарны 36 он хар бар жил
+SUMMARY:Шинийн 1 · Өвлийн сүүл сар
 DESCRIPTION:Өвлийн сүүл харагчин үхэр сар\n17-р 
  жарны 36 он хар бар жил
 TRANSP:TRANSPARENT
@@ -589,8 +551,7 @@ UID:mongol-mn-no15-2023-01-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230221
 DTEND;VALUE=DATE:20230222
-SUMMARY:Шинийн 1 · Хаврын тэргүүн хөх барс са
- р · 17-р жарны 37 он харагчин туулай жил
+SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн хөх барс сар\n17-р жа
  рны 37 он харагчин туулай жил
 TRANSP:TRANSPARENT
@@ -610,8 +571,7 @@ UID:mongol-mn-no15-2023-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230322
 DTEND;VALUE=DATE:20230323
-SUMMARY:Шинийн 1 · Хаврын дунд хөхөгчин туула
- й сар · 17-р жарны 37 он харагчин туулай жил
+SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд хөхөгчин туулай сар\n17-
  р жарны 37 он харагчин туулай жил
 TRANSP:TRANSPARENT
@@ -621,8 +581,7 @@ UID:mongol-mn-no15-2023-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230421
 DTEND;VALUE=DATE:20230422
-SUMMARY:Шинийн 1 · Хаврын сүүл улаан луу сар ·
-  17-р жарны 37 он харагчин туулай жил
+SUMMARY:Шинийн 1 · Хаврын сүүл сар
 DESCRIPTION:Хаврын сүүл улаан луу сар\n17-р жарн
  ы 37 он харагчин туулай жил
 TRANSP:TRANSPARENT
@@ -632,8 +591,7 @@ UID:mongol-mn-no15-2023-04-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230520
 DTEND;VALUE=DATE:20230521
-SUMMARY:Шинийн 1 · Зуны эхэн улаагчин могой с
- ар · 17-р жарны 37 он харагчин туулай жил
+SUMMARY:Шинийн 1 · Зуны эхэн сар
 DESCRIPTION:Зуны эхэн улаагчин могой сар\n17-р ж
  арны 37 он харагчин туулай жил
 TRANSP:TRANSPARENT
@@ -654,8 +612,7 @@ UID:mongol-mn-no15-2023-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230619
 DTEND;VALUE=DATE:20230620
-SUMMARY:Шинийн 1 · Зуны дунд шар морь сар · 17-р
-  жарны 37 он харагчин туулай жил
+SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд шар морь сар\n17-р жарны 37 
  он харагчин туулай жил
 TRANSP:TRANSPARENT
@@ -665,8 +622,7 @@ UID:mongol-mn-no15-2023-06-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230718
 DTEND;VALUE=DATE:20230719
-SUMMARY:Шинийн 1 · Зуны сүүл шарагчин хонь са
- р · 17-р жарны 37 он харагчин туулай жил
+SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл шарагчин хонь сар\n17-р жа
  рны 37 он харагчин туулай жил
 TRANSP:TRANSPARENT
@@ -676,8 +632,7 @@ UID:mongol-mn-no15-2023-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230817
 DTEND;VALUE=DATE:20230818
-SUMMARY:Шинийн 1 · Намрын эхэн цагаан бич сар 
- · 17-р жарны 37 он харагчин туулай жил
+SUMMARY:Шинийн 1 · Намрын эхэн сар
 DESCRIPTION:Намрын эхэн цагаан бич сар\n17-р жар
  ны 37 он харагчин туулай жил
 TRANSP:TRANSPARENT
@@ -687,8 +642,7 @@ UID:mongol-mn-no15-2023-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230915
 DTEND;VALUE=DATE:20230916
-SUMMARY:Шинийн 1 · Намрын дунд цагаагчин тахи
- а сар · 17-р жарны 37 он харагчин туулай жил
+SUMMARY:Шинийн 1 · Намрын дунд сар
 DESCRIPTION:Намрын дунд цагаагчин тахиа сар\n17-
  р жарны 37 он харагчин туулай жил
 TRANSP:TRANSPARENT
@@ -698,7 +652,7 @@ UID:mongol-mn-no15-2023-08-d01r@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230916
 DTEND;VALUE=DATE:20230917
-SUMMARY:Шинийн 1 (давхар)
+SUMMARY:Шинийн 1 (давхар) · Намрын дунд сар
 DESCRIPTION:Намрын дунд цагаагчин тахиа сар\n17-
  р жарны 37 он харагчин туулай жил
 TRANSP:TRANSPARENT
@@ -708,8 +662,7 @@ UID:mongol-mn-no15-2023-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20231015
 DTEND;VALUE=DATE:20231016
-SUMMARY:Шинийн 1 · Намрын сүүл хар нохой сар ·
-  17-р жарны 37 он харагчин туулай жил
+SUMMARY:Шинийн 1 · Намрын сүүл сар
 DESCRIPTION:Намрын сүүл хар нохой сар\n17-р жарн
  ы 37 он харагчин туулай жил
 TRANSP:TRANSPARENT
@@ -731,8 +684,7 @@ UID:mongol-mn-no15-2023-10-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20231114
 DTEND;VALUE=DATE:20231115
-SUMMARY:Шинийн 1 · Өвлийн эхэн харагчин гахай
-  сар · 17-р жарны 37 он харагчин туулай жил
+SUMMARY:Шинийн 1 · Өвлийн эхэн сар
 DESCRIPTION:Өвлийн эхэн харагчин гахай сар\n17-р
   жарны 37 он харагчин туулай жил
 TRANSP:TRANSPARENT
@@ -742,8 +694,7 @@ UID:mongol-mn-no15-2023-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20231213
 DTEND;VALUE=DATE:20231214
-SUMMARY:Шинийн 1 · Өвлийн дунд хөх хулгана са
- р · 17-р жарны 37 он харагчин туулай жил
+SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд хөх хулгана сар\n17-р жа
  рны 37 он харагчин туулай жил
 TRANSP:TRANSPARENT
@@ -753,8 +704,7 @@ UID:mongol-mn-no15-2023-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240112
 DTEND;VALUE=DATE:20240113
-SUMMARY:Шинийн 1 · Өвлийн сүүл хөхөгчин үхэр 
- сар · 17-р жарны 37 он харагчин туулай жил
+SUMMARY:Шинийн 1 · Өвлийн сүүл сар
 DESCRIPTION:Өвлийн сүүл хөхөгчин үхэр сар\n17-р 
  жарны 37 он харагчин туулай жил
 TRANSP:TRANSPARENT
@@ -773,8 +723,7 @@ UID:mongol-mn-no15-2024-01-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240210
 DTEND;VALUE=DATE:20240211
-SUMMARY:Шинийн 1 · Хаврын тэргүүн улаан барс 
- сар · 17-р жарны 38 он хөх луу жил
+SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн улаан барс сар\n17-р 
  жарны 38 он хөх луу жил
 TRANSP:TRANSPARENT
@@ -794,8 +743,7 @@ UID:mongol-mn-no15-2024-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240311
 DTEND;VALUE=DATE:20240312
-SUMMARY:Шинийн 1 · Хаврын дунд улаагчин туула
- й сар · 17-р жарны 38 он хөх луу жил
+SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд улаагчин туулай сар\n17-
  р жарны 38 он хөх луу жил
 TRANSP:TRANSPARENT
@@ -805,8 +753,7 @@ UID:mongol-mn-no15-2024-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240409
 DTEND;VALUE=DATE:20240410
-SUMMARY:Шинийн 1 · Хаврын сүүл шар луу сар · 17-
- р жарны 38 он хөх луу жил
+SUMMARY:Шинийн 1 · Хаврын сүүл сар
 DESCRIPTION:Хаврын сүүл шар луу сар\n17-р жарны 38
   он хөх луу жил
 TRANSP:TRANSPARENT
@@ -816,8 +763,7 @@ UID:mongol-mn-no15-2024-04-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240509
 DTEND;VALUE=DATE:20240510
-SUMMARY:Шинийн 1 · Зуны эхэн шарагчин могой с
- ар · 17-р жарны 38 он хөх луу жил
+SUMMARY:Шинийн 1 · Зуны эхэн сар
 DESCRIPTION:Зуны эхэн шарагчин могой сар\n17-р ж
  арны 38 он хөх луу жил
 TRANSP:TRANSPARENT
@@ -838,8 +784,7 @@ UID:mongol-mn-no15-2024-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240607
 DTEND;VALUE=DATE:20240608
-SUMMARY:Шинийн 1 · Зуны дунд цагаан морь сар ·
-  17-р жарны 38 он хөх луу жил
+SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд цагаан морь сар\n17-р жарн
  ы 38 он хөх луу жил
 TRANSP:TRANSPARENT
@@ -849,8 +794,7 @@ UID:mongol-mn-no15-2024-06-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240706
 DTEND;VALUE=DATE:20240707
-SUMMARY:Шинийн 1 · Зуны сүүл цагаагчин хонь с
- ар · 17-р жарны 38 он хөх луу жил
+SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл цагаагчин хонь сар\n17-р ж
  арны 38 он хөх луу жил
 TRANSP:TRANSPARENT
@@ -860,8 +804,7 @@ UID:mongol-mn-no15-2024-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240805
 DTEND;VALUE=DATE:20240806
-SUMMARY:Шинийн 1 · Намрын эхэн хар бич сар · 17-
- р жарны 38 он хөх луу жил
+SUMMARY:Шинийн 1 · Намрын эхэн сар
 DESCRIPTION:Намрын эхэн хар бич сар\n17-р жарны 38
   он хөх луу жил
 TRANSP:TRANSPARENT
@@ -871,8 +814,7 @@ UID:mongol-mn-no15-2024-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240904
 DTEND;VALUE=DATE:20240905
-SUMMARY:Шинийн 1 · Намрын дунд харагчин тахиа
-  сар · 17-р жарны 38 он хөх луу жил
+SUMMARY:Шинийн 1 · Намрын дунд сар
 DESCRIPTION:Намрын дунд харагчин тахиа сар\n17-р
   жарны 38 он хөх луу жил
 TRANSP:TRANSPARENT
@@ -882,8 +824,7 @@ UID:mongol-mn-no15-2024-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20241003
 DTEND;VALUE=DATE:20241004
-SUMMARY:Шинийн 1 · Намрын сүүл хөх нохой сар ·
-  17-р жарны 38 он хөх луу жил
+SUMMARY:Шинийн 1 · Намрын сүүл сар
 DESCRIPTION:Намрын сүүл хөх нохой сар\n17-р жарн
  ы 38 он хөх луу жил
 TRANSP:TRANSPARENT
@@ -905,8 +846,7 @@ UID:mongol-mn-no15-2024-10-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20241102
 DTEND;VALUE=DATE:20241103
-SUMMARY:Шинийн 1 · Өвлийн эхэн хөхөгчин гахай
-  сар · 17-р жарны 38 он хөх луу жил
+SUMMARY:Шинийн 1 · Өвлийн эхэн сар
 DESCRIPTION:Өвлийн эхэн хөхөгчин гахай сар\n17-р
   жарны 38 он хөх луу жил
 TRANSP:TRANSPARENT
@@ -916,8 +856,7 @@ UID:mongol-mn-no15-2024-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20241202
 DTEND;VALUE=DATE:20241203
-SUMMARY:Шинийн 1 · Өвлийн дунд улаан хулгана 
- сар · 17-р жарны 38 он хөх луу жил
+SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд улаан хулгана сар\n17-р 
  жарны 38 он хөх луу жил
 TRANSP:TRANSPARENT
@@ -927,8 +866,7 @@ UID:mongol-mn-no15-2024-12L-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20241231
 DTEND;VALUE=DATE:20250101
-SUMMARY:Шинийн 1 · Өвлийн сүүл (илүү) улаагчин
-  үхэр сар · 17-р жарны 38 он хөх луу жил
+SUMMARY:Шинийн 1 · Өвлийн сүүл (илүү) сар
 DESCRIPTION:Өвлийн сүүл (илүү) улаагчин үхэр са
  р\n17-р жарны 38 он хөх луу жил
 TRANSP:TRANSPARENT
@@ -938,8 +876,7 @@ UID:mongol-mn-no15-2024-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250130
 DTEND;VALUE=DATE:20250131
-SUMMARY:Шинийн 1 · Өвлийн сүүл улаагчин үхэр 
- сар · 17-р жарны 38 он хөх луу жил
+SUMMARY:Шинийн 1 · Өвлийн сүүл сар
 DESCRIPTION:Өвлийн сүүл улаагчин үхэр сар\n17-р 
  жарны 38 он хөх луу жил
 TRANSP:TRANSPARENT
@@ -958,9 +895,8 @@ UID:mongol-mn-no15-2025-01-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250301
 DTEND;VALUE=DATE:20250302
-SUMMARY:Шинийн 2 · Хаврын тэргүүн шар барс са
- р (шинийн 1 тасарсан) · 17-р жарны 39 он хөхө
- гчин могой жил
+SUMMARY:Шинийн 2 · Хаврын тэргүүн сар (шинийн 
+ 1 тасарсан)
 DESCRIPTION:Хаврын тэргүүн шар барс сар\n17-р жа
  рны 39 он хөхөгчин могой жил
 TRANSP:TRANSPARENT
@@ -980,8 +916,7 @@ UID:mongol-mn-no15-2025-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250330
 DTEND;VALUE=DATE:20250331
-SUMMARY:Шинийн 1 · Хаврын дунд шарагчин туула
- й сар · 17-р жарны 39 он хөхөгчин могой жил
+SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд шарагчин туулай сар\n17-
  р жарны 39 он хөхөгчин могой жил
 TRANSP:TRANSPARENT
@@ -991,8 +926,7 @@ UID:mongol-mn-no15-2025-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250428
 DTEND;VALUE=DATE:20250429
-SUMMARY:Шинийн 1 · Хаврын сүүл цагаан луу сар 
- · 17-р жарны 39 он хөхөгчин могой жил
+SUMMARY:Шинийн 1 · Хаврын сүүл сар
 DESCRIPTION:Хаврын сүүл цагаан луу сар\n17-р жар
  ны 39 он хөхөгчин могой жил
 TRANSP:TRANSPARENT
@@ -1002,8 +936,7 @@ UID:mongol-mn-no15-2025-04-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250528
 DTEND;VALUE=DATE:20250529
-SUMMARY:Шинийн 1 · Зуны эхэн цагаагчин могой 
- сар · 17-р жарны 39 он хөхөгчин могой жил
+SUMMARY:Шинийн 1 · Зуны эхэн сар
 DESCRIPTION:Зуны эхэн цагаагчин могой сар\n17-р 
  жарны 39 он хөхөгчин могой жил
 TRANSP:TRANSPARENT
@@ -1024,8 +957,7 @@ UID:mongol-mn-no15-2025-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250626
 DTEND;VALUE=DATE:20250627
-SUMMARY:Шинийн 1 · Зуны дунд хар морь сар · 17-р
-  жарны 39 он хөхөгчин могой жил
+SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд хар морь сар\n17-р жарны 39 
  он хөхөгчин могой жил
 TRANSP:TRANSPARENT
@@ -1035,8 +967,7 @@ UID:mongol-mn-no15-2025-06-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250725
 DTEND;VALUE=DATE:20250726
-SUMMARY:Шинийн 1 · Зуны сүүл харагчин хонь са
- р · 17-р жарны 39 он хөхөгчин могой жил
+SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл харагчин хонь сар\n17-р жа
  рны 39 он хөхөгчин могой жил
 TRANSP:TRANSPARENT
@@ -1046,8 +977,7 @@ UID:mongol-mn-no15-2025-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250824
 DTEND;VALUE=DATE:20250825
-SUMMARY:Шинийн 1 · Намрын эхэн хөх бич сар · 17-
- р жарны 39 он хөхөгчин могой жил
+SUMMARY:Шинийн 1 · Намрын эхэн сар
 DESCRIPTION:Намрын эхэн хөх бич сар\n17-р жарны 39
   он хөхөгчин могой жил
 TRANSP:TRANSPARENT
@@ -1057,8 +987,7 @@ UID:mongol-mn-no15-2025-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250922
 DTEND;VALUE=DATE:20250923
-SUMMARY:Шинийн 1 · Намрын дунд хөхөгчин тахиа
-  сар · 17-р жарны 39 он хөхөгчин могой жил
+SUMMARY:Шинийн 1 · Намрын дунд сар
 DESCRIPTION:Намрын дунд хөхөгчин тахиа сар\n17-р
   жарны 39 он хөхөгчин могой жил
 TRANSP:TRANSPARENT
@@ -1068,8 +997,7 @@ UID:mongol-mn-no15-2025-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20251022
 DTEND;VALUE=DATE:20251023
-SUMMARY:Шинийн 1 · Намрын сүүл улаан нохой са
- р · 17-р жарны 39 он хөхөгчин могой жил
+SUMMARY:Шинийн 1 · Намрын сүүл сар
 DESCRIPTION:Намрын сүүл улаан нохой сар\n17-р жа
  рны 39 он хөхөгчин могой жил
 TRANSP:TRANSPARENT
@@ -1091,8 +1019,7 @@ UID:mongol-mn-no15-2025-10-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20251121
 DTEND;VALUE=DATE:20251122
-SUMMARY:Шинийн 1 · Өвлийн эхэн улаагчин гахай
-  сар · 17-р жарны 39 он хөхөгчин могой жил
+SUMMARY:Шинийн 1 · Өвлийн эхэн сар
 DESCRIPTION:Өвлийн эхэн улаагчин гахай сар\n17-р
   жарны 39 он хөхөгчин могой жил
 TRANSP:TRANSPARENT
@@ -1102,8 +1029,7 @@ UID:mongol-mn-no15-2025-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20251220
 DTEND;VALUE=DATE:20251221
-SUMMARY:Шинийн 1 · Өвлийн дунд шар хулгана са
- р · 17-р жарны 39 он хөхөгчин могой жил
+SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд шар хулгана сар\n17-р жа
  рны 39 он хөхөгчин могой жил
 TRANSP:TRANSPARENT
@@ -1113,8 +1039,7 @@ UID:mongol-mn-no15-2025-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260119
 DTEND;VALUE=DATE:20260120
-SUMMARY:Шинийн 1 · Өвлийн сүүл шарагчин үхэр 
- сар · 17-р жарны 39 он хөхөгчин могой жил
+SUMMARY:Шинийн 1 · Өвлийн сүүл сар
 DESCRIPTION:Өвлийн сүүл шарагчин үхэр сар\n17-р 
  жарны 39 он хөхөгчин могой жил
 TRANSP:TRANSPARENT
@@ -1133,8 +1058,7 @@ UID:mongol-mn-no15-2026-01-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260218
 DTEND;VALUE=DATE:20260219
-SUMMARY:Шинийн 1 · Хаврын тэргүүн цагаан барс
-  сар · 17-р жарны 40 он улаан морин жил
+SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн цагаан барс сар\n17-р
   жарны 40 он улаан морин жил
 TRANSP:TRANSPARENT
@@ -1154,9 +1078,8 @@ UID:mongol-mn-no15-2026-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
-SUMMARY:Шинийн 2 · Хаврын дунд цагаагчин туул
- ай сар (шинийн 1 тасарсан) · 17-р жарны 40 он 
- улаан морин жил
+SUMMARY:Шинийн 2 · Хаврын дунд сар (шинийн 1 та
+ сарсан)
 DESCRIPTION:Хаврын дунд цагаагчин туулай сар\n1
  7-р жарны 40 он улаан морин жил
 TRANSP:TRANSPARENT
@@ -1166,8 +1089,7 @@ UID:mongol-mn-no15-2026-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260419
-SUMMARY:Шинийн 1 · Хаврын сүүл хар луу сар · 17-
- р жарны 40 он улаан морин жил
+SUMMARY:Шинийн 1 · Хаврын сүүл сар
 DESCRIPTION:Хаврын сүүл хар луу сар\n17-р жарны 40
   он улаан морин жил
 TRANSP:TRANSPARENT
@@ -1177,8 +1099,7 @@ UID:mongol-mn-no15-2026-04-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260517
 DTEND;VALUE=DATE:20260518
-SUMMARY:Шинийн 1 · Зуны эхэн харагчин могой с
- ар · 17-р жарны 40 он улаан морин жил
+SUMMARY:Шинийн 1 · Зуны эхэн сар
 DESCRIPTION:Зуны эхэн харагчин могой сар\n17-р ж
  арны 40 он улаан морин жил
 TRANSP:TRANSPARENT
@@ -1199,8 +1120,7 @@ UID:mongol-mn-no15-2026-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260617
-SUMMARY:Шинийн 1 · Зуны дунд хөх морь сар · 17-р
-  жарны 40 он улаан морин жил
+SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд хөх морь сар\n17-р жарны 40 
  он улаан морин жил
 TRANSP:TRANSPARENT
@@ -1210,8 +1130,7 @@ UID:mongol-mn-no15-2026-06-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260716
-SUMMARY:Шинийн 1 · Зуны сүүл хөхөгчин хонь са
- р · 17-р жарны 40 он улаан морин жил
+SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл хөхөгчин хонь сар\n17-р жа
  рны 40 он улаан морин жил
 TRANSP:TRANSPARENT
@@ -1221,8 +1140,7 @@ UID:mongol-mn-no15-2026-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-SUMMARY:Шинийн 1 · Намрын эхэн улаан бич сар ·
-  17-р жарны 40 он улаан морин жил
+SUMMARY:Шинийн 1 · Намрын эхэн сар
 DESCRIPTION:Намрын эхэн улаан бич сар\n17-р жарн
  ы 40 он улаан морин жил
 TRANSP:TRANSPARENT
@@ -1232,8 +1150,7 @@ UID:mongol-mn-no15-2026-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
-SUMMARY:Шинийн 1 · Намрын дунд улаагчин тахиа
-  сар · 17-р жарны 40 он улаан морин жил
+SUMMARY:Шинийн 1 · Намрын дунд сар
 DESCRIPTION:Намрын дунд улаагчин тахиа сар\n17-р
   жарны 40 он улаан морин жил
 TRANSP:TRANSPARENT
@@ -1243,8 +1160,7 @@ UID:mongol-mn-no15-2026-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
-SUMMARY:Шинийн 1 · Намрын сүүл шар нохой сар ·
-  17-р жарны 40 он улаан морин жил
+SUMMARY:Шинийн 1 · Намрын сүүл сар
 DESCRIPTION:Намрын сүүл шар нохой сар\n17-р жарн
  ы 40 он улаан морин жил
 TRANSP:TRANSPARENT
@@ -1266,8 +1182,7 @@ UID:mongol-mn-no15-2026-10-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-SUMMARY:Шинийн 1 · Өвлийн эхэн шарагчин гахай
-  сар · 17-р жарны 40 он улаан морин жил
+SUMMARY:Шинийн 1 · Өвлийн эхэн сар
 DESCRIPTION:Өвлийн эхэн шарагчин гахай сар\n17-р
   жарны 40 он улаан морин жил
 TRANSP:TRANSPARENT
@@ -1277,8 +1192,7 @@ UID:mongol-mn-no15-2026-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:Шинийн 1 · Өвлийн дунд цагаан хулгана
-  сар · 17-р жарны 40 он улаан морин жил
+SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд цагаан хулгана сар\n17-р
   жарны 40 он улаан морин жил
 TRANSP:TRANSPARENT
@@ -1288,8 +1202,7 @@ UID:mongol-mn-no15-2026-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
-SUMMARY:Шинийн 1 · Өвлийн сүүл цагаагчин үхэр
-  сар · 17-р жарны 40 он улаан морин жил
+SUMMARY:Шинийн 1 · Өвлийн сүүл сар
 DESCRIPTION:Өвлийн сүүл цагаагчин үхэр сар\n17-р
   жарны 40 он улаан морин жил
 TRANSP:TRANSPARENT
@@ -1308,8 +1221,7 @@ UID:mongol-mn-no15-2027-01-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
-SUMMARY:Шинийн 1 · Хаврын тэргүүн хар барс са
- р · 17-р жарны 41 он улаагчин хонин жил
+SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн хар барс сар\n17-р жа
  рны 41 он улаагчин хонин жил
 TRANSP:TRANSPARENT
@@ -1329,8 +1241,7 @@ UID:mongol-mn-no15-2027-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
-SUMMARY:Шинийн 1 · Хаврын дунд харагчин туула
- й сар · 17-р жарны 41 он улаагчин хонин жил
+SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд харагчин туулай сар\n17-
  р жарны 41 он улаагчин хонин жил
 TRANSP:TRANSPARENT
@@ -1340,8 +1251,7 @@ UID:mongol-mn-no15-2027-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
-SUMMARY:Шинийн 1 · Хаврын сүүл хөх луу сар · 17-
- р жарны 41 он улаагчин хонин жил
+SUMMARY:Шинийн 1 · Хаврын сүүл сар
 DESCRIPTION:Хаврын сүүл хөх луу сар\n17-р жарны 41
   он улаагчин хонин жил
 TRANSP:TRANSPARENT
@@ -1351,8 +1261,7 @@ UID:mongol-mn-no15-2027-04-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
-SUMMARY:Шинийн 1 · Зуны эхэн хөхөгчин могой с
- ар · 17-р жарны 41 он улаагчин хонин жил
+SUMMARY:Шинийн 1 · Зуны эхэн сар
 DESCRIPTION:Зуны эхэн хөхөгчин могой сар\n17-р ж
  арны 41 он улаагчин хонин жил
 TRANSP:TRANSPARENT
@@ -1373,8 +1282,7 @@ UID:mongol-mn-no15-2027-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270606
-SUMMARY:Шинийн 1 · Зуны дунд улаан морь сар · 1
- 7-р жарны 41 он улаагчин хонин жил
+SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд улаан морь сар\n17-р жарны 
  41 он улаагчин хонин жил
 TRANSP:TRANSPARENT
@@ -1384,8 +1292,7 @@ UID:mongol-mn-no15-2027-06-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270705
 DTEND;VALUE=DATE:20270706
-SUMMARY:Шинийн 1 · Зуны сүүл улаагчин хонь са
- р · 17-р жарны 41 он улаагчин хонин жил
+SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл улаагчин хонь сар\n17-р жа
  рны 41 он улаагчин хонин жил
 TRANSP:TRANSPARENT
@@ -1395,8 +1302,7 @@ UID:mongol-mn-no15-2027-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270803
 DTEND;VALUE=DATE:20270804
-SUMMARY:Шинийн 1 · Намрын эхэн шар бич сар · 17-
- р жарны 41 он улаагчин хонин жил
+SUMMARY:Шинийн 1 · Намрын эхэн сар
 DESCRIPTION:Намрын эхэн шар бич сар\n17-р жарны 41
   он улаагчин хонин жил
 TRANSP:TRANSPARENT
@@ -1406,8 +1312,7 @@ UID:mongol-mn-no15-2027-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270901
 DTEND;VALUE=DATE:20270902
-SUMMARY:Шинийн 1 · Намрын дунд шарагчин тахиа
-  сар · 17-р жарны 41 он улаагчин хонин жил
+SUMMARY:Шинийн 1 · Намрын дунд сар
 DESCRIPTION:Намрын дунд шарагчин тахиа сар\n17-р
   жарны 41 он улаагчин хонин жил
 TRANSP:TRANSPARENT
@@ -1417,9 +1322,8 @@ UID:mongol-mn-no15-2027-09L-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20271001
 DTEND;VALUE=DATE:20271002
-SUMMARY:Шинийн 2 · Намрын сүүл (илүү) цагаан н
- охой сар (шинийн 1 тасарсан) · 17-р жарны 41 
- он улаагчин хонин жил
+SUMMARY:Шинийн 2 · Намрын сүүл (илүү) сар (шини
+ йн 1 тасарсан)
 DESCRIPTION:Намрын сүүл (илүү) цагаан нохой сар
  \n17-р жарны 41 он улаагчин хонин жил
 TRANSP:TRANSPARENT
@@ -1429,8 +1333,7 @@ UID:mongol-mn-no15-2027-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20271030
 DTEND;VALUE=DATE:20271031
-SUMMARY:Шинийн 1 · Намрын сүүл цагаан нохой с
- ар · 17-р жарны 41 он улаагчин хонин жил
+SUMMARY:Шинийн 1 · Намрын сүүл сар
 DESCRIPTION:Намрын сүүл цагаан нохой сар\n17-р ж
  арны 41 он улаагчин хонин жил
 TRANSP:TRANSPARENT
@@ -1452,8 +1355,7 @@ UID:mongol-mn-no15-2027-10-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20271129
 DTEND;VALUE=DATE:20271130
-SUMMARY:Шинийн 1 · Өвлийн эхэн цагаагчин гаха
- й сар · 17-р жарны 41 он улаагчин хонин жил
+SUMMARY:Шинийн 1 · Өвлийн эхэн сар
 DESCRIPTION:Өвлийн эхэн цагаагчин гахай сар\n17-
  р жарны 41 он улаагчин хонин жил
 TRANSP:TRANSPARENT
@@ -1463,8 +1365,7 @@ UID:mongol-mn-no15-2027-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20271228
 DTEND;VALUE=DATE:20271229
-SUMMARY:Шинийн 1 · Өвлийн дунд хар хулгана са
- р · 17-р жарны 41 он улаагчин хонин жил
+SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд хар хулгана сар\n17-р жа
  рны 41 он улаагчин хонин жил
 TRANSP:TRANSPARENT
@@ -1474,8 +1375,7 @@ UID:mongol-mn-no15-2027-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280127
 DTEND;VALUE=DATE:20280128
-SUMMARY:Шинийн 1 · Өвлийн сүүл харагчин үхэр 
- сар · 17-р жарны 41 он улаагчин хонин жил
+SUMMARY:Шинийн 1 · Өвлийн сүүл сар
 DESCRIPTION:Өвлийн сүүл харагчин үхэр сар\n17-р 
  жарны 41 он улаагчин хонин жил
 TRANSP:TRANSPARENT
@@ -1494,8 +1394,7 @@ UID:mongol-mn-no15-2028-01-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280226
 DTEND;VALUE=DATE:20280227
-SUMMARY:Шинийн 1 · Хаврын тэргүүн хөх барс са
- р · 17-р жарны 42 он шар бичин жил
+SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн хөх барс сар\n17-р жа
  рны 42 он шар бичин жил
 TRANSP:TRANSPARENT
@@ -1515,8 +1414,7 @@ UID:mongol-mn-no15-2028-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280327
 DTEND;VALUE=DATE:20280328
-SUMMARY:Шинийн 1 · Хаврын дунд хөхөгчин туула
- й сар · 17-р жарны 42 он шар бичин жил
+SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд хөхөгчин туулай сар\n17-
  р жарны 42 он шар бичин жил
 TRANSP:TRANSPARENT
@@ -1526,8 +1424,7 @@ UID:mongol-mn-no15-2028-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280425
 DTEND;VALUE=DATE:20280426
-SUMMARY:Шинийн 1 · Хаврын сүүл улаан луу сар ·
-  17-р жарны 42 он шар бичин жил
+SUMMARY:Шинийн 1 · Хаврын сүүл сар
 DESCRIPTION:Хаврын сүүл улаан луу сар\n17-р жарн
  ы 42 он шар бичин жил
 TRANSP:TRANSPARENT
@@ -1537,8 +1434,7 @@ UID:mongol-mn-no15-2028-04-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280525
 DTEND;VALUE=DATE:20280526
-SUMMARY:Шинийн 1 · Зуны эхэн улаагчин могой с
- ар · 17-р жарны 42 он шар бичин жил
+SUMMARY:Шинийн 1 · Зуны эхэн сар
 DESCRIPTION:Зуны эхэн улаагчин могой сар\n17-р ж
  арны 42 он шар бичин жил
 TRANSP:TRANSPARENT
@@ -1559,8 +1455,7 @@ UID:mongol-mn-no15-2028-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280623
 DTEND;VALUE=DATE:20280624
-SUMMARY:Шинийн 1 · Зуны дунд шар морь сар · 17-р
-  жарны 42 он шар бичин жил
+SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд шар морь сар\n17-р жарны 42 
  он шар бичин жил
 TRANSP:TRANSPARENT
@@ -1570,8 +1465,7 @@ UID:mongol-mn-no15-2028-06-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280723
 DTEND;VALUE=DATE:20280724
-SUMMARY:Шинийн 1 · Зуны сүүл шарагчин хонь са
- р · 17-р жарны 42 он шар бичин жил
+SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл шарагчин хонь сар\n17-р жа
  рны 42 он шар бичин жил
 TRANSP:TRANSPARENT
@@ -1581,8 +1475,7 @@ UID:mongol-mn-no15-2028-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280821
 DTEND;VALUE=DATE:20280822
-SUMMARY:Шинийн 1 · Намрын эхэн цагаан бич сар 
- · 17-р жарны 42 он шар бичин жил
+SUMMARY:Шинийн 1 · Намрын эхэн сар
 DESCRIPTION:Намрын эхэн цагаан бич сар\n17-р жар
  ны 42 он шар бичин жил
 TRANSP:TRANSPARENT
@@ -1592,8 +1485,7 @@ UID:mongol-mn-no15-2028-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280919
 DTEND;VALUE=DATE:20280920
-SUMMARY:Шинийн 1 · Намрын дунд цагаагчин тахи
- а сар · 17-р жарны 42 он шар бичин жил
+SUMMARY:Шинийн 1 · Намрын дунд сар
 DESCRIPTION:Намрын дунд цагаагчин тахиа сар\n17-
  р жарны 42 он шар бичин жил
 TRANSP:TRANSPARENT
@@ -1603,9 +1495,8 @@ UID:mongol-mn-no15-2028-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20281019
 DTEND;VALUE=DATE:20281020
-SUMMARY:Шинийн 2 · Намрын сүүл хар нохой сар (
- шинийн 1 тасарсан) · 17-р жарны 42 он шар бич
- ин жил
+SUMMARY:Шинийн 2 · Намрын сүүл сар (шинийн 1 та
+ сарсан)
 DESCRIPTION:Намрын сүүл хар нохой сар\n17-р жарн
  ы 42 он шар бичин жил
 TRANSP:TRANSPARENT
@@ -1627,8 +1518,7 @@ UID:mongol-mn-no15-2028-10-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20281117
 DTEND;VALUE=DATE:20281118
-SUMMARY:Шинийн 1 · Өвлийн эхэн харагчин гахай
-  сар · 17-р жарны 42 он шар бичин жил
+SUMMARY:Шинийн 1 · Өвлийн эхэн сар
 DESCRIPTION:Өвлийн эхэн харагчин гахай сар\n17-р
   жарны 42 он шар бичин жил
 TRANSP:TRANSPARENT
@@ -1638,8 +1528,7 @@ UID:mongol-mn-no15-2028-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20281216
 DTEND;VALUE=DATE:20281217
-SUMMARY:Шинийн 1 · Өвлийн дунд хөх хулгана са
- р · 17-р жарны 42 он шар бичин жил
+SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд хөх хулгана сар\n17-р жа
  рны 42 он шар бичин жил
 TRANSP:TRANSPARENT
@@ -1649,8 +1538,7 @@ UID:mongol-mn-no15-2028-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290115
 DTEND;VALUE=DATE:20290116
-SUMMARY:Шинийн 1 · Өвлийн сүүл хөхөгчин үхэр 
- сар · 17-р жарны 42 он шар бичин жил
+SUMMARY:Шинийн 1 · Өвлийн сүүл сар
 DESCRIPTION:Өвлийн сүүл хөхөгчин үхэр сар\n17-р 
  жарны 42 он шар бичин жил
 TRANSP:TRANSPARENT
@@ -1669,8 +1557,7 @@ UID:mongol-mn-no15-2029-01-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290214
 DTEND;VALUE=DATE:20290215
-SUMMARY:Шинийн 1 · Хаврын тэргүүн улаан барс 
- сар · 17-р жарны 43 он шарагчин тахиа жил
+SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн улаан барс сар\n17-р 
  жарны 43 он шарагчин тахиа жил
 TRANSP:TRANSPARENT
@@ -1690,8 +1577,7 @@ UID:mongol-mn-no15-2029-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290316
 DTEND;VALUE=DATE:20290317
-SUMMARY:Шинийн 1 · Хаврын дунд улаагчин туула
- й сар · 17-р жарны 43 он шарагчин тахиа жил
+SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд улаагчин туулай сар\n17-
  р жарны 43 он шарагчин тахиа жил
 TRANSP:TRANSPARENT
@@ -1701,8 +1587,7 @@ UID:mongol-mn-no15-2029-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290414
 DTEND;VALUE=DATE:20290415
-SUMMARY:Шинийн 1 · Хаврын сүүл шар луу сар · 17-
- р жарны 43 он шарагчин тахиа жил
+SUMMARY:Шинийн 1 · Хаврын сүүл сар
 DESCRIPTION:Хаврын сүүл шар луу сар\n17-р жарны 43
   он шарагчин тахиа жил
 TRANSP:TRANSPARENT
@@ -1712,8 +1597,7 @@ UID:mongol-mn-no15-2029-04-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290514
 DTEND;VALUE=DATE:20290515
-SUMMARY:Шинийн 1 · Зуны эхэн шарагчин могой с
- ар · 17-р жарны 43 он шарагчин тахиа жил
+SUMMARY:Шинийн 1 · Зуны эхэн сар
 DESCRIPTION:Зуны эхэн шарагчин могой сар\n17-р ж
  арны 43 он шарагчин тахиа жил
 TRANSP:TRANSPARENT
@@ -1734,8 +1618,7 @@ UID:mongol-mn-no15-2029-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290613
 DTEND;VALUE=DATE:20290614
-SUMMARY:Шинийн 1 · Зуны дунд цагаан морь сар ·
-  17-р жарны 43 он шарагчин тахиа жил
+SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд цагаан морь сар\n17-р жарн
  ы 43 он шарагчин тахиа жил
 TRANSP:TRANSPARENT
@@ -1745,8 +1628,7 @@ UID:mongol-mn-no15-2029-06-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290712
 DTEND;VALUE=DATE:20290713
-SUMMARY:Шинийн 1 · Зуны сүүл цагаагчин хонь с
- ар · 17-р жарны 43 он шарагчин тахиа жил
+SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл цагаагчин хонь сар\n17-р ж
  арны 43 он шарагчин тахиа жил
 TRANSP:TRANSPARENT
@@ -1756,8 +1638,7 @@ UID:mongol-mn-no15-2029-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290811
 DTEND;VALUE=DATE:20290812
-SUMMARY:Шинийн 1 · Намрын эхэн хар бич сар · 17-
- р жарны 43 он шарагчин тахиа жил
+SUMMARY:Шинийн 1 · Намрын эхэн сар
 DESCRIPTION:Намрын эхэн хар бич сар\n17-р жарны 43
   он шарагчин тахиа жил
 TRANSP:TRANSPARENT
@@ -1767,8 +1648,7 @@ UID:mongol-mn-no15-2029-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290909
 DTEND;VALUE=DATE:20290910
-SUMMARY:Шинийн 1 · Намрын дунд харагчин тахиа
-  сар · 17-р жарны 43 он шарагчин тахиа жил
+SUMMARY:Шинийн 1 · Намрын дунд сар
 DESCRIPTION:Намрын дунд харагчин тахиа сар\n17-р
   жарны 43 он шарагчин тахиа жил
 TRANSP:TRANSPARENT
@@ -1778,8 +1658,7 @@ UID:mongol-mn-no15-2029-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20291008
 DTEND;VALUE=DATE:20291009
-SUMMARY:Шинийн 1 · Намрын сүүл хөх нохой сар ·
-  17-р жарны 43 он шарагчин тахиа жил
+SUMMARY:Шинийн 1 · Намрын сүүл сар
 DESCRIPTION:Намрын сүүл хөх нохой сар\n17-р жарн
  ы 43 он шарагчин тахиа жил
 TRANSP:TRANSPARENT
@@ -1801,8 +1680,7 @@ UID:mongol-mn-no15-2029-10-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20291107
 DTEND;VALUE=DATE:20291108
-SUMMARY:Шинийн 1 · Өвлийн эхэн хөхөгчин гахай
-  сар · 17-р жарны 43 он шарагчин тахиа жил
+SUMMARY:Шинийн 1 · Өвлийн эхэн сар
 DESCRIPTION:Өвлийн эхэн хөхөгчин гахай сар\n17-р
   жарны 43 он шарагчин тахиа жил
 TRANSP:TRANSPARENT
@@ -1812,8 +1690,7 @@ UID:mongol-mn-no15-2029-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20291206
 DTEND;VALUE=DATE:20291207
-SUMMARY:Шинийн 1 · Өвлийн дунд улаан хулгана 
- сар · 17-р жарны 43 он шарагчин тахиа жил
+SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд улаан хулгана сар\n17-р 
  жарны 43 он шарагчин тахиа жил
 TRANSP:TRANSPARENT
@@ -1823,9 +1700,8 @@ UID:mongol-mn-no15-2029-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300105
 DTEND;VALUE=DATE:20300106
-SUMMARY:Шинийн 2 · Өвлийн сүүл улаагчин үхэр 
- сар (шинийн 1 тасарсан) · 17-р жарны 43 он ша
- рагчин тахиа жил
+SUMMARY:Шинийн 2 · Өвлийн сүүл сар (шинийн 1 та
+ сарсан)
 DESCRIPTION:Өвлийн сүүл улаагчин үхэр сар\n17-р 
  жарны 43 он шарагчин тахиа жил
 TRANSP:TRANSPARENT
@@ -1844,8 +1720,7 @@ UID:mongol-mn-no15-2030-01-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300203
 DTEND;VALUE=DATE:20300204
-SUMMARY:Шинийн 1 · Хаврын тэргүүн шар барс са
- р · 17-р жарны 44 он цагаан нохой жил
+SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн шар барс сар\n17-р жа
  рны 44 он цагаан нохой жил
 TRANSP:TRANSPARENT
@@ -1865,8 +1740,7 @@ UID:mongol-mn-no15-2030-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300305
 DTEND;VALUE=DATE:20300306
-SUMMARY:Шинийн 1 · Хаврын дунд шарагчин туула
- й сар · 17-р жарны 44 он цагаан нохой жил
+SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд шарагчин туулай сар\n17-
  р жарны 44 он цагаан нохой жил
 TRANSP:TRANSPARENT
@@ -1876,8 +1750,7 @@ UID:mongol-mn-no15-2030-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300403
 DTEND;VALUE=DATE:20300404
-SUMMARY:Шинийн 1 · Хаврын сүүл цагаан луу сар 
- · 17-р жарны 44 он цагаан нохой жил
+SUMMARY:Шинийн 1 · Хаврын сүүл сар
 DESCRIPTION:Хаврын сүүл цагаан луу сар\n17-р жар
  ны 44 он цагаан нохой жил
 TRANSP:TRANSPARENT
@@ -1887,8 +1760,7 @@ UID:mongol-mn-no15-2030-04-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300503
 DTEND;VALUE=DATE:20300504
-SUMMARY:Шинийн 1 · Зуны эхэн цагаагчин могой 
- сар · 17-р жарны 44 он цагаан нохой жил
+SUMMARY:Шинийн 1 · Зуны эхэн сар
 DESCRIPTION:Зуны эхэн цагаагчин могой сар\n17-р 
  жарны 44 он цагаан нохой жил
 TRANSP:TRANSPARENT
@@ -1909,8 +1781,7 @@ UID:mongol-mn-no15-2030-05L-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300602
 DTEND;VALUE=DATE:20300603
-SUMMARY:Шинийн 1 · Зуны дунд (илүү) хар морь са
- р · 17-р жарны 44 он цагаан нохой жил
+SUMMARY:Шинийн 1 · Зуны дунд (илүү) сар
 DESCRIPTION:Зуны дунд (илүү) хар морь сар\n17-р жа
  рны 44 он цагаан нохой жил
 TRANSP:TRANSPARENT
@@ -1920,8 +1791,7 @@ UID:mongol-mn-no15-2030-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300701
 DTEND;VALUE=DATE:20300702
-SUMMARY:Шинийн 1 · Зуны дунд хар морь сар · 17-р
-  жарны 44 он цагаан нохой жил
+SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд хар морь сар\n17-р жарны 44 
  он цагаан нохой жил
 TRANSP:TRANSPARENT
@@ -1931,8 +1801,7 @@ UID:mongol-mn-no15-2030-06-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300731
 DTEND;VALUE=DATE:20300801
-SUMMARY:Шинийн 1 · Зуны сүүл харагчин хонь са
- р · 17-р жарны 44 он цагаан нохой жил
+SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл харагчин хонь сар\n17-р жа
  рны 44 он цагаан нохой жил
 TRANSP:TRANSPARENT
@@ -1942,8 +1811,7 @@ UID:mongol-mn-no15-2030-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300829
 DTEND;VALUE=DATE:20300830
-SUMMARY:Шинийн 1 · Намрын эхэн хөх бич сар · 17-
- р жарны 44 он цагаан нохой жил
+SUMMARY:Шинийн 1 · Намрын эхэн сар
 DESCRIPTION:Намрын эхэн хөх бич сар\n17-р жарны 44
   он цагаан нохой жил
 TRANSP:TRANSPARENT
@@ -1953,8 +1821,7 @@ UID:mongol-mn-no15-2030-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300928
 DTEND;VALUE=DATE:20300929
-SUMMARY:Шинийн 1 · Намрын дунд хөхөгчин тахиа
-  сар · 17-р жарны 44 он цагаан нохой жил
+SUMMARY:Шинийн 1 · Намрын дунд сар
 DESCRIPTION:Намрын дунд хөхөгчин тахиа сар\n17-р
   жарны 44 он цагаан нохой жил
 TRANSP:TRANSPARENT
@@ -1964,8 +1831,7 @@ UID:mongol-mn-no15-2030-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20301027
 DTEND;VALUE=DATE:20301028
-SUMMARY:Шинийн 1 · Намрын сүүл улаан нохой са
- р · 17-р жарны 44 он цагаан нохой жил
+SUMMARY:Шинийн 1 · Намрын сүүл сар
 DESCRIPTION:Намрын сүүл улаан нохой сар\n17-р жа
  рны 44 он цагаан нохой жил
 TRANSP:TRANSPARENT
@@ -1987,8 +1853,7 @@ UID:mongol-mn-no15-2030-10-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20301126
 DTEND;VALUE=DATE:20301127
-SUMMARY:Шинийн 1 · Өвлийн эхэн улаагчин гахай
-  сар · 17-р жарны 44 он цагаан нохой жил
+SUMMARY:Шинийн 1 · Өвлийн эхэн сар
 DESCRIPTION:Өвлийн эхэн улаагчин гахай сар\n17-р
   жарны 44 он цагаан нохой жил
 TRANSP:TRANSPARENT
@@ -1998,8 +1863,7 @@ UID:mongol-mn-no15-2030-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20301225
 DTEND;VALUE=DATE:20301226
-SUMMARY:Шинийн 1 · Өвлийн дунд шар хулгана са
- р · 17-р жарны 44 он цагаан нохой жил
+SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд шар хулгана сар\n17-р жа
  рны 44 он цагаан нохой жил
 TRANSP:TRANSPARENT
@@ -2009,8 +1873,7 @@ UID:mongol-mn-no15-2030-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310124
 DTEND;VALUE=DATE:20310125
-SUMMARY:Шинийн 1 · Өвлийн сүүл шарагчин үхэр 
- сар · 17-р жарны 44 он цагаан нохой жил
+SUMMARY:Шинийн 1 · Өвлийн сүүл сар
 DESCRIPTION:Өвлийн сүүл шарагчин үхэр сар\n17-р 
  жарны 44 он цагаан нохой жил
 TRANSP:TRANSPARENT
@@ -2029,8 +1892,7 @@ UID:mongol-mn-no15-2031-01-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310222
 DTEND;VALUE=DATE:20310223
-SUMMARY:Шинийн 1 · Хаврын тэргүүн цагаан барс
-  сар · 17-р жарны 45 он цагаагчин гахай жил
+SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн цагаан барс сар\n17-р
   жарны 45 он цагаагчин гахай жил
 TRANSP:TRANSPARENT
@@ -2050,9 +1912,7 @@ UID:mongol-mn-no15-2031-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310324
 DTEND;VALUE=DATE:20310325
-SUMMARY:Шинийн 1 · Хаврын дунд цагаагчин туул
- ай сар · 17-р жарны 45 он цагаагчин гахай жи
- л
+SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд цагаагчин туулай сар\n1
  7-р жарны 45 он цагаагчин гахай жил
 TRANSP:TRANSPARENT
@@ -2062,8 +1922,7 @@ UID:mongol-mn-no15-2031-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310422
 DTEND;VALUE=DATE:20310423
-SUMMARY:Шинийн 1 · Хаврын сүүл хар луу сар · 17-
- р жарны 45 он цагаагчин гахай жил
+SUMMARY:Шинийн 1 · Хаврын сүүл сар
 DESCRIPTION:Хаврын сүүл хар луу сар\n17-р жарны 45
   он цагаагчин гахай жил
 TRANSP:TRANSPARENT
@@ -2073,8 +1932,7 @@ UID:mongol-mn-no15-2031-04-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310522
 DTEND;VALUE=DATE:20310523
-SUMMARY:Шинийн 1 · Зуны эхэн харагчин могой с
- ар · 17-р жарны 45 он цагаагчин гахай жил
+SUMMARY:Шинийн 1 · Зуны эхэн сар
 DESCRIPTION:Зуны эхэн харагчин могой сар\n17-р ж
  арны 45 он цагаагчин гахай жил
 TRANSP:TRANSPARENT
@@ -2095,8 +1953,7 @@ UID:mongol-mn-no15-2031-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310620
 DTEND;VALUE=DATE:20310621
-SUMMARY:Шинийн 1 · Зуны дунд хөх морь сар · 17-р
-  жарны 45 он цагаагчин гахай жил
+SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд хөх морь сар\n17-р жарны 45 
  он цагаагчин гахай жил
 TRANSP:TRANSPARENT
@@ -2106,8 +1963,7 @@ UID:mongol-mn-no15-2031-06-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310720
 DTEND;VALUE=DATE:20310721
-SUMMARY:Шинийн 1 · Зуны сүүл хөхөгчин хонь са
- р · 17-р жарны 45 он цагаагчин гахай жил
+SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл хөхөгчин хонь сар\n17-р жа
  рны 45 он цагаагчин гахай жил
 TRANSP:TRANSPARENT
@@ -2117,8 +1973,7 @@ UID:mongol-mn-no15-2031-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310819
 DTEND;VALUE=DATE:20310820
-SUMMARY:Шинийн 1 · Намрын эхэн улаан бич сар ·
-  17-р жарны 45 он цагаагчин гахай жил
+SUMMARY:Шинийн 1 · Намрын эхэн сар
 DESCRIPTION:Намрын эхэн улаан бич сар\n17-р жарн
  ы 45 он цагаагчин гахай жил
 TRANSP:TRANSPARENT
@@ -2128,8 +1983,7 @@ UID:mongol-mn-no15-2031-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310917
 DTEND;VALUE=DATE:20310918
-SUMMARY:Шинийн 1 · Намрын дунд улаагчин тахиа
-  сар · 17-р жарны 45 он цагаагчин гахай жил
+SUMMARY:Шинийн 1 · Намрын дунд сар
 DESCRIPTION:Намрын дунд улаагчин тахиа сар\n17-р
   жарны 45 он цагаагчин гахай жил
 TRANSP:TRANSPARENT
@@ -2139,8 +1993,7 @@ UID:mongol-mn-no15-2031-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20311017
 DTEND;VALUE=DATE:20311018
-SUMMARY:Шинийн 1 · Намрын сүүл шар нохой сар ·
-  17-р жарны 45 он цагаагчин гахай жил
+SUMMARY:Шинийн 1 · Намрын сүүл сар
 DESCRIPTION:Намрын сүүл шар нохой сар\n17-р жарн
  ы 45 он цагаагчин гахай жил
 TRANSP:TRANSPARENT
@@ -2162,8 +2015,7 @@ UID:mongol-mn-no15-2031-10-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20311115
 DTEND;VALUE=DATE:20311116
-SUMMARY:Шинийн 1 · Өвлийн эхэн шарагчин гахай
-  сар · 17-р жарны 45 он цагаагчин гахай жил
+SUMMARY:Шинийн 1 · Өвлийн эхэн сар
 DESCRIPTION:Өвлийн эхэн шарагчин гахай сар\n17-р
   жарны 45 он цагаагчин гахай жил
 TRANSP:TRANSPARENT
@@ -2173,8 +2025,7 @@ UID:mongol-mn-no15-2031-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20311215
 DTEND;VALUE=DATE:20311216
-SUMMARY:Шинийн 1 · Өвлийн дунд цагаан хулгана
-  сар · 17-р жарны 45 он цагаагчин гахай жил
+SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд цагаан хулгана сар\n17-р
   жарны 45 он цагаагчин гахай жил
 TRANSP:TRANSPARENT
@@ -2184,8 +2035,7 @@ UID:mongol-mn-no15-2031-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320113
 DTEND;VALUE=DATE:20320114
-SUMMARY:Шинийн 1 · Өвлийн сүүл цагаагчин үхэр
-  сар · 17-р жарны 45 он цагаагчин гахай жил
+SUMMARY:Шинийн 1 · Өвлийн сүүл сар
 DESCRIPTION:Өвлийн сүүл цагаагчин үхэр сар\n17-р
   жарны 45 он цагаагчин гахай жил
 TRANSP:TRANSPARENT
@@ -2204,8 +2054,7 @@ UID:mongol-mn-no15-2032-01-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320212
 DTEND;VALUE=DATE:20320213
-SUMMARY:Шинийн 1 · Хаврын тэргүүн хар барс са
- р · 17-р жарны 46 он хар хулгана жил
+SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн хар барс сар\n17-р жа
  рны 46 он хар хулгана жил
 TRANSP:TRANSPARENT
@@ -2225,8 +2074,7 @@ UID:mongol-mn-no15-2032-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320312
 DTEND;VALUE=DATE:20320313
-SUMMARY:Шинийн 1 · Хаврын дунд харагчин туула
- й сар · 17-р жарны 46 он хар хулгана жил
+SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд харагчин туулай сар\n17-
  р жарны 46 он хар хулгана жил
 TRANSP:TRANSPARENT
@@ -2236,8 +2084,7 @@ UID:mongol-mn-no15-2032-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320411
 DTEND;VALUE=DATE:20320412
-SUMMARY:Шинийн 1 · Хаврын сүүл хөх луу сар · 17-
- р жарны 46 он хар хулгана жил
+SUMMARY:Шинийн 1 · Хаврын сүүл сар
 DESCRIPTION:Хаврын сүүл хөх луу сар\n17-р жарны 46
   он хар хулгана жил
 TRANSP:TRANSPARENT
@@ -2247,8 +2094,7 @@ UID:mongol-mn-no15-2032-04-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320510
 DTEND;VALUE=DATE:20320511
-SUMMARY:Шинийн 1 · Зуны эхэн хөхөгчин могой с
- ар · 17-р жарны 46 он хар хулгана жил
+SUMMARY:Шинийн 1 · Зуны эхэн сар
 DESCRIPTION:Зуны эхэн хөхөгчин могой сар\n17-р ж
  арны 46 он хар хулгана жил
 TRANSP:TRANSPARENT
@@ -2269,8 +2115,7 @@ UID:mongol-mn-no15-2032-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320609
 DTEND;VALUE=DATE:20320610
-SUMMARY:Шинийн 1 · Зуны дунд улаан морь сар · 1
- 7-р жарны 46 он хар хулгана жил
+SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд улаан морь сар\n17-р жарны 
  46 он хар хулгана жил
 TRANSP:TRANSPARENT
@@ -2280,8 +2125,7 @@ UID:mongol-mn-no15-2032-06-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320708
 DTEND;VALUE=DATE:20320709
-SUMMARY:Шинийн 1 · Зуны сүүл улаагчин хонь са
- р · 17-р жарны 46 он хар хулгана жил
+SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл улаагчин хонь сар\n17-р жа
  рны 46 он хар хулгана жил
 TRANSP:TRANSPARENT
@@ -2291,8 +2135,7 @@ UID:mongol-mn-no15-2032-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320807
 DTEND;VALUE=DATE:20320808
-SUMMARY:Шинийн 1 · Намрын эхэн шар бич сар · 17-
- р жарны 46 он хар хулгана жил
+SUMMARY:Шинийн 1 · Намрын эхэн сар
 DESCRIPTION:Намрын эхэн шар бич сар\n17-р жарны 46
   он хар хулгана жил
 TRANSP:TRANSPARENT
@@ -2302,8 +2145,7 @@ UID:mongol-mn-no15-2032-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320905
 DTEND;VALUE=DATE:20320906
-SUMMARY:Шинийн 1 · Намрын дунд шарагчин тахиа
-  сар · 17-р жарны 46 он хар хулгана жил
+SUMMARY:Шинийн 1 · Намрын дунд сар
 DESCRIPTION:Намрын дунд шарагчин тахиа сар\n17-р
   жарны 46 он хар хулгана жил
 TRANSP:TRANSPARENT
@@ -2313,8 +2155,7 @@ UID:mongol-mn-no15-2032-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20321005
 DTEND;VALUE=DATE:20321006
-SUMMARY:Шинийн 1 · Намрын сүүл цагаан нохой с
- ар · 17-р жарны 46 он хар хулгана жил
+SUMMARY:Шинийн 1 · Намрын сүүл сар
 DESCRIPTION:Намрын сүүл цагаан нохой сар\n17-р ж
  арны 46 он хар хулгана жил
 TRANSP:TRANSPARENT
@@ -2336,8 +2177,7 @@ UID:mongol-mn-no15-2032-10-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20321104
 DTEND;VALUE=DATE:20321105
-SUMMARY:Шинийн 1 · Өвлийн эхэн цагаагчин гаха
- й сар · 17-р жарны 46 он хар хулгана жил
+SUMMARY:Шинийн 1 · Өвлийн эхэн сар
 DESCRIPTION:Өвлийн эхэн цагаагчин гахай сар\n17-
  р жарны 46 он хар хулгана жил
 TRANSP:TRANSPARENT
@@ -2347,8 +2187,7 @@ UID:mongol-mn-no15-2032-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20321203
 DTEND;VALUE=DATE:20321204
-SUMMARY:Шинийн 1 · Өвлийн дунд хар хулгана са
- р · 17-р жарны 46 он хар хулгана жил
+SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд хар хулгана сар\n17-р жа
  рны 46 он хар хулгана жил
 TRANSP:TRANSPARENT
@@ -2358,8 +2197,7 @@ UID:mongol-mn-no15-2032-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330102
 DTEND;VALUE=DATE:20330103
-SUMMARY:Шинийн 1 · Өвлийн сүүл харагчин үхэр 
- сар · 17-р жарны 46 он хар хулгана жил
+SUMMARY:Шинийн 1 · Өвлийн сүүл сар
 DESCRIPTION:Өвлийн сүүл харагчин үхэр сар\n17-р 
  жарны 46 он хар хулгана жил
 TRANSP:TRANSPARENT
@@ -2378,8 +2216,7 @@ UID:mongol-mn-no15-2033-01-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330131
 DTEND;VALUE=DATE:20330201
-SUMMARY:Шинийн 1 · Хаврын тэргүүн хөх барс са
- р · 17-р жарны 47 он харагчин үхэр жил
+SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн хөх барс сар\n17-р жа
  рны 47 он харагчин үхэр жил
 TRANSP:TRANSPARENT
@@ -2399,9 +2236,7 @@ UID:mongol-mn-no15-2033-02L-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330302
 DTEND;VALUE=DATE:20330303
-SUMMARY:Шинийн 1 · Хаврын дунд (илүү) хөхөгчин
-  туулай сар · 17-р жарны 47 он харагчин үхэр
-  жил
+SUMMARY:Шинийн 1 · Хаврын дунд (илүү) сар
 DESCRIPTION:Хаврын дунд (илүү) хөхөгчин туулай 
  сар\n17-р жарны 47 он харагчин үхэр жил
 TRANSP:TRANSPARENT
@@ -2411,8 +2246,7 @@ UID:mongol-mn-no15-2033-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330331
 DTEND;VALUE=DATE:20330401
-SUMMARY:Шинийн 1 · Хаврын дунд хөхөгчин туула
- й сар · 17-р жарны 47 он харагчин үхэр жил
+SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд хөхөгчин туулай сар\n17-
  р жарны 47 он харагчин үхэр жил
 TRANSP:TRANSPARENT
@@ -2422,8 +2256,7 @@ UID:mongol-mn-no15-2033-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330430
 DTEND;VALUE=DATE:20330501
-SUMMARY:Шинийн 1 · Хаврын сүүл улаан луу сар ·
-  17-р жарны 47 он харагчин үхэр жил
+SUMMARY:Шинийн 1 · Хаврын сүүл сар
 DESCRIPTION:Хаврын сүүл улаан луу сар\n17-р жарн
  ы 47 он харагчин үхэр жил
 TRANSP:TRANSPARENT
@@ -2433,8 +2266,7 @@ UID:mongol-mn-no15-2033-04-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330529
 DTEND;VALUE=DATE:20330530
-SUMMARY:Шинийн 1 · Зуны эхэн улаагчин могой с
- ар · 17-р жарны 47 он харагчин үхэр жил
+SUMMARY:Шинийн 1 · Зуны эхэн сар
 DESCRIPTION:Зуны эхэн улаагчин могой сар\n17-р ж
  арны 47 он харагчин үхэр жил
 TRANSP:TRANSPARENT
@@ -2455,8 +2287,7 @@ UID:mongol-mn-no15-2033-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330627
 DTEND;VALUE=DATE:20330628
-SUMMARY:Шинийн 1 · Зуны дунд шар морь сар · 17-р
-  жарны 47 он харагчин үхэр жил
+SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд шар морь сар\n17-р жарны 47 
  он харагчин үхэр жил
 TRANSP:TRANSPARENT
@@ -2466,8 +2297,7 @@ UID:mongol-mn-no15-2033-06-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330727
 DTEND;VALUE=DATE:20330728
-SUMMARY:Шинийн 1 · Зуны сүүл шарагчин хонь са
- р · 17-р жарны 47 он харагчин үхэр жил
+SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл шарагчин хонь сар\n17-р жа
  рны 47 он харагчин үхэр жил
 TRANSP:TRANSPARENT
@@ -2477,8 +2307,7 @@ UID:mongol-mn-no15-2033-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330825
 DTEND;VALUE=DATE:20330826
-SUMMARY:Шинийн 1 · Намрын эхэн цагаан бич сар 
- · 17-р жарны 47 он харагчин үхэр жил
+SUMMARY:Шинийн 1 · Намрын эхэн сар
 DESCRIPTION:Намрын эхэн цагаан бич сар\n17-р жар
  ны 47 он харагчин үхэр жил
 TRANSP:TRANSPARENT
@@ -2488,8 +2317,7 @@ UID:mongol-mn-no15-2033-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330924
 DTEND;VALUE=DATE:20330925
-SUMMARY:Шинийн 1 · Намрын дунд цагаагчин тахи
- а сар · 17-р жарны 47 он харагчин үхэр жил
+SUMMARY:Шинийн 1 · Намрын дунд сар
 DESCRIPTION:Намрын дунд цагаагчин тахиа сар\n17-
  р жарны 47 он харагчин үхэр жил
 TRANSP:TRANSPARENT
@@ -2499,8 +2327,7 @@ UID:mongol-mn-no15-2033-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20331024
 DTEND;VALUE=DATE:20331025
-SUMMARY:Шинийн 1 · Намрын сүүл хар нохой сар ·
-  17-р жарны 47 он харагчин үхэр жил
+SUMMARY:Шинийн 1 · Намрын сүүл сар
 DESCRIPTION:Намрын сүүл хар нохой сар\n17-р жарн
  ы 47 он харагчин үхэр жил
 TRANSP:TRANSPARENT
@@ -2522,8 +2349,7 @@ UID:mongol-mn-no15-2033-10-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20331122
 DTEND;VALUE=DATE:20331123
-SUMMARY:Шинийн 1 · Өвлийн эхэн харагчин гахай
-  сар · 17-р жарны 47 он харагчин үхэр жил
+SUMMARY:Шинийн 1 · Өвлийн эхэн сар
 DESCRIPTION:Өвлийн эхэн харагчин гахай сар\n17-р
   жарны 47 он харагчин үхэр жил
 TRANSP:TRANSPARENT
@@ -2533,8 +2359,7 @@ UID:mongol-mn-no15-2033-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20331222
 DTEND;VALUE=DATE:20331223
-SUMMARY:Шинийн 1 · Өвлийн дунд хөх хулгана са
- р · 17-р жарны 47 он харагчин үхэр жил
+SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд хөх хулгана сар\n17-р жа
  рны 47 он харагчин үхэр жил
 TRANSP:TRANSPARENT
@@ -2544,8 +2369,7 @@ UID:mongol-mn-no15-2033-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340121
 DTEND;VALUE=DATE:20340122
-SUMMARY:Шинийн 1 · Өвлийн сүүл хөхөгчин үхэр 
- сар · 17-р жарны 47 он харагчин үхэр жил
+SUMMARY:Шинийн 1 · Өвлийн сүүл сар
 DESCRIPTION:Өвлийн сүүл хөхөгчин үхэр сар\n17-р 
  жарны 47 он харагчин үхэр жил
 TRANSP:TRANSPARENT
@@ -2564,8 +2388,7 @@ UID:mongol-mn-no15-2034-01-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340219
 DTEND;VALUE=DATE:20340220
-SUMMARY:Шинийн 1 · Хаврын тэргүүн улаан барс 
- сар · 17-р жарны 48 он хөх бар жил
+SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн улаан барс сар\n17-р 
  жарны 48 он хөх бар жил
 TRANSP:TRANSPARENT
@@ -2585,8 +2408,7 @@ UID:mongol-mn-no15-2034-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340321
 DTEND;VALUE=DATE:20340322
-SUMMARY:Шинийн 1 · Хаврын дунд улаагчин туула
- й сар · 17-р жарны 48 он хөх бар жил
+SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд улаагчин туулай сар\n17-
  р жарны 48 он хөх бар жил
 TRANSP:TRANSPARENT
@@ -2596,8 +2418,7 @@ UID:mongol-mn-no15-2034-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340419
 DTEND;VALUE=DATE:20340420
-SUMMARY:Шинийн 1 · Хаврын сүүл шар луу сар · 17-
- р жарны 48 он хөх бар жил
+SUMMARY:Шинийн 1 · Хаврын сүүл сар
 DESCRIPTION:Хаврын сүүл шар луу сар\n17-р жарны 48
   он хөх бар жил
 TRANSP:TRANSPARENT
@@ -2607,8 +2428,7 @@ UID:mongol-mn-no15-2034-04-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340519
 DTEND;VALUE=DATE:20340520
-SUMMARY:Шинийн 1 · Зуны эхэн шарагчин могой с
- ар · 17-р жарны 48 он хөх бар жил
+SUMMARY:Шинийн 1 · Зуны эхэн сар
 DESCRIPTION:Зуны эхэн шарагчин могой сар\n17-р ж
  арны 48 он хөх бар жил
 TRANSP:TRANSPARENT
@@ -2641,8 +2461,7 @@ UID:mongol-mn-no15-2034-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340617
 DTEND;VALUE=DATE:20340618
-SUMMARY:Шинийн 1 · Зуны дунд цагаан морь сар ·
-  17-р жарны 48 он хөх бар жил
+SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд цагаан морь сар\n17-р жарн
  ы 48 он хөх бар жил
 TRANSP:TRANSPARENT
@@ -2652,8 +2471,7 @@ UID:mongol-mn-no15-2034-06-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340716
 DTEND;VALUE=DATE:20340717
-SUMMARY:Шинийн 1 · Зуны сүүл цагаагчин хонь с
- ар · 17-р жарны 48 он хөх бар жил
+SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл цагаагчин хонь сар\n17-р ж
  арны 48 он хөх бар жил
 TRANSP:TRANSPARENT
@@ -2663,8 +2481,7 @@ UID:mongol-mn-no15-2034-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340815
 DTEND;VALUE=DATE:20340816
-SUMMARY:Шинийн 1 · Намрын эхэн хар бич сар · 17-
- р жарны 48 он хөх бар жил
+SUMMARY:Шинийн 1 · Намрын эхэн сар
 DESCRIPTION:Намрын эхэн хар бич сар\n17-р жарны 48
   он хөх бар жил
 TRANSP:TRANSPARENT
@@ -2674,8 +2491,7 @@ UID:mongol-mn-no15-2034-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340913
 DTEND;VALUE=DATE:20340914
-SUMMARY:Шинийн 1 · Намрын дунд харагчин тахиа
-  сар · 17-р жарны 48 он хөх бар жил
+SUMMARY:Шинийн 1 · Намрын дунд сар
 DESCRIPTION:Намрын дунд харагчин тахиа сар\n17-р
   жарны 48 он хөх бар жил
 TRANSP:TRANSPARENT
@@ -2685,8 +2501,7 @@ UID:mongol-mn-no15-2034-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20341013
 DTEND;VALUE=DATE:20341014
-SUMMARY:Шинийн 1 · Намрын сүүл хөх нохой сар ·
-  17-р жарны 48 он хөх бар жил
+SUMMARY:Шинийн 1 · Намрын сүүл сар
 DESCRIPTION:Намрын сүүл хөх нохой сар\n17-р жарн
  ы 48 он хөх бар жил
 TRANSP:TRANSPARENT
@@ -2708,8 +2523,7 @@ UID:mongol-mn-no15-2034-10-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20341111
 DTEND;VALUE=DATE:20341112
-SUMMARY:Шинийн 1 · Өвлийн эхэн хөхөгчин гахай
-  сар · 17-р жарны 48 он хөх бар жил
+SUMMARY:Шинийн 1 · Өвлийн эхэн сар
 DESCRIPTION:Өвлийн эхэн хөхөгчин гахай сар\n17-р
   жарны 48 он хөх бар жил
 TRANSP:TRANSPARENT
@@ -2719,8 +2533,7 @@ UID:mongol-mn-no15-2034-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20341211
 DTEND;VALUE=DATE:20341212
-SUMMARY:Шинийн 1 · Өвлийн дунд улаан хулгана 
- сар · 17-р жарны 48 он хөх бар жил
+SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд улаан хулгана сар\n17-р 
  жарны 48 он хөх бар жил
 TRANSP:TRANSPARENT
@@ -2730,8 +2543,7 @@ UID:mongol-mn-no15-2034-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350110
 DTEND;VALUE=DATE:20350111
-SUMMARY:Шинийн 1 · Өвлийн сүүл улаагчин үхэр 
- сар · 17-р жарны 48 он хөх бар жил
+SUMMARY:Шинийн 1 · Өвлийн сүүл сар
 DESCRIPTION:Өвлийн сүүл улаагчин үхэр сар\n17-р 
  жарны 48 он хөх бар жил
 TRANSP:TRANSPARENT
@@ -2750,8 +2562,7 @@ UID:mongol-mn-no15-2035-01-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350209
 DTEND;VALUE=DATE:20350210
-SUMMARY:Шинийн 1 · Хаврын тэргүүн шар барс са
- р · 17-р жарны 49 он хөхөгчин туулай жил
+SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн шар барс сар\n17-р жа
  рны 49 он хөхөгчин туулай жил
 TRANSP:TRANSPARENT
@@ -2771,8 +2582,7 @@ UID:mongol-mn-no15-2035-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350310
 DTEND;VALUE=DATE:20350311
-SUMMARY:Шинийн 1 · Хаврын дунд шарагчин туула
- й сар · 17-р жарны 49 он хөхөгчин туулай жил
+SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд шарагчин туулай сар\n17-
  р жарны 49 он хөхөгчин туулай жил
 TRANSP:TRANSPARENT
@@ -2782,8 +2592,7 @@ UID:mongol-mn-no15-2035-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350409
 DTEND;VALUE=DATE:20350410
-SUMMARY:Шинийн 1 · Хаврын сүүл цагаан луу сар 
- · 17-р жарны 49 он хөхөгчин туулай жил
+SUMMARY:Шинийн 1 · Хаврын сүүл сар
 DESCRIPTION:Хаврын сүүл цагаан луу сар\n17-р жар
  ны 49 он хөхөгчин туулай жил
 TRANSP:TRANSPARENT
@@ -2793,8 +2602,7 @@ UID:mongol-mn-no15-2035-04-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350508
 DTEND;VALUE=DATE:20350509
-SUMMARY:Шинийн 1 · Зуны эхэн цагаагчин могой 
- сар · 17-р жарны 49 он хөхөгчин туулай жил
+SUMMARY:Шинийн 1 · Зуны эхэн сар
 DESCRIPTION:Зуны эхэн цагаагчин могой сар\n17-р 
  жарны 49 он хөхөгчин туулай жил
 TRANSP:TRANSPARENT
@@ -2815,8 +2623,7 @@ UID:mongol-mn-no15-2035-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350607
 DTEND;VALUE=DATE:20350608
-SUMMARY:Шинийн 1 · Зуны дунд хар морь сар · 17-р
-  жарны 49 он хөхөгчин туулай жил
+SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд хар морь сар\n17-р жарны 49 
  он хөхөгчин туулай жил
 TRANSP:TRANSPARENT
@@ -2826,8 +2633,7 @@ UID:mongol-mn-no15-2035-06-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350706
 DTEND;VALUE=DATE:20350707
-SUMMARY:Шинийн 1 · Зуны сүүл харагчин хонь са
- р · 17-р жарны 49 он хөхөгчин туулай жил
+SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл харагчин хонь сар\n17-р жа
  рны 49 он хөхөгчин туулай жил
 TRANSP:TRANSPARENT
@@ -2837,8 +2643,7 @@ UID:mongol-mn-no15-2035-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350804
 DTEND;VALUE=DATE:20350805
-SUMMARY:Шинийн 1 · Намрын эхэн хөх бич сар · 17-
- р жарны 49 он хөхөгчин туулай жил
+SUMMARY:Шинийн 1 · Намрын эхэн сар
 DESCRIPTION:Намрын эхэн хөх бич сар\n17-р жарны 49
   он хөхөгчин туулай жил
 TRANSP:TRANSPARENT
@@ -2848,9 +2653,8 @@ UID:mongol-mn-no15-2035-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350903
 DTEND;VALUE=DATE:20350904
-SUMMARY:Шинийн 2 · Намрын дунд хөхөгчин тахиа
-  сар (шинийн 1 тасарсан) · 17-р жарны 49 он хө
- хөгчин туулай жил
+SUMMARY:Шинийн 2 · Намрын дунд сар (шинийн 1 та
+ сарсан)
 DESCRIPTION:Намрын дунд хөхөгчин тахиа сар\n17-р
   жарны 49 он хөхөгчин туулай жил
 TRANSP:TRANSPARENT
@@ -2860,8 +2664,7 @@ UID:mongol-mn-no15-2035-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20351002
 DTEND;VALUE=DATE:20351003
-SUMMARY:Шинийн 1 · Намрын сүүл улаан нохой са
- р · 17-р жарны 49 он хөхөгчин туулай жил
+SUMMARY:Шинийн 1 · Намрын сүүл сар
 DESCRIPTION:Намрын сүүл улаан нохой сар\n17-р жа
  рны 49 он хөхөгчин туулай жил
 TRANSP:TRANSPARENT
@@ -2871,9 +2674,7 @@ UID:mongol-mn-no15-2035-10L-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20351101
 DTEND;VALUE=DATE:20351102
-SUMMARY:Шинийн 1 · Өвлийн эхэн (илүү) улаагчин
-  гахай сар · 17-р жарны 49 он хөхөгчин туула
- й жил
+SUMMARY:Шинийн 1 · Өвлийн эхэн (илүү) сар
 DESCRIPTION:Өвлийн эхэн (илүү) улаагчин гахай с
  ар\n17-р жарны 49 он хөхөгчин туулай жил
 TRANSP:TRANSPARENT
@@ -2895,8 +2696,7 @@ UID:mongol-mn-no15-2035-10-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20351130
 DTEND;VALUE=DATE:20351201
-SUMMARY:Шинийн 1 · Өвлийн эхэн улаагчин гахай
-  сар · 17-р жарны 49 он хөхөгчин туулай жил
+SUMMARY:Шинийн 1 · Өвлийн эхэн сар
 DESCRIPTION:Өвлийн эхэн улаагчин гахай сар\n17-р
   жарны 49 он хөхөгчин туулай жил
 TRANSP:TRANSPARENT
@@ -2906,8 +2706,7 @@ UID:mongol-mn-no15-2035-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20351230
 DTEND;VALUE=DATE:20351231
-SUMMARY:Шинийн 1 · Өвлийн дунд шар хулгана са
- р · 17-р жарны 49 он хөхөгчин туулай жил
+SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд шар хулгана сар\n17-р жа
  рны 49 он хөхөгчин туулай жил
 TRANSP:TRANSPARENT
@@ -2917,8 +2716,7 @@ UID:mongol-mn-no15-2035-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360129
 DTEND;VALUE=DATE:20360130
-SUMMARY:Шинийн 1 · Өвлийн сүүл шарагчин үхэр 
- сар · 17-р жарны 49 он хөхөгчин туулай жил
+SUMMARY:Шинийн 1 · Өвлийн сүүл сар
 DESCRIPTION:Өвлийн сүүл шарагчин үхэр сар\n17-р 
  жарны 49 он хөхөгчин туулай жил
 TRANSP:TRANSPARENT
@@ -2937,8 +2735,7 @@ UID:mongol-mn-no15-2036-01-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360228
 DTEND;VALUE=DATE:20360229
-SUMMARY:Шинийн 1 · Хаврын тэргүүн цагаан барс
-  сар · 17-р жарны 50 он улаан луу жил
+SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн цагаан барс сар\n17-р
   жарны 50 он улаан луу жил
 TRANSP:TRANSPARENT
@@ -2958,8 +2755,7 @@ UID:mongol-mn-no15-2036-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360328
 DTEND;VALUE=DATE:20360329
-SUMMARY:Шинийн 1 · Хаврын дунд цагаагчин туул
- ай сар · 17-р жарны 50 он улаан луу жил
+SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд цагаагчин туулай сар\n1
  7-р жарны 50 он улаан луу жил
 TRANSP:TRANSPARENT
@@ -2969,8 +2765,7 @@ UID:mongol-mn-no15-2036-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360427
 DTEND;VALUE=DATE:20360428
-SUMMARY:Шинийн 1 · Хаврын сүүл хар луу сар · 17-
- р жарны 50 он улаан луу жил
+SUMMARY:Шинийн 1 · Хаврын сүүл сар
 DESCRIPTION:Хаврын сүүл хар луу сар\n17-р жарны 50
   он улаан луу жил
 TRANSP:TRANSPARENT
@@ -2980,8 +2775,7 @@ UID:mongol-mn-no15-2036-04-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360526
 DTEND;VALUE=DATE:20360527
-SUMMARY:Шинийн 1 · Зуны эхэн харагчин могой с
- ар · 17-р жарны 50 он улаан луу жил
+SUMMARY:Шинийн 1 · Зуны эхэн сар
 DESCRIPTION:Зуны эхэн харагчин могой сар\n17-р ж
  арны 50 он улаан луу жил
 TRANSP:TRANSPARENT
@@ -3002,8 +2796,7 @@ UID:mongol-mn-no15-2036-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360625
 DTEND;VALUE=DATE:20360626
-SUMMARY:Шинийн 1 · Зуны дунд хөх морь сар · 17-р
-  жарны 50 он улаан луу жил
+SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд хөх морь сар\n17-р жарны 50 
  он улаан луу жил
 TRANSP:TRANSPARENT
@@ -3013,8 +2806,7 @@ UID:mongol-mn-no15-2036-06-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360724
 DTEND;VALUE=DATE:20360725
-SUMMARY:Шинийн 1 · Зуны сүүл хөхөгчин хонь са
- р · 17-р жарны 50 он улаан луу жил
+SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл хөхөгчин хонь сар\n17-р жа
  рны 50 он улаан луу жил
 TRANSP:TRANSPARENT
@@ -3024,8 +2816,7 @@ UID:mongol-mn-no15-2036-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360822
 DTEND;VALUE=DATE:20360823
-SUMMARY:Шинийн 1 · Намрын эхэн улаан бич сар ·
-  17-р жарны 50 он улаан луу жил
+SUMMARY:Шинийн 1 · Намрын эхэн сар
 DESCRIPTION:Намрын эхэн улаан бич сар\n17-р жарн
  ы 50 он улаан луу жил
 TRANSP:TRANSPARENT
@@ -3035,9 +2826,8 @@ UID:mongol-mn-no15-2036-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360921
 DTEND;VALUE=DATE:20360922
-SUMMARY:Шинийн 2 · Намрын дунд улаагчин тахиа
-  сар (шинийн 1 тасарсан) · 17-р жарны 50 он ул
- аан луу жил
+SUMMARY:Шинийн 2 · Намрын дунд сар (шинийн 1 та
+ сарсан)
 DESCRIPTION:Намрын дунд улаагчин тахиа сар\n17-р
   жарны 50 он улаан луу жил
 TRANSP:TRANSPARENT
@@ -3047,8 +2837,7 @@ UID:mongol-mn-no15-2036-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20361020
 DTEND;VALUE=DATE:20361021
-SUMMARY:Шинийн 1 · Намрын сүүл шар нохой сар ·
-  17-р жарны 50 он улаан луу жил
+SUMMARY:Шинийн 1 · Намрын сүүл сар
 DESCRIPTION:Намрын сүүл шар нохой сар\n17-р жарн
  ы 50 он улаан луу жил
 TRANSP:TRANSPARENT
@@ -3070,8 +2859,7 @@ UID:mongol-mn-no15-2036-10-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20361118
 DTEND;VALUE=DATE:20361119
-SUMMARY:Шинийн 1 · Өвлийн эхэн шарагчин гахай
-  сар · 17-р жарны 50 он улаан луу жил
+SUMMARY:Шинийн 1 · Өвлийн эхэн сар
 DESCRIPTION:Өвлийн эхэн шарагчин гахай сар\n17-р
   жарны 50 он улаан луу жил
 TRANSP:TRANSPARENT
@@ -3081,8 +2869,7 @@ UID:mongol-mn-no15-2036-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20361218
 DTEND;VALUE=DATE:20361219
-SUMMARY:Шинийн 1 · Өвлийн дунд цагаан хулгана
-  сар · 17-р жарны 50 он улаан луу жил
+SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд цагаан хулгана сар\n17-р
   жарны 50 он улаан луу жил
 TRANSP:TRANSPARENT
@@ -3092,8 +2879,7 @@ UID:mongol-mn-no15-2036-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370117
 DTEND;VALUE=DATE:20370118
-SUMMARY:Шинийн 1 · Өвлийн сүүл цагаагчин үхэр
-  сар · 17-р жарны 50 он улаан луу жил
+SUMMARY:Шинийн 1 · Өвлийн сүүл сар
 DESCRIPTION:Өвлийн сүүл цагаагчин үхэр сар\n17-р
   жарны 50 он улаан луу жил
 TRANSP:TRANSPARENT
@@ -3112,8 +2898,7 @@ UID:mongol-mn-no15-2037-01-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370216
 DTEND;VALUE=DATE:20370217
-SUMMARY:Шинийн 1 · Хаврын тэргүүн хар барс са
- р · 17-р жарны 51 он улаагчин могой жил
+SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн хар барс сар\n17-р жа
  рны 51 он улаагчин могой жил
 TRANSP:TRANSPARENT
@@ -3133,8 +2918,7 @@ UID:mongol-mn-no15-2037-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370317
 DTEND;VALUE=DATE:20370318
-SUMMARY:Шинийн 1 · Хаврын дунд харагчин туула
- й сар · 17-р жарны 51 он улаагчин могой жил
+SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд харагчин туулай сар\n17-
  р жарны 51 он улаагчин могой жил
 TRANSP:TRANSPARENT
@@ -3144,8 +2928,7 @@ UID:mongol-mn-no15-2037-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370416
 DTEND;VALUE=DATE:20370417
-SUMMARY:Шинийн 1 · Хаврын сүүл хөх луу сар · 17-
- р жарны 51 он улаагчин могой жил
+SUMMARY:Шинийн 1 · Хаврын сүүл сар
 DESCRIPTION:Хаврын сүүл хөх луу сар\n17-р жарны 51
   он улаагчин могой жил
 TRANSP:TRANSPARENT
@@ -3155,8 +2938,7 @@ UID:mongol-mn-no15-2037-04-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370516
 DTEND;VALUE=DATE:20370517
-SUMMARY:Шинийн 1 · Зуны эхэн хөхөгчин могой с
- ар · 17-р жарны 51 он улаагчин могой жил
+SUMMARY:Шинийн 1 · Зуны эхэн сар
 DESCRIPTION:Зуны эхэн хөхөгчин могой сар\n17-р ж
  арны 51 он улаагчин могой жил
 TRANSP:TRANSPARENT
@@ -3177,8 +2959,7 @@ UID:mongol-mn-no15-2037-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370614
 DTEND;VALUE=DATE:20370615
-SUMMARY:Шинийн 1 · Зуны дунд улаан морь сар · 1
- 7-р жарны 51 он улаагчин могой жил
+SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд улаан морь сар\n17-р жарны 
  51 он улаагчин могой жил
 TRANSP:TRANSPARENT
@@ -3188,8 +2969,7 @@ UID:mongol-mn-no15-2037-06-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370714
 DTEND;VALUE=DATE:20370715
-SUMMARY:Шинийн 1 · Зуны сүүл улаагчин хонь са
- р · 17-р жарны 51 он улаагчин могой жил
+SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл улаагчин хонь сар\n17-р жа
  рны 51 он улаагчин могой жил
 TRANSP:TRANSPARENT
@@ -3199,8 +2979,7 @@ UID:mongol-mn-no15-2037-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370812
 DTEND;VALUE=DATE:20370813
-SUMMARY:Шинийн 1 · Намрын эхэн шар бич сар · 17-
- р жарны 51 он улаагчин могой жил
+SUMMARY:Шинийн 1 · Намрын эхэн сар
 DESCRIPTION:Намрын эхэн шар бич сар\n17-р жарны 51
   он улаагчин могой жил
 TRANSP:TRANSPARENT
@@ -3210,8 +2989,7 @@ UID:mongol-mn-no15-2037-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370910
 DTEND;VALUE=DATE:20370911
-SUMMARY:Шинийн 1 · Намрын дунд шарагчин тахиа
-  сар · 17-р жарны 51 он улаагчин могой жил
+SUMMARY:Шинийн 1 · Намрын дунд сар
 DESCRIPTION:Намрын дунд шарагчин тахиа сар\n17-р
   жарны 51 он улаагчин могой жил
 TRANSP:TRANSPARENT
@@ -3221,9 +2999,8 @@ UID:mongol-mn-no15-2037-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20371010
 DTEND;VALUE=DATE:20371011
-SUMMARY:Шинийн 2 · Намрын сүүл цагаан нохой с
- ар (шинийн 1 тасарсан) · 17-р жарны 51 он ула
- агчин могой жил
+SUMMARY:Шинийн 2 · Намрын сүүл сар (шинийн 1 та
+ сарсан)
 DESCRIPTION:Намрын сүүл цагаан нохой сар\n17-р ж
  арны 51 он улаагчин могой жил
 TRANSP:TRANSPARENT
@@ -3245,8 +3022,7 @@ UID:mongol-mn-no15-2037-10-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20371108
 DTEND;VALUE=DATE:20371109
-SUMMARY:Шинийн 1 · Өвлийн эхэн цагаагчин гаха
- й сар · 17-р жарны 51 он улаагчин могой жил
+SUMMARY:Шинийн 1 · Өвлийн эхэн сар
 DESCRIPTION:Өвлийн эхэн цагаагчин гахай сар\n17-
  р жарны 51 он улаагчин могой жил
 TRANSP:TRANSPARENT
@@ -3256,8 +3032,7 @@ UID:mongol-mn-no15-2037-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20371207
 DTEND;VALUE=DATE:20371208
-SUMMARY:Шинийн 1 · Өвлийн дунд хар хулгана са
- р · 17-р жарны 51 он улаагчин могой жил
+SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд хар хулгана сар\n17-р жа
  рны 51 он улаагчин могой жил
 TRANSP:TRANSPARENT
@@ -3267,8 +3042,7 @@ UID:mongol-mn-no15-2037-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380106
 DTEND;VALUE=DATE:20380107
-SUMMARY:Шинийн 1 · Өвлийн сүүл харагчин үхэр 
- сар · 17-р жарны 51 он улаагчин могой жил
+SUMMARY:Шинийн 1 · Өвлийн сүүл сар
 DESCRIPTION:Өвлийн сүүл харагчин үхэр сар\n17-р 
  жарны 51 он улаагчин могой жил
 TRANSP:TRANSPARENT
@@ -3287,8 +3061,7 @@ UID:mongol-mn-no15-2038-01-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380205
 DTEND;VALUE=DATE:20380206
-SUMMARY:Шинийн 1 · Хаврын тэргүүн хөх барс са
- р · 17-р жарны 52 он шар морин жил
+SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн хөх барс сар\n17-р жа
  рны 52 он шар морин жил
 TRANSP:TRANSPARENT
@@ -3308,8 +3081,7 @@ UID:mongol-mn-no15-2038-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380306
 DTEND;VALUE=DATE:20380307
-SUMMARY:Шинийн 1 · Хаврын дунд хөхөгчин туула
- й сар · 17-р жарны 52 он шар морин жил
+SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд хөхөгчин туулай сар\n17-
  р жарны 52 он шар морин жил
 TRANSP:TRANSPARENT
@@ -3319,8 +3091,7 @@ UID:mongol-mn-no15-2038-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380405
 DTEND;VALUE=DATE:20380406
-SUMMARY:Шинийн 1 · Хаврын сүүл улаан луу сар ·
-  17-р жарны 52 он шар морин жил
+SUMMARY:Шинийн 1 · Хаврын сүүл сар
 DESCRIPTION:Хаврын сүүл улаан луу сар\n17-р жарн
  ы 52 он шар морин жил
 TRANSP:TRANSPARENT
@@ -3330,8 +3101,7 @@ UID:mongol-mn-no15-2038-04-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380505
 DTEND;VALUE=DATE:20380506
-SUMMARY:Шинийн 1 · Зуны эхэн улаагчин могой с
- ар · 17-р жарны 52 он шар морин жил
+SUMMARY:Шинийн 1 · Зуны эхэн сар
 DESCRIPTION:Зуны эхэн улаагчин могой сар\n17-р ж
  арны 52 он шар морин жил
 TRANSP:TRANSPARENT
@@ -3352,8 +3122,7 @@ UID:mongol-mn-no15-2038-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380603
 DTEND;VALUE=DATE:20380604
-SUMMARY:Шинийн 1 · Зуны дунд шар морь сар · 17-р
-  жарны 52 он шар морин жил
+SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд шар морь сар\n17-р жарны 52 
  он шар морин жил
 TRANSP:TRANSPARENT
@@ -3363,8 +3132,7 @@ UID:mongol-mn-no15-2038-06-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380703
 DTEND;VALUE=DATE:20380704
-SUMMARY:Шинийн 1 · Зуны сүүл шарагчин хонь са
- р · 17-р жарны 52 он шар морин жил
+SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл шарагчин хонь сар\n17-р жа
  рны 52 он шар морин жил
 TRANSP:TRANSPARENT
@@ -3374,9 +3142,8 @@ UID:mongol-mn-no15-2038-07L-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380802
 DTEND;VALUE=DATE:20380803
-SUMMARY:Шинийн 2 · Намрын эхэн (илүү) цагаан б
- ич сар (шинийн 1 тасарсан) · 17-р жарны 52 он 
- шар морин жил
+SUMMARY:Шинийн 2 · Намрын эхэн (илүү) сар (шини
+ йн 1 тасарсан)
 DESCRIPTION:Намрын эхэн (илүү) цагаан бич сар\n17
  -р жарны 52 он шар морин жил
 TRANSP:TRANSPARENT
@@ -3386,8 +3153,7 @@ UID:mongol-mn-no15-2038-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380831
 DTEND;VALUE=DATE:20380901
-SUMMARY:Шинийн 1 · Намрын эхэн цагаан бич сар 
- · 17-р жарны 52 он шар морин жил
+SUMMARY:Шинийн 1 · Намрын эхэн сар
 DESCRIPTION:Намрын эхэн цагаан бич сар\n17-р жар
  ны 52 он шар морин жил
 TRANSP:TRANSPARENT
@@ -3397,8 +3163,7 @@ UID:mongol-mn-no15-2038-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380929
 DTEND;VALUE=DATE:20380930
-SUMMARY:Шинийн 1 · Намрын дунд цагаагчин тахи
- а сар · 17-р жарны 52 он шар морин жил
+SUMMARY:Шинийн 1 · Намрын дунд сар
 DESCRIPTION:Намрын дунд цагаагчин тахиа сар\n17-
  р жарны 52 он шар морин жил
 TRANSP:TRANSPARENT
@@ -3408,8 +3173,7 @@ UID:mongol-mn-no15-2038-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20381029
 DTEND;VALUE=DATE:20381030
-SUMMARY:Шинийн 1 · Намрын сүүл хар нохой сар ·
-  17-р жарны 52 он шар морин жил
+SUMMARY:Шинийн 1 · Намрын сүүл сар
 DESCRIPTION:Намрын сүүл хар нохой сар\n17-р жарн
  ы 52 он шар морин жил
 TRANSP:TRANSPARENT
@@ -3431,8 +3195,7 @@ UID:mongol-mn-no15-2038-10-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20381127
 DTEND;VALUE=DATE:20381128
-SUMMARY:Шинийн 1 · Өвлийн эхэн харагчин гахай
-  сар · 17-р жарны 52 он шар морин жил
+SUMMARY:Шинийн 1 · Өвлийн эхэн сар
 DESCRIPTION:Өвлийн эхэн харагчин гахай сар\n17-р
   жарны 52 он шар морин жил
 TRANSP:TRANSPARENT
@@ -3442,8 +3205,7 @@ UID:mongol-mn-no15-2038-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20381226
 DTEND;VALUE=DATE:20381227
-SUMMARY:Шинийн 1 · Өвлийн дунд хөх хулгана са
- р · 17-р жарны 52 он шар морин жил
+SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд хөх хулгана сар\n17-р жа
  рны 52 он шар морин жил
 TRANSP:TRANSPARENT
@@ -3453,8 +3215,7 @@ UID:mongol-mn-no15-2038-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390125
 DTEND;VALUE=DATE:20390126
-SUMMARY:Шинийн 1 · Өвлийн сүүл хөхөгчин үхэр 
- сар · 17-р жарны 52 он шар морин жил
+SUMMARY:Шинийн 1 · Өвлийн сүүл сар
 DESCRIPTION:Өвлийн сүүл хөхөгчин үхэр сар\n17-р 
  жарны 52 он шар морин жил
 TRANSP:TRANSPARENT
@@ -3473,8 +3234,7 @@ UID:mongol-mn-no15-2039-01-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390224
 DTEND;VALUE=DATE:20390225
-SUMMARY:Шинийн 1 · Хаврын тэргүүн улаан барс 
- сар · 17-р жарны 53 он шарагчин хонин жил
+SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн улаан барс сар\n17-р 
  жарны 53 он шарагчин хонин жил
 TRANSP:TRANSPARENT
@@ -3494,8 +3254,7 @@ UID:mongol-mn-no15-2039-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390325
 DTEND;VALUE=DATE:20390326
-SUMMARY:Шинийн 1 · Хаврын дунд улаагчин туула
- й сар · 17-р жарны 53 он шарагчин хонин жил
+SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд улаагчин туулай сар\n17-
  р жарны 53 он шарагчин хонин жил
 TRANSP:TRANSPARENT
@@ -3505,8 +3264,7 @@ UID:mongol-mn-no15-2039-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390424
 DTEND;VALUE=DATE:20390425
-SUMMARY:Шинийн 1 · Хаврын сүүл шар луу сар · 17-
- р жарны 53 он шарагчин хонин жил
+SUMMARY:Шинийн 1 · Хаврын сүүл сар
 DESCRIPTION:Хаврын сүүл шар луу сар\n17-р жарны 53
   он шарагчин хонин жил
 TRANSP:TRANSPARENT
@@ -3516,8 +3274,7 @@ UID:mongol-mn-no15-2039-04-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390524
 DTEND;VALUE=DATE:20390525
-SUMMARY:Шинийн 1 · Зуны эхэн шарагчин могой с
- ар · 17-р жарны 53 он шарагчин хонин жил
+SUMMARY:Шинийн 1 · Зуны эхэн сар
 DESCRIPTION:Зуны эхэн шарагчин могой сар\n17-р ж
  арны 53 он шарагчин хонин жил
 TRANSP:TRANSPARENT
@@ -3538,8 +3295,7 @@ UID:mongol-mn-no15-2039-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390622
 DTEND;VALUE=DATE:20390623
-SUMMARY:Шинийн 1 · Зуны дунд цагаан морь сар ·
-  17-р жарны 53 он шарагчин хонин жил
+SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд цагаан морь сар\n17-р жарн
  ы 53 он шарагчин хонин жил
 TRANSP:TRANSPARENT
@@ -3549,8 +3305,7 @@ UID:mongol-mn-no15-2039-06-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390722
 DTEND;VALUE=DATE:20390723
-SUMMARY:Шинийн 1 · Зуны сүүл цагаагчин хонь с
- ар · 17-р жарны 53 он шарагчин хонин жил
+SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл цагаагчин хонь сар\n17-р ж
  арны 53 он шарагчин хонин жил
 TRANSP:TRANSPARENT
@@ -3560,8 +3315,7 @@ UID:mongol-mn-no15-2039-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390820
 DTEND;VALUE=DATE:20390821
-SUMMARY:Шинийн 1 · Намрын эхэн хар бич сар · 17-
- р жарны 53 он шарагчин хонин жил
+SUMMARY:Шинийн 1 · Намрын эхэн сар
 DESCRIPTION:Намрын эхэн хар бич сар\n17-р жарны 53
   он шарагчин хонин жил
 TRANSP:TRANSPARENT
@@ -3571,8 +3325,7 @@ UID:mongol-mn-no15-2039-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390919
 DTEND;VALUE=DATE:20390920
-SUMMARY:Шинийн 1 · Намрын дунд харагчин тахиа
-  сар · 17-р жарны 53 он шарагчин хонин жил
+SUMMARY:Шинийн 1 · Намрын дунд сар
 DESCRIPTION:Намрын дунд харагчин тахиа сар\n17-р
   жарны 53 он шарагчин хонин жил
 TRANSP:TRANSPARENT
@@ -3582,8 +3335,7 @@ UID:mongol-mn-no15-2039-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20391018
 DTEND;VALUE=DATE:20391019
-SUMMARY:Шинийн 1 · Намрын сүүл хөх нохой сар ·
-  17-р жарны 53 он шарагчин хонин жил
+SUMMARY:Шинийн 1 · Намрын сүүл сар
 DESCRIPTION:Намрын сүүл хөх нохой сар\n17-р жарн
  ы 53 он шарагчин хонин жил
 TRANSP:TRANSPARENT
@@ -3605,8 +3357,7 @@ UID:mongol-mn-no15-2039-10-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20391117
 DTEND;VALUE=DATE:20391118
-SUMMARY:Шинийн 1 · Өвлийн эхэн хөхөгчин гахай
-  сар · 17-р жарны 53 он шарагчин хонин жил
+SUMMARY:Шинийн 1 · Өвлийн эхэн сар
 DESCRIPTION:Өвлийн эхэн хөхөгчин гахай сар\n17-р
   жарны 53 он шарагчин хонин жил
 TRANSP:TRANSPARENT
@@ -3616,8 +3367,7 @@ UID:mongol-mn-no15-2039-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20391216
 DTEND;VALUE=DATE:20391217
-SUMMARY:Шинийн 1 · Өвлийн дунд улаан хулгана 
- сар · 17-р жарны 53 он шарагчин хонин жил
+SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд улаан хулгана сар\n17-р 
  жарны 53 он шарагчин хонин жил
 TRANSP:TRANSPARENT
@@ -3627,9 +3377,8 @@ UID:mongol-mn-no15-2039-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400115
 DTEND;VALUE=DATE:20400116
-SUMMARY:Шинийн 2 · Өвлийн сүүл улаагчин үхэр 
- сар (шинийн 1 тасарсан) · 17-р жарны 53 он ша
- рагчин хонин жил
+SUMMARY:Шинийн 2 · Өвлийн сүүл сар (шинийн 1 та
+ сарсан)
 DESCRIPTION:Өвлийн сүүл улаагчин үхэр сар\n17-р 
  жарны 53 он шарагчин хонин жил
 TRANSP:TRANSPARENT
@@ -3648,8 +3397,7 @@ UID:mongol-mn-no15-2040-01-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400213
 DTEND;VALUE=DATE:20400214
-SUMMARY:Шинийн 1 · Хаврын тэргүүн шар барс са
- р · 17-р жарны 54 он цагаан бичин жил
+SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн шар барс сар\n17-р жа
  рны 54 он цагаан бичин жил
 TRANSP:TRANSPARENT
@@ -3669,9 +3417,8 @@ UID:mongol-mn-no15-2040-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400314
 DTEND;VALUE=DATE:20400315
-SUMMARY:Шинийн 2 · Хаврын дунд шарагчин туула
- й сар (шинийн 1 тасарсан) · 17-р жарны 54 он ц
- агаан бичин жил
+SUMMARY:Шинийн 2 · Хаврын дунд сар (шинийн 1 та
+ сарсан)
 DESCRIPTION:Хаврын дунд шарагчин туулай сар\n17-
  р жарны 54 он цагаан бичин жил
 TRANSP:TRANSPARENT
@@ -3681,8 +3428,7 @@ UID:mongol-mn-no15-2040-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400412
 DTEND;VALUE=DATE:20400413
-SUMMARY:Шинийн 1 · Хаврын сүүл цагаан луу сар 
- · 17-р жарны 54 он цагаан бичин жил
+SUMMARY:Шинийн 1 · Хаврын сүүл сар
 DESCRIPTION:Хаврын сүүл цагаан луу сар\n17-р жар
  ны 54 он цагаан бичин жил
 TRANSP:TRANSPARENT
@@ -3692,8 +3438,7 @@ UID:mongol-mn-no15-2040-04-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400512
 DTEND;VALUE=DATE:20400513
-SUMMARY:Шинийн 1 · Зуны эхэн цагаагчин могой 
- сар · 17-р жарны 54 он цагаан бичин жил
+SUMMARY:Шинийн 1 · Зуны эхэн сар
 DESCRIPTION:Зуны эхэн цагаагчин могой сар\n17-р 
  жарны 54 он цагаан бичин жил
 TRANSP:TRANSPARENT
@@ -3714,8 +3459,7 @@ UID:mongol-mn-no15-2040-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400610
 DTEND;VALUE=DATE:20400611
-SUMMARY:Шинийн 1 · Зуны дунд хар морь сар · 17-р
-  жарны 54 он цагаан бичин жил
+SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд хар морь сар\n17-р жарны 54 
  он цагаан бичин жил
 TRANSP:TRANSPARENT
@@ -3725,8 +3469,7 @@ UID:mongol-mn-no15-2040-06-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400710
 DTEND;VALUE=DATE:20400711
-SUMMARY:Шинийн 1 · Зуны сүүл харагчин хонь са
- р · 17-р жарны 54 он цагаан бичин жил
+SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл харагчин хонь сар\n17-р жа
  рны 54 он цагаан бичин жил
 TRANSP:TRANSPARENT
@@ -3736,8 +3479,7 @@ UID:mongol-mn-no15-2040-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400808
 DTEND;VALUE=DATE:20400809
-SUMMARY:Шинийн 1 · Намрын эхэн хөх бич сар · 17-
- р жарны 54 он цагаан бичин жил
+SUMMARY:Шинийн 1 · Намрын эхэн сар
 DESCRIPTION:Намрын эхэн хөх бич сар\n17-р жарны 54
   он цагаан бичин жил
 TRANSP:TRANSPARENT
@@ -3747,8 +3489,7 @@ UID:mongol-mn-no15-2040-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400907
 DTEND;VALUE=DATE:20400908
-SUMMARY:Шинийн 1 · Намрын дунд хөхөгчин тахиа
-  сар · 17-р жарны 54 он цагаан бичин жил
+SUMMARY:Шинийн 1 · Намрын дунд сар
 DESCRIPTION:Намрын дунд хөхөгчин тахиа сар\n17-р
   жарны 54 он цагаан бичин жил
 TRANSP:TRANSPARENT
@@ -3758,8 +3499,7 @@ UID:mongol-mn-no15-2040-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20401007
 DTEND;VALUE=DATE:20401008
-SUMMARY:Шинийн 1 · Намрын сүүл улаан нохой са
- р · 17-р жарны 54 он цагаан бичин жил
+SUMMARY:Шинийн 1 · Намрын сүүл сар
 DESCRIPTION:Намрын сүүл улаан нохой сар\n17-р жа
  рны 54 он цагаан бичин жил
 TRANSP:TRANSPARENT
@@ -3781,8 +3521,7 @@ UID:mongol-mn-no15-2040-10-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20401105
 DTEND;VALUE=DATE:20401106
-SUMMARY:Шинийн 1 · Өвлийн эхэн улаагчин гахай
-  сар · 17-р жарны 54 он цагаан бичин жил
+SUMMARY:Шинийн 1 · Өвлийн эхэн сар
 DESCRIPTION:Өвлийн эхэн улаагчин гахай сар\n17-р
   жарны 54 он цагаан бичин жил
 TRANSP:TRANSPARENT
@@ -3792,8 +3531,7 @@ UID:mongol-mn-no15-2040-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20401205
 DTEND;VALUE=DATE:20401206
-SUMMARY:Шинийн 1 · Өвлийн дунд шар хулгана са
- р · 17-р жарны 54 он цагаан бичин жил
+SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд шар хулгана сар\n17-р жа
  рны 54 он цагаан бичин жил
 TRANSP:TRANSPARENT
@@ -3803,8 +3541,7 @@ UID:mongol-mn-no15-2040-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410103
 DTEND;VALUE=DATE:20410104
-SUMMARY:Шинийн 1 · Өвлийн сүүл шарагчин үхэр 
- сар · 17-р жарны 54 он цагаан бичин жил
+SUMMARY:Шинийн 1 · Өвлийн сүүл сар
 DESCRIPTION:Өвлийн сүүл шарагчин үхэр сар\n17-р 
  жарны 54 он цагаан бичин жил
 TRANSP:TRANSPARENT
@@ -3823,8 +3560,7 @@ UID:mongol-mn-no15-2041-01-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410202
 DTEND;VALUE=DATE:20410203
-SUMMARY:Шинийн 1 · Хаврын тэргүүн цагаан барс
-  сар · 17-р жарны 55 он цагаагчин тахиа жил
+SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн цагаан барс сар\n17-р
   жарны 55 он цагаагчин тахиа жил
 TRANSP:TRANSPARENT
@@ -3844,9 +3580,7 @@ UID:mongol-mn-no15-2041-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410303
 DTEND;VALUE=DATE:20410304
-SUMMARY:Шинийн 1 · Хаврын дунд цагаагчин туул
- ай сар · 17-р жарны 55 он цагаагчин тахиа жи
- л
+SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд цагаагчин туулай сар\n1
  7-р жарны 55 он цагаагчин тахиа жил
 TRANSP:TRANSPARENT
@@ -3856,9 +3590,8 @@ UID:mongol-mn-no15-2041-03L-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410402
 DTEND;VALUE=DATE:20410403
-SUMMARY:Шинийн 2 · Хаврын сүүл (илүү) хар луу с
- ар (шинийн 1 тасарсан) · 17-р жарны 55 он цаг
- аагчин тахиа жил
+SUMMARY:Шинийн 2 · Хаврын сүүл (илүү) сар (шини
+ йн 1 тасарсан)
 DESCRIPTION:Хаврын сүүл (илүү) хар луу сар\n17-р ж
  арны 55 он цагаагчин тахиа жил
 TRANSP:TRANSPARENT
@@ -3868,8 +3601,7 @@ UID:mongol-mn-no15-2041-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410501
 DTEND;VALUE=DATE:20410502
-SUMMARY:Шинийн 1 · Хаврын сүүл хар луу сар · 17-
- р жарны 55 он цагаагчин тахиа жил
+SUMMARY:Шинийн 1 · Хаврын сүүл сар
 DESCRIPTION:Хаврын сүүл хар луу сар\n17-р жарны 55
   он цагаагчин тахиа жил
 TRANSP:TRANSPARENT
@@ -3879,8 +3611,7 @@ UID:mongol-mn-no15-2041-04-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410530
 DTEND;VALUE=DATE:20410531
-SUMMARY:Шинийн 1 · Зуны эхэн харагчин могой с
- ар · 17-р жарны 55 он цагаагчин тахиа жил
+SUMMARY:Шинийн 1 · Зуны эхэн сар
 DESCRIPTION:Зуны эхэн харагчин могой сар\n17-р ж
  арны 55 он цагаагчин тахиа жил
 TRANSP:TRANSPARENT
@@ -3901,8 +3632,7 @@ UID:mongol-mn-no15-2041-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410629
 DTEND;VALUE=DATE:20410630
-SUMMARY:Шинийн 1 · Зуны дунд хөх морь сар · 17-р
-  жарны 55 он цагаагчин тахиа жил
+SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд хөх морь сар\n17-р жарны 55 
  он цагаагчин тахиа жил
 TRANSP:TRANSPARENT
@@ -3912,8 +3642,7 @@ UID:mongol-mn-no15-2041-06-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410728
 DTEND;VALUE=DATE:20410729
-SUMMARY:Шинийн 1 · Зуны сүүл хөхөгчин хонь са
- р · 17-р жарны 55 он цагаагчин тахиа жил
+SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл хөхөгчин хонь сар\n17-р жа
  рны 55 он цагаагчин тахиа жил
 TRANSP:TRANSPARENT
@@ -3923,7 +3652,7 @@ UID:mongol-mn-no15-2041-06-d01r@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410729
 DTEND;VALUE=DATE:20410730
-SUMMARY:Шинийн 1 (давхар)
+SUMMARY:Шинийн 1 (давхар) · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл хөхөгчин хонь сар\n17-р жа
  рны 55 он цагаагчин тахиа жил
 TRANSP:TRANSPARENT
@@ -3933,8 +3662,7 @@ UID:mongol-mn-no15-2041-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410827
 DTEND;VALUE=DATE:20410828
-SUMMARY:Шинийн 1 · Намрын эхэн улаан бич сар ·
-  17-р жарны 55 он цагаагчин тахиа жил
+SUMMARY:Шинийн 1 · Намрын эхэн сар
 DESCRIPTION:Намрын эхэн улаан бич сар\n17-р жарн
  ы 55 он цагаагчин тахиа жил
 TRANSP:TRANSPARENT
@@ -3944,8 +3672,7 @@ UID:mongol-mn-no15-2041-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410926
 DTEND;VALUE=DATE:20410927
-SUMMARY:Шинийн 1 · Намрын дунд улаагчин тахиа
-  сар · 17-р жарны 55 он цагаагчин тахиа жил
+SUMMARY:Шинийн 1 · Намрын дунд сар
 DESCRIPTION:Намрын дунд улаагчин тахиа сар\n17-р
   жарны 55 он цагаагчин тахиа жил
 TRANSP:TRANSPARENT
@@ -3955,8 +3682,7 @@ UID:mongol-mn-no15-2041-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20411025
 DTEND;VALUE=DATE:20411026
-SUMMARY:Шинийн 1 · Намрын сүүл шар нохой сар ·
-  17-р жарны 55 он цагаагчин тахиа жил
+SUMMARY:Шинийн 1 · Намрын сүүл сар
 DESCRIPTION:Намрын сүүл шар нохой сар\n17-р жарн
  ы 55 он цагаагчин тахиа жил
 TRANSP:TRANSPARENT
@@ -3978,8 +3704,7 @@ UID:mongol-mn-no15-2041-10-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20411124
 DTEND;VALUE=DATE:20411125
-SUMMARY:Шинийн 1 · Өвлийн эхэн шарагчин гахай
-  сар · 17-р жарны 55 он цагаагчин тахиа жил
+SUMMARY:Шинийн 1 · Өвлийн эхэн сар
 DESCRIPTION:Өвлийн эхэн шарагчин гахай сар\n17-р
   жарны 55 он цагаагчин тахиа жил
 TRANSP:TRANSPARENT
@@ -3989,8 +3714,7 @@ UID:mongol-mn-no15-2041-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20411224
 DTEND;VALUE=DATE:20411225
-SUMMARY:Шинийн 1 · Өвлийн дунд цагаан хулгана
-  сар · 17-р жарны 55 он цагаагчин тахиа жил
+SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд цагаан хулгана сар\n17-р
   жарны 55 он цагаагчин тахиа жил
 TRANSP:TRANSPARENT
@@ -4000,8 +3724,7 @@ UID:mongol-mn-no15-2041-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420122
 DTEND;VALUE=DATE:20420123
-SUMMARY:Шинийн 1 · Өвлийн сүүл цагаагчин үхэр
-  сар · 17-р жарны 55 он цагаагчин тахиа жил
+SUMMARY:Шинийн 1 · Өвлийн сүүл сар
 DESCRIPTION:Өвлийн сүүл цагаагчин үхэр сар\n17-р
   жарны 55 он цагаагчин тахиа жил
 TRANSP:TRANSPARENT
@@ -4020,8 +3743,7 @@ UID:mongol-mn-no15-2042-01-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420221
 DTEND;VALUE=DATE:20420222
-SUMMARY:Шинийн 1 · Хаврын тэргүүн хар барс са
- р · 17-р жарны 56 он хар нохой жил
+SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн хар барс сар\n17-р жа
  рны 56 он хар нохой жил
 TRANSP:TRANSPARENT
@@ -4041,8 +3763,7 @@ UID:mongol-mn-no15-2042-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420322
 DTEND;VALUE=DATE:20420323
-SUMMARY:Шинийн 1 · Хаврын дунд харагчин туула
- й сар · 17-р жарны 56 он хар нохой жил
+SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд харагчин туулай сар\n17-
  р жарны 56 он хар нохой жил
 TRANSP:TRANSPARENT
@@ -4052,8 +3773,7 @@ UID:mongol-mn-no15-2042-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420421
 DTEND;VALUE=DATE:20420422
-SUMMARY:Шинийн 1 · Хаврын сүүл хөх луу сар · 17-
- р жарны 56 он хар нохой жил
+SUMMARY:Шинийн 1 · Хаврын сүүл сар
 DESCRIPTION:Хаврын сүүл хөх луу сар\n17-р жарны 56
   он хар нохой жил
 TRANSP:TRANSPARENT
@@ -4063,8 +3783,7 @@ UID:mongol-mn-no15-2042-04-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420520
 DTEND;VALUE=DATE:20420521
-SUMMARY:Шинийн 1 · Зуны эхэн хөхөгчин могой с
- ар · 17-р жарны 56 он хар нохой жил
+SUMMARY:Шинийн 1 · Зуны эхэн сар
 DESCRIPTION:Зуны эхэн хөхөгчин могой сар\n17-р ж
  арны 56 он хар нохой жил
 TRANSP:TRANSPARENT
@@ -4085,8 +3804,7 @@ UID:mongol-mn-no15-2042-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420618
 DTEND;VALUE=DATE:20420619
-SUMMARY:Шинийн 1 · Зуны дунд улаан морь сар · 1
- 7-р жарны 56 он хар нохой жил
+SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд улаан морь сар\n17-р жарны 
  56 он хар нохой жил
 TRANSP:TRANSPARENT
@@ -4096,8 +3814,7 @@ UID:mongol-mn-no15-2042-06-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420718
 DTEND;VALUE=DATE:20420719
-SUMMARY:Шинийн 1 · Зуны сүүл улаагчин хонь са
- р · 17-р жарны 56 он хар нохой жил
+SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл улаагчин хонь сар\n17-р жа
  рны 56 он хар нохой жил
 TRANSP:TRANSPARENT
@@ -4107,8 +3824,7 @@ UID:mongol-mn-no15-2042-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420816
 DTEND;VALUE=DATE:20420817
-SUMMARY:Шинийн 1 · Намрын эхэн шар бич сар · 17-
- р жарны 56 он хар нохой жил
+SUMMARY:Шинийн 1 · Намрын эхэн сар
 DESCRIPTION:Намрын эхэн шар бич сар\n17-р жарны 56
   он хар нохой жил
 TRANSP:TRANSPARENT
@@ -4118,8 +3834,7 @@ UID:mongol-mn-no15-2042-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420915
 DTEND;VALUE=DATE:20420916
-SUMMARY:Шинийн 1 · Намрын дунд шарагчин тахиа
-  сар · 17-р жарны 56 он хар нохой жил
+SUMMARY:Шинийн 1 · Намрын дунд сар
 DESCRIPTION:Намрын дунд шарагчин тахиа сар\n17-р
   жарны 56 он хар нохой жил
 TRANSP:TRANSPARENT
@@ -4129,8 +3844,7 @@ UID:mongol-mn-no15-2042-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20421014
 DTEND;VALUE=DATE:20421015
-SUMMARY:Шинийн 1 · Намрын сүүл цагаан нохой с
- ар · 17-р жарны 56 он хар нохой жил
+SUMMARY:Шинийн 1 · Намрын сүүл сар
 DESCRIPTION:Намрын сүүл цагаан нохой сар\n17-р ж
  арны 56 он хар нохой жил
 TRANSP:TRANSPARENT
@@ -4140,7 +3854,7 @@ UID:mongol-mn-no15-2042-09-d01r@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20421015
 DTEND;VALUE=DATE:20421016
-SUMMARY:Шинийн 1 (давхар)
+SUMMARY:Шинийн 1 (давхар) · Намрын сүүл сар
 DESCRIPTION:Намрын сүүл цагаан нохой сар\n17-р ж
  арны 56 он хар нохой жил
 TRANSP:TRANSPARENT
@@ -4162,8 +3876,7 @@ UID:mongol-mn-no15-2042-10-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20421113
 DTEND;VALUE=DATE:20421114
-SUMMARY:Шинийн 1 · Өвлийн эхэн цагаагчин гаха
- й сар · 17-р жарны 56 он хар нохой жил
+SUMMARY:Шинийн 1 · Өвлийн эхэн сар
 DESCRIPTION:Өвлийн эхэн цагаагчин гахай сар\n17-
  р жарны 56 он хар нохой жил
 TRANSP:TRANSPARENT
@@ -4173,8 +3886,7 @@ UID:mongol-mn-no15-2042-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20421213
 DTEND;VALUE=DATE:20421214
-SUMMARY:Шинийн 1 · Өвлийн дунд хар хулгана са
- р · 17-р жарны 56 он хар нохой жил
+SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд хар хулгана сар\n17-р жа
  рны 56 он хар нохой жил
 TRANSP:TRANSPARENT
@@ -4184,8 +3896,7 @@ UID:mongol-mn-no15-2042-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430112
 DTEND;VALUE=DATE:20430113
-SUMMARY:Шинийн 1 · Өвлийн сүүл харагчин үхэр 
- сар · 17-р жарны 56 он хар нохой жил
+SUMMARY:Шинийн 1 · Өвлийн сүүл сар
 DESCRIPTION:Өвлийн сүүл харагчин үхэр сар\n17-р 
  жарны 56 он хар нохой жил
 TRANSP:TRANSPARENT
@@ -4204,8 +3915,7 @@ UID:mongol-mn-no15-2043-01-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430210
 DTEND;VALUE=DATE:20430211
-SUMMARY:Шинийн 1 · Хаврын тэргүүн хөх барс са
- р · 17-р жарны 57 он харагчин гахай жил
+SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн хөх барс сар\n17-р жа
  рны 57 он харагчин гахай жил
 TRANSP:TRANSPARENT
@@ -4225,8 +3935,7 @@ UID:mongol-mn-no15-2043-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430312
 DTEND;VALUE=DATE:20430313
-SUMMARY:Шинийн 1 · Хаврын дунд хөхөгчин туула
- й сар · 17-р жарны 57 он харагчин гахай жил
+SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд хөхөгчин туулай сар\n17-
  р жарны 57 он харагчин гахай жил
 TRANSP:TRANSPARENT
@@ -4236,8 +3945,7 @@ UID:mongol-mn-no15-2043-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430410
 DTEND;VALUE=DATE:20430411
-SUMMARY:Шинийн 1 · Хаврын сүүл улаан луу сар ·
-  17-р жарны 57 он харагчин гахай жил
+SUMMARY:Шинийн 1 · Хаврын сүүл сар
 DESCRIPTION:Хаврын сүүл улаан луу сар\n17-р жарн
  ы 57 он харагчин гахай жил
 TRANSP:TRANSPARENT
@@ -4247,8 +3955,7 @@ UID:mongol-mn-no15-2043-04-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430510
 DTEND;VALUE=DATE:20430511
-SUMMARY:Шинийн 1 · Зуны эхэн улаагчин могой с
- ар · 17-р жарны 57 он харагчин гахай жил
+SUMMARY:Шинийн 1 · Зуны эхэн сар
 DESCRIPTION:Зуны эхэн улаагчин могой сар\n17-р ж
  арны 57 он харагчин гахай жил
 TRANSP:TRANSPARENT
@@ -4269,8 +3976,7 @@ UID:mongol-mn-no15-2043-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430608
 DTEND;VALUE=DATE:20430609
-SUMMARY:Шинийн 1 · Зуны дунд шар морь сар · 17-р
-  жарны 57 он харагчин гахай жил
+SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд шар морь сар\n17-р жарны 57 
  он харагчин гахай жил
 TRANSP:TRANSPARENT
@@ -4280,8 +3986,7 @@ UID:mongol-mn-no15-2043-06-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430707
 DTEND;VALUE=DATE:20430708
-SUMMARY:Шинийн 1 · Зуны сүүл шарагчин хонь са
- р · 17-р жарны 57 он харагчин гахай жил
+SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл шарагчин хонь сар\n17-р жа
  рны 57 он харагчин гахай жил
 TRANSP:TRANSPARENT
@@ -4291,8 +3996,7 @@ UID:mongol-mn-no15-2043-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430806
 DTEND;VALUE=DATE:20430807
-SUMMARY:Шинийн 1 · Намрын эхэн цагаан бич сар 
- · 17-р жарны 57 он харагчин гахай жил
+SUMMARY:Шинийн 1 · Намрын эхэн сар
 DESCRIPTION:Намрын эхэн цагаан бич сар\n17-р жар
  ны 57 он харагчин гахай жил
 TRANSP:TRANSPARENT
@@ -4302,8 +4006,7 @@ UID:mongol-mn-no15-2043-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430904
 DTEND;VALUE=DATE:20430905
-SUMMARY:Шинийн 1 · Намрын дунд цагаагчин тахи
- а сар · 17-р жарны 57 он харагчин гахай жил
+SUMMARY:Шинийн 1 · Намрын дунд сар
 DESCRIPTION:Намрын дунд цагаагчин тахиа сар\n17-
  р жарны 57 он харагчин гахай жил
 TRANSP:TRANSPARENT
@@ -4313,8 +4016,7 @@ UID:mongol-mn-no15-2043-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20431004
 DTEND;VALUE=DATE:20431005
-SUMMARY:Шинийн 1 · Намрын сүүл хар нохой сар ·
-  17-р жарны 57 он харагчин гахай жил
+SUMMARY:Шинийн 1 · Намрын сүүл сар
 DESCRIPTION:Намрын сүүл хар нохой сар\n17-р жарн
  ы 57 он харагчин гахай жил
 TRANSP:TRANSPARENT
@@ -4336,8 +4038,7 @@ UID:mongol-mn-no15-2043-10-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20431102
 DTEND;VALUE=DATE:20431103
-SUMMARY:Шинийн 1 · Өвлийн эхэн харагчин гахай
-  сар · 17-р жарны 57 он харагчин гахай жил
+SUMMARY:Шинийн 1 · Өвлийн эхэн сар
 DESCRIPTION:Өвлийн эхэн харагчин гахай сар\n17-р
   жарны 57 он харагчин гахай жил
 TRANSP:TRANSPARENT
@@ -4347,8 +4048,7 @@ UID:mongol-mn-no15-2043-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20431202
 DTEND;VALUE=DATE:20431203
-SUMMARY:Шинийн 1 · Өвлийн дунд хөх хулгана са
- р · 17-р жарны 57 он харагчин гахай жил
+SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд хөх хулгана сар\n17-р жа
  рны 57 он харагчин гахай жил
 TRANSP:TRANSPARENT
@@ -4358,9 +4058,7 @@ UID:mongol-mn-no15-2043-12L-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440101
 DTEND;VALUE=DATE:20440102
-SUMMARY:Шинийн 1 · Өвлийн сүүл (илүү) хөхөгчин
-  үхэр сар · 17-р жарны 57 он харагчин гахай 
- жил
+SUMMARY:Шинийн 1 · Өвлийн сүүл (илүү) сар
 DESCRIPTION:Өвлийн сүүл (илүү) хөхөгчин үхэр са
  р\n17-р жарны 57 он харагчин гахай жил
 TRANSP:TRANSPARENT
@@ -4370,8 +4068,7 @@ UID:mongol-mn-no15-2043-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440131
 DTEND;VALUE=DATE:20440201
-SUMMARY:Шинийн 1 · Өвлийн сүүл хөхөгчин үхэр 
- сар · 17-р жарны 57 он харагчин гахай жил
+SUMMARY:Шинийн 1 · Өвлийн сүүл сар
 DESCRIPTION:Өвлийн сүүл хөхөгчин үхэр сар\n17-р 
  жарны 57 он харагчин гахай жил
 TRANSP:TRANSPARENT
@@ -4390,8 +4087,7 @@ UID:mongol-mn-no15-2044-01-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440229
 DTEND;VALUE=DATE:20440301
-SUMMARY:Шинийн 1 · Хаврын тэргүүн улаан барс 
- сар · 17-р жарны 58 он хөх хулгана жил
+SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн улаан барс сар\n17-р 
  жарны 58 он хөх хулгана жил
 TRANSP:TRANSPARENT
@@ -4411,8 +4107,7 @@ UID:mongol-mn-no15-2044-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440330
 DTEND;VALUE=DATE:20440331
-SUMMARY:Шинийн 1 · Хаврын дунд улаагчин туула
- й сар · 17-р жарны 58 он хөх хулгана жил
+SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд улаагчин туулай сар\n17-
  р жарны 58 он хөх хулгана жил
 TRANSP:TRANSPARENT
@@ -4422,8 +4117,7 @@ UID:mongol-mn-no15-2044-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440428
 DTEND;VALUE=DATE:20440429
-SUMMARY:Шинийн 1 · Хаврын сүүл шар луу сар · 17-
- р жарны 58 он хөх хулгана жил
+SUMMARY:Шинийн 1 · Хаврын сүүл сар
 DESCRIPTION:Хаврын сүүл шар луу сар\n17-р жарны 58
   он хөх хулгана жил
 TRANSP:TRANSPARENT
@@ -4433,8 +4127,7 @@ UID:mongol-mn-no15-2044-04-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440528
 DTEND;VALUE=DATE:20440529
-SUMMARY:Шинийн 1 · Зуны эхэн шарагчин могой с
- ар · 17-р жарны 58 он хөх хулгана жил
+SUMMARY:Шинийн 1 · Зуны эхэн сар
 DESCRIPTION:Зуны эхэн шарагчин могой сар\n17-р ж
  арны 58 он хөх хулгана жил
 TRANSP:TRANSPARENT
@@ -4455,8 +4148,7 @@ UID:mongol-mn-no15-2044-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440626
 DTEND;VALUE=DATE:20440627
-SUMMARY:Шинийн 1 · Зуны дунд цагаан морь сар ·
-  17-р жарны 58 он хөх хулгана жил
+SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд цагаан морь сар\n17-р жарн
  ы 58 он хөх хулгана жил
 TRANSP:TRANSPARENT
@@ -4466,8 +4158,7 @@ UID:mongol-mn-no15-2044-06-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440725
 DTEND;VALUE=DATE:20440726
-SUMMARY:Шинийн 1 · Зуны сүүл цагаагчин хонь с
- ар · 17-р жарны 58 он хөх хулгана жил
+SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл цагаагчин хонь сар\n17-р ж
  арны 58 он хөх хулгана жил
 TRANSP:TRANSPARENT
@@ -4477,9 +4168,8 @@ UID:mongol-mn-no15-2044-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440824
 DTEND;VALUE=DATE:20440825
-SUMMARY:Шинийн 2 · Намрын эхэн хар бич сар (ши
- нийн 1 тасарсан) · 17-р жарны 58 он хөх хулга
- на жил
+SUMMARY:Шинийн 2 · Намрын эхэн сар (шинийн 1 та
+ сарсан)
 DESCRIPTION:Намрын эхэн хар бич сар\n17-р жарны 58
   он хөх хулгана жил
 TRANSP:TRANSPARENT
@@ -4489,8 +4179,7 @@ UID:mongol-mn-no15-2044-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440922
 DTEND;VALUE=DATE:20440923
-SUMMARY:Шинийн 1 · Намрын дунд харагчин тахиа
-  сар · 17-р жарны 58 он хөх хулгана жил
+SUMMARY:Шинийн 1 · Намрын дунд сар
 DESCRIPTION:Намрын дунд харагчин тахиа сар\n17-р
   жарны 58 он хөх хулгана жил
 TRANSP:TRANSPARENT
@@ -4500,8 +4189,7 @@ UID:mongol-mn-no15-2044-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20441021
 DTEND;VALUE=DATE:20441022
-SUMMARY:Шинийн 1 · Намрын сүүл хөх нохой сар ·
-  17-р жарны 58 он хөх хулгана жил
+SUMMARY:Шинийн 1 · Намрын сүүл сар
 DESCRIPTION:Намрын сүүл хөх нохой сар\n17-р жарн
  ы 58 он хөх хулгана жил
 TRANSP:TRANSPARENT
@@ -4523,8 +4211,7 @@ UID:mongol-mn-no15-2044-10-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20441120
 DTEND;VALUE=DATE:20441121
-SUMMARY:Шинийн 1 · Өвлийн эхэн хөхөгчин гахай
-  сар · 17-р жарны 58 он хөх хулгана жил
+SUMMARY:Шинийн 1 · Өвлийн эхэн сар
 DESCRIPTION:Өвлийн эхэн хөхөгчин гахай сар\n17-р
   жарны 58 он хөх хулгана жил
 TRANSP:TRANSPARENT
@@ -4534,8 +4221,7 @@ UID:mongol-mn-no15-2044-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20441220
 DTEND;VALUE=DATE:20441221
-SUMMARY:Шинийн 1 · Өвлийн дунд улаан хулгана 
- сар · 17-р жарны 58 он хөх хулгана жил
+SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд улаан хулгана сар\n17-р 
  жарны 58 он хөх хулгана жил
 TRANSP:TRANSPARENT
@@ -4545,8 +4231,7 @@ UID:mongol-mn-no15-2044-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450119
 DTEND;VALUE=DATE:20450120
-SUMMARY:Шинийн 1 · Өвлийн сүүл улаагчин үхэр 
- сар · 17-р жарны 58 он хөх хулгана жил
+SUMMARY:Шинийн 1 · Өвлийн сүүл сар
 DESCRIPTION:Өвлийн сүүл улаагчин үхэр сар\n17-р 
  жарны 58 он хөх хулгана жил
 TRANSP:TRANSPARENT
@@ -4565,8 +4250,7 @@ UID:mongol-mn-no15-2045-01-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450217
 DTEND;VALUE=DATE:20450218
-SUMMARY:Шинийн 1 · Хаврын тэргүүн шар барс са
- р · 17-р жарны 59 он хөхөгчин үхэр жил
+SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн шар барс сар\n17-р жа
  рны 59 он хөхөгчин үхэр жил
 TRANSP:TRANSPARENT
@@ -4586,8 +4270,7 @@ UID:mongol-mn-no15-2045-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450319
 DTEND;VALUE=DATE:20450320
-SUMMARY:Шинийн 1 · Хаврын дунд шарагчин туула
- й сар · 17-р жарны 59 он хөхөгчин үхэр жил
+SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд шарагчин туулай сар\n17-
  р жарны 59 он хөхөгчин үхэр жил
 TRANSP:TRANSPARENT
@@ -4597,8 +4280,7 @@ UID:mongol-mn-no15-2045-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450418
 DTEND;VALUE=DATE:20450419
-SUMMARY:Шинийн 1 · Хаврын сүүл цагаан луу сар 
- · 17-р жарны 59 он хөхөгчин үхэр жил
+SUMMARY:Шинийн 1 · Хаврын сүүл сар
 DESCRIPTION:Хаврын сүүл цагаан луу сар\n17-р жар
  ны 59 он хөхөгчин үхэр жил
 TRANSP:TRANSPARENT
@@ -4608,8 +4290,7 @@ UID:mongol-mn-no15-2045-04-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450517
 DTEND;VALUE=DATE:20450518
-SUMMARY:Шинийн 1 · Зуны эхэн цагаагчин могой 
- сар · 17-р жарны 59 он хөхөгчин үхэр жил
+SUMMARY:Шинийн 1 · Зуны эхэн сар
 DESCRIPTION:Зуны эхэн цагаагчин могой сар\n17-р 
  жарны 59 он хөхөгчин үхэр жил
 TRANSP:TRANSPARENT
@@ -4630,8 +4311,7 @@ UID:mongol-mn-no15-2045-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450616
 DTEND;VALUE=DATE:20450617
-SUMMARY:Шинийн 1 · Зуны дунд хар морь сар · 17-р
-  жарны 59 он хөхөгчин үхэр жил
+SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд хар морь сар\n17-р жарны 59 
  он хөхөгчин үхэр жил
 TRANSP:TRANSPARENT
@@ -4641,8 +4321,7 @@ UID:mongol-mn-no15-2045-06-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450715
 DTEND;VALUE=DATE:20450716
-SUMMARY:Шинийн 1 · Зуны сүүл харагчин хонь са
- р · 17-р жарны 59 он хөхөгчин үхэр жил
+SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл харагчин хонь сар\n17-р жа
  рны 59 он хөхөгчин үхэр жил
 TRANSP:TRANSPARENT
@@ -4652,8 +4331,7 @@ UID:mongol-mn-no15-2045-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450813
 DTEND;VALUE=DATE:20450814
-SUMMARY:Шинийн 1 · Намрын эхэн хөх бич сар · 17-
- р жарны 59 он хөхөгчин үхэр жил
+SUMMARY:Шинийн 1 · Намрын эхэн сар
 DESCRIPTION:Намрын эхэн хөх бич сар\n17-р жарны 59
   он хөхөгчин үхэр жил
 TRANSP:TRANSPARENT
@@ -4663,9 +4341,8 @@ UID:mongol-mn-no15-2045-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450912
 DTEND;VALUE=DATE:20450913
-SUMMARY:Шинийн 2 · Намрын дунд хөхөгчин тахиа
-  сар (шинийн 1 тасарсан) · 17-р жарны 59 он хө
- хөгчин үхэр жил
+SUMMARY:Шинийн 2 · Намрын дунд сар (шинийн 1 та
+ сарсан)
 DESCRIPTION:Намрын дунд хөхөгчин тахиа сар\n17-р
   жарны 59 он хөхөгчин үхэр жил
 TRANSP:TRANSPARENT
@@ -4675,8 +4352,7 @@ UID:mongol-mn-no15-2045-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20451011
 DTEND;VALUE=DATE:20451012
-SUMMARY:Шинийн 1 · Намрын сүүл улаан нохой са
- р · 17-р жарны 59 он хөхөгчин үхэр жил
+SUMMARY:Шинийн 1 · Намрын сүүл сар
 DESCRIPTION:Намрын сүүл улаан нохой сар\n17-р жа
  рны 59 он хөхөгчин үхэр жил
 TRANSP:TRANSPARENT
@@ -4698,8 +4374,7 @@ UID:mongol-mn-no15-2045-10-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20451109
 DTEND;VALUE=DATE:20451110
-SUMMARY:Шинийн 1 · Өвлийн эхэн улаагчин гахай
-  сар · 17-р жарны 59 он хөхөгчин үхэр жил
+SUMMARY:Шинийн 1 · Өвлийн эхэн сар
 DESCRIPTION:Өвлийн эхэн улаагчин гахай сар\n17-р
   жарны 59 он хөхөгчин үхэр жил
 TRANSP:TRANSPARENT
@@ -4709,8 +4384,7 @@ UID:mongol-mn-no15-2045-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20451209
 DTEND;VALUE=DATE:20451210
-SUMMARY:Шинийн 1 · Өвлийн дунд шар хулгана са
- р · 17-р жарны 59 он хөхөгчин үхэр жил
+SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд шар хулгана сар\n17-р жа
  рны 59 он хөхөгчин үхэр жил
 TRANSP:TRANSPARENT
@@ -4720,8 +4394,7 @@ UID:mongol-mn-no15-2045-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460108
 DTEND;VALUE=DATE:20460109
-SUMMARY:Шинийн 1 · Өвлийн сүүл шарагчин үхэр 
- сар · 17-р жарны 59 он хөхөгчин үхэр жил
+SUMMARY:Шинийн 1 · Өвлийн сүүл сар
 DESCRIPTION:Өвлийн сүүл шарагчин үхэр сар\n17-р 
  жарны 59 он хөхөгчин үхэр жил
 TRANSP:TRANSPARENT
@@ -4740,8 +4413,7 @@ UID:mongol-mn-no15-2046-01-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460206
 DTEND;VALUE=DATE:20460207
-SUMMARY:Шинийн 1 · Хаврын тэргүүн цагаан барс
-  сар · 17-р жарны 60 он улаан бар жил
+SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн цагаан барс сар\n17-р
   жарны 60 он улаан бар жил
 TRANSP:TRANSPARENT
@@ -4761,8 +4433,7 @@ UID:mongol-mn-no15-2046-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460308
 DTEND;VALUE=DATE:20460309
-SUMMARY:Шинийн 1 · Хаврын дунд цагаагчин туул
- ай сар · 17-р жарны 60 он улаан бар жил
+SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд цагаагчин туулай сар\n1
  7-р жарны 60 он улаан бар жил
 TRANSP:TRANSPARENT
@@ -4772,8 +4443,7 @@ UID:mongol-mn-no15-2046-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460407
 DTEND;VALUE=DATE:20460408
-SUMMARY:Шинийн 1 · Хаврын сүүл хар луу сар · 17-
- р жарны 60 он улаан бар жил
+SUMMARY:Шинийн 1 · Хаврын сүүл сар
 DESCRIPTION:Хаврын сүүл хар луу сар\n17-р жарны 60
   он улаан бар жил
 TRANSP:TRANSPARENT
@@ -4783,8 +4453,7 @@ UID:mongol-mn-no15-2046-04-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460507
 DTEND;VALUE=DATE:20460508
-SUMMARY:Шинийн 1 · Зуны эхэн харагчин могой с
- ар · 17-р жарны 60 он улаан бар жил
+SUMMARY:Шинийн 1 · Зуны эхэн сар
 DESCRIPTION:Зуны эхэн харагчин могой сар\n17-р ж
  арны 60 он улаан бар жил
 TRANSP:TRANSPARENT
@@ -4805,8 +4474,7 @@ UID:mongol-mn-no15-2046-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460605
 DTEND;VALUE=DATE:20460606
-SUMMARY:Шинийн 1 · Зуны дунд хөх морь сар · 17-р
-  жарны 60 он улаан бар жил
+SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд хөх морь сар\n17-р жарны 60 
  он улаан бар жил
 TRANSP:TRANSPARENT
@@ -4816,8 +4484,7 @@ UID:mongol-mn-no15-2046-06-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460705
 DTEND;VALUE=DATE:20460706
-SUMMARY:Шинийн 1 · Зуны сүүл хөхөгчин хонь са
- р · 17-р жарны 60 он улаан бар жил
+SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл хөхөгчин хонь сар\n17-р жа
  рны 60 он улаан бар жил
 TRANSP:TRANSPARENT
@@ -4827,8 +4494,7 @@ UID:mongol-mn-no15-2046-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460803
 DTEND;VALUE=DATE:20460804
-SUMMARY:Шинийн 1 · Намрын эхэн улаан бич сар ·
-  17-р жарны 60 он улаан бар жил
+SUMMARY:Шинийн 1 · Намрын эхэн сар
 DESCRIPTION:Намрын эхэн улаан бич сар\n17-р жарн
  ы 60 он улаан бар жил
 TRANSP:TRANSPARENT
@@ -4838,8 +4504,7 @@ UID:mongol-mn-no15-2046-08L-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460901
 DTEND;VALUE=DATE:20460902
-SUMMARY:Шинийн 1 · Намрын дунд (илүү) улаагчин
-  тахиа сар · 17-р жарны 60 он улаан бар жил
+SUMMARY:Шинийн 1 · Намрын дунд (илүү) сар
 DESCRIPTION:Намрын дунд (илүү) улаагчин тахиа с
  ар\n17-р жарны 60 он улаан бар жил
 TRANSP:TRANSPARENT
@@ -4849,9 +4514,8 @@ UID:mongol-mn-no15-2046-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20461001
 DTEND;VALUE=DATE:20461002
-SUMMARY:Шинийн 2 · Намрын дунд улаагчин тахиа
-  сар (шинийн 1 тасарсан) · 17-р жарны 60 он ул
- аан бар жил
+SUMMARY:Шинийн 2 · Намрын дунд сар (шинийн 1 та
+ сарсан)
 DESCRIPTION:Намрын дунд улаагчин тахиа сар\n17-р
   жарны 60 он улаан бар жил
 TRANSP:TRANSPARENT
@@ -4861,8 +4525,7 @@ UID:mongol-mn-no15-2046-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20461030
 DTEND;VALUE=DATE:20461031
-SUMMARY:Шинийн 1 · Намрын сүүл шар нохой сар ·
-  17-р жарны 60 он улаан бар жил
+SUMMARY:Шинийн 1 · Намрын сүүл сар
 DESCRIPTION:Намрын сүүл шар нохой сар\n17-р жарн
  ы 60 он улаан бар жил
 TRANSP:TRANSPARENT
@@ -4884,8 +4547,7 @@ UID:mongol-mn-no15-2046-10-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20461128
 DTEND;VALUE=DATE:20461129
-SUMMARY:Шинийн 1 · Өвлийн эхэн шарагчин гахай
-  сар · 17-р жарны 60 он улаан бар жил
+SUMMARY:Шинийн 1 · Өвлийн эхэн сар
 DESCRIPTION:Өвлийн эхэн шарагчин гахай сар\n17-р
   жарны 60 он улаан бар жил
 TRANSP:TRANSPARENT
@@ -4895,8 +4557,7 @@ UID:mongol-mn-no15-2046-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20461228
 DTEND;VALUE=DATE:20461229
-SUMMARY:Шинийн 1 · Өвлийн дунд цагаан хулгана
-  сар · 17-р жарны 60 он улаан бар жил
+SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд цагаан хулгана сар\n17-р
   жарны 60 он улаан бар жил
 TRANSP:TRANSPARENT
@@ -4906,8 +4567,7 @@ UID:mongol-mn-no15-2046-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470126
 DTEND;VALUE=DATE:20470127
-SUMMARY:Шинийн 1 · Өвлийн сүүл цагаагчин үхэр
-  сар · 17-р жарны 60 он улаан бар жил
+SUMMARY:Шинийн 1 · Өвлийн сүүл сар
 DESCRIPTION:Өвлийн сүүл цагаагчин үхэр сар\n17-р
   жарны 60 он улаан бар жил
 TRANSP:TRANSPARENT
@@ -4926,8 +4586,7 @@ UID:mongol-mn-no15-2047-01-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470225
 DTEND;VALUE=DATE:20470226
-SUMMARY:Шинийн 1 · Хаврын тэргүүн хар барс са
- р · 18-р жарны 1 он улаагчин туулай жил
+SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн хар барс сар\n18-р жа
  рны 1 он улаагчин туулай жил
 TRANSP:TRANSPARENT
@@ -4947,8 +4606,7 @@ UID:mongol-mn-no15-2047-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470327
 DTEND;VALUE=DATE:20470328
-SUMMARY:Шинийн 1 · Хаврын дунд харагчин туула
- й сар · 18-р жарны 1 он улаагчин туулай жил
+SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд харагчин туулай сар\n18-
  р жарны 1 он улаагчин туулай жил
 TRANSP:TRANSPARENT
@@ -4958,8 +4616,7 @@ UID:mongol-mn-no15-2047-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470426
 DTEND;VALUE=DATE:20470427
-SUMMARY:Шинийн 1 · Хаврын сүүл хөх луу сар · 18-
- р жарны 1 он улаагчин туулай жил
+SUMMARY:Шинийн 1 · Хаврын сүүл сар
 DESCRIPTION:Хаврын сүүл хөх луу сар\n18-р жарны 1 
  он улаагчин туулай жил
 TRANSP:TRANSPARENT
@@ -4969,8 +4626,7 @@ UID:mongol-mn-no15-2047-04-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470525
 DTEND;VALUE=DATE:20470526
-SUMMARY:Шинийн 1 · Зуны эхэн хөхөгчин могой с
- ар · 18-р жарны 1 он улаагчин туулай жил
+SUMMARY:Шинийн 1 · Зуны эхэн сар
 DESCRIPTION:Зуны эхэн хөхөгчин могой сар\n18-р ж
  арны 1 он улаагчин туулай жил
 TRANSP:TRANSPARENT
@@ -4991,8 +4647,7 @@ UID:mongol-mn-no15-2047-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470624
 DTEND;VALUE=DATE:20470625
-SUMMARY:Шинийн 1 · Зуны дунд улаан морь сар · 1
- 8-р жарны 1 он улаагчин туулай жил
+SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд улаан морь сар\n18-р жарны 
  1 он улаагчин туулай жил
 TRANSP:TRANSPARENT
@@ -5002,8 +4657,7 @@ UID:mongol-mn-no15-2047-06-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470723
 DTEND;VALUE=DATE:20470724
-SUMMARY:Шинийн 1 · Зуны сүүл улаагчин хонь са
- р · 18-р жарны 1 он улаагчин туулай жил
+SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл улаагчин хонь сар\n18-р жа
  рны 1 он улаагчин туулай жил
 TRANSP:TRANSPARENT
@@ -5013,8 +4667,7 @@ UID:mongol-mn-no15-2047-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470822
 DTEND;VALUE=DATE:20470823
-SUMMARY:Шинийн 1 · Намрын эхэн шар бич сар · 18-
- р жарны 1 он улаагчин туулай жил
+SUMMARY:Шинийн 1 · Намрын эхэн сар
 DESCRIPTION:Намрын эхэн шар бич сар\n18-р жарны 1 
  он улаагчин туулай жил
 TRANSP:TRANSPARENT
@@ -5024,8 +4677,7 @@ UID:mongol-mn-no15-2047-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470920
 DTEND;VALUE=DATE:20470921
-SUMMARY:Шинийн 1 · Намрын дунд шарагчин тахиа
-  сар · 18-р жарны 1 он улаагчин туулай жил
+SUMMARY:Шинийн 1 · Намрын дунд сар
 DESCRIPTION:Намрын дунд шарагчин тахиа сар\n18-р
   жарны 1 он улаагчин туулай жил
 TRANSP:TRANSPARENT
@@ -5035,8 +4687,7 @@ UID:mongol-mn-no15-2047-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20471020
 DTEND;VALUE=DATE:20471021
-SUMMARY:Шинийн 1 · Намрын сүүл цагаан нохой с
- ар · 18-р жарны 1 он улаагчин туулай жил
+SUMMARY:Шинийн 1 · Намрын сүүл сар
 DESCRIPTION:Намрын сүүл цагаан нохой сар\n18-р ж
  арны 1 он улаагчин туулай жил
 TRANSP:TRANSPARENT
@@ -5058,8 +4709,7 @@ UID:mongol-mn-no15-2047-10-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20471118
 DTEND;VALUE=DATE:20471119
-SUMMARY:Шинийн 1 · Өвлийн эхэн цагаагчин гаха
- й сар · 18-р жарны 1 он улаагчин туулай жил
+SUMMARY:Шинийн 1 · Өвлийн эхэн сар
 DESCRIPTION:Өвлийн эхэн цагаагчин гахай сар\n18-
  р жарны 1 он улаагчин туулай жил
 TRANSP:TRANSPARENT
@@ -5069,8 +4719,7 @@ UID:mongol-mn-no15-2047-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20471217
 DTEND;VALUE=DATE:20471218
-SUMMARY:Шинийн 1 · Өвлийн дунд хар хулгана са
- р · 18-р жарны 1 он улаагчин туулай жил
+SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд хар хулгана сар\n18-р жа
  рны 1 он улаагчин туулай жил
 TRANSP:TRANSPARENT
@@ -5080,8 +4729,7 @@ UID:mongol-mn-no15-2047-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480116
 DTEND;VALUE=DATE:20480117
-SUMMARY:Шинийн 1 · Өвлийн сүүл харагчин үхэр 
- сар · 18-р жарны 1 он улаагчин туулай жил
+SUMMARY:Шинийн 1 · Өвлийн сүүл сар
 DESCRIPTION:Өвлийн сүүл харагчин үхэр сар\n18-р 
  жарны 1 он улаагчин туулай жил
 TRANSP:TRANSPARENT
@@ -5100,8 +4748,7 @@ UID:mongol-mn-no15-2048-01-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480214
 DTEND;VALUE=DATE:20480215
-SUMMARY:Шинийн 1 · Хаврын тэргүүн хөх барс са
- р · 18-р жарны 2 он шар луу жил
+SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн хөх барс сар\n18-р жа
  рны 2 он шар луу жил
 TRANSP:TRANSPARENT
@@ -5121,8 +4768,7 @@ UID:mongol-mn-no15-2048-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480315
 DTEND;VALUE=DATE:20480316
-SUMMARY:Шинийн 1 · Хаврын дунд хөхөгчин туула
- й сар · 18-р жарны 2 он шар луу жил
+SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд хөхөгчин туулай сар\n18-
  р жарны 2 он шар луу жил
 TRANSP:TRANSPARENT
@@ -5132,8 +4778,7 @@ UID:mongol-mn-no15-2048-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480414
 DTEND;VALUE=DATE:20480415
-SUMMARY:Шинийн 1 · Хаврын сүүл улаан луу сар ·
-  18-р жарны 2 он шар луу жил
+SUMMARY:Шинийн 1 · Хаврын сүүл сар
 DESCRIPTION:Хаврын сүүл улаан луу сар\n18-р жарн
  ы 2 он шар луу жил
 TRANSP:TRANSPARENT
@@ -5143,8 +4788,7 @@ UID:mongol-mn-no15-2048-04-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480513
 DTEND;VALUE=DATE:20480514
-SUMMARY:Шинийн 1 · Зуны эхэн улаагчин могой с
- ар · 18-р жарны 2 он шар луу жил
+SUMMARY:Шинийн 1 · Зуны эхэн сар
 DESCRIPTION:Зуны эхэн улаагчин могой сар\n18-р ж
  арны 2 он шар луу жил
 TRANSP:TRANSPARENT
@@ -5165,8 +4809,7 @@ UID:mongol-mn-no15-2048-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480612
 DTEND;VALUE=DATE:20480613
-SUMMARY:Шинийн 1 · Зуны дунд шар морь сар · 18-р
-  жарны 2 он шар луу жил
+SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд шар морь сар\n18-р жарны 2 о
  н шар луу жил
 TRANSP:TRANSPARENT
@@ -5176,8 +4819,7 @@ UID:mongol-mn-no15-2048-06-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480712
 DTEND;VALUE=DATE:20480713
-SUMMARY:Шинийн 1 · Зуны сүүл шарагчин хонь са
- р · 18-р жарны 2 он шар луу жил
+SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл шарагчин хонь сар\n18-р жа
  рны 2 он шар луу жил
 TRANSP:TRANSPARENT
@@ -5187,8 +4829,7 @@ UID:mongol-mn-no15-2048-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480810
 DTEND;VALUE=DATE:20480811
-SUMMARY:Шинийн 1 · Намрын эхэн цагаан бич сар 
- · 18-р жарны 2 он шар луу жил
+SUMMARY:Шинийн 1 · Намрын эхэн сар
 DESCRIPTION:Намрын эхэн цагаан бич сар\n18-р жар
  ны 2 он шар луу жил
 TRANSP:TRANSPARENT
@@ -5198,8 +4839,7 @@ UID:mongol-mn-no15-2048-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480909
 DTEND;VALUE=DATE:20480910
-SUMMARY:Шинийн 1 · Намрын дунд цагаагчин тахи
- а сар · 18-р жарны 2 он шар луу жил
+SUMMARY:Шинийн 1 · Намрын дунд сар
 DESCRIPTION:Намрын дунд цагаагчин тахиа сар\n18-
  р жарны 2 он шар луу жил
 TRANSP:TRANSPARENT
@@ -5209,8 +4849,7 @@ UID:mongol-mn-no15-2048-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20481008
 DTEND;VALUE=DATE:20481009
-SUMMARY:Шинийн 1 · Намрын сүүл хар нохой сар ·
-  18-р жарны 2 он шар луу жил
+SUMMARY:Шинийн 1 · Намрын сүүл сар
 DESCRIPTION:Намрын сүүл хар нохой сар\n18-р жарн
  ы 2 он шар луу жил
 TRANSP:TRANSPARENT
@@ -5232,8 +4871,7 @@ UID:mongol-mn-no15-2048-10-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20481107
 DTEND;VALUE=DATE:20481108
-SUMMARY:Шинийн 1 · Өвлийн эхэн харагчин гахай
-  сар · 18-р жарны 2 он шар луу жил
+SUMMARY:Шинийн 1 · Өвлийн эхэн сар
 DESCRIPTION:Өвлийн эхэн харагчин гахай сар\n18-р
   жарны 2 он шар луу жил
 TRANSP:TRANSPARENT
@@ -5243,8 +4881,7 @@ UID:mongol-mn-no15-2048-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20481206
 DTEND;VALUE=DATE:20481207
-SUMMARY:Шинийн 1 · Өвлийн дунд хөх хулгана са
- р · 18-р жарны 2 он шар луу жил
+SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд хөх хулгана сар\n18-р жа
  рны 2 он шар луу жил
 TRANSP:TRANSPARENT
@@ -5254,9 +4891,8 @@ UID:mongol-mn-no15-2048-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490105
 DTEND;VALUE=DATE:20490106
-SUMMARY:Шинийн 2 · Өвлийн сүүл хөхөгчин үхэр 
- сар (шинийн 1 тасарсан) · 18-р жарны 2 он шар
-  луу жил
+SUMMARY:Шинийн 2 · Өвлийн сүүл сар (шинийн 1 та
+ сарсан)
 DESCRIPTION:Өвлийн сүүл хөхөгчин үхэр сар\n18-р 
  жарны 2 он шар луу жил
 TRANSP:TRANSPARENT
@@ -5275,8 +4911,7 @@ UID:mongol-mn-no15-2049-01-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490203
 DTEND;VALUE=DATE:20490204
-SUMMARY:Шинийн 1 · Хаврын тэргүүн улаан барс 
- сар · 18-р жарны 3 он шарагчин могой жил
+SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн улаан барс сар\n18-р 
  жарны 3 он шарагчин могой жил
 TRANSP:TRANSPARENT
@@ -5296,8 +4931,7 @@ UID:mongol-mn-no15-2049-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490304
 DTEND;VALUE=DATE:20490305
-SUMMARY:Шинийн 1 · Хаврын дунд улаагчин туула
- й сар · 18-р жарны 3 он шарагчин могой жил
+SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд улаагчин туулай сар\n18-
  р жарны 3 он шарагчин могой жил
 TRANSP:TRANSPARENT
@@ -5307,8 +4941,7 @@ UID:mongol-mn-no15-2049-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490403
 DTEND;VALUE=DATE:20490404
-SUMMARY:Шинийн 1 · Хаврын сүүл шар луу сар · 18-
- р жарны 3 он шарагчин могой жил
+SUMMARY:Шинийн 1 · Хаврын сүүл сар
 DESCRIPTION:Хаврын сүүл шар луу сар\n18-р жарны 3 
  он шарагчин могой жил
 TRANSP:TRANSPARENT
@@ -5318,8 +4951,7 @@ UID:mongol-mn-no15-2049-04-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490502
 DTEND;VALUE=DATE:20490503
-SUMMARY:Шинийн 1 · Зуны эхэн шарагчин могой с
- ар · 18-р жарны 3 он шарагчин могой жил
+SUMMARY:Шинийн 1 · Зуны эхэн сар
 DESCRIPTION:Зуны эхэн шарагчин могой сар\n18-р ж
  арны 3 он шарагчин могой жил
 TRANSP:TRANSPARENT
@@ -5340,8 +4972,7 @@ UID:mongol-mn-no15-2049-05L-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490601
 DTEND;VALUE=DATE:20490602
-SUMMARY:Шинийн 1 · Зуны дунд (илүү) цагаан мор
- ь сар · 18-р жарны 3 он шарагчин могой жил
+SUMMARY:Шинийн 1 · Зуны дунд (илүү) сар
 DESCRIPTION:Зуны дунд (илүү) цагаан морь сар\n18-
  р жарны 3 он шарагчин могой жил
 TRANSP:TRANSPARENT
@@ -5351,8 +4982,7 @@ UID:mongol-mn-no15-2049-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490701
 DTEND;VALUE=DATE:20490702
-SUMMARY:Шинийн 1 · Зуны дунд цагаан морь сар ·
-  18-р жарны 3 он шарагчин могой жил
+SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд цагаан морь сар\n18-р жарн
  ы 3 он шарагчин могой жил
 TRANSP:TRANSPARENT
@@ -5362,8 +4992,7 @@ UID:mongol-mn-no15-2049-06-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490730
 DTEND;VALUE=DATE:20490731
-SUMMARY:Шинийн 1 · Зуны сүүл цагаагчин хонь с
- ар · 18-р жарны 3 он шарагчин могой жил
+SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл цагаагчин хонь сар\n18-р ж
  арны 3 он шарагчин могой жил
 TRANSP:TRANSPARENT
@@ -5373,8 +5002,7 @@ UID:mongol-mn-no15-2049-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490829
 DTEND;VALUE=DATE:20490830
-SUMMARY:Шинийн 1 · Намрын эхэн хар бич сар · 18-
- р жарны 3 он шарагчин могой жил
+SUMMARY:Шинийн 1 · Намрын эхэн сар
 DESCRIPTION:Намрын эхэн хар бич сар\n18-р жарны 3 
  он шарагчин могой жил
 TRANSP:TRANSPARENT
@@ -5384,8 +5012,7 @@ UID:mongol-mn-no15-2049-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490927
 DTEND;VALUE=DATE:20490928
-SUMMARY:Шинийн 1 · Намрын дунд харагчин тахиа
-  сар · 18-р жарны 3 он шарагчин могой жил
+SUMMARY:Шинийн 1 · Намрын дунд сар
 DESCRIPTION:Намрын дунд харагчин тахиа сар\n18-р
   жарны 3 он шарагчин могой жил
 TRANSP:TRANSPARENT
@@ -5395,7 +5022,7 @@ UID:mongol-mn-no15-2049-08-d01r@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490928
 DTEND;VALUE=DATE:20490929
-SUMMARY:Шинийн 1 (давхар)
+SUMMARY:Шинийн 1 (давхар) · Намрын дунд сар
 DESCRIPTION:Намрын дунд харагчин тахиа сар\n18-р
   жарны 3 он шарагчин могой жил
 TRANSP:TRANSPARENT
@@ -5405,8 +5032,7 @@ UID:mongol-mn-no15-2049-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20491027
 DTEND;VALUE=DATE:20491028
-SUMMARY:Шинийн 1 · Намрын сүүл хөх нохой сар ·
-  18-р жарны 3 он шарагчин могой жил
+SUMMARY:Шинийн 1 · Намрын сүүл сар
 DESCRIPTION:Намрын сүүл хөх нохой сар\n18-р жарн
  ы 3 он шарагчин могой жил
 TRANSP:TRANSPARENT
@@ -5428,8 +5054,7 @@ UID:mongol-mn-no15-2049-10-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20491126
 DTEND;VALUE=DATE:20491127
-SUMMARY:Шинийн 1 · Өвлийн эхэн хөхөгчин гахай
-  сар · 18-р жарны 3 он шарагчин могой жил
+SUMMARY:Шинийн 1 · Өвлийн эхэн сар
 DESCRIPTION:Өвлийн эхэн хөхөгчин гахай сар\n18-р
   жарны 3 он шарагчин могой жил
 TRANSP:TRANSPARENT
@@ -5439,8 +5064,7 @@ UID:mongol-mn-no15-2049-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20491225
 DTEND;VALUE=DATE:20491226
-SUMMARY:Шинийн 1 · Өвлийн дунд улаан хулгана 
- сар · 18-р жарны 3 он шарагчин могой жил
+SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд улаан хулгана сар\n18-р 
  жарны 3 он шарагчин могой жил
 TRANSP:TRANSPARENT
@@ -5450,8 +5074,7 @@ UID:mongol-mn-no15-2049-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500124
 DTEND;VALUE=DATE:20500125
-SUMMARY:Шинийн 1 · Өвлийн сүүл улаагчин үхэр 
- сар · 18-р жарны 3 он шарагчин могой жил
+SUMMARY:Шинийн 1 · Өвлийн сүүл сар
 DESCRIPTION:Өвлийн сүүл улаагчин үхэр сар\n18-р 
  жарны 3 он шарагчин могой жил
 TRANSP:TRANSPARENT
@@ -5470,8 +5093,7 @@ UID:mongol-mn-no15-2050-01-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500222
 DTEND;VALUE=DATE:20500223
-SUMMARY:Шинийн 1 · Хаврын тэргүүн шар барс са
- р · 18-р жарны 4 он цагаан морин жил
+SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн шар барс сар\n18-р жа
  рны 4 он цагаан морин жил
 TRANSP:TRANSPARENT
@@ -5491,9 +5113,8 @@ UID:mongol-mn-no15-2050-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500324
 DTEND;VALUE=DATE:20500325
-SUMMARY:Шинийн 2 · Хаврын дунд шарагчин туула
- й сар (шинийн 1 тасарсан) · 18-р жарны 4 он ц
- агаан морин жил
+SUMMARY:Шинийн 2 · Хаврын дунд сар (шинийн 1 та
+ сарсан)
 DESCRIPTION:Хаврын дунд шарагчин туулай сар\n18-
  р жарны 4 он цагаан морин жил
 TRANSP:TRANSPARENT
@@ -5503,8 +5124,7 @@ UID:mongol-mn-no15-2050-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500422
 DTEND;VALUE=DATE:20500423
-SUMMARY:Шинийн 1 · Хаврын сүүл цагаан луу сар 
- · 18-р жарны 4 он цагаан морин жил
+SUMMARY:Шинийн 1 · Хаврын сүүл сар
 DESCRIPTION:Хаврын сүүл цагаан луу сар\n18-р жар
  ны 4 он цагаан морин жил
 TRANSP:TRANSPARENT
@@ -5514,8 +5134,7 @@ UID:mongol-mn-no15-2050-04-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500521
 DTEND;VALUE=DATE:20500522
-SUMMARY:Шинийн 1 · Зуны эхэн цагаагчин могой 
- сар · 18-р жарны 4 он цагаан морин жил
+SUMMARY:Шинийн 1 · Зуны эхэн сар
 DESCRIPTION:Зуны эхэн цагаагчин могой сар\n18-р 
  жарны 4 он цагаан морин жил
 TRANSP:TRANSPARENT
@@ -5536,8 +5155,7 @@ UID:mongol-mn-no15-2050-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500620
 DTEND;VALUE=DATE:20500621
-SUMMARY:Шинийн 1 · Зуны дунд хар морь сар · 18-р
-  жарны 4 он цагаан морин жил
+SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд хар морь сар\n18-р жарны 4 о
  н цагаан морин жил
 TRANSP:TRANSPARENT
@@ -5547,8 +5165,7 @@ UID:mongol-mn-no15-2050-06-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500719
 DTEND;VALUE=DATE:20500720
-SUMMARY:Шинийн 1 · Зуны сүүл харагчин хонь са
- р · 18-р жарны 4 он цагаан морин жил
+SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл харагчин хонь сар\n18-р жа
  рны 4 он цагаан морин жил
 TRANSP:TRANSPARENT
@@ -5558,8 +5175,7 @@ UID:mongol-mn-no15-2050-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500818
 DTEND;VALUE=DATE:20500819
-SUMMARY:Шинийн 1 · Намрын эхэн хөх бич сар · 18-
- р жарны 4 он цагаан морин жил
+SUMMARY:Шинийн 1 · Намрын эхэн сар
 DESCRIPTION:Намрын эхэн хөх бич сар\n18-р жарны 4 
  он цагаан морин жил
 TRANSP:TRANSPARENT
@@ -5569,8 +5185,7 @@ UID:mongol-mn-no15-2050-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500917
 DTEND;VALUE=DATE:20500918
-SUMMARY:Шинийн 1 · Намрын дунд хөхөгчин тахиа
-  сар · 18-р жарны 4 он цагаан морин жил
+SUMMARY:Шинийн 1 · Намрын дунд сар
 DESCRIPTION:Намрын дунд хөхөгчин тахиа сар\n18-р
   жарны 4 он цагаан морин жил
 TRANSP:TRANSPARENT
@@ -5580,8 +5195,7 @@ UID:mongol-mn-no15-2050-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20501016
 DTEND;VALUE=DATE:20501017
-SUMMARY:Шинийн 1 · Намрын сүүл улаан нохой са
- р · 18-р жарны 4 он цагаан морин жил
+SUMMARY:Шинийн 1 · Намрын сүүл сар
 DESCRIPTION:Намрын сүүл улаан нохой сар\n18-р жа
  рны 4 он цагаан морин жил
 TRANSP:TRANSPARENT
@@ -5603,8 +5217,7 @@ UID:mongol-mn-no15-2050-10-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20501115
 DTEND;VALUE=DATE:20501116
-SUMMARY:Шинийн 1 · Өвлийн эхэн улаагчин гахай
-  сар · 18-р жарны 4 он цагаан морин жил
+SUMMARY:Шинийн 1 · Өвлийн эхэн сар
 DESCRIPTION:Өвлийн эхэн улаагчин гахай сар\n18-р
   жарны 4 он цагаан морин жил
 TRANSP:TRANSPARENT
@@ -5614,8 +5227,7 @@ UID:mongol-mn-no15-2050-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20501215
 DTEND;VALUE=DATE:20501216
-SUMMARY:Шинийн 1 · Өвлийн дунд шар хулгана са
- р · 18-р жарны 4 он цагаан морин жил
+SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд шар хулгана сар\n18-р жа
  рны 4 он цагаан морин жил
 TRANSP:TRANSPARENT
