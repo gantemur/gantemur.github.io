@@ -74,11 +74,22 @@ END:VEVENT
 BEGIN:VEVENT
 UID:bhutan-dz-no15-2020-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20200424
-DTEND;VALUE=DATE:20200425
+DTSTART;VALUE=DATE:20200423
+DTEND;VALUE=DATE:20200424
 SUMMARY:ཚེས་༡ · ཟླ་བ་༣\, ལྕགས་འབྲུ
  ག · རབ་བྱུང་༡༧པའི་ལོ་༣༤\, ལྕ
  གས་བྱི་བ་ལོ།
+DESCRIPTION:ཟླ་བ་༣\, ལྕགས་འབྲུག\nརབ་
+ བྱུང་༡༧པའི་ལོ་༣༤\, ལྕགས་བྱ
+ ི་བ་ལོ།
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bhutan-dz-no15-2020-03-d01r@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20200424
+DTEND;VALUE=DATE:20200425
+SUMMARY:ཚེས་༡ (ཞག་ལྷག)
 DESCRIPTION:ཟླ་བ་༣\, ལྕགས་འབྲུག\nརབ་
  བྱུང་༡༧པའི་ལོ་༣༤\, ལྕགས་བྱ
  ི་བ་ལོ།
