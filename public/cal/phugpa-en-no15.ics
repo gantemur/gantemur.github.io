@@ -1,0 +1,5744 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//caltib//lunar day feeds//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tibetan calendar (Phugpa)
+X-WR-CALDESC:Lunar day 1 of each month and main festivals\, 2020–2050. ht
+ tps://gantemur.github.io/cal/
+NAME:Tibetan calendar (Phugpa)
+DESCRIPTION:Lunar day 1 of each month and main festivals\, 2020–2050. htt
+ ps://gantemur.github.io/cal/
+URL:https://gantemur.github.io/cal/
+REFRESH-INTERVAL;VALUE=DURATION:P7D
+X-PUBLISHED-TTL:P7D
+BEGIN:VEVENT
+UID:phugpa-en-no15-2019-12-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20200125
+DTEND;VALUE=DATE:20200126
+SUMMARY:Lunar day 1 · Lunar Month 12\, Water Rabbit · Rabjung 17\, Year 3
+ 3\, Earth Pig
+DESCRIPTION:Lunar Month 12\, Water Rabbit\nRabjung 17\, Year 33\, Earth Pig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2020-01-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20200224
+DTEND;VALUE=DATE:20200225
+SUMMARY:Lunar day 1 · Lunar Month 1\, Wood Dragon · Rabjung 17\, Year 34\
+ , Iron Mouse
+DESCRIPTION:Lunar Month 1\, Wood Dragon\nRabjung 17\, Year 34\, Iron Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2020-01-losar@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20200224
+DTEND;VALUE=DATE:20200225
+SUMMARY:Losar (Tibetan New Year)
+DESCRIPTION:Rabjung 17\, Year 34\, Iron Mouse
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2020-01-chotrul@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20200309
+DTEND;VALUE=DATE:20200310
+SUMMARY:Chotrul Düchen (Day of Miracles)
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Wood Dragon\nRabjung 17\, Year 34
+ \, Iron Mouse
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2020-02-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20200325
+DTEND;VALUE=DATE:20200326
+SUMMARY:Lunar day 1 · Lunar Month 2\, Wood Snake · Rabjung 17\, Year 34\,
+  Iron Mouse
+DESCRIPTION:Lunar Month 2\, Wood Snake\nRabjung 17\, Year 34\, Iron Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2020-03-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20200423
+DTEND;VALUE=DATE:20200424
+SUMMARY:Lunar day 1 · Lunar Month 3\, Fire Horse · Rabjung 17\, Year 34\,
+  Iron Mouse
+DESCRIPTION:Lunar Month 3\, Fire Horse\nRabjung 17\, Year 34\, Iron Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2020-04-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20200523
+DTEND;VALUE=DATE:20200524
+SUMMARY:Lunar day 1 · Lunar Month 4\, Fire Sheep · Rabjung 17\, Year 34\,
+  Iron Mouse
+DESCRIPTION:Lunar Month 4\, Fire Sheep\nRabjung 17\, Year 34\, Iron Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2020-04-saga_dawa@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20200605
+DTEND;VALUE=DATE:20200606
+SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Fire Sheep\nRabjung 17\, Year 34\
+ , Iron Mouse
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2020-05-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20200622
+DTEND;VALUE=DATE:20200623
+SUMMARY:Lunar day 1 · Lunar Month 5\, Earth Monkey · Rabjung 17\, Year 34
+ \, Iron Mouse
+DESCRIPTION:Lunar Month 5\, Earth Monkey\nRabjung 17\, Year 34\, Iron Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2020-06-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20200721
+DTEND;VALUE=DATE:20200722
+SUMMARY:Lunar day 1 · Lunar Month 6\, Earth Bird · Rabjung 17\, Year 34\,
+  Iron Mouse
+DESCRIPTION:Lunar Month 6\, Earth Bird\nRabjung 17\, Year 34\, Iron Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2020-06-chokhor@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20200724
+DTEND;VALUE=DATE:20200725
+SUMMARY:Chökhor Düchen (First Turning of the Wheel)
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Earth Bird\nRabjung 17\, Year 34\,
+  Iron Mouse
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2020-07-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20200820
+DTEND;VALUE=DATE:20200821
+SUMMARY:Lunar day 1 · Lunar Month 7\, Iron Dog · Rabjung 17\, Year 34\, I
+ ron Mouse
+DESCRIPTION:Lunar Month 7\, Iron Dog\nRabjung 17\, Year 34\, Iron Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2020-08-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20200918
+DTEND;VALUE=DATE:20200919
+SUMMARY:Lunar day 1 · Lunar Month 8\, Iron Pig · Rabjung 17\, Year 34\, I
+ ron Mouse
+DESCRIPTION:Lunar Month 8\, Iron Pig\nRabjung 17\, Year 34\, Iron Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2020-09-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20201017
+DTEND;VALUE=DATE:20201018
+SUMMARY:Lunar day 1 · Lunar Month 9\, Water Mouse · Rabjung 17\, Year 34\
+ , Iron Mouse
+DESCRIPTION:Lunar Month 9\, Water Mouse\nRabjung 17\, Year 34\, Iron Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2020-09-lhabab@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20201107
+DTEND;VALUE=DATE:20201108
+SUMMARY:Lhabab Düchen (Descent from the god realm)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Water Mouse\nRabjung 17\, Year 34
+ \, Iron Mouse
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2020-10-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20201116
+DTEND;VALUE=DATE:20201117
+SUMMARY:Lunar day 1 · Lunar Month 10\, Water Ox · Rabjung 17\, Year 34\, 
+ Iron Mouse
+DESCRIPTION:Lunar Month 10\, Water Ox\nRabjung 17\, Year 34\, Iron Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2020-11-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20201215
+DTEND;VALUE=DATE:20201216
+SUMMARY:Lunar day 1 · Lunar Month 11\, Water Tiger · Rabjung 17\, Year 34
+ \, Iron Mouse
+DESCRIPTION:Lunar Month 11\, Water Tiger\nRabjung 17\, Year 34\, Iron Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2020-12-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20210114
+DTEND;VALUE=DATE:20210115
+SUMMARY:Lunar day 2 · first day of Lunar Month 12\, Water Rabbit (lunar da
+ y 1 omitted) · Rabjung 17\, Year 34\, Iron Mouse
+DESCRIPTION:Lunar Month 12\, Water Rabbit\nRabjung 17\, Year 34\, Iron Mous
+ e
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2021-01-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20210212
+DTEND;VALUE=DATE:20210213
+SUMMARY:Lunar day 1 · Lunar Month 1\, Wood Dragon · Rabjung 17\, Year 35\
+ , Iron Ox
+DESCRIPTION:Lunar Month 1\, Wood Dragon\nRabjung 17\, Year 35\, Iron Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2021-01-losar@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20210212
+DTEND;VALUE=DATE:20210213
+SUMMARY:Losar (Tibetan New Year)
+DESCRIPTION:Rabjung 17\, Year 35\, Iron Ox
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2021-01-chotrul@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20210227
+DTEND;VALUE=DATE:20210228
+SUMMARY:Chotrul Düchen (Day of Miracles)
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Wood Dragon\nRabjung 17\, Year 35
+ \, Iron Ox
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2021-02-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20210314
+DTEND;VALUE=DATE:20210315
+SUMMARY:Lunar day 1 · Lunar Month 2\, Wood Snake · Rabjung 17\, Year 35\,
+  Iron Ox
+DESCRIPTION:Lunar Month 2\, Wood Snake\nRabjung 17\, Year 35\, Iron Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2021-03-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20210412
+DTEND;VALUE=DATE:20210413
+SUMMARY:Lunar day 1 · Lunar Month 3\, Fire Horse · Rabjung 17\, Year 35\,
+  Iron Ox
+DESCRIPTION:Lunar Month 3\, Fire Horse\nRabjung 17\, Year 35\, Iron Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2021-03-d01r@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20210413
+DTEND;VALUE=DATE:20210414
+SUMMARY:Lunar day 1 (repeated)
+DESCRIPTION:Lunar Month 3\, Fire Horse\nRabjung 17\, Year 35\, Iron Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2021-04-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20210512
+DTEND;VALUE=DATE:20210513
+SUMMARY:Lunar day 1 · Lunar Month 4\, Fire Sheep · Rabjung 17\, Year 35\,
+  Iron Ox
+DESCRIPTION:Lunar Month 4\, Fire Sheep\nRabjung 17\, Year 35\, Iron Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2021-04-saga_dawa@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20210526
+DTEND;VALUE=DATE:20210527
+SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Fire Sheep\nRabjung 17\, Year 35\
+ , Iron Ox
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2021-05-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20210611
+DTEND;VALUE=DATE:20210612
+SUMMARY:Lunar day 1 · Lunar Month 5\, Earth Monkey · Rabjung 17\, Year 35
+ \, Iron Ox
+DESCRIPTION:Lunar Month 5\, Earth Monkey\nRabjung 17\, Year 35\, Iron Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2021-06-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20210710
+DTEND;VALUE=DATE:20210711
+SUMMARY:Lunar day 1 · Lunar Month 6\, Earth Bird · Rabjung 17\, Year 35\,
+  Iron Ox
+DESCRIPTION:Lunar Month 6\, Earth Bird\nRabjung 17\, Year 35\, Iron Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2021-06-chokhor@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20210714
+DTEND;VALUE=DATE:20210715
+SUMMARY:Chökhor Düchen (First Turning of the Wheel)
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Earth Bird\nRabjung 17\, Year 35\,
+  Iron Ox
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2021-07-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20210809
+DTEND;VALUE=DATE:20210810
+SUMMARY:Lunar day 1 · Lunar Month 7\, Iron Dog · Rabjung 17\, Year 35\, I
+ ron Ox
+DESCRIPTION:Lunar Month 7\, Iron Dog\nRabjung 17\, Year 35\, Iron Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2021-08-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20210907
+DTEND;VALUE=DATE:20210908
+SUMMARY:Lunar day 1 · Lunar Month 8\, Iron Pig · Rabjung 17\, Year 35\, I
+ ron Ox
+DESCRIPTION:Lunar Month 8\, Iron Pig\nRabjung 17\, Year 35\, Iron Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2021-09L-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20211007
+DTEND;VALUE=DATE:20211008
+SUMMARY:Lunar day 1 · Lunar Month 9 (Leap)\, Water Mouse · Rabjung 17\, Y
+ ear 35\, Iron Ox
+DESCRIPTION:Lunar Month 9 (Leap)\, Water Mouse\nRabjung 17\, Year 35\, Iron
+  Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2021-09-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20211105
+DTEND;VALUE=DATE:20211106
+SUMMARY:Lunar day 1 · Lunar Month 9\, Water Mouse · Rabjung 17\, Year 35\
+ , Iron Ox
+DESCRIPTION:Lunar Month 9\, Water Mouse\nRabjung 17\, Year 35\, Iron Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2021-09-lhabab@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20211126
+DTEND;VALUE=DATE:20211127
+SUMMARY:Lhabab Düchen (Descent from the god realm)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Water Mouse\nRabjung 17\, Year 35
+ \, Iron Ox
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2021-10-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20211205
+DTEND;VALUE=DATE:20211206
+SUMMARY:Lunar day 1 · Lunar Month 10\, Water Ox · Rabjung 17\, Year 35\, 
+ Iron Ox
+DESCRIPTION:Lunar Month 10\, Water Ox\nRabjung 17\, Year 35\, Iron Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2021-11-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20220103
+DTEND;VALUE=DATE:20220104
+SUMMARY:Lunar day 1 · Lunar Month 11\, Wood Tiger · Rabjung 17\, Year 35\
+ , Iron Ox
+DESCRIPTION:Lunar Month 11\, Wood Tiger\nRabjung 17\, Year 35\, Iron Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2021-12-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20220202
+DTEND;VALUE=DATE:20220203
+SUMMARY:Lunar day 1 · Lunar Month 12\, Wood Rabbit · Rabjung 17\, Year 35
+ \, Iron Ox
+DESCRIPTION:Lunar Month 12\, Wood Rabbit\nRabjung 17\, Year 35\, Iron Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2022-01-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20220303
+DTEND;VALUE=DATE:20220304
+SUMMARY:Lunar day 1 · Lunar Month 1\, Fire Dragon · Rabjung 17\, Year 36\
+ , Water Tiger
+DESCRIPTION:Lunar Month 1\, Fire Dragon\nRabjung 17\, Year 36\, Water Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2022-01-losar@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20220303
+DTEND;VALUE=DATE:20220304
+SUMMARY:Losar (Tibetan New Year)
+DESCRIPTION:Rabjung 17\, Year 36\, Water Tiger
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2022-01-chotrul@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20220318
+DTEND;VALUE=DATE:20220319
+SUMMARY:Chotrul Düchen (Day of Miracles)
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Fire Dragon\nRabjung 17\, Year 36
+ \, Water Tiger
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2022-02-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20220402
+DTEND;VALUE=DATE:20220403
+SUMMARY:Lunar day 1 · Lunar Month 2\, Fire Snake · Rabjung 17\, Year 36\,
+  Water Tiger
+DESCRIPTION:Lunar Month 2\, Fire Snake\nRabjung 17\, Year 36\, Water Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2022-03-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20220501
+DTEND;VALUE=DATE:20220502
+SUMMARY:Lunar day 1 · Lunar Month 3\, Earth Horse · Rabjung 17\, Year 36\
+ , Water Tiger
+DESCRIPTION:Lunar Month 3\, Earth Horse\nRabjung 17\, Year 36\, Water Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2022-04-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20220531
+DTEND;VALUE=DATE:20220601
+SUMMARY:Lunar day 1 · Lunar Month 4\, Earth Sheep · Rabjung 17\, Year 36\
+ , Water Tiger
+DESCRIPTION:Lunar Month 4\, Earth Sheep\nRabjung 17\, Year 36\, Water Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2022-04-saga_dawa@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20220614
+DTEND;VALUE=DATE:20220615
+SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Earth Sheep\nRabjung 17\, Year 36
+ \, Water Tiger
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2022-05-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20220630
+DTEND;VALUE=DATE:20220701
+SUMMARY:Lunar day 1 · Lunar Month 5\, Iron Monkey · Rabjung 17\, Year 36\
+ , Water Tiger
+DESCRIPTION:Lunar Month 5\, Iron Monkey\nRabjung 17\, Year 36\, Water Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2022-06-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20220729
+DTEND;VALUE=DATE:20220730
+SUMMARY:Lunar day 1 · Lunar Month 6\, Iron Bird · Rabjung 17\, Year 36\, 
+ Water Tiger
+DESCRIPTION:Lunar Month 6\, Iron Bird\nRabjung 17\, Year 36\, Water Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2022-06-chokhor@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20220801
+DTEND;VALUE=DATE:20220802
+SUMMARY:Chökhor Düchen (First Turning of the Wheel)
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Iron Bird\nRabjung 17\, Year 36\, 
+ Water Tiger
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2022-07-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20220828
+DTEND;VALUE=DATE:20220829
+SUMMARY:Lunar day 1 · Lunar Month 7\, Water Dog · Rabjung 17\, Year 36\, 
+ Water Tiger
+DESCRIPTION:Lunar Month 7\, Water Dog\nRabjung 17\, Year 36\, Water Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2022-08-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20220926
+DTEND;VALUE=DATE:20220927
+SUMMARY:Lunar day 1 · Lunar Month 8\, Water Pig · Rabjung 17\, Year 36\, 
+ Water Tiger
+DESCRIPTION:Lunar Month 8\, Water Pig\nRabjung 17\, Year 36\, Water Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2022-09-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20221026
+DTEND;VALUE=DATE:20221027
+SUMMARY:Lunar day 1 · Lunar Month 9\, Wood Mouse · Rabjung 17\, Year 36\,
+  Water Tiger
+DESCRIPTION:Lunar Month 9\, Wood Mouse\nRabjung 17\, Year 36\, Water Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2022-09-lhabab@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20221115
+DTEND;VALUE=DATE:20221116
+SUMMARY:Lhabab Düchen (Descent from the god realm)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Wood Mouse\nRabjung 17\, Year 36\
+ , Water Tiger
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2022-10-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20221124
+DTEND;VALUE=DATE:20221125
+SUMMARY:Lunar day 1 · Lunar Month 10\, Wood Ox · Rabjung 17\, Year 36\, W
+ ater Tiger
+DESCRIPTION:Lunar Month 10\, Wood Ox\nRabjung 17\, Year 36\, Water Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2022-11-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20221224
+DTEND;VALUE=DATE:20221225
+SUMMARY:Lunar day 1 · Lunar Month 11\, Wood Tiger · Rabjung 17\, Year 36\
+ , Water Tiger
+DESCRIPTION:Lunar Month 11\, Wood Tiger\nRabjung 17\, Year 36\, Water Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2022-12-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20230122
+DTEND;VALUE=DATE:20230123
+SUMMARY:Lunar day 1 · Lunar Month 12\, Wood Rabbit · Rabjung 17\, Year 36
+ \, Water Tiger
+DESCRIPTION:Lunar Month 12\, Wood Rabbit\nRabjung 17\, Year 36\, Water Tige
+ r
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2023-01-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20230221
+DTEND;VALUE=DATE:20230222
+SUMMARY:Lunar day 1 · Lunar Month 1\, Fire Dragon · Rabjung 17\, Year 37\
+ , Water Rabbit
+DESCRIPTION:Lunar Month 1\, Fire Dragon\nRabjung 17\, Year 37\, Water Rabbi
+ t
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2023-01-losar@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20230221
+DTEND;VALUE=DATE:20230222
+SUMMARY:Losar (Tibetan New Year)
+DESCRIPTION:Rabjung 17\, Year 37\, Water Rabbit
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2023-01-chotrul@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20230307
+DTEND;VALUE=DATE:20230308
+SUMMARY:Chotrul Düchen (Day of Miracles)
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Fire Dragon\nRabjung 17\, Year 37
+ \, Water Rabbit
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2023-02-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20230322
+DTEND;VALUE=DATE:20230323
+SUMMARY:Lunar day 1 · Lunar Month 2\, Fire Snake · Rabjung 17\, Year 37\,
+  Water Rabbit
+DESCRIPTION:Lunar Month 2\, Fire Snake\nRabjung 17\, Year 37\, Water Rabbit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2023-03-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20230421
+DTEND;VALUE=DATE:20230422
+SUMMARY:Lunar day 1 · Lunar Month 3\, Earth Horse · Rabjung 17\, Year 37\
+ , Water Rabbit
+DESCRIPTION:Lunar Month 3\, Earth Horse\nRabjung 17\, Year 37\, Water Rabbi
+ t
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2023-04-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20230520
+DTEND;VALUE=DATE:20230521
+SUMMARY:Lunar day 1 · Lunar Month 4\, Earth Sheep · Rabjung 17\, Year 37\
+ , Water Rabbit
+DESCRIPTION:Lunar Month 4\, Earth Sheep\nRabjung 17\, Year 37\, Water Rabbi
+ t
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2023-04-saga_dawa@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20230604
+DTEND;VALUE=DATE:20230605
+SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Earth Sheep\nRabjung 17\, Year 37
+ \, Water Rabbit
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2023-05-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20230619
+DTEND;VALUE=DATE:20230620
+SUMMARY:Lunar day 1 · Lunar Month 5\, Iron Monkey · Rabjung 17\, Year 37\
+ , Water Rabbit
+DESCRIPTION:Lunar Month 5\, Iron Monkey\nRabjung 17\, Year 37\, Water Rabbi
+ t
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2023-06-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20230718
+DTEND;VALUE=DATE:20230719
+SUMMARY:Lunar day 1 · Lunar Month 6\, Iron Bird · Rabjung 17\, Year 37\, 
+ Water Rabbit
+DESCRIPTION:Lunar Month 6\, Iron Bird\nRabjung 17\, Year 37\, Water Rabbit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2023-06-chokhor@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20230721
+DTEND;VALUE=DATE:20230722
+SUMMARY:Chökhor Düchen (First Turning of the Wheel)
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Iron Bird\nRabjung 17\, Year 37\, 
+ Water Rabbit
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2023-07-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20230817
+DTEND;VALUE=DATE:20230818
+SUMMARY:Lunar day 1 · Lunar Month 7\, Water Dog · Rabjung 17\, Year 37\, 
+ Water Rabbit
+DESCRIPTION:Lunar Month 7\, Water Dog\nRabjung 17\, Year 37\, Water Rabbit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2023-08-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20230915
+DTEND;VALUE=DATE:20230916
+SUMMARY:Lunar day 1 · Lunar Month 8\, Water Pig · Rabjung 17\, Year 37\, 
+ Water Rabbit
+DESCRIPTION:Lunar Month 8\, Water Pig\nRabjung 17\, Year 37\, Water Rabbit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2023-09-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20231015
+DTEND;VALUE=DATE:20231016
+SUMMARY:Lunar day 1 · Lunar Month 9\, Wood Mouse · Rabjung 17\, Year 37\,
+  Water Rabbit
+DESCRIPTION:Lunar Month 9\, Wood Mouse\nRabjung 17\, Year 37\, Water Rabbit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2023-09-lhabab@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20231104
+DTEND;VALUE=DATE:20231105
+SUMMARY:Lhabab Düchen (Descent from the god realm)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Wood Mouse\nRabjung 17\, Year 37\
+ , Water Rabbit
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2023-10-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20231114
+DTEND;VALUE=DATE:20231115
+SUMMARY:Lunar day 1 · Lunar Month 10\, Wood Ox · Rabjung 17\, Year 37\, W
+ ater Rabbit
+DESCRIPTION:Lunar Month 10\, Wood Ox\nRabjung 17\, Year 37\, Water Rabbit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2023-11-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20231213
+DTEND;VALUE=DATE:20231214
+SUMMARY:Lunar day 1 · Lunar Month 11\, Fire Tiger · Rabjung 17\, Year 37\
+ , Water Rabbit
+DESCRIPTION:Lunar Month 11\, Fire Tiger\nRabjung 17\, Year 37\, Water Rabbi
+ t
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2023-12-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20240112
+DTEND;VALUE=DATE:20240113
+SUMMARY:Lunar day 1 · Lunar Month 12\, Fire Rabbit · Rabjung 17\, Year 37
+ \, Water Rabbit
+DESCRIPTION:Lunar Month 12\, Fire Rabbit\nRabjung 17\, Year 37\, Water Rabb
+ it
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2024-01-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20240210
+DTEND;VALUE=DATE:20240211
+SUMMARY:Lunar day 1 · Lunar Month 1\, Earth Dragon · Rabjung 17\, Year 38
+ \, Wood Dragon
+DESCRIPTION:Lunar Month 1\, Earth Dragon\nRabjung 17\, Year 38\, Wood Drago
+ n
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2024-01-losar@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20240210
+DTEND;VALUE=DATE:20240211
+SUMMARY:Losar (Tibetan New Year)
+DESCRIPTION:Rabjung 17\, Year 38\, Wood Dragon
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2024-01-chotrul@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20240224
+DTEND;VALUE=DATE:20240225
+SUMMARY:Chotrul Düchen (Day of Miracles)
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Earth Dragon\nRabjung 17\, Year 3
+ 8\, Wood Dragon
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2024-02-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20240311
+DTEND;VALUE=DATE:20240312
+SUMMARY:Lunar day 1 · Lunar Month 2\, Earth Snake · Rabjung 17\, Year 38\
+ , Wood Dragon
+DESCRIPTION:Lunar Month 2\, Earth Snake\nRabjung 17\, Year 38\, Wood Dragon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2024-03-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20240409
+DTEND;VALUE=DATE:20240410
+SUMMARY:Lunar day 1 · Lunar Month 3\, Iron Horse · Rabjung 17\, Year 38\,
+  Wood Dragon
+DESCRIPTION:Lunar Month 3\, Iron Horse\nRabjung 17\, Year 38\, Wood Dragon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2024-04-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20240509
+DTEND;VALUE=DATE:20240510
+SUMMARY:Lunar day 1 · Lunar Month 4\, Iron Sheep · Rabjung 17\, Year 38\,
+  Wood Dragon
+DESCRIPTION:Lunar Month 4\, Iron Sheep\nRabjung 17\, Year 38\, Wood Dragon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2024-04-saga_dawa@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20240523
+DTEND;VALUE=DATE:20240524
+SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Iron Sheep\nRabjung 17\, Year 38\
+ , Wood Dragon
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2024-05-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20240607
+DTEND;VALUE=DATE:20240608
+SUMMARY:Lunar day 1 · Lunar Month 5\, Water Monkey · Rabjung 17\, Year 38
+ \, Wood Dragon
+DESCRIPTION:Lunar Month 5\, Water Monkey\nRabjung 17\, Year 38\, Wood Drago
+ n
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2024-06L-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20240706
+DTEND;VALUE=DATE:20240707
+SUMMARY:Lunar day 1 · Lunar Month 6 (Leap)\, Water Bird · Rabjung 17\, Ye
+ ar 38\, Wood Dragon
+DESCRIPTION:Lunar Month 6 (Leap)\, Water Bird\nRabjung 17\, Year 38\, Wood 
+ Dragon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2024-06-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20240805
+DTEND;VALUE=DATE:20240806
+SUMMARY:Lunar day 1 · Lunar Month 6\, Water Bird · Rabjung 17\, Year 38\,
+  Wood Dragon
+DESCRIPTION:Lunar Month 6\, Water Bird\nRabjung 17\, Year 38\, Wood Dragon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2024-06-chokhor@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20240808
+DTEND;VALUE=DATE:20240809
+SUMMARY:Chökhor Düchen (First Turning of the Wheel)
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Water Bird\nRabjung 17\, Year 38\,
+  Wood Dragon
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2024-07-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20240903
+DTEND;VALUE=DATE:20240904
+SUMMARY:Lunar day 1 · Lunar Month 7\, Wood Dog · Rabjung 17\, Year 38\, W
+ ood Dragon
+DESCRIPTION:Lunar Month 7\, Wood Dog\nRabjung 17\, Year 38\, Wood Dragon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2024-07-d01r@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20240904
+DTEND;VALUE=DATE:20240905
+SUMMARY:Lunar day 1 (repeated)
+DESCRIPTION:Lunar Month 7\, Wood Dog\nRabjung 17\, Year 38\, Wood Dragon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2024-08-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20241003
+DTEND;VALUE=DATE:20241004
+SUMMARY:Lunar day 1 · Lunar Month 8\, Wood Pig · Rabjung 17\, Year 38\, W
+ ood Dragon
+DESCRIPTION:Lunar Month 8\, Wood Pig\nRabjung 17\, Year 38\, Wood Dragon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2024-09-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20241102
+DTEND;VALUE=DATE:20241103
+SUMMARY:Lunar day 1 · Lunar Month 9\, Fire Mouse · Rabjung 17\, Year 38\,
+  Wood Dragon
+DESCRIPTION:Lunar Month 9\, Fire Mouse\nRabjung 17\, Year 38\, Wood Dragon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2024-09-lhabab@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20241122
+DTEND;VALUE=DATE:20241123
+SUMMARY:Lhabab Düchen (Descent from the god realm)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Fire Mouse\nRabjung 17\, Year 38\
+ , Wood Dragon
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2024-10-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20241202
+DTEND;VALUE=DATE:20241203
+SUMMARY:Lunar day 1 · Lunar Month 10\, Fire Ox · Rabjung 17\, Year 38\, W
+ ood Dragon
+DESCRIPTION:Lunar Month 10\, Fire Ox\nRabjung 17\, Year 38\, Wood Dragon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2024-11-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20241231
+DTEND;VALUE=DATE:20250101
+SUMMARY:Lunar day 1 · Lunar Month 11\, Fire Tiger · Rabjung 17\, Year 38\
+ , Wood Dragon
+DESCRIPTION:Lunar Month 11\, Fire Tiger\nRabjung 17\, Year 38\, Wood Dragon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2024-12-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20250130
+DTEND;VALUE=DATE:20250131
+SUMMARY:Lunar day 1 · Lunar Month 12\, Fire Rabbit · Rabjung 17\, Year 38
+ \, Wood Dragon
+DESCRIPTION:Lunar Month 12\, Fire Rabbit\nRabjung 17\, Year 38\, Wood Drago
+ n
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2025-01-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20250228
+DTEND;VALUE=DATE:20250301
+SUMMARY:Lunar day 1 · Lunar Month 1\, Earth Dragon · Rabjung 17\, Year 39
+ \, Wood Snake
+DESCRIPTION:Lunar Month 1\, Earth Dragon\nRabjung 17\, Year 39\, Wood Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2025-01-losar@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20250228
+DTEND;VALUE=DATE:20250301
+SUMMARY:Losar (Tibetan New Year)
+DESCRIPTION:Rabjung 17\, Year 39\, Wood Snake
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2025-01-chotrul@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20250314
+DTEND;VALUE=DATE:20250315
+SUMMARY:Chotrul Düchen (Day of Miracles)
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Earth Dragon\nRabjung 17\, Year 3
+ 9\, Wood Snake
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2025-02-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20250330
+DTEND;VALUE=DATE:20250331
+SUMMARY:Lunar day 1 · Lunar Month 2\, Earth Snake · Rabjung 17\, Year 39\
+ , Wood Snake
+DESCRIPTION:Lunar Month 2\, Earth Snake\nRabjung 17\, Year 39\, Wood Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2025-03-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250429
+SUMMARY:Lunar day 1 · Lunar Month 3\, Iron Horse · Rabjung 17\, Year 39\,
+  Wood Snake
+DESCRIPTION:Lunar Month 3\, Iron Horse\nRabjung 17\, Year 39\, Wood Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2025-04-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20250528
+DTEND;VALUE=DATE:20250529
+SUMMARY:Lunar day 1 · Lunar Month 4\, Iron Sheep · Rabjung 17\, Year 39\,
+  Wood Snake
+DESCRIPTION:Lunar Month 4\, Iron Sheep\nRabjung 17\, Year 39\, Wood Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2025-04-saga_dawa@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20250611
+DTEND;VALUE=DATE:20250612
+SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Iron Sheep\nRabjung 17\, Year 39\
+ , Wood Snake
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2025-05-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20250626
+DTEND;VALUE=DATE:20250627
+SUMMARY:Lunar day 1 · Lunar Month 5\, Water Monkey · Rabjung 17\, Year 39
+ \, Wood Snake
+DESCRIPTION:Lunar Month 5\, Water Monkey\nRabjung 17\, Year 39\, Wood Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2025-06-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20250725
+DTEND;VALUE=DATE:20250726
+SUMMARY:Lunar day 1 · Lunar Month 6\, Water Bird · Rabjung 17\, Year 39\,
+  Wood Snake
+DESCRIPTION:Lunar Month 6\, Water Bird\nRabjung 17\, Year 39\, Wood Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2025-06-chokhor@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20250728
+DTEND;VALUE=DATE:20250729
+SUMMARY:Chökhor Düchen (First Turning of the Wheel)
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Water Bird\nRabjung 17\, Year 39\,
+  Wood Snake
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2025-07-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20250824
+DTEND;VALUE=DATE:20250825
+SUMMARY:Lunar day 1 · Lunar Month 7\, Wood Dog · Rabjung 17\, Year 39\, W
+ ood Snake
+DESCRIPTION:Lunar Month 7\, Wood Dog\nRabjung 17\, Year 39\, Wood Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2025-08-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20250923
+SUMMARY:Lunar day 1 · Lunar Month 8\, Wood Pig · Rabjung 17\, Year 39\, W
+ ood Snake
+DESCRIPTION:Lunar Month 8\, Wood Pig\nRabjung 17\, Year 39\, Wood Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2025-09-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20251022
+DTEND;VALUE=DATE:20251023
+SUMMARY:Lunar day 1 · Lunar Month 9\, Fire Mouse · Rabjung 17\, Year 39\,
+  Wood Snake
+DESCRIPTION:Lunar Month 9\, Fire Mouse\nRabjung 17\, Year 39\, Wood Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2025-09-lhabab@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20251111
+DTEND;VALUE=DATE:20251112
+SUMMARY:Lhabab Düchen (Descent from the god realm)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Fire Mouse\nRabjung 17\, Year 39\
+ , Wood Snake
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2025-10-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20251121
+DTEND;VALUE=DATE:20251122
+SUMMARY:Lunar day 1 · Lunar Month 10\, Fire Ox · Rabjung 17\, Year 39\, W
+ ood Snake
+DESCRIPTION:Lunar Month 10\, Fire Ox\nRabjung 17\, Year 39\, Wood Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2025-11-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20251221
+SUMMARY:Lunar day 1 · Lunar Month 11\, Earth Tiger · Rabjung 17\, Year 39
+ \, Wood Snake
+DESCRIPTION:Lunar Month 11\, Earth Tiger\nRabjung 17\, Year 39\, Wood Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2025-12-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+SUMMARY:Lunar day 1 · Lunar Month 12\, Earth Rabbit · Rabjung 17\, Year 3
+ 9\, Wood Snake
+DESCRIPTION:Lunar Month 12\, Earth Rabbit\nRabjung 17\, Year 39\, Wood Snak
+ e
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2026-01-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+SUMMARY:Lunar day 1 · Lunar Month 1\, Iron Dragon · Rabjung 17\, Year 40\
+ , Fire Horse
+DESCRIPTION:Lunar Month 1\, Iron Dragon\nRabjung 17\, Year 40\, Fire Horse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2026-01-losar@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+SUMMARY:Losar (Tibetan New Year)
+DESCRIPTION:Rabjung 17\, Year 40\, Fire Horse
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2026-01-chotrul@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:Chotrul Düchen (Day of Miracles)
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Iron Dragon\nRabjung 17\, Year 40
+ \, Fire Horse
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2026-02-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:Lunar day 1 · Lunar Month 2\, Iron Snake · Rabjung 17\, Year 40\,
+  Fire Horse
+DESCRIPTION:Lunar Month 2\, Iron Snake\nRabjung 17\, Year 40\, Fire Horse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2026-03-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:Lunar day 1 · Lunar Month 3\, Water Horse · Rabjung 17\, Year 40\
+ , Fire Horse
+DESCRIPTION:Lunar Month 3\, Water Horse\nRabjung 17\, Year 40\, Fire Horse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2026-04-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+SUMMARY:Lunar day 1 · Lunar Month 4\, Water Sheep · Rabjung 17\, Year 40\
+ , Fire Horse
+DESCRIPTION:Lunar Month 4\, Water Sheep\nRabjung 17\, Year 40\, Fire Horse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2026-04-saga_dawa@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Water Sheep\nRabjung 17\, Year 40
+ \, Fire Horse
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2026-05-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:Lunar day 1 · Lunar Month 5\, Wood Monkey · Rabjung 17\, Year 40\
+ , Fire Horse
+DESCRIPTION:Lunar Month 5\, Wood Monkey\nRabjung 17\, Year 40\, Fire Horse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2026-06-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:Lunar day 1 · Lunar Month 6\, Wood Bird · Rabjung 17\, Year 40\, 
+ Fire Horse
+DESCRIPTION:Lunar Month 6\, Wood Bird\nRabjung 17\, Year 40\, Fire Horse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2026-06-chokhor@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:Chökhor Düchen (First Turning of the Wheel)
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Wood Bird\nRabjung 17\, Year 40\, 
+ Fire Horse
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2026-07-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:Lunar day 1 · Lunar Month 7\, Fire Dog · Rabjung 17\, Year 40\, F
+ ire Horse
+DESCRIPTION:Lunar Month 7\, Fire Dog\nRabjung 17\, Year 40\, Fire Horse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2026-08-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Lunar day 1 · Lunar Month 8\, Fire Pig · Rabjung 17\, Year 40\, F
+ ire Horse
+DESCRIPTION:Lunar Month 8\, Fire Pig\nRabjung 17\, Year 40\, Fire Horse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2026-09-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Lunar day 1 · Lunar Month 9\, Earth Mouse · Rabjung 17\, Year 40\
+ , Fire Horse
+DESCRIPTION:Lunar Month 9\, Earth Mouse\nRabjung 17\, Year 40\, Fire Horse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2026-09-lhabab@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Lhabab Düchen (Descent from the god realm)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Earth Mouse\nRabjung 17\, Year 40
+ \, Fire Horse
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2026-10-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Lunar day 1 · Lunar Month 10\, Earth Ox · Rabjung 17\, Year 40\, 
+ Fire Horse
+DESCRIPTION:Lunar Month 10\, Earth Ox\nRabjung 17\, Year 40\, Fire Horse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2026-11-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Lunar day 1 · Lunar Month 11\, Earth Tiger · Rabjung 17\, Year 40
+ \, Fire Horse
+DESCRIPTION:Lunar Month 11\, Earth Tiger\nRabjung 17\, Year 40\, Fire Horse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2026-12-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Lunar day 1 · Lunar Month 12\, Earth Rabbit · Rabjung 17\, Year 4
+ 0\, Fire Horse
+DESCRIPTION:Lunar Month 12\, Earth Rabbit\nRabjung 17\, Year 40\, Fire Hors
+ e
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2027-01-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Lunar day 1 · Lunar Month 1\, Iron Dragon · Rabjung 17\, Year 41\
+ , Fire Sheep
+DESCRIPTION:Lunar Month 1\, Iron Dragon\nRabjung 17\, Year 41\, Fire Sheep
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2027-01-losar@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:Losar (Tibetan New Year)
+DESCRIPTION:Rabjung 17\, Year 41\, Fire Sheep
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2027-01-chotrul@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Chotrul Düchen (Day of Miracles)
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Iron Dragon\nRabjung 17\, Year 41
+ \, Fire Sheep
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2027-02L-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:Lunar day 1 · Lunar Month 2 (Leap)\, Iron Snake · Rabjung 17\, Ye
+ ar 41\, Fire Sheep
+DESCRIPTION:Lunar Month 2 (Leap)\, Iron Snake\nRabjung 17\, Year 41\, Fire 
+ Sheep
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2027-02-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:Lunar day 1 · Lunar Month 2\, Iron Snake · Rabjung 17\, Year 41\,
+  Fire Sheep
+DESCRIPTION:Lunar Month 2\, Iron Snake\nRabjung 17\, Year 41\, Fire Sheep
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2027-03-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:Lunar day 1 · Lunar Month 3\, Water Horse · Rabjung 17\, Year 41\
+ , Fire Sheep
+DESCRIPTION:Lunar Month 3\, Water Horse\nRabjung 17\, Year 41\, Fire Sheep
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2027-04-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Lunar day 1 · Lunar Month 4\, Water Sheep · Rabjung 17\, Year 41\
+ , Fire Sheep
+DESCRIPTION:Lunar Month 4\, Water Sheep\nRabjung 17\, Year 41\, Fire Sheep
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2027-04-saga_dawa@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Water Sheep\nRabjung 17\, Year 41
+ \, Fire Sheep
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2027-05-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+SUMMARY:Lunar day 1 · Lunar Month 5\, Wood Monkey · Rabjung 17\, Year 41\
+ , Fire Sheep
+DESCRIPTION:Lunar Month 5\, Wood Monkey\nRabjung 17\, Year 41\, Fire Sheep
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2027-06-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+SUMMARY:Lunar day 1 · Lunar Month 6\, Wood Bird · Rabjung 17\, Year 41\, 
+ Fire Sheep
+DESCRIPTION:Lunar Month 6\, Wood Bird\nRabjung 17\, Year 41\, Fire Sheep
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2027-06-chokhor@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:Chökhor Düchen (First Turning of the Wheel)
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Wood Bird\nRabjung 17\, Year 41\, 
+ Fire Sheep
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2027-07-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:Lunar day 1 · Lunar Month 7\, Fire Dog · Rabjung 17\, Year 41\, F
+ ire Sheep
+DESCRIPTION:Lunar Month 7\, Fire Dog\nRabjung 17\, Year 41\, Fire Sheep
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2027-08-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+SUMMARY:Lunar day 2 · first day of Lunar Month 8\, Fire Pig (lunar day 1 o
+ mitted) · Rabjung 17\, Year 41\, Fire Sheep
+DESCRIPTION:Lunar Month 8\, Fire Pig\nRabjung 17\, Year 41\, Fire Sheep
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2027-09-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20271030
+DTEND;VALUE=DATE:20271031
+SUMMARY:Lunar day 1 · Lunar Month 9\, Earth Mouse · Rabjung 17\, Year 41\
+ , Fire Sheep
+DESCRIPTION:Lunar Month 9\, Earth Mouse\nRabjung 17\, Year 41\, Fire Sheep
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2027-09-lhabab@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20271120
+DTEND;VALUE=DATE:20271121
+SUMMARY:Lhabab Düchen (Descent from the god realm)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Earth Mouse\nRabjung 17\, Year 41
+ \, Fire Sheep
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2027-10-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20271128
+DTEND;VALUE=DATE:20271129
+SUMMARY:Lunar day 1 · Lunar Month 10\, Earth Ox · Rabjung 17\, Year 41\, 
+ Fire Sheep
+DESCRIPTION:Lunar Month 10\, Earth Ox\nRabjung 17\, Year 41\, Fire Sheep
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2027-11-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20271228
+DTEND;VALUE=DATE:20271229
+SUMMARY:Lunar day 1 · Lunar Month 11\, Iron Tiger · Rabjung 17\, Year 41\
+ , Fire Sheep
+DESCRIPTION:Lunar Month 11\, Iron Tiger\nRabjung 17\, Year 41\, Fire Sheep
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2027-12-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20280127
+DTEND;VALUE=DATE:20280128
+SUMMARY:Lunar day 1 · Lunar Month 12\, Iron Rabbit · Rabjung 17\, Year 41
+ \, Fire Sheep
+DESCRIPTION:Lunar Month 12\, Iron Rabbit\nRabjung 17\, Year 41\, Fire Sheep
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2028-01-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20280226
+DTEND;VALUE=DATE:20280227
+SUMMARY:Lunar day 1 · Lunar Month 1\, Water Dragon · Rabjung 17\, Year 42
+ \, Earth Monkey
+DESCRIPTION:Lunar Month 1\, Water Dragon\nRabjung 17\, Year 42\, Earth Monk
+ ey
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2028-01-losar@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20280226
+DTEND;VALUE=DATE:20280227
+SUMMARY:Losar (Tibetan New Year)
+DESCRIPTION:Rabjung 17\, Year 42\, Earth Monkey
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2028-01-chotrul@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20280310
+DTEND;VALUE=DATE:20280311
+SUMMARY:Chotrul Düchen (Day of Miracles) (lunar day 15 omitted)
+DESCRIPTION:Lunar day 14\nLunar Month 1\, Water Dragon\nRabjung 17\, Year 4
+ 2\, Earth Monkey
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2028-02-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20280326
+DTEND;VALUE=DATE:20280327
+SUMMARY:Lunar day 1 · Lunar Month 2\, Water Snake · Rabjung 17\, Year 42\
+ , Earth Monkey
+DESCRIPTION:Lunar Month 2\, Water Snake\nRabjung 17\, Year 42\, Earth Monke
+ y
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2028-02-d01r@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20280327
+DTEND;VALUE=DATE:20280328
+SUMMARY:Lunar day 1 (repeated)
+DESCRIPTION:Lunar Month 2\, Water Snake\nRabjung 17\, Year 42\, Earth Monke
+ y
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2028-03-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20280425
+DTEND;VALUE=DATE:20280426
+SUMMARY:Lunar day 1 · Lunar Month 3\, Wood Horse · Rabjung 17\, Year 42\,
+  Earth Monkey
+DESCRIPTION:Lunar Month 3\, Wood Horse\nRabjung 17\, Year 42\, Earth Monkey
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2028-04-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20280525
+DTEND;VALUE=DATE:20280526
+SUMMARY:Lunar day 1 · Lunar Month 4\, Wood Sheep · Rabjung 17\, Year 42\,
+  Earth Monkey
+DESCRIPTION:Lunar Month 4\, Wood Sheep\nRabjung 17\, Year 42\, Earth Monkey
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2028-04-saga_dawa@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20280607
+DTEND;VALUE=DATE:20280608
+SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Wood Sheep\nRabjung 17\, Year 42\
+ , Earth Monkey
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2028-05-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20280623
+DTEND;VALUE=DATE:20280624
+SUMMARY:Lunar day 1 · Lunar Month 5\, Fire Monkey · Rabjung 17\, Year 42\
+ , Earth Monkey
+DESCRIPTION:Lunar Month 5\, Fire Monkey\nRabjung 17\, Year 42\, Earth Monke
+ y
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2028-06-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20280723
+DTEND;VALUE=DATE:20280724
+SUMMARY:Lunar day 1 · Lunar Month 6\, Fire Bird · Rabjung 17\, Year 42\, 
+ Earth Monkey
+DESCRIPTION:Lunar Month 6\, Fire Bird\nRabjung 17\, Year 42\, Earth Monkey
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2028-06-chokhor@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:Chökhor Düchen (First Turning of the Wheel)
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Fire Bird\nRabjung 17\, Year 42\, 
+ Earth Monkey
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2028-07-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20280821
+DTEND;VALUE=DATE:20280822
+SUMMARY:Lunar day 1 · Lunar Month 7\, Earth Dog · Rabjung 17\, Year 42\, 
+ Earth Monkey
+DESCRIPTION:Lunar Month 7\, Earth Dog\nRabjung 17\, Year 42\, Earth Monkey
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2028-08-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20280919
+DTEND;VALUE=DATE:20280920
+SUMMARY:Lunar day 1 · Lunar Month 8\, Earth Pig · Rabjung 17\, Year 42\, 
+ Earth Monkey
+DESCRIPTION:Lunar Month 8\, Earth Pig\nRabjung 17\, Year 42\, Earth Monkey
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2028-09-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20281019
+DTEND;VALUE=DATE:20281020
+SUMMARY:Lunar day 2 · first day of Lunar Month 9\, Iron Mouse (lunar day 1
+  omitted) · Rabjung 17\, Year 42\, Earth Monkey
+DESCRIPTION:Lunar Month 9\, Iron Mouse\nRabjung 17\, Year 42\, Earth Monkey
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2028-09-lhabab@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20281109
+DTEND;VALUE=DATE:20281110
+SUMMARY:Lhabab Düchen (Descent from the god realm)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Iron Mouse\nRabjung 17\, Year 42\
+ , Earth Monkey
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2028-10-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20281117
+DTEND;VALUE=DATE:20281118
+SUMMARY:Lunar day 1 · Lunar Month 10\, Iron Ox · Rabjung 17\, Year 42\, E
+ arth Monkey
+DESCRIPTION:Lunar Month 10\, Iron Ox\nRabjung 17\, Year 42\, Earth Monkey
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2028-11-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20281216
+DTEND;VALUE=DATE:20281217
+SUMMARY:Lunar day 1 · Lunar Month 11\, Iron Tiger · Rabjung 17\, Year 42\
+ , Earth Monkey
+DESCRIPTION:Lunar Month 11\, Iron Tiger\nRabjung 17\, Year 42\, Earth Monke
+ y
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2028-12-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20290115
+DTEND;VALUE=DATE:20290116
+SUMMARY:Lunar day 1 · Lunar Month 12\, Iron Rabbit · Rabjung 17\, Year 42
+ \, Earth Monkey
+DESCRIPTION:Lunar Month 12\, Iron Rabbit\nRabjung 17\, Year 42\, Earth Monk
+ ey
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2029-01-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20290214
+DTEND;VALUE=DATE:20290215
+SUMMARY:Lunar day 1 · Lunar Month 1\, Water Dragon · Rabjung 17\, Year 43
+ \, Earth Bird
+DESCRIPTION:Lunar Month 1\, Water Dragon\nRabjung 17\, Year 43\, Earth Bird
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2029-01-losar@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20290214
+DTEND;VALUE=DATE:20290215
+SUMMARY:Losar (Tibetan New Year)
+DESCRIPTION:Rabjung 17\, Year 43\, Earth Bird
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2029-01-chotrul@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20290228
+DTEND;VALUE=DATE:20290301
+SUMMARY:Chotrul Düchen (Day of Miracles)
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Water Dragon\nRabjung 17\, Year 4
+ 3\, Earth Bird
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2029-02-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20290315
+DTEND;VALUE=DATE:20290316
+SUMMARY:Lunar day 1 · Lunar Month 2\, Water Snake · Rabjung 17\, Year 43\
+ , Earth Bird
+DESCRIPTION:Lunar Month 2\, Water Snake\nRabjung 17\, Year 43\, Earth Bird
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2029-02-d01r@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20290316
+DTEND;VALUE=DATE:20290317
+SUMMARY:Lunar day 1 (repeated)
+DESCRIPTION:Lunar Month 2\, Water Snake\nRabjung 17\, Year 43\, Earth Bird
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2029-03-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20290414
+DTEND;VALUE=DATE:20290415
+SUMMARY:Lunar day 1 · Lunar Month 3\, Wood Horse · Rabjung 17\, Year 43\,
+  Earth Bird
+DESCRIPTION:Lunar Month 3\, Wood Horse\nRabjung 17\, Year 43\, Earth Bird
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2029-04-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20290514
+DTEND;VALUE=DATE:20290515
+SUMMARY:Lunar day 1 · Lunar Month 4\, Wood Sheep · Rabjung 17\, Year 43\,
+  Earth Bird
+DESCRIPTION:Lunar Month 4\, Wood Sheep\nRabjung 17\, Year 43\, Earth Bird
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2029-04-saga_dawa@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20290527
+DTEND;VALUE=DATE:20290528
+SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Wood Sheep\nRabjung 17\, Year 43\
+ , Earth Bird
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2029-05-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20290613
+DTEND;VALUE=DATE:20290614
+SUMMARY:Lunar day 1 · Lunar Month 5\, Fire Monkey · Rabjung 17\, Year 43\
+ , Earth Bird
+DESCRIPTION:Lunar Month 5\, Fire Monkey\nRabjung 17\, Year 43\, Earth Bird
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2029-06-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20290712
+DTEND;VALUE=DATE:20290713
+SUMMARY:Lunar day 1 · Lunar Month 6\, Fire Bird · Rabjung 17\, Year 43\, 
+ Earth Bird
+DESCRIPTION:Lunar Month 6\, Fire Bird\nRabjung 17\, Year 43\, Earth Bird
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2029-06-chokhor@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20290715
+DTEND;VALUE=DATE:20290716
+SUMMARY:Chökhor Düchen (First Turning of the Wheel)
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Fire Bird\nRabjung 17\, Year 43\, 
+ Earth Bird
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2029-07-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20290811
+DTEND;VALUE=DATE:20290812
+SUMMARY:Lunar day 1 · Lunar Month 7\, Earth Dog · Rabjung 17\, Year 43\, 
+ Earth Bird
+DESCRIPTION:Lunar Month 7\, Earth Dog\nRabjung 17\, Year 43\, Earth Bird
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2029-08-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20290909
+DTEND;VALUE=DATE:20290910
+SUMMARY:Lunar day 1 · Lunar Month 8\, Earth Pig · Rabjung 17\, Year 43\, 
+ Earth Bird
+DESCRIPTION:Lunar Month 8\, Earth Pig\nRabjung 17\, Year 43\, Earth Bird
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2029-09-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20291008
+DTEND;VALUE=DATE:20291009
+SUMMARY:Lunar day 1 · Lunar Month 9\, Iron Mouse · Rabjung 17\, Year 43\,
+  Earth Bird
+DESCRIPTION:Lunar Month 9\, Iron Mouse\nRabjung 17\, Year 43\, Earth Bird
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2029-09-lhabab@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20291029
+DTEND;VALUE=DATE:20291030
+SUMMARY:Lhabab Düchen (Descent from the god realm)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Iron Mouse\nRabjung 17\, Year 43\
+ , Earth Bird
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2029-10-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20291107
+DTEND;VALUE=DATE:20291108
+SUMMARY:Lunar day 1 · Lunar Month 10\, Iron Ox · Rabjung 17\, Year 43\, E
+ arth Bird
+DESCRIPTION:Lunar Month 10\, Iron Ox\nRabjung 17\, Year 43\, Earth Bird
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2029-11L-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20291206
+DTEND;VALUE=DATE:20291207
+SUMMARY:Lunar day 1 · Lunar Month 11 (Leap)\, Water Tiger · Rabjung 17\, 
+ Year 43\, Earth Bird
+DESCRIPTION:Lunar Month 11 (Leap)\, Water Tiger\nRabjung 17\, Year 43\, Ear
+ th Bird
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2029-11-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20300104
+DTEND;VALUE=DATE:20300105
+SUMMARY:Lunar day 1 · Lunar Month 11\, Water Tiger · Rabjung 17\, Year 43
+ \, Earth Bird
+DESCRIPTION:Lunar Month 11\, Water Tiger\nRabjung 17\, Year 43\, Earth Bird
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2029-12-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20300203
+DTEND;VALUE=DATE:20300204
+SUMMARY:Lunar day 1 · Lunar Month 12\, Water Rabbit · Rabjung 17\, Year 4
+ 3\, Earth Bird
+DESCRIPTION:Lunar Month 12\, Water Rabbit\nRabjung 17\, Year 43\, Earth Bir
+ d
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2030-01-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20300305
+DTEND;VALUE=DATE:20300306
+SUMMARY:Lunar day 1 · Lunar Month 1\, Wood Dragon · Rabjung 17\, Year 44\
+ , Iron Dog
+DESCRIPTION:Lunar Month 1\, Wood Dragon\nRabjung 17\, Year 44\, Iron Dog
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2030-01-losar@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20300305
+DTEND;VALUE=DATE:20300306
+SUMMARY:Losar (Tibetan New Year)
+DESCRIPTION:Rabjung 17\, Year 44\, Iron Dog
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2030-01-chotrul@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20300319
+DTEND;VALUE=DATE:20300320
+SUMMARY:Chotrul Düchen (Day of Miracles)
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Wood Dragon\nRabjung 17\, Year 44
+ \, Iron Dog
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2030-02-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20300403
+DTEND;VALUE=DATE:20300404
+SUMMARY:Lunar day 1 · Lunar Month 2\, Wood Snake · Rabjung 17\, Year 44\,
+  Iron Dog
+DESCRIPTION:Lunar Month 2\, Wood Snake\nRabjung 17\, Year 44\, Iron Dog
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2030-03-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20300503
+DTEND;VALUE=DATE:20300504
+SUMMARY:Lunar day 1 · Lunar Month 3\, Fire Horse · Rabjung 17\, Year 44\,
+  Iron Dog
+DESCRIPTION:Lunar Month 3\, Fire Horse\nRabjung 17\, Year 44\, Iron Dog
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2030-04-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20300602
+DTEND;VALUE=DATE:20300603
+SUMMARY:Lunar day 1 · Lunar Month 4\, Fire Sheep · Rabjung 17\, Year 44\,
+  Iron Dog
+DESCRIPTION:Lunar Month 4\, Fire Sheep\nRabjung 17\, Year 44\, Iron Dog
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2030-04-saga_dawa@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20300615
+DTEND;VALUE=DATE:20300616
+SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Fire Sheep\nRabjung 17\, Year 44\
+ , Iron Dog
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2030-05-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20300701
+DTEND;VALUE=DATE:20300702
+SUMMARY:Lunar day 1 · Lunar Month 5\, Earth Monkey · Rabjung 17\, Year 44
+ \, Iron Dog
+DESCRIPTION:Lunar Month 5\, Earth Monkey\nRabjung 17\, Year 44\, Iron Dog
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2030-06-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20300731
+DTEND;VALUE=DATE:20300801
+SUMMARY:Lunar day 1 · Lunar Month 6\, Earth Bird · Rabjung 17\, Year 44\,
+  Iron Dog
+DESCRIPTION:Lunar Month 6\, Earth Bird\nRabjung 17\, Year 44\, Iron Dog
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2030-06-chokhor@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20300803
+DTEND;VALUE=DATE:20300804
+SUMMARY:Chökhor Düchen (First Turning of the Wheel)
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Earth Bird\nRabjung 17\, Year 44\,
+  Iron Dog
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2030-07-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20300829
+DTEND;VALUE=DATE:20300830
+SUMMARY:Lunar day 1 · Lunar Month 7\, Iron Dog · Rabjung 17\, Year 44\, I
+ ron Dog
+DESCRIPTION:Lunar Month 7\, Iron Dog\nRabjung 17\, Year 44\, Iron Dog
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2030-08-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20300928
+DTEND;VALUE=DATE:20300929
+SUMMARY:Lunar day 1 · Lunar Month 8\, Iron Pig · Rabjung 17\, Year 44\, I
+ ron Dog
+DESCRIPTION:Lunar Month 8\, Iron Pig\nRabjung 17\, Year 44\, Iron Dog
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2030-09-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20301027
+DTEND;VALUE=DATE:20301028
+SUMMARY:Lunar day 1 · Lunar Month 9\, Water Mouse · Rabjung 17\, Year 44\
+ , Iron Dog
+DESCRIPTION:Lunar Month 9\, Water Mouse\nRabjung 17\, Year 44\, Iron Dog
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2030-09-lhabab@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20301117
+DTEND;VALUE=DATE:20301118
+SUMMARY:Lhabab Düchen (Descent from the god realm)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Water Mouse\nRabjung 17\, Year 44
+ \, Iron Dog
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2030-10-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20301126
+DTEND;VALUE=DATE:20301127
+SUMMARY:Lunar day 1 · Lunar Month 10\, Water Ox · Rabjung 17\, Year 44\, 
+ Iron Dog
+DESCRIPTION:Lunar Month 10\, Water Ox\nRabjung 17\, Year 44\, Iron Dog
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2030-11-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20301225
+DTEND;VALUE=DATE:20301226
+SUMMARY:Lunar day 1 · Lunar Month 11\, Water Tiger · Rabjung 17\, Year 44
+ \, Iron Dog
+DESCRIPTION:Lunar Month 11\, Water Tiger\nRabjung 17\, Year 44\, Iron Dog
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2030-12-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20310124
+DTEND;VALUE=DATE:20310125
+SUMMARY:Lunar day 2 · first day of Lunar Month 12\, Water Rabbit (lunar da
+ y 1 omitted) · Rabjung 17\, Year 44\, Iron Dog
+DESCRIPTION:Lunar Month 12\, Water Rabbit\nRabjung 17\, Year 44\, Iron Dog
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2031-01-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20310222
+DTEND;VALUE=DATE:20310223
+SUMMARY:Lunar day 1 · Lunar Month 1\, Wood Dragon · Rabjung 17\, Year 45\
+ , Iron Pig
+DESCRIPTION:Lunar Month 1\, Wood Dragon\nRabjung 17\, Year 45\, Iron Pig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2031-01-losar@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20310222
+DTEND;VALUE=DATE:20310223
+SUMMARY:Losar (Tibetan New Year)
+DESCRIPTION:Rabjung 17\, Year 45\, Iron Pig
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2031-01-chotrul@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20310308
+DTEND;VALUE=DATE:20310309
+SUMMARY:Chotrul Düchen (Day of Miracles)
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Wood Dragon\nRabjung 17\, Year 45
+ \, Iron Pig
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2031-01-chotrul-r@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20310309
+DTEND;VALUE=DATE:20310310
+SUMMARY:Chotrul Düchen (Day of Miracles) (repeated)
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Wood Dragon\nRabjung 17\, Year 45
+ \, Iron Pig
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2031-02-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20310324
+DTEND;VALUE=DATE:20310325
+SUMMARY:Lunar day 1 · Lunar Month 2\, Wood Snake · Rabjung 17\, Year 45\,
+  Iron Pig
+DESCRIPTION:Lunar Month 2\, Wood Snake\nRabjung 17\, Year 45\, Iron Pig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2031-03-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20310422
+DTEND;VALUE=DATE:20310423
+SUMMARY:Lunar day 1 · Lunar Month 3\, Fire Horse · Rabjung 17\, Year 45\,
+  Iron Pig
+DESCRIPTION:Lunar Month 3\, Fire Horse\nRabjung 17\, Year 45\, Iron Pig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2031-04-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20310522
+DTEND;VALUE=DATE:20310523
+SUMMARY:Lunar day 1 · Lunar Month 4\, Fire Sheep · Rabjung 17\, Year 45\,
+  Iron Pig
+DESCRIPTION:Lunar Month 4\, Fire Sheep\nRabjung 17\, Year 45\, Iron Pig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2031-04-saga_dawa@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20310605
+DTEND;VALUE=DATE:20310606
+SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Fire Sheep\nRabjung 17\, Year 45\
+ , Iron Pig
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2031-05-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20310620
+DTEND;VALUE=DATE:20310621
+SUMMARY:Lunar day 1 · Lunar Month 5\, Earth Monkey · Rabjung 17\, Year 45
+ \, Iron Pig
+DESCRIPTION:Lunar Month 5\, Earth Monkey\nRabjung 17\, Year 45\, Iron Pig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2031-06-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20310720
+DTEND;VALUE=DATE:20310721
+SUMMARY:Lunar day 1 · Lunar Month 6\, Earth Bird · Rabjung 17\, Year 45\,
+  Iron Pig
+DESCRIPTION:Lunar Month 6\, Earth Bird\nRabjung 17\, Year 45\, Iron Pig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2031-06-chokhor@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20310723
+DTEND;VALUE=DATE:20310724
+SUMMARY:Chökhor Düchen (First Turning of the Wheel)
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Earth Bird\nRabjung 17\, Year 45\,
+  Iron Pig
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2031-07-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20310819
+DTEND;VALUE=DATE:20310820
+SUMMARY:Lunar day 1 · Lunar Month 7\, Iron Dog · Rabjung 17\, Year 45\, I
+ ron Pig
+DESCRIPTION:Lunar Month 7\, Iron Dog\nRabjung 17\, Year 45\, Iron Pig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2031-08-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20310917
+DTEND;VALUE=DATE:20310918
+SUMMARY:Lunar day 1 · Lunar Month 8\, Iron Pig · Rabjung 17\, Year 45\, I
+ ron Pig
+DESCRIPTION:Lunar Month 8\, Iron Pig\nRabjung 17\, Year 45\, Iron Pig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2031-09-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20311017
+DTEND;VALUE=DATE:20311018
+SUMMARY:Lunar day 1 · Lunar Month 9\, Water Mouse · Rabjung 17\, Year 45\
+ , Iron Pig
+DESCRIPTION:Lunar Month 9\, Water Mouse\nRabjung 17\, Year 45\, Iron Pig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2031-09-lhabab@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20311106
+DTEND;VALUE=DATE:20311107
+SUMMARY:Lhabab Düchen (Descent from the god realm)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Water Mouse\nRabjung 17\, Year 45
+ \, Iron Pig
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2031-10-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20311115
+DTEND;VALUE=DATE:20311116
+SUMMARY:Lunar day 1 · Lunar Month 10\, Water Ox · Rabjung 17\, Year 45\, 
+ Iron Pig
+DESCRIPTION:Lunar Month 10\, Water Ox\nRabjung 17\, Year 45\, Iron Pig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2031-11-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20311215
+DTEND;VALUE=DATE:20311216
+SUMMARY:Lunar day 1 · Lunar Month 11\, Wood Tiger · Rabjung 17\, Year 45\
+ , Iron Pig
+DESCRIPTION:Lunar Month 11\, Wood Tiger\nRabjung 17\, Year 45\, Iron Pig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2031-12-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20320113
+DTEND;VALUE=DATE:20320114
+SUMMARY:Lunar day 1 · Lunar Month 12\, Wood Rabbit · Rabjung 17\, Year 45
+ \, Iron Pig
+DESCRIPTION:Lunar Month 12\, Wood Rabbit\nRabjung 17\, Year 45\, Iron Pig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2032-01-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20320212
+DTEND;VALUE=DATE:20320213
+SUMMARY:Lunar day 1 · Lunar Month 1\, Fire Dragon · Rabjung 17\, Year 46\
+ , Water Mouse
+DESCRIPTION:Lunar Month 1\, Fire Dragon\nRabjung 17\, Year 46\, Water Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2032-01-losar@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20320212
+DTEND;VALUE=DATE:20320213
+SUMMARY:Losar (Tibetan New Year)
+DESCRIPTION:Rabjung 17\, Year 46\, Water Mouse
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2032-01-chotrul@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20320226
+DTEND;VALUE=DATE:20320227
+SUMMARY:Chotrul Düchen (Day of Miracles)
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Fire Dragon\nRabjung 17\, Year 46
+ \, Water Mouse
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2032-02-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20320312
+DTEND;VALUE=DATE:20320313
+SUMMARY:Lunar day 1 · Lunar Month 2\, Fire Snake · Rabjung 17\, Year 46\,
+  Water Mouse
+DESCRIPTION:Lunar Month 2\, Fire Snake\nRabjung 17\, Year 46\, Water Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2032-03-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20320411
+DTEND;VALUE=DATE:20320412
+SUMMARY:Lunar day 2 · first day of Lunar Month 3\, Earth Horse (lunar day 
+ 1 omitted) · Rabjung 17\, Year 46\, Water Mouse
+DESCRIPTION:Lunar Month 3\, Earth Horse\nRabjung 17\, Year 46\, Water Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2032-04-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20320510
+DTEND;VALUE=DATE:20320511
+SUMMARY:Lunar day 1 · Lunar Month 4\, Earth Sheep · Rabjung 17\, Year 46\
+ , Water Mouse
+DESCRIPTION:Lunar Month 4\, Earth Sheep\nRabjung 17\, Year 46\, Water Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2032-04-saga_dawa@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20320525
+DTEND;VALUE=DATE:20320526
+SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Earth Sheep\nRabjung 17\, Year 46
+ \, Water Mouse
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2032-05-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20320609
+DTEND;VALUE=DATE:20320610
+SUMMARY:Lunar day 1 · Lunar Month 5\, Iron Monkey · Rabjung 17\, Year 46\
+ , Water Mouse
+DESCRIPTION:Lunar Month 5\, Iron Monkey\nRabjung 17\, Year 46\, Water Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2032-06-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20320708
+DTEND;VALUE=DATE:20320709
+SUMMARY:Lunar day 1 · Lunar Month 6\, Iron Bird · Rabjung 17\, Year 46\, 
+ Water Mouse
+DESCRIPTION:Lunar Month 6\, Iron Bird\nRabjung 17\, Year 46\, Water Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2032-06-chokhor@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20320711
+DTEND;VALUE=DATE:20320712
+SUMMARY:Chökhor Düchen (First Turning of the Wheel)
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Iron Bird\nRabjung 17\, Year 46\, 
+ Water Mouse
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2032-07L-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20320807
+DTEND;VALUE=DATE:20320808
+SUMMARY:Lunar day 1 · Lunar Month 7 (Leap)\, Water Dog · Rabjung 17\, Yea
+ r 46\, Water Mouse
+DESCRIPTION:Lunar Month 7 (Leap)\, Water Dog\nRabjung 17\, Year 46\, Water 
+ Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2032-07-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20320905
+DTEND;VALUE=DATE:20320906
+SUMMARY:Lunar day 1 · Lunar Month 7\, Water Dog · Rabjung 17\, Year 46\, 
+ Water Mouse
+DESCRIPTION:Lunar Month 7\, Water Dog\nRabjung 17\, Year 46\, Water Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2032-08-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20321005
+DTEND;VALUE=DATE:20321006
+SUMMARY:Lunar day 1 · Lunar Month 8\, Water Pig · Rabjung 17\, Year 46\, 
+ Water Mouse
+DESCRIPTION:Lunar Month 8\, Water Pig\nRabjung 17\, Year 46\, Water Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2032-09-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20321104
+DTEND;VALUE=DATE:20321105
+SUMMARY:Lunar day 1 · Lunar Month 9\, Wood Mouse · Rabjung 17\, Year 46\,
+  Water Mouse
+DESCRIPTION:Lunar Month 9\, Wood Mouse\nRabjung 17\, Year 46\, Water Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2032-09-lhabab@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20321124
+DTEND;VALUE=DATE:20321125
+SUMMARY:Lhabab Düchen (Descent from the god realm)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Wood Mouse\nRabjung 17\, Year 46\
+ , Water Mouse
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2032-10-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20321203
+DTEND;VALUE=DATE:20321204
+SUMMARY:Lunar day 1 · Lunar Month 10\, Wood Ox · Rabjung 17\, Year 46\, W
+ ater Mouse
+DESCRIPTION:Lunar Month 10\, Wood Ox\nRabjung 17\, Year 46\, Water Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2032-11-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20330102
+DTEND;VALUE=DATE:20330103
+SUMMARY:Lunar day 1 · Lunar Month 11\, Wood Tiger · Rabjung 17\, Year 46\
+ , Water Mouse
+DESCRIPTION:Lunar Month 11\, Wood Tiger\nRabjung 17\, Year 46\, Water Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2032-12-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20330131
+DTEND;VALUE=DATE:20330201
+SUMMARY:Lunar day 1 · Lunar Month 12\, Wood Rabbit · Rabjung 17\, Year 46
+ \, Water Mouse
+DESCRIPTION:Lunar Month 12\, Wood Rabbit\nRabjung 17\, Year 46\, Water Mous
+ e
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2033-01-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20330302
+DTEND;VALUE=DATE:20330303
+SUMMARY:Lunar day 1 · Lunar Month 1\, Fire Dragon · Rabjung 17\, Year 47\
+ , Water Ox
+DESCRIPTION:Lunar Month 1\, Fire Dragon\nRabjung 17\, Year 47\, Water Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2033-01-losar@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20330302
+DTEND;VALUE=DATE:20330303
+SUMMARY:Losar (Tibetan New Year)
+DESCRIPTION:Rabjung 17\, Year 47\, Water Ox
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2033-01-chotrul@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20330315
+DTEND;VALUE=DATE:20330316
+SUMMARY:Chotrul Düchen (Day of Miracles)
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Fire Dragon\nRabjung 17\, Year 47
+ \, Water Ox
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2033-02-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20330331
+DTEND;VALUE=DATE:20330401
+SUMMARY:Lunar day 1 · Lunar Month 2\, Fire Snake · Rabjung 17\, Year 47\,
+  Water Ox
+DESCRIPTION:Lunar Month 2\, Fire Snake\nRabjung 17\, Year 47\, Water Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2033-03-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20330430
+DTEND;VALUE=DATE:20330501
+SUMMARY:Lunar day 2 · first day of Lunar Month 3\, Earth Horse (lunar day 
+ 1 omitted) · Rabjung 17\, Year 47\, Water Ox
+DESCRIPTION:Lunar Month 3\, Earth Horse\nRabjung 17\, Year 47\, Water Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2033-04-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20330529
+DTEND;VALUE=DATE:20330530
+SUMMARY:Lunar day 1 · Lunar Month 4\, Earth Sheep · Rabjung 17\, Year 47\
+ , Water Ox
+DESCRIPTION:Lunar Month 4\, Earth Sheep\nRabjung 17\, Year 47\, Water Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2033-04-saga_dawa@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20330612
+DTEND;VALUE=DATE:20330613
+SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Earth Sheep\nRabjung 17\, Year 47
+ \, Water Ox
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2033-05-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20330627
+DTEND;VALUE=DATE:20330628
+SUMMARY:Lunar day 1 · Lunar Month 5\, Iron Monkey · Rabjung 17\, Year 47\
+ , Water Ox
+DESCRIPTION:Lunar Month 5\, Iron Monkey\nRabjung 17\, Year 47\, Water Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2033-06-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20330727
+DTEND;VALUE=DATE:20330728
+SUMMARY:Lunar day 1 · Lunar Month 6\, Iron Bird · Rabjung 17\, Year 47\, 
+ Water Ox
+DESCRIPTION:Lunar Month 6\, Iron Bird\nRabjung 17\, Year 47\, Water Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2033-06-chokhor@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20330730
+DTEND;VALUE=DATE:20330731
+SUMMARY:Chökhor Düchen (First Turning of the Wheel)
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Iron Bird\nRabjung 17\, Year 47\, 
+ Water Ox
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2033-07-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20330825
+DTEND;VALUE=DATE:20330826
+SUMMARY:Lunar day 1 · Lunar Month 7\, Water Dog · Rabjung 17\, Year 47\, 
+ Water Ox
+DESCRIPTION:Lunar Month 7\, Water Dog\nRabjung 17\, Year 47\, Water Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2033-08-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20330924
+DTEND;VALUE=DATE:20330925
+SUMMARY:Lunar day 1 · Lunar Month 8\, Water Pig · Rabjung 17\, Year 47\, 
+ Water Ox
+DESCRIPTION:Lunar Month 8\, Water Pig\nRabjung 17\, Year 47\, Water Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2033-09-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20331024
+DTEND;VALUE=DATE:20331025
+SUMMARY:Lunar day 1 · Lunar Month 9\, Wood Mouse · Rabjung 17\, Year 47\,
+  Water Ox
+DESCRIPTION:Lunar Month 9\, Wood Mouse\nRabjung 17\, Year 47\, Water Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2033-09-lhabab@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20331113
+DTEND;VALUE=DATE:20331114
+SUMMARY:Lhabab Düchen (Descent from the god realm)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Wood Mouse\nRabjung 17\, Year 47\
+ , Water Ox
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2033-10-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20331122
+DTEND;VALUE=DATE:20331123
+SUMMARY:Lunar day 1 · Lunar Month 10\, Wood Ox · Rabjung 17\, Year 47\, W
+ ater Ox
+DESCRIPTION:Lunar Month 10\, Wood Ox\nRabjung 17\, Year 47\, Water Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2033-11-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20331222
+DTEND;VALUE=DATE:20331223
+SUMMARY:Lunar day 1 · Lunar Month 11\, Fire Tiger · Rabjung 17\, Year 47\
+ , Water Ox
+DESCRIPTION:Lunar Month 11\, Fire Tiger\nRabjung 17\, Year 47\, Water Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2033-12-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20340121
+DTEND;VALUE=DATE:20340122
+SUMMARY:Lunar day 1 · Lunar Month 12\, Fire Rabbit · Rabjung 17\, Year 47
+ \, Water Ox
+DESCRIPTION:Lunar Month 12\, Fire Rabbit\nRabjung 17\, Year 47\, Water Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2034-01-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20340219
+DTEND;VALUE=DATE:20340220
+SUMMARY:Lunar day 1 · Lunar Month 1\, Earth Dragon · Rabjung 17\, Year 48
+ \, Wood Tiger
+DESCRIPTION:Lunar Month 1\, Earth Dragon\nRabjung 17\, Year 48\, Wood Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2034-01-losar@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20340219
+DTEND;VALUE=DATE:20340220
+SUMMARY:Losar (Tibetan New Year)
+DESCRIPTION:Rabjung 17\, Year 48\, Wood Tiger
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2034-01-chotrul@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20340304
+DTEND;VALUE=DATE:20340305
+SUMMARY:Chotrul Düchen (Day of Miracles)
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Earth Dragon\nRabjung 17\, Year 4
+ 8\, Wood Tiger
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2034-02-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20340321
+DTEND;VALUE=DATE:20340322
+SUMMARY:Lunar day 1 · Lunar Month 2\, Earth Snake · Rabjung 17\, Year 48\
+ , Wood Tiger
+DESCRIPTION:Lunar Month 2\, Earth Snake\nRabjung 17\, Year 48\, Wood Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2034-03-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20340419
+DTEND;VALUE=DATE:20340420
+SUMMARY:Lunar day 1 · Lunar Month 3\, Iron Horse · Rabjung 17\, Year 48\,
+  Wood Tiger
+DESCRIPTION:Lunar Month 3\, Iron Horse\nRabjung 17\, Year 48\, Wood Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2034-04-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20340519
+DTEND;VALUE=DATE:20340520
+SUMMARY:Lunar day 1 · Lunar Month 4\, Iron Sheep · Rabjung 17\, Year 48\,
+  Wood Tiger
+DESCRIPTION:Lunar Month 4\, Iron Sheep\nRabjung 17\, Year 48\, Wood Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2034-04-saga_dawa@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20340601
+DTEND;VALUE=DATE:20340602
+SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Iron Sheep\nRabjung 17\, Year 48\
+ , Wood Tiger
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2034-04-saga_dawa-r@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20340602
+DTEND;VALUE=DATE:20340603
+SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana (
+ repeated)
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Iron Sheep\nRabjung 17\, Year 48\
+ , Wood Tiger
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2034-05-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20340617
+DTEND;VALUE=DATE:20340618
+SUMMARY:Lunar day 1 · Lunar Month 5\, Water Monkey · Rabjung 17\, Year 48
+ \, Wood Tiger
+DESCRIPTION:Lunar Month 5\, Water Monkey\nRabjung 17\, Year 48\, Wood Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2034-06-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20340716
+DTEND;VALUE=DATE:20340717
+SUMMARY:Lunar day 1 · Lunar Month 6\, Water Bird · Rabjung 17\, Year 48\,
+  Wood Tiger
+DESCRIPTION:Lunar Month 6\, Water Bird\nRabjung 17\, Year 48\, Wood Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2034-06-chokhor@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20340719
+DTEND;VALUE=DATE:20340720
+SUMMARY:Chökhor Düchen (First Turning of the Wheel)
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Water Bird\nRabjung 17\, Year 48\,
+  Wood Tiger
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2034-07-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20340815
+DTEND;VALUE=DATE:20340816
+SUMMARY:Lunar day 1 · Lunar Month 7\, Wood Dog · Rabjung 17\, Year 48\, W
+ ood Tiger
+DESCRIPTION:Lunar Month 7\, Wood Dog\nRabjung 17\, Year 48\, Wood Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2034-08-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20340913
+DTEND;VALUE=DATE:20340914
+SUMMARY:Lunar day 1 · Lunar Month 8\, Wood Pig · Rabjung 17\, Year 48\, W
+ ood Tiger
+DESCRIPTION:Lunar Month 8\, Wood Pig\nRabjung 17\, Year 48\, Wood Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2034-09-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20341013
+DTEND;VALUE=DATE:20341014
+SUMMARY:Lunar day 1 · Lunar Month 9\, Fire Mouse · Rabjung 17\, Year 48\,
+  Wood Tiger
+DESCRIPTION:Lunar Month 9\, Fire Mouse\nRabjung 17\, Year 48\, Wood Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2034-09-lhabab@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20341102
+DTEND;VALUE=DATE:20341103
+SUMMARY:Lhabab Düchen (Descent from the god realm)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Fire Mouse\nRabjung 17\, Year 48\
+ , Wood Tiger
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2034-10-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20341111
+DTEND;VALUE=DATE:20341112
+SUMMARY:Lunar day 1 · Lunar Month 10\, Fire Ox · Rabjung 17\, Year 48\, W
+ ood Tiger
+DESCRIPTION:Lunar Month 10\, Fire Ox\nRabjung 17\, Year 48\, Wood Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2034-11-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20341211
+DTEND;VALUE=DATE:20341212
+SUMMARY:Lunar day 1 · Lunar Month 11\, Fire Tiger · Rabjung 17\, Year 48\
+ , Wood Tiger
+DESCRIPTION:Lunar Month 11\, Fire Tiger\nRabjung 17\, Year 48\, Wood Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2034-12-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20350110
+DTEND;VALUE=DATE:20350111
+SUMMARY:Lunar day 1 · Lunar Month 12\, Fire Rabbit · Rabjung 17\, Year 48
+ \, Wood Tiger
+DESCRIPTION:Lunar Month 12\, Fire Rabbit\nRabjung 17\, Year 48\, Wood Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2035-01-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20350209
+DTEND;VALUE=DATE:20350210
+SUMMARY:Lunar day 1 · Lunar Month 1\, Earth Dragon · Rabjung 17\, Year 49
+ \, Wood Rabbit
+DESCRIPTION:Lunar Month 1\, Earth Dragon\nRabjung 17\, Year 49\, Wood Rabbi
+ t
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2035-01-losar@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20350209
+DTEND;VALUE=DATE:20350210
+SUMMARY:Losar (Tibetan New Year)
+DESCRIPTION:Rabjung 17\, Year 49\, Wood Rabbit
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2035-01-chotrul@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20350222
+DTEND;VALUE=DATE:20350223
+SUMMARY:Chotrul Düchen (Day of Miracles)
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Earth Dragon\nRabjung 17\, Year 4
+ 9\, Wood Rabbit
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2035-02-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20350310
+DTEND;VALUE=DATE:20350311
+SUMMARY:Lunar day 1 · Lunar Month 2\, Earth Snake · Rabjung 17\, Year 49\
+ , Wood Rabbit
+DESCRIPTION:Lunar Month 2\, Earth Snake\nRabjung 17\, Year 49\, Wood Rabbit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2035-03-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20350409
+DTEND;VALUE=DATE:20350410
+SUMMARY:Lunar day 1 · Lunar Month 3\, Iron Horse · Rabjung 17\, Year 49\,
+  Wood Rabbit
+DESCRIPTION:Lunar Month 3\, Iron Horse\nRabjung 17\, Year 49\, Wood Rabbit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2035-04L-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20350508
+DTEND;VALUE=DATE:20350509
+SUMMARY:Lunar day 1 · Lunar Month 4 (Leap)\, Iron Sheep · Rabjung 17\, Ye
+ ar 49\, Wood Rabbit
+DESCRIPTION:Lunar Month 4 (Leap)\, Iron Sheep\nRabjung 17\, Year 49\, Wood 
+ Rabbit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2035-04-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20350607
+DTEND;VALUE=DATE:20350608
+SUMMARY:Lunar day 1 · Lunar Month 4\, Iron Sheep · Rabjung 17\, Year 49\,
+  Wood Rabbit
+DESCRIPTION:Lunar Month 4\, Iron Sheep\nRabjung 17\, Year 49\, Wood Rabbit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2035-04-saga_dawa@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20350620
+DTEND;VALUE=DATE:20350621
+SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Iron Sheep\nRabjung 17\, Year 49\
+ , Wood Rabbit
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2035-05-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20350706
+DTEND;VALUE=DATE:20350707
+SUMMARY:Lunar day 1 · Lunar Month 5\, Water Monkey · Rabjung 17\, Year 49
+ \, Wood Rabbit
+DESCRIPTION:Lunar Month 5\, Water Monkey\nRabjung 17\, Year 49\, Wood Rabbi
+ t
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2035-06-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20350804
+DTEND;VALUE=DATE:20350805
+SUMMARY:Lunar day 1 · Lunar Month 6\, Water Bird · Rabjung 17\, Year 49\,
+  Wood Rabbit
+DESCRIPTION:Lunar Month 6\, Water Bird\nRabjung 17\, Year 49\, Wood Rabbit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2035-06-chokhor@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20350807
+DTEND;VALUE=DATE:20350808
+SUMMARY:Chökhor Düchen (First Turning of the Wheel)
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Water Bird\nRabjung 17\, Year 49\,
+  Wood Rabbit
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2035-07-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20350903
+DTEND;VALUE=DATE:20350904
+SUMMARY:Lunar day 2 · first day of Lunar Month 7\, Wood Dog (lunar day 1 o
+ mitted) · Rabjung 17\, Year 49\, Wood Rabbit
+DESCRIPTION:Lunar Month 7\, Wood Dog\nRabjung 17\, Year 49\, Wood Rabbit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2035-08-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20351002
+DTEND;VALUE=DATE:20351003
+SUMMARY:Lunar day 1 · Lunar Month 8\, Wood Pig · Rabjung 17\, Year 49\, W
+ ood Rabbit
+DESCRIPTION:Lunar Month 8\, Wood Pig\nRabjung 17\, Year 49\, Wood Rabbit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2035-09-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20351031
+DTEND;VALUE=DATE:20351101
+SUMMARY:Lunar day 1 · Lunar Month 9\, Fire Mouse · Rabjung 17\, Year 49\,
+  Wood Rabbit
+DESCRIPTION:Lunar Month 9\, Fire Mouse\nRabjung 17\, Year 49\, Wood Rabbit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2035-09-d01r@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20351101
+DTEND;VALUE=DATE:20351102
+SUMMARY:Lunar day 1 (repeated)
+DESCRIPTION:Lunar Month 9\, Fire Mouse\nRabjung 17\, Year 49\, Wood Rabbit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2035-09-lhabab@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20351121
+DTEND;VALUE=DATE:20351122
+SUMMARY:Lhabab Düchen (Descent from the god realm)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Fire Mouse\nRabjung 17\, Year 49\
+ , Wood Rabbit
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2035-10-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20351130
+DTEND;VALUE=DATE:20351201
+SUMMARY:Lunar day 1 · Lunar Month 10\, Fire Ox · Rabjung 17\, Year 49\, W
+ ood Rabbit
+DESCRIPTION:Lunar Month 10\, Fire Ox\nRabjung 17\, Year 49\, Wood Rabbit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2035-11-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20351230
+DTEND;VALUE=DATE:20351231
+SUMMARY:Lunar day 1 · Lunar Month 11\, Earth Tiger · Rabjung 17\, Year 49
+ \, Wood Rabbit
+DESCRIPTION:Lunar Month 11\, Earth Tiger\nRabjung 17\, Year 49\, Wood Rabbi
+ t
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2035-12-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20360129
+DTEND;VALUE=DATE:20360130
+SUMMARY:Lunar day 1 · Lunar Month 12\, Earth Rabbit · Rabjung 17\, Year 4
+ 9\, Wood Rabbit
+DESCRIPTION:Lunar Month 12\, Earth Rabbit\nRabjung 17\, Year 49\, Wood Rabb
+ it
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2036-01-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20360227
+DTEND;VALUE=DATE:20360228
+SUMMARY:Lunar day 1 · Lunar Month 1\, Iron Dragon · Rabjung 17\, Year 50\
+ , Fire Dragon
+DESCRIPTION:Lunar Month 1\, Iron Dragon\nRabjung 17\, Year 50\, Fire Dragon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2036-01-losar@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20360227
+DTEND;VALUE=DATE:20360228
+SUMMARY:Losar (Tibetan New Year)
+DESCRIPTION:Rabjung 17\, Year 50\, Fire Dragon
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2036-01-d01r@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20360228
+DTEND;VALUE=DATE:20360229
+SUMMARY:Lunar day 1 (repeated)
+DESCRIPTION:Lunar Month 1\, Iron Dragon\nRabjung 17\, Year 50\, Fire Dragon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2036-01-chotrul@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20360312
+DTEND;VALUE=DATE:20360313
+SUMMARY:Chotrul Düchen (Day of Miracles)
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Iron Dragon\nRabjung 17\, Year 50
+ \, Fire Dragon
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2036-02-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20360328
+DTEND;VALUE=DATE:20360329
+SUMMARY:Lunar day 1 · Lunar Month 2\, Iron Snake · Rabjung 17\, Year 50\,
+  Fire Dragon
+DESCRIPTION:Lunar Month 2\, Iron Snake\nRabjung 17\, Year 50\, Fire Dragon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2036-03-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20360427
+DTEND;VALUE=DATE:20360428
+SUMMARY:Lunar day 1 · Lunar Month 3\, Water Horse · Rabjung 17\, Year 50\
+ , Fire Dragon
+DESCRIPTION:Lunar Month 3\, Water Horse\nRabjung 17\, Year 50\, Fire Dragon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2036-04-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20360526
+DTEND;VALUE=DATE:20360527
+SUMMARY:Lunar day 1 · Lunar Month 4\, Water Sheep · Rabjung 17\, Year 50\
+ , Fire Dragon
+DESCRIPTION:Lunar Month 4\, Water Sheep\nRabjung 17\, Year 50\, Fire Dragon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2036-04-saga_dawa@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20360608
+DTEND;VALUE=DATE:20360609
+SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Water Sheep\nRabjung 17\, Year 50
+ \, Fire Dragon
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2036-05-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20360625
+DTEND;VALUE=DATE:20360626
+SUMMARY:Lunar day 1 · Lunar Month 5\, Wood Monkey · Rabjung 17\, Year 50\
+ , Fire Dragon
+DESCRIPTION:Lunar Month 5\, Wood Monkey\nRabjung 17\, Year 50\, Fire Dragon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2036-06-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20360724
+DTEND;VALUE=DATE:20360725
+SUMMARY:Lunar day 1 · Lunar Month 6\, Wood Bird · Rabjung 17\, Year 50\, 
+ Fire Dragon
+DESCRIPTION:Lunar Month 6\, Wood Bird\nRabjung 17\, Year 50\, Fire Dragon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2036-06-chokhor@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20360727
+DTEND;VALUE=DATE:20360728
+SUMMARY:Chökhor Düchen (First Turning of the Wheel)
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Wood Bird\nRabjung 17\, Year 50\, 
+ Fire Dragon
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2036-07-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20360822
+DTEND;VALUE=DATE:20360823
+SUMMARY:Lunar day 1 · Lunar Month 7\, Fire Dog · Rabjung 17\, Year 50\, F
+ ire Dragon
+DESCRIPTION:Lunar Month 7\, Fire Dog\nRabjung 17\, Year 50\, Fire Dragon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2036-08-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20360921
+DTEND;VALUE=DATE:20360922
+SUMMARY:Lunar day 2 · first day of Lunar Month 8\, Fire Pig (lunar day 1 o
+ mitted) · Rabjung 17\, Year 50\, Fire Dragon
+DESCRIPTION:Lunar Month 8\, Fire Pig\nRabjung 17\, Year 50\, Fire Dragon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2036-09-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20361020
+DTEND;VALUE=DATE:20361021
+SUMMARY:Lunar day 1 · Lunar Month 9\, Earth Mouse · Rabjung 17\, Year 50\
+ , Fire Dragon
+DESCRIPTION:Lunar Month 9\, Earth Mouse\nRabjung 17\, Year 50\, Fire Dragon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2036-09-lhabab@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20361110
+DTEND;VALUE=DATE:20361111
+SUMMARY:Lhabab Düchen (Descent from the god realm)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Earth Mouse\nRabjung 17\, Year 50
+ \, Fire Dragon
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2036-10-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20361118
+DTEND;VALUE=DATE:20361119
+SUMMARY:Lunar day 1 · Lunar Month 10\, Earth Ox · Rabjung 17\, Year 50\, 
+ Fire Dragon
+DESCRIPTION:Lunar Month 10\, Earth Ox\nRabjung 17\, Year 50\, Fire Dragon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2036-11-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20361218
+DTEND;VALUE=DATE:20361219
+SUMMARY:Lunar day 1 · Lunar Month 11\, Earth Tiger · Rabjung 17\, Year 50
+ \, Fire Dragon
+DESCRIPTION:Lunar Month 11\, Earth Tiger\nRabjung 17\, Year 50\, Fire Drago
+ n
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2036-12-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20370117
+DTEND;VALUE=DATE:20370118
+SUMMARY:Lunar day 1 · Lunar Month 12\, Earth Rabbit · Rabjung 17\, Year 5
+ 0\, Fire Dragon
+DESCRIPTION:Lunar Month 12\, Earth Rabbit\nRabjung 17\, Year 50\, Fire Drag
+ on
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2037-01-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20370215
+DTEND;VALUE=DATE:20370216
+SUMMARY:Lunar day 1 · Lunar Month 1\, Iron Dragon · Rabjung 17\, Year 51\
+ , Fire Snake
+DESCRIPTION:Lunar Month 1\, Iron Dragon\nRabjung 17\, Year 51\, Fire Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2037-01-losar@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20370215
+DTEND;VALUE=DATE:20370216
+SUMMARY:Losar (Tibetan New Year)
+DESCRIPTION:Rabjung 17\, Year 51\, Fire Snake
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2037-01-d01r@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20370216
+DTEND;VALUE=DATE:20370217
+SUMMARY:Lunar day 1 (repeated)
+DESCRIPTION:Lunar Month 1\, Iron Dragon\nRabjung 17\, Year 51\, Fire Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2037-01-chotrul@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20370301
+DTEND;VALUE=DATE:20370302
+SUMMARY:Chotrul Düchen (Day of Miracles) (lunar day 15 omitted)
+DESCRIPTION:Lunar day 14\nLunar Month 1\, Iron Dragon\nRabjung 17\, Year 51
+ \, Fire Snake
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2037-02-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20370317
+DTEND;VALUE=DATE:20370318
+SUMMARY:Lunar day 1 · Lunar Month 2\, Iron Snake · Rabjung 17\, Year 51\,
+  Fire Snake
+DESCRIPTION:Lunar Month 2\, Iron Snake\nRabjung 17\, Year 51\, Fire Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2037-03-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20370416
+DTEND;VALUE=DATE:20370417
+SUMMARY:Lunar day 1 · Lunar Month 3\, Water Horse · Rabjung 17\, Year 51\
+ , Fire Snake
+DESCRIPTION:Lunar Month 3\, Water Horse\nRabjung 17\, Year 51\, Fire Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2037-04-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20370516
+DTEND;VALUE=DATE:20370517
+SUMMARY:Lunar day 1 · Lunar Month 4\, Water Sheep · Rabjung 17\, Year 51\
+ , Fire Snake
+DESCRIPTION:Lunar Month 4\, Water Sheep\nRabjung 17\, Year 51\, Fire Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2037-04-saga_dawa@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20370529
+DTEND;VALUE=DATE:20370530
+SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Water Sheep\nRabjung 17\, Year 51
+ \, Fire Snake
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2037-05-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20370614
+DTEND;VALUE=DATE:20370615
+SUMMARY:Lunar day 1 · Lunar Month 5\, Wood Monkey · Rabjung 17\, Year 51\
+ , Fire Snake
+DESCRIPTION:Lunar Month 5\, Wood Monkey\nRabjung 17\, Year 51\, Fire Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2037-06-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20370714
+DTEND;VALUE=DATE:20370715
+SUMMARY:Lunar day 1 · Lunar Month 6\, Wood Bird · Rabjung 17\, Year 51\, 
+ Fire Snake
+DESCRIPTION:Lunar Month 6\, Wood Bird\nRabjung 17\, Year 51\, Fire Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2037-06-chokhor@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20370716
+DTEND;VALUE=DATE:20370717
+SUMMARY:Chökhor Düchen (First Turning of the Wheel)
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Wood Bird\nRabjung 17\, Year 51\, 
+ Fire Snake
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2037-07-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20370812
+DTEND;VALUE=DATE:20370813
+SUMMARY:Lunar day 1 · Lunar Month 7\, Fire Dog · Rabjung 17\, Year 51\, F
+ ire Snake
+DESCRIPTION:Lunar Month 7\, Fire Dog\nRabjung 17\, Year 51\, Fire Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2037-08-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20370910
+DTEND;VALUE=DATE:20370911
+SUMMARY:Lunar day 1 · Lunar Month 8\, Fire Pig · Rabjung 17\, Year 51\, F
+ ire Snake
+DESCRIPTION:Lunar Month 8\, Fire Pig\nRabjung 17\, Year 51\, Fire Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2037-09-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20371010
+DTEND;VALUE=DATE:20371011
+SUMMARY:Lunar day 2 · first day of Lunar Month 9\, Earth Mouse (lunar day 
+ 1 omitted) · Rabjung 17\, Year 51\, Fire Snake
+DESCRIPTION:Lunar Month 9\, Earth Mouse\nRabjung 17\, Year 51\, Fire Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2037-09-lhabab@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20371031
+DTEND;VALUE=DATE:20371101
+SUMMARY:Lhabab Düchen (Descent from the god realm)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Earth Mouse\nRabjung 17\, Year 51
+ \, Fire Snake
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2037-10-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20371108
+DTEND;VALUE=DATE:20371109
+SUMMARY:Lunar day 1 · Lunar Month 10\, Earth Ox · Rabjung 17\, Year 51\, 
+ Fire Snake
+DESCRIPTION:Lunar Month 10\, Earth Ox\nRabjung 17\, Year 51\, Fire Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2037-11-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20371207
+DTEND;VALUE=DATE:20371208
+SUMMARY:Lunar day 1 · Lunar Month 11\, Iron Tiger · Rabjung 17\, Year 51\
+ , Fire Snake
+DESCRIPTION:Lunar Month 11\, Iron Tiger\nRabjung 17\, Year 51\, Fire Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2037-12L-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20380106
+DTEND;VALUE=DATE:20380107
+SUMMARY:Lunar day 1 · Lunar Month 12 (Leap)\, Iron Rabbit · Rabjung 17\, 
+ Year 51\, Fire Snake
+DESCRIPTION:Lunar Month 12 (Leap)\, Iron Rabbit\nRabjung 17\, Year 51\, Fir
+ e Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2037-12-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20380205
+DTEND;VALUE=DATE:20380206
+SUMMARY:Lunar day 1 · Lunar Month 12\, Iron Rabbit · Rabjung 17\, Year 51
+ \, Fire Snake
+DESCRIPTION:Lunar Month 12\, Iron Rabbit\nRabjung 17\, Year 51\, Fire Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2038-01-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20380306
+DTEND;VALUE=DATE:20380307
+SUMMARY:Lunar day 1 · Lunar Month 1\, Water Dragon · Rabjung 17\, Year 52
+ \, Earth Horse
+DESCRIPTION:Lunar Month 1\, Water Dragon\nRabjung 17\, Year 52\, Earth Hors
+ e
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2038-01-losar@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20380306
+DTEND;VALUE=DATE:20380307
+SUMMARY:Losar (Tibetan New Year)
+DESCRIPTION:Rabjung 17\, Year 52\, Earth Horse
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2038-01-chotrul@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20380321
+DTEND;VALUE=DATE:20380322
+SUMMARY:Chotrul Düchen (Day of Miracles)
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Water Dragon\nRabjung 17\, Year 5
+ 2\, Earth Horse
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2038-02-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20380405
+DTEND;VALUE=DATE:20380406
+SUMMARY:Lunar day 1 · Lunar Month 2\, Water Snake · Rabjung 17\, Year 52\
+ , Earth Horse
+DESCRIPTION:Lunar Month 2\, Water Snake\nRabjung 17\, Year 52\, Earth Horse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2038-03-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20380505
+DTEND;VALUE=DATE:20380506
+SUMMARY:Lunar day 1 · Lunar Month 3\, Wood Horse · Rabjung 17\, Year 52\,
+  Earth Horse
+DESCRIPTION:Lunar Month 3\, Wood Horse\nRabjung 17\, Year 52\, Earth Horse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2038-04-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20380603
+DTEND;VALUE=DATE:20380604
+SUMMARY:Lunar day 1 · Lunar Month 4\, Wood Sheep · Rabjung 17\, Year 52\,
+  Earth Horse
+DESCRIPTION:Lunar Month 4\, Wood Sheep\nRabjung 17\, Year 52\, Earth Horse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2038-04-saga_dawa@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20380617
+DTEND;VALUE=DATE:20380618
+SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Wood Sheep\nRabjung 17\, Year 52\
+ , Earth Horse
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2038-05-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20380703
+DTEND;VALUE=DATE:20380704
+SUMMARY:Lunar day 1 · Lunar Month 5\, Fire Monkey · Rabjung 17\, Year 52\
+ , Earth Horse
+DESCRIPTION:Lunar Month 5\, Fire Monkey\nRabjung 17\, Year 52\, Earth Horse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2038-06-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20380801
+DTEND;VALUE=DATE:20380802
+SUMMARY:Lunar day 1 · Lunar Month 6\, Fire Bird · Rabjung 17\, Year 52\, 
+ Earth Horse
+DESCRIPTION:Lunar Month 6\, Fire Bird\nRabjung 17\, Year 52\, Earth Horse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2038-06-chokhor@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20380804
+DTEND;VALUE=DATE:20380805
+SUMMARY:Chökhor Düchen (First Turning of the Wheel)
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Fire Bird\nRabjung 17\, Year 52\, 
+ Earth Horse
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2038-07-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20380831
+DTEND;VALUE=DATE:20380901
+SUMMARY:Lunar day 1 · Lunar Month 7\, Earth Dog · Rabjung 17\, Year 52\, 
+ Earth Horse
+DESCRIPTION:Lunar Month 7\, Earth Dog\nRabjung 17\, Year 52\, Earth Horse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2038-08-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20380929
+DTEND;VALUE=DATE:20380930
+SUMMARY:Lunar day 1 · Lunar Month 8\, Earth Pig · Rabjung 17\, Year 52\, 
+ Earth Horse
+DESCRIPTION:Lunar Month 8\, Earth Pig\nRabjung 17\, Year 52\, Earth Horse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2038-09-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20381029
+DTEND;VALUE=DATE:20381030
+SUMMARY:Lunar day 2 · first day of Lunar Month 9\, Iron Mouse (lunar day 1
+  omitted) · Rabjung 17\, Year 52\, Earth Horse
+DESCRIPTION:Lunar Month 9\, Iron Mouse\nRabjung 17\, Year 52\, Earth Horse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2038-09-lhabab@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20381119
+DTEND;VALUE=DATE:20381120
+SUMMARY:Lhabab Düchen (Descent from the god realm)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Iron Mouse\nRabjung 17\, Year 52\
+ , Earth Horse
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2038-10-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20381127
+DTEND;VALUE=DATE:20381128
+SUMMARY:Lunar day 1 · Lunar Month 10\, Iron Ox · Rabjung 17\, Year 52\, E
+ arth Horse
+DESCRIPTION:Lunar Month 10\, Iron Ox\nRabjung 17\, Year 52\, Earth Horse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2038-11-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20381226
+DTEND;VALUE=DATE:20381227
+SUMMARY:Lunar day 1 · Lunar Month 11\, Iron Tiger · Rabjung 17\, Year 52\
+ , Earth Horse
+DESCRIPTION:Lunar Month 11\, Iron Tiger\nRabjung 17\, Year 52\, Earth Horse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2038-12-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20390125
+DTEND;VALUE=DATE:20390126
+SUMMARY:Lunar day 1 · Lunar Month 12\, Iron Rabbit · Rabjung 17\, Year 52
+ \, Earth Horse
+DESCRIPTION:Lunar Month 12\, Iron Rabbit\nRabjung 17\, Year 52\, Earth Hors
+ e
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2039-01-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20390223
+DTEND;VALUE=DATE:20390224
+SUMMARY:Lunar day 1 · Lunar Month 1\, Water Dragon · Rabjung 17\, Year 53
+ \, Earth Sheep
+DESCRIPTION:Lunar Month 1\, Water Dragon\nRabjung 17\, Year 53\, Earth Shee
+ p
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2039-01-losar@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20390223
+DTEND;VALUE=DATE:20390224
+SUMMARY:Losar (Tibetan New Year)
+DESCRIPTION:Rabjung 17\, Year 53\, Earth Sheep
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2039-01-chotrul@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20390310
+DTEND;VALUE=DATE:20390311
+SUMMARY:Chotrul Düchen (Day of Miracles)
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Water Dragon\nRabjung 17\, Year 5
+ 3\, Earth Sheep
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2039-02-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20390325
+DTEND;VALUE=DATE:20390326
+SUMMARY:Lunar day 1 · Lunar Month 2\, Water Snake · Rabjung 17\, Year 53\
+ , Earth Sheep
+DESCRIPTION:Lunar Month 2\, Water Snake\nRabjung 17\, Year 53\, Earth Sheep
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2039-03-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20390424
+DTEND;VALUE=DATE:20390425
+SUMMARY:Lunar day 1 · Lunar Month 3\, Wood Horse · Rabjung 17\, Year 53\,
+  Earth Sheep
+DESCRIPTION:Lunar Month 3\, Wood Horse\nRabjung 17\, Year 53\, Earth Sheep
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2039-04-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20390523
+DTEND;VALUE=DATE:20390524
+SUMMARY:Lunar day 1 · Lunar Month 4\, Wood Sheep · Rabjung 17\, Year 53\,
+  Earth Sheep
+DESCRIPTION:Lunar Month 4\, Wood Sheep\nRabjung 17\, Year 53\, Earth Sheep
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2039-04-d01r@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20390524
+DTEND;VALUE=DATE:20390525
+SUMMARY:Lunar day 1 (repeated)
+DESCRIPTION:Lunar Month 4\, Wood Sheep\nRabjung 17\, Year 53\, Earth Sheep
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2039-04-saga_dawa@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20390606
+DTEND;VALUE=DATE:20390607
+SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Wood Sheep\nRabjung 17\, Year 53\
+ , Earth Sheep
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2039-05-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20390622
+DTEND;VALUE=DATE:20390623
+SUMMARY:Lunar day 1 · Lunar Month 5\, Fire Monkey · Rabjung 17\, Year 53\
+ , Earth Sheep
+DESCRIPTION:Lunar Month 5\, Fire Monkey\nRabjung 17\, Year 53\, Earth Sheep
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2039-06-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20390722
+DTEND;VALUE=DATE:20390723
+SUMMARY:Lunar day 1 · Lunar Month 6\, Fire Bird · Rabjung 17\, Year 53\, 
+ Earth Sheep
+DESCRIPTION:Lunar Month 6\, Fire Bird\nRabjung 17\, Year 53\, Earth Sheep
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2039-06-chokhor@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20390725
+DTEND;VALUE=DATE:20390726
+SUMMARY:Chökhor Düchen (First Turning of the Wheel)
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Fire Bird\nRabjung 17\, Year 53\, 
+ Earth Sheep
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2039-07-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20390820
+DTEND;VALUE=DATE:20390821
+SUMMARY:Lunar day 1 · Lunar Month 7\, Earth Dog · Rabjung 17\, Year 53\, 
+ Earth Sheep
+DESCRIPTION:Lunar Month 7\, Earth Dog\nRabjung 17\, Year 53\, Earth Sheep
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2039-08-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20390919
+DTEND;VALUE=DATE:20390920
+SUMMARY:Lunar day 1 · Lunar Month 8\, Earth Pig · Rabjung 17\, Year 53\, 
+ Earth Sheep
+DESCRIPTION:Lunar Month 8\, Earth Pig\nRabjung 17\, Year 53\, Earth Sheep
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2039-09-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20391018
+DTEND;VALUE=DATE:20391019
+SUMMARY:Lunar day 1 · Lunar Month 9\, Iron Mouse · Rabjung 17\, Year 53\,
+  Earth Sheep
+DESCRIPTION:Lunar Month 9\, Iron Mouse\nRabjung 17\, Year 53\, Earth Sheep
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2039-09-lhabab@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20391108
+DTEND;VALUE=DATE:20391109
+SUMMARY:Lhabab Düchen (Descent from the god realm)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Iron Mouse\nRabjung 17\, Year 53\
+ , Earth Sheep
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2039-10-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20391117
+DTEND;VALUE=DATE:20391118
+SUMMARY:Lunar day 1 · Lunar Month 10\, Iron Ox · Rabjung 17\, Year 53\, E
+ arth Sheep
+DESCRIPTION:Lunar Month 10\, Iron Ox\nRabjung 17\, Year 53\, Earth Sheep
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2039-11-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20391216
+DTEND;VALUE=DATE:20391217
+SUMMARY:Lunar day 1 · Lunar Month 11\, Water Tiger · Rabjung 17\, Year 53
+ \, Earth Sheep
+DESCRIPTION:Lunar Month 11\, Water Tiger\nRabjung 17\, Year 53\, Earth Shee
+ p
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2039-12-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20400115
+DTEND;VALUE=DATE:20400116
+SUMMARY:Lunar day 2 · first day of Lunar Month 12\, Water Rabbit (lunar da
+ y 1 omitted) · Rabjung 17\, Year 53\, Earth Sheep
+DESCRIPTION:Lunar Month 12\, Water Rabbit\nRabjung 17\, Year 53\, Earth She
+ ep
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2040-01-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20400213
+DTEND;VALUE=DATE:20400214
+SUMMARY:Lunar day 1 · Lunar Month 1\, Wood Dragon · Rabjung 17\, Year 54\
+ , Iron Monkey
+DESCRIPTION:Lunar Month 1\, Wood Dragon\nRabjung 17\, Year 54\, Iron Monkey
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2040-01-losar@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20400213
+DTEND;VALUE=DATE:20400214
+SUMMARY:Losar (Tibetan New Year)
+DESCRIPTION:Rabjung 17\, Year 54\, Iron Monkey
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2040-01-chotrul@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20400227
+DTEND;VALUE=DATE:20400228
+SUMMARY:Chotrul Düchen (Day of Miracles)
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Wood Dragon\nRabjung 17\, Year 54
+ \, Iron Monkey
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2040-02-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20400313
+DTEND;VALUE=DATE:20400314
+SUMMARY:Lunar day 1 · Lunar Month 2\, Wood Snake · Rabjung 17\, Year 54\,
+  Iron Monkey
+DESCRIPTION:Lunar Month 2\, Wood Snake\nRabjung 17\, Year 54\, Iron Monkey
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2040-03-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20400412
+DTEND;VALUE=DATE:20400413
+SUMMARY:Lunar day 1 · Lunar Month 3\, Fire Horse · Rabjung 17\, Year 54\,
+  Iron Monkey
+DESCRIPTION:Lunar Month 3\, Fire Horse\nRabjung 17\, Year 54\, Iron Monkey
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2040-04-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20400512
+DTEND;VALUE=DATE:20400513
+SUMMARY:Lunar day 1 · Lunar Month 4\, Fire Sheep · Rabjung 17\, Year 54\,
+  Iron Monkey
+DESCRIPTION:Lunar Month 4\, Fire Sheep\nRabjung 17\, Year 54\, Iron Monkey
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2040-04-saga_dawa@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20400526
+DTEND;VALUE=DATE:20400527
+SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Fire Sheep\nRabjung 17\, Year 54\
+ , Iron Monkey
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2040-05-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20400610
+DTEND;VALUE=DATE:20400611
+SUMMARY:Lunar day 1 · Lunar Month 5\, Earth Monkey · Rabjung 17\, Year 54
+ \, Iron Monkey
+DESCRIPTION:Lunar Month 5\, Earth Monkey\nRabjung 17\, Year 54\, Iron Monke
+ y
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2040-06-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20400710
+DTEND;VALUE=DATE:20400711
+SUMMARY:Lunar day 1 · Lunar Month 6\, Earth Bird · Rabjung 17\, Year 54\,
+  Iron Monkey
+DESCRIPTION:Lunar Month 6\, Earth Bird\nRabjung 17\, Year 54\, Iron Monkey
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2040-06-chokhor@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20400713
+DTEND;VALUE=DATE:20400714
+SUMMARY:Chökhor Düchen (First Turning of the Wheel)
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Earth Bird\nRabjung 17\, Year 54\,
+  Iron Monkey
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2040-07-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20400808
+DTEND;VALUE=DATE:20400809
+SUMMARY:Lunar day 1 · Lunar Month 7\, Iron Dog · Rabjung 17\, Year 54\, I
+ ron Monkey
+DESCRIPTION:Lunar Month 7\, Iron Dog\nRabjung 17\, Year 54\, Iron Monkey
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2040-08-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20400907
+DTEND;VALUE=DATE:20400908
+SUMMARY:Lunar day 1 · Lunar Month 8\, Iron Pig · Rabjung 17\, Year 54\, I
+ ron Monkey
+DESCRIPTION:Lunar Month 8\, Iron Pig\nRabjung 17\, Year 54\, Iron Monkey
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2040-09L-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20401007
+DTEND;VALUE=DATE:20401008
+SUMMARY:Lunar day 1 · Lunar Month 9 (Leap)\, Water Mouse · Rabjung 17\, Y
+ ear 54\, Iron Monkey
+DESCRIPTION:Lunar Month 9 (Leap)\, Water Mouse\nRabjung 17\, Year 54\, Iron
+  Monkey
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2040-09-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20401105
+DTEND;VALUE=DATE:20401106
+SUMMARY:Lunar day 1 · Lunar Month 9\, Water Mouse · Rabjung 17\, Year 54\
+ , Iron Monkey
+DESCRIPTION:Lunar Month 9\, Water Mouse\nRabjung 17\, Year 54\, Iron Monkey
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2040-09-lhabab@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20401125
+DTEND;VALUE=DATE:20401126
+SUMMARY:Lhabab Düchen (Descent from the god realm)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Water Mouse\nRabjung 17\, Year 54
+ \, Iron Monkey
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2040-09-lhabab-r@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20401126
+DTEND;VALUE=DATE:20401127
+SUMMARY:Lhabab Düchen (Descent from the god realm) (repeated)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Water Mouse\nRabjung 17\, Year 54
+ \, Iron Monkey
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2040-10-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20401205
+DTEND;VALUE=DATE:20401206
+SUMMARY:Lunar day 1 · Lunar Month 10\, Water Ox · Rabjung 17\, Year 54\, 
+ Iron Monkey
+DESCRIPTION:Lunar Month 10\, Water Ox\nRabjung 17\, Year 54\, Iron Monkey
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2040-11-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20410103
+DTEND;VALUE=DATE:20410104
+SUMMARY:Lunar day 1 · Lunar Month 11\, Water Tiger · Rabjung 17\, Year 54
+ \, Iron Monkey
+DESCRIPTION:Lunar Month 11\, Water Tiger\nRabjung 17\, Year 54\, Iron Monke
+ y
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2040-12-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20410202
+DTEND;VALUE=DATE:20410203
+SUMMARY:Lunar day 1 · Lunar Month 12\, Water Rabbit · Rabjung 17\, Year 5
+ 4\, Iron Monkey
+DESCRIPTION:Lunar Month 12\, Water Rabbit\nRabjung 17\, Year 54\, Iron Monk
+ ey
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2041-01-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20410303
+DTEND;VALUE=DATE:20410304
+SUMMARY:Lunar day 1 · Lunar Month 1\, Wood Dragon · Rabjung 17\, Year 55\
+ , Iron Bird
+DESCRIPTION:Lunar Month 1\, Wood Dragon\nRabjung 17\, Year 55\, Iron Bird
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2041-01-losar@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20410303
+DTEND;VALUE=DATE:20410304
+SUMMARY:Losar (Tibetan New Year)
+DESCRIPTION:Rabjung 17\, Year 55\, Iron Bird
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2041-01-chotrul@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20410317
+DTEND;VALUE=DATE:20410318
+SUMMARY:Chotrul Düchen (Day of Miracles)
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Wood Dragon\nRabjung 17\, Year 55
+ \, Iron Bird
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2041-02-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20410402
+DTEND;VALUE=DATE:20410403
+SUMMARY:Lunar day 2 · first day of Lunar Month 2\, Wood Snake (lunar day 1
+  omitted) · Rabjung 17\, Year 55\, Iron Bird
+DESCRIPTION:Lunar Month 2\, Wood Snake\nRabjung 17\, Year 55\, Iron Bird
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2041-03-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20410501
+DTEND;VALUE=DATE:20410502
+SUMMARY:Lunar day 1 · Lunar Month 3\, Fire Horse · Rabjung 17\, Year 55\,
+  Iron Bird
+DESCRIPTION:Lunar Month 3\, Fire Horse\nRabjung 17\, Year 55\, Iron Bird
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2041-04-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20410530
+DTEND;VALUE=DATE:20410531
+SUMMARY:Lunar day 1 · Lunar Month 4\, Fire Sheep · Rabjung 17\, Year 55\,
+  Iron Bird
+DESCRIPTION:Lunar Month 4\, Fire Sheep\nRabjung 17\, Year 55\, Iron Bird
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2041-04-saga_dawa@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20410614
+DTEND;VALUE=DATE:20410615
+SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Fire Sheep\nRabjung 17\, Year 55\
+ , Iron Bird
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2041-05-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20410629
+DTEND;VALUE=DATE:20410630
+SUMMARY:Lunar day 1 · Lunar Month 5\, Earth Monkey · Rabjung 17\, Year 55
+ \, Iron Bird
+DESCRIPTION:Lunar Month 5\, Earth Monkey\nRabjung 17\, Year 55\, Iron Bird
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2041-06-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20410728
+DTEND;VALUE=DATE:20410729
+SUMMARY:Lunar day 1 · Lunar Month 6\, Earth Bird · Rabjung 17\, Year 55\,
+  Iron Bird
+DESCRIPTION:Lunar Month 6\, Earth Bird\nRabjung 17\, Year 55\, Iron Bird
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2041-06-d01r@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20410729
+DTEND;VALUE=DATE:20410730
+SUMMARY:Lunar day 1 (repeated)
+DESCRIPTION:Lunar Month 6\, Earth Bird\nRabjung 17\, Year 55\, Iron Bird
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2041-06-chokhor@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20410801
+DTEND;VALUE=DATE:20410802
+SUMMARY:Chökhor Düchen (First Turning of the Wheel)
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Earth Bird\nRabjung 17\, Year 55\,
+  Iron Bird
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2041-07-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20410827
+DTEND;VALUE=DATE:20410828
+SUMMARY:Lunar day 1 · Lunar Month 7\, Iron Dog · Rabjung 17\, Year 55\, I
+ ron Bird
+DESCRIPTION:Lunar Month 7\, Iron Dog\nRabjung 17\, Year 55\, Iron Bird
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2041-08-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20410926
+DTEND;VALUE=DATE:20410927
+SUMMARY:Lunar day 1 · Lunar Month 8\, Iron Pig · Rabjung 17\, Year 55\, I
+ ron Bird
+DESCRIPTION:Lunar Month 8\, Iron Pig\nRabjung 17\, Year 55\, Iron Bird
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2041-09-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20411025
+DTEND;VALUE=DATE:20411026
+SUMMARY:Lunar day 1 · Lunar Month 9\, Water Mouse · Rabjung 17\, Year 55\
+ , Iron Bird
+DESCRIPTION:Lunar Month 9\, Water Mouse\nRabjung 17\, Year 55\, Iron Bird
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2041-09-lhabab@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20411114
+DTEND;VALUE=DATE:20411115
+SUMMARY:Lhabab Düchen (Descent from the god realm)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Water Mouse\nRabjung 17\, Year 55
+ \, Iron Bird
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2041-09-lhabab-r@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20411115
+DTEND;VALUE=DATE:20411116
+SUMMARY:Lhabab Düchen (Descent from the god realm) (repeated)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Water Mouse\nRabjung 17\, Year 55
+ \, Iron Bird
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2041-10-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20411124
+DTEND;VALUE=DATE:20411125
+SUMMARY:Lunar day 1 · Lunar Month 10\, Water Ox · Rabjung 17\, Year 55\, 
+ Iron Bird
+DESCRIPTION:Lunar Month 10\, Water Ox\nRabjung 17\, Year 55\, Iron Bird
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2041-11-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20411224
+DTEND;VALUE=DATE:20411225
+SUMMARY:Lunar day 1 · Lunar Month 11\, Wood Tiger · Rabjung 17\, Year 55\
+ , Iron Bird
+DESCRIPTION:Lunar Month 11\, Wood Tiger\nRabjung 17\, Year 55\, Iron Bird
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2041-12-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20420122
+DTEND;VALUE=DATE:20420123
+SUMMARY:Lunar day 1 · Lunar Month 12\, Wood Rabbit · Rabjung 17\, Year 55
+ \, Iron Bird
+DESCRIPTION:Lunar Month 12\, Wood Rabbit\nRabjung 17\, Year 55\, Iron Bird
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2042-01-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20420221
+DTEND;VALUE=DATE:20420222
+SUMMARY:Lunar day 1 · Lunar Month 1\, Fire Dragon · Rabjung 17\, Year 56\
+ , Water Dog
+DESCRIPTION:Lunar Month 1\, Fire Dragon\nRabjung 17\, Year 56\, Water Dog
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2042-01-losar@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20420221
+DTEND;VALUE=DATE:20420222
+SUMMARY:Losar (Tibetan New Year)
+DESCRIPTION:Rabjung 17\, Year 56\, Water Dog
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2042-01-chotrul@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20420306
+DTEND;VALUE=DATE:20420307
+SUMMARY:Chotrul Düchen (Day of Miracles)
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Fire Dragon\nRabjung 17\, Year 56
+ \, Water Dog
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2042-02-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20420322
+DTEND;VALUE=DATE:20420323
+SUMMARY:Lunar day 1 · Lunar Month 2\, Fire Snake · Rabjung 17\, Year 56\,
+  Water Dog
+DESCRIPTION:Lunar Month 2\, Fire Snake\nRabjung 17\, Year 56\, Water Dog
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2042-03-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20420421
+DTEND;VALUE=DATE:20420422
+SUMMARY:Lunar day 2 · first day of Lunar Month 3\, Earth Horse (lunar day 
+ 1 omitted) · Rabjung 17\, Year 56\, Water Dog
+DESCRIPTION:Lunar Month 3\, Earth Horse\nRabjung 17\, Year 56\, Water Dog
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2042-04-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20420520
+DTEND;VALUE=DATE:20420521
+SUMMARY:Lunar day 1 · Lunar Month 4\, Earth Sheep · Rabjung 17\, Year 56\
+ , Water Dog
+DESCRIPTION:Lunar Month 4\, Earth Sheep\nRabjung 17\, Year 56\, Water Dog
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2042-04-saga_dawa@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20420603
+DTEND;VALUE=DATE:20420604
+SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Earth Sheep\nRabjung 17\, Year 56
+ \, Water Dog
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2042-05-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20420618
+DTEND;VALUE=DATE:20420619
+SUMMARY:Lunar day 1 · Lunar Month 5\, Iron Monkey · Rabjung 17\, Year 56\
+ , Water Dog
+DESCRIPTION:Lunar Month 5\, Iron Monkey\nRabjung 17\, Year 56\, Water Dog
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2042-06-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20420718
+DTEND;VALUE=DATE:20420719
+SUMMARY:Lunar day 1 · Lunar Month 6\, Iron Bird · Rabjung 17\, Year 56\, 
+ Water Dog
+DESCRIPTION:Lunar Month 6\, Iron Bird\nRabjung 17\, Year 56\, Water Dog
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2042-06-chokhor@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20420721
+DTEND;VALUE=DATE:20420722
+SUMMARY:Chökhor Düchen (First Turning of the Wheel)
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Iron Bird\nRabjung 17\, Year 56\, 
+ Water Dog
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2042-07-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20420816
+DTEND;VALUE=DATE:20420817
+SUMMARY:Lunar day 1 · Lunar Month 7\, Water Dog · Rabjung 17\, Year 56\, 
+ Water Dog
+DESCRIPTION:Lunar Month 7\, Water Dog\nRabjung 17\, Year 56\, Water Dog
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2042-08-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20420915
+DTEND;VALUE=DATE:20420916
+SUMMARY:Lunar day 1 · Lunar Month 8\, Water Pig · Rabjung 17\, Year 56\, 
+ Water Dog
+DESCRIPTION:Lunar Month 8\, Water Pig\nRabjung 17\, Year 56\, Water Dog
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2042-09-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20421014
+DTEND;VALUE=DATE:20421015
+SUMMARY:Lunar day 1 · Lunar Month 9\, Wood Mouse · Rabjung 17\, Year 56\,
+  Water Dog
+DESCRIPTION:Lunar Month 9\, Wood Mouse\nRabjung 17\, Year 56\, Water Dog
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2042-09-lhabab@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20421104
+DTEND;VALUE=DATE:20421105
+SUMMARY:Lhabab Düchen (Descent from the god realm)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Wood Mouse\nRabjung 17\, Year 56\
+ , Water Dog
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2042-10-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20421113
+DTEND;VALUE=DATE:20421114
+SUMMARY:Lunar day 1 · Lunar Month 10\, Wood Ox · Rabjung 17\, Year 56\, W
+ ater Dog
+DESCRIPTION:Lunar Month 10\, Wood Ox\nRabjung 17\, Year 56\, Water Dog
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2042-11-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20421213
+DTEND;VALUE=DATE:20421214
+SUMMARY:Lunar day 1 · Lunar Month 11\, Wood Tiger · Rabjung 17\, Year 56\
+ , Water Dog
+DESCRIPTION:Lunar Month 11\, Wood Tiger\nRabjung 17\, Year 56\, Water Dog
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2042-12-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20430112
+DTEND;VALUE=DATE:20430113
+SUMMARY:Lunar day 1 · Lunar Month 12\, Wood Rabbit · Rabjung 17\, Year 56
+ \, Water Dog
+DESCRIPTION:Lunar Month 12\, Wood Rabbit\nRabjung 17\, Year 56\, Water Dog
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2043-01-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20430210
+DTEND;VALUE=DATE:20430211
+SUMMARY:Lunar day 1 · Lunar Month 1\, Fire Dragon · Rabjung 17\, Year 57\
+ , Water Pig
+DESCRIPTION:Lunar Month 1\, Fire Dragon\nRabjung 17\, Year 57\, Water Pig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2043-01-losar@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20430210
+DTEND;VALUE=DATE:20430211
+SUMMARY:Losar (Tibetan New Year)
+DESCRIPTION:Rabjung 17\, Year 57\, Water Pig
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2043-01-chotrul@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20430223
+DTEND;VALUE=DATE:20430224
+SUMMARY:Chotrul Düchen (Day of Miracles)
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Fire Dragon\nRabjung 17\, Year 57
+ \, Water Pig
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2043-02-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20430312
+DTEND;VALUE=DATE:20430313
+SUMMARY:Lunar day 1 · Lunar Month 2\, Fire Snake · Rabjung 17\, Year 57\,
+  Water Pig
+DESCRIPTION:Lunar Month 2\, Fire Snake\nRabjung 17\, Year 57\, Water Pig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2043-03-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20430410
+DTEND;VALUE=DATE:20430411
+SUMMARY:Lunar day 1 · Lunar Month 3\, Earth Horse · Rabjung 17\, Year 57\
+ , Water Pig
+DESCRIPTION:Lunar Month 3\, Earth Horse\nRabjung 17\, Year 57\, Water Pig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2043-04-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20430510
+DTEND;VALUE=DATE:20430511
+SUMMARY:Lunar day 1 · Lunar Month 4\, Earth Sheep · Rabjung 17\, Year 57\
+ , Water Pig
+DESCRIPTION:Lunar Month 4\, Earth Sheep\nRabjung 17\, Year 57\, Water Pig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2043-04-saga_dawa@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20430523
+DTEND;VALUE=DATE:20430524
+SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Earth Sheep\nRabjung 17\, Year 57
+ \, Water Pig
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2043-05L-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20430608
+DTEND;VALUE=DATE:20430609
+SUMMARY:Lunar day 1 · Lunar Month 5 (Leap)\, Iron Monkey · Rabjung 17\, Y
+ ear 57\, Water Pig
+DESCRIPTION:Lunar Month 5 (Leap)\, Iron Monkey\nRabjung 17\, Year 57\, Wate
+ r Pig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2043-05-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20430707
+DTEND;VALUE=DATE:20430708
+SUMMARY:Lunar day 1 · Lunar Month 5\, Iron Monkey · Rabjung 17\, Year 57\
+ , Water Pig
+DESCRIPTION:Lunar Month 5\, Iron Monkey\nRabjung 17\, Year 57\, Water Pig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2043-06-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20430806
+DTEND;VALUE=DATE:20430807
+SUMMARY:Lunar day 1 · Lunar Month 6\, Iron Bird · Rabjung 17\, Year 57\, 
+ Water Pig
+DESCRIPTION:Lunar Month 6\, Iron Bird\nRabjung 17\, Year 57\, Water Pig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2043-06-chokhor@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20430809
+DTEND;VALUE=DATE:20430810
+SUMMARY:Chökhor Düchen (First Turning of the Wheel)
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Iron Bird\nRabjung 17\, Year 57\, 
+ Water Pig
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2043-07-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20430904
+DTEND;VALUE=DATE:20430905
+SUMMARY:Lunar day 1 · Lunar Month 7\, Water Dog · Rabjung 17\, Year 57\, 
+ Water Pig
+DESCRIPTION:Lunar Month 7\, Water Dog\nRabjung 17\, Year 57\, Water Pig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2043-08-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20431004
+DTEND;VALUE=DATE:20431005
+SUMMARY:Lunar day 1 · Lunar Month 8\, Water Pig · Rabjung 17\, Year 57\, 
+ Water Pig
+DESCRIPTION:Lunar Month 8\, Water Pig\nRabjung 17\, Year 57\, Water Pig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2043-09-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20431102
+DTEND;VALUE=DATE:20431103
+SUMMARY:Lunar day 1 · Lunar Month 9\, Wood Mouse · Rabjung 17\, Year 57\,
+  Water Pig
+DESCRIPTION:Lunar Month 9\, Wood Mouse\nRabjung 17\, Year 57\, Water Pig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2043-09-lhabab@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20431123
+DTEND;VALUE=DATE:20431124
+SUMMARY:Lhabab Düchen (Descent from the god realm)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Wood Mouse\nRabjung 17\, Year 57\
+ , Water Pig
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2043-10-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20431202
+DTEND;VALUE=DATE:20431203
+SUMMARY:Lunar day 1 · Lunar Month 10\, Wood Ox · Rabjung 17\, Year 57\, W
+ ater Pig
+DESCRIPTION:Lunar Month 10\, Wood Ox\nRabjung 17\, Year 57\, Water Pig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2043-11-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20440101
+DTEND;VALUE=DATE:20440102
+SUMMARY:Lunar day 1 · Lunar Month 11\, Fire Tiger · Rabjung 17\, Year 57\
+ , Water Pig
+DESCRIPTION:Lunar Month 11\, Fire Tiger\nRabjung 17\, Year 57\, Water Pig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2043-12-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20440130
+DTEND;VALUE=DATE:20440131
+SUMMARY:Lunar day 1 · Lunar Month 12\, Fire Rabbit · Rabjung 17\, Year 57
+ \, Water Pig
+DESCRIPTION:Lunar Month 12\, Fire Rabbit\nRabjung 17\, Year 57\, Water Pig
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2044-01-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20440229
+DTEND;VALUE=DATE:20440301
+SUMMARY:Lunar day 1 · Lunar Month 1\, Earth Dragon · Rabjung 17\, Year 58
+ \, Wood Mouse
+DESCRIPTION:Lunar Month 1\, Earth Dragon\nRabjung 17\, Year 58\, Wood Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2044-01-losar@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20440229
+DTEND;VALUE=DATE:20440301
+SUMMARY:Losar (Tibetan New Year)
+DESCRIPTION:Rabjung 17\, Year 58\, Wood Mouse
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2044-01-chotrul@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20440313
+DTEND;VALUE=DATE:20440314
+SUMMARY:Chotrul Düchen (Day of Miracles)
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Earth Dragon\nRabjung 17\, Year 5
+ 8\, Wood Mouse
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2044-02-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20440330
+DTEND;VALUE=DATE:20440331
+SUMMARY:Lunar day 1 · Lunar Month 2\, Earth Snake · Rabjung 17\, Year 58\
+ , Wood Mouse
+DESCRIPTION:Lunar Month 2\, Earth Snake\nRabjung 17\, Year 58\, Wood Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2044-03-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20440428
+DTEND;VALUE=DATE:20440429
+SUMMARY:Lunar day 1 · Lunar Month 3\, Iron Horse · Rabjung 17\, Year 58\,
+  Wood Mouse
+DESCRIPTION:Lunar Month 3\, Iron Horse\nRabjung 17\, Year 58\, Wood Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2044-04-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20440528
+DTEND;VALUE=DATE:20440529
+SUMMARY:Lunar day 1 · Lunar Month 4\, Iron Sheep · Rabjung 17\, Year 58\,
+  Wood Mouse
+DESCRIPTION:Lunar Month 4\, Iron Sheep\nRabjung 17\, Year 58\, Wood Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2044-04-saga_dawa@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20440610
+DTEND;VALUE=DATE:20440611
+SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Iron Sheep\nRabjung 17\, Year 58\
+ , Wood Mouse
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2044-05-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20440626
+DTEND;VALUE=DATE:20440627
+SUMMARY:Lunar day 1 · Lunar Month 5\, Water Monkey · Rabjung 17\, Year 58
+ \, Wood Mouse
+DESCRIPTION:Lunar Month 5\, Water Monkey\nRabjung 17\, Year 58\, Wood Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2044-06-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20440725
+DTEND;VALUE=DATE:20440726
+SUMMARY:Lunar day 1 · Lunar Month 6\, Water Bird · Rabjung 17\, Year 58\,
+  Wood Mouse
+DESCRIPTION:Lunar Month 6\, Water Bird\nRabjung 17\, Year 58\, Wood Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2044-06-chokhor@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20440728
+DTEND;VALUE=DATE:20440729
+SUMMARY:Chökhor Düchen (First Turning of the Wheel)
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Water Bird\nRabjung 17\, Year 58\,
+  Wood Mouse
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2044-07-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20440824
+DTEND;VALUE=DATE:20440825
+SUMMARY:Lunar day 2 · first day of Lunar Month 7\, Wood Dog (lunar day 1 o
+ mitted) · Rabjung 17\, Year 58\, Wood Mouse
+DESCRIPTION:Lunar Month 7\, Wood Dog\nRabjung 17\, Year 58\, Wood Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2044-08-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20440922
+DTEND;VALUE=DATE:20440923
+SUMMARY:Lunar day 1 · Lunar Month 8\, Wood Pig · Rabjung 17\, Year 58\, W
+ ood Mouse
+DESCRIPTION:Lunar Month 8\, Wood Pig\nRabjung 17\, Year 58\, Wood Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2044-09-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20441021
+DTEND;VALUE=DATE:20441022
+SUMMARY:Lunar day 1 · Lunar Month 9\, Fire Mouse · Rabjung 17\, Year 58\,
+  Wood Mouse
+DESCRIPTION:Lunar Month 9\, Fire Mouse\nRabjung 17\, Year 58\, Wood Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2044-09-lhabab@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20441111
+DTEND;VALUE=DATE:20441112
+SUMMARY:Lhabab Düchen (Descent from the god realm)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Fire Mouse\nRabjung 17\, Year 58\
+ , Wood Mouse
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2044-10-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20441120
+DTEND;VALUE=DATE:20441121
+SUMMARY:Lunar day 1 · Lunar Month 10\, Fire Ox · Rabjung 17\, Year 58\, W
+ ood Mouse
+DESCRIPTION:Lunar Month 10\, Fire Ox\nRabjung 17\, Year 58\, Wood Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2044-11-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20441220
+DTEND;VALUE=DATE:20441221
+SUMMARY:Lunar day 1 · Lunar Month 11\, Fire Tiger · Rabjung 17\, Year 58\
+ , Wood Mouse
+DESCRIPTION:Lunar Month 11\, Fire Tiger\nRabjung 17\, Year 58\, Wood Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2044-12-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20450118
+DTEND;VALUE=DATE:20450119
+SUMMARY:Lunar day 1 · Lunar Month 12\, Fire Rabbit · Rabjung 17\, Year 58
+ \, Wood Mouse
+DESCRIPTION:Lunar Month 12\, Fire Rabbit\nRabjung 17\, Year 58\, Wood Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2044-12-d01r@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20450119
+DTEND;VALUE=DATE:20450120
+SUMMARY:Lunar day 1 (repeated)
+DESCRIPTION:Lunar Month 12\, Fire Rabbit\nRabjung 17\, Year 58\, Wood Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2045-01-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20450217
+DTEND;VALUE=DATE:20450218
+SUMMARY:Lunar day 1 · Lunar Month 1\, Earth Dragon · Rabjung 17\, Year 59
+ \, Wood Ox
+DESCRIPTION:Lunar Month 1\, Earth Dragon\nRabjung 17\, Year 59\, Wood Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2045-01-losar@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20450217
+DTEND;VALUE=DATE:20450218
+SUMMARY:Losar (Tibetan New Year)
+DESCRIPTION:Rabjung 17\, Year 59\, Wood Ox
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2045-01-chotrul@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20450303
+DTEND;VALUE=DATE:20450304
+SUMMARY:Chotrul Düchen (Day of Miracles)
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Earth Dragon\nRabjung 17\, Year 5
+ 9\, Wood Ox
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2045-02-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20450319
+DTEND;VALUE=DATE:20450320
+SUMMARY:Lunar day 1 · Lunar Month 2\, Earth Snake · Rabjung 17\, Year 59\
+ , Wood Ox
+DESCRIPTION:Lunar Month 2\, Earth Snake\nRabjung 17\, Year 59\, Wood Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2045-03-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20450418
+DTEND;VALUE=DATE:20450419
+SUMMARY:Lunar day 1 · Lunar Month 3\, Iron Horse · Rabjung 17\, Year 59\,
+  Wood Ox
+DESCRIPTION:Lunar Month 3\, Iron Horse\nRabjung 17\, Year 59\, Wood Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2045-04-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20450517
+DTEND;VALUE=DATE:20450518
+SUMMARY:Lunar day 1 · Lunar Month 4\, Iron Sheep · Rabjung 17\, Year 59\,
+  Wood Ox
+DESCRIPTION:Lunar Month 4\, Iron Sheep\nRabjung 17\, Year 59\, Wood Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2045-04-saga_dawa@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20450530
+DTEND;VALUE=DATE:20450531
+SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Iron Sheep\nRabjung 17\, Year 59\
+ , Wood Ox
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2045-05-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20450616
+DTEND;VALUE=DATE:20450617
+SUMMARY:Lunar day 1 · Lunar Month 5\, Water Monkey · Rabjung 17\, Year 59
+ \, Wood Ox
+DESCRIPTION:Lunar Month 5\, Water Monkey\nRabjung 17\, Year 59\, Wood Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2045-06-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20450715
+DTEND;VALUE=DATE:20450716
+SUMMARY:Lunar day 1 · Lunar Month 6\, Water Bird · Rabjung 17\, Year 59\,
+  Wood Ox
+DESCRIPTION:Lunar Month 6\, Water Bird\nRabjung 17\, Year 59\, Wood Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2045-06-chokhor@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20450718
+DTEND;VALUE=DATE:20450719
+SUMMARY:Chökhor Düchen (First Turning of the Wheel)
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Water Bird\nRabjung 17\, Year 59\,
+  Wood Ox
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2045-07-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20450813
+DTEND;VALUE=DATE:20450814
+SUMMARY:Lunar day 1 · Lunar Month 7\, Wood Dog · Rabjung 17\, Year 59\, W
+ ood Ox
+DESCRIPTION:Lunar Month 7\, Wood Dog\nRabjung 17\, Year 59\, Wood Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2045-08-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20450912
+DTEND;VALUE=DATE:20450913
+SUMMARY:Lunar day 2 · first day of Lunar Month 8\, Wood Pig (lunar day 1 o
+ mitted) · Rabjung 17\, Year 59\, Wood Ox
+DESCRIPTION:Lunar Month 8\, Wood Pig\nRabjung 17\, Year 59\, Wood Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2045-09-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20451011
+DTEND;VALUE=DATE:20451012
+SUMMARY:Lunar day 1 · Lunar Month 9\, Fire Mouse · Rabjung 17\, Year 59\,
+  Wood Ox
+DESCRIPTION:Lunar Month 9\, Fire Mouse\nRabjung 17\, Year 59\, Wood Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2045-09-lhabab@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20451101
+DTEND;VALUE=DATE:20451102
+SUMMARY:Lhabab Düchen (Descent from the god realm)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Fire Mouse\nRabjung 17\, Year 59\
+ , Wood Ox
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2045-10-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20451109
+DTEND;VALUE=DATE:20451110
+SUMMARY:Lunar day 1 · Lunar Month 10\, Fire Ox · Rabjung 17\, Year 59\, W
+ ood Ox
+DESCRIPTION:Lunar Month 10\, Fire Ox\nRabjung 17\, Year 59\, Wood Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2045-11-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20451209
+DTEND;VALUE=DATE:20451210
+SUMMARY:Lunar day 1 · Lunar Month 11\, Earth Tiger · Rabjung 17\, Year 59
+ \, Wood Ox
+DESCRIPTION:Lunar Month 11\, Earth Tiger\nRabjung 17\, Year 59\, Wood Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2045-12-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20460107
+DTEND;VALUE=DATE:20460108
+SUMMARY:Lunar day 1 · Lunar Month 12\, Earth Rabbit · Rabjung 17\, Year 5
+ 9\, Wood Ox
+DESCRIPTION:Lunar Month 12\, Earth Rabbit\nRabjung 17\, Year 59\, Wood Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2045-12-d01r@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20460108
+DTEND;VALUE=DATE:20460109
+SUMMARY:Lunar day 1 (repeated)
+DESCRIPTION:Lunar Month 12\, Earth Rabbit\nRabjung 17\, Year 59\, Wood Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2046-01-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20460206
+DTEND;VALUE=DATE:20460207
+SUMMARY:Lunar day 1 · Lunar Month 1\, Iron Dragon · Rabjung 17\, Year 60\
+ , Fire Tiger
+DESCRIPTION:Lunar Month 1\, Iron Dragon\nRabjung 17\, Year 60\, Fire Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2046-01-losar@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20460206
+DTEND;VALUE=DATE:20460207
+SUMMARY:Losar (Tibetan New Year)
+DESCRIPTION:Rabjung 17\, Year 60\, Fire Tiger
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2046-01-chotrul@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20460220
+DTEND;VALUE=DATE:20460221
+SUMMARY:Chotrul Düchen (Day of Miracles)
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Iron Dragon\nRabjung 17\, Year 60
+ \, Fire Tiger
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2046-02L-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20460308
+DTEND;VALUE=DATE:20460309
+SUMMARY:Lunar day 1 · Lunar Month 2 (Leap)\, Iron Snake · Rabjung 17\, Ye
+ ar 60\, Fire Tiger
+DESCRIPTION:Lunar Month 2 (Leap)\, Iron Snake\nRabjung 17\, Year 60\, Fire 
+ Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2046-02-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20460407
+DTEND;VALUE=DATE:20460408
+SUMMARY:Lunar day 1 · Lunar Month 2\, Iron Snake · Rabjung 17\, Year 60\,
+  Fire Tiger
+DESCRIPTION:Lunar Month 2\, Iron Snake\nRabjung 17\, Year 60\, Fire Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2046-03-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20460506
+DTEND;VALUE=DATE:20460507
+SUMMARY:Lunar day 1 · Lunar Month 3\, Water Horse · Rabjung 17\, Year 60\
+ , Fire Tiger
+DESCRIPTION:Lunar Month 3\, Water Horse\nRabjung 17\, Year 60\, Fire Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2046-03-d01r@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20460507
+DTEND;VALUE=DATE:20460508
+SUMMARY:Lunar day 1 (repeated)
+DESCRIPTION:Lunar Month 3\, Water Horse\nRabjung 17\, Year 60\, Fire Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2046-04-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20460605
+DTEND;VALUE=DATE:20460606
+SUMMARY:Lunar day 1 · Lunar Month 4\, Water Sheep · Rabjung 17\, Year 60\
+ , Fire Tiger
+DESCRIPTION:Lunar Month 4\, Water Sheep\nRabjung 17\, Year 60\, Fire Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2046-04-saga_dawa@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20460618
+DTEND;VALUE=DATE:20460619
+SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Water Sheep\nRabjung 17\, Year 60
+ \, Fire Tiger
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2046-05-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20460705
+DTEND;VALUE=DATE:20460706
+SUMMARY:Lunar day 1 · Lunar Month 5\, Wood Monkey · Rabjung 17\, Year 60\
+ , Fire Tiger
+DESCRIPTION:Lunar Month 5\, Wood Monkey\nRabjung 17\, Year 60\, Fire Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2046-06-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20460803
+DTEND;VALUE=DATE:20460804
+SUMMARY:Lunar day 1 · Lunar Month 6\, Wood Bird · Rabjung 17\, Year 60\, 
+ Fire Tiger
+DESCRIPTION:Lunar Month 6\, Wood Bird\nRabjung 17\, Year 60\, Fire Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2046-06-chokhor@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20460806
+DTEND;VALUE=DATE:20460807
+SUMMARY:Chökhor Düchen (First Turning of the Wheel)
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Wood Bird\nRabjung 17\, Year 60\, 
+ Fire Tiger
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2046-07-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20460901
+DTEND;VALUE=DATE:20460902
+SUMMARY:Lunar day 1 · Lunar Month 7\, Fire Dog · Rabjung 17\, Year 60\, F
+ ire Tiger
+DESCRIPTION:Lunar Month 7\, Fire Dog\nRabjung 17\, Year 60\, Fire Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2046-08-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20461001
+DTEND;VALUE=DATE:20461002
+SUMMARY:Lunar day 2 · first day of Lunar Month 8\, Fire Pig (lunar day 1 o
+ mitted) · Rabjung 17\, Year 60\, Fire Tiger
+DESCRIPTION:Lunar Month 8\, Fire Pig\nRabjung 17\, Year 60\, Fire Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2046-09-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20461030
+DTEND;VALUE=DATE:20461031
+SUMMARY:Lunar day 1 · Lunar Month 9\, Earth Mouse · Rabjung 17\, Year 60\
+ , Fire Tiger
+DESCRIPTION:Lunar Month 9\, Earth Mouse\nRabjung 17\, Year 60\, Fire Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2046-09-lhabab@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20461120
+DTEND;VALUE=DATE:20461121
+SUMMARY:Lhabab Düchen (Descent from the god realm)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Earth Mouse\nRabjung 17\, Year 60
+ \, Fire Tiger
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2046-10-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20461128
+DTEND;VALUE=DATE:20461129
+SUMMARY:Lunar day 1 · Lunar Month 10\, Earth Ox · Rabjung 17\, Year 60\, 
+ Fire Tiger
+DESCRIPTION:Lunar Month 10\, Earth Ox\nRabjung 17\, Year 60\, Fire Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2046-11-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20461228
+DTEND;VALUE=DATE:20461229
+SUMMARY:Lunar day 1 · Lunar Month 11\, Earth Tiger · Rabjung 17\, Year 60
+ \, Fire Tiger
+DESCRIPTION:Lunar Month 11\, Earth Tiger\nRabjung 17\, Year 60\, Fire Tiger
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2046-12-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20470126
+DTEND;VALUE=DATE:20470127
+SUMMARY:Lunar day 1 · Lunar Month 12\, Earth Rabbit · Rabjung 17\, Year 6
+ 0\, Fire Tiger
+DESCRIPTION:Lunar Month 12\, Earth Rabbit\nRabjung 17\, Year 60\, Fire Tige
+ r
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2047-01-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20470225
+DTEND;VALUE=DATE:20470226
+SUMMARY:Lunar day 1 · Lunar Month 1\, Iron Dragon · Rabjung 18\, Year 1\,
+  Fire Rabbit
+DESCRIPTION:Lunar Month 1\, Iron Dragon\nRabjung 18\, Year 1\, Fire Rabbit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2047-01-losar@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20470225
+DTEND;VALUE=DATE:20470226
+SUMMARY:Losar (Tibetan New Year)
+DESCRIPTION:Rabjung 18\, Year 1\, Fire Rabbit
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2047-01-chotrul@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20470311
+DTEND;VALUE=DATE:20470312
+SUMMARY:Chotrul Düchen (Day of Miracles) (lunar day 15 omitted)
+DESCRIPTION:Lunar day 14\nLunar Month 1\, Iron Dragon\nRabjung 18\, Year 1\
+ , Fire Rabbit
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2047-02-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20470327
+DTEND;VALUE=DATE:20470328
+SUMMARY:Lunar day 1 · Lunar Month 2\, Iron Snake · Rabjung 18\, Year 1\, 
+ Fire Rabbit
+DESCRIPTION:Lunar Month 2\, Iron Snake\nRabjung 18\, Year 1\, Fire Rabbit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2047-03-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20470426
+DTEND;VALUE=DATE:20470427
+SUMMARY:Lunar day 1 · Lunar Month 3\, Water Horse · Rabjung 18\, Year 1\,
+  Fire Rabbit
+DESCRIPTION:Lunar Month 3\, Water Horse\nRabjung 18\, Year 1\, Fire Rabbit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2047-04-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20470525
+DTEND;VALUE=DATE:20470526
+SUMMARY:Lunar day 1 · Lunar Month 4\, Water Sheep · Rabjung 18\, Year 1\,
+  Fire Rabbit
+DESCRIPTION:Lunar Month 4\, Water Sheep\nRabjung 18\, Year 1\, Fire Rabbit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2047-04-saga_dawa@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20470608
+DTEND;VALUE=DATE:20470609
+SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Water Sheep\nRabjung 18\, Year 1\
+ , Fire Rabbit
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2047-05-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20470624
+DTEND;VALUE=DATE:20470625
+SUMMARY:Lunar day 1 · Lunar Month 5\, Wood Monkey · Rabjung 18\, Year 1\,
+  Fire Rabbit
+DESCRIPTION:Lunar Month 5\, Wood Monkey\nRabjung 18\, Year 1\, Fire Rabbit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2047-06-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20470723
+DTEND;VALUE=DATE:20470724
+SUMMARY:Lunar day 1 · Lunar Month 6\, Wood Bird · Rabjung 18\, Year 1\, F
+ ire Rabbit
+DESCRIPTION:Lunar Month 6\, Wood Bird\nRabjung 18\, Year 1\, Fire Rabbit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2047-06-chokhor@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20470726
+DTEND;VALUE=DATE:20470727
+SUMMARY:Chökhor Düchen (First Turning of the Wheel)
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Wood Bird\nRabjung 18\, Year 1\, F
+ ire Rabbit
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2047-07-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20470822
+DTEND;VALUE=DATE:20470823
+SUMMARY:Lunar day 1 · Lunar Month 7\, Fire Dog · Rabjung 18\, Year 1\, Fi
+ re Rabbit
+DESCRIPTION:Lunar Month 7\, Fire Dog\nRabjung 18\, Year 1\, Fire Rabbit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2047-08-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20470920
+DTEND;VALUE=DATE:20470921
+SUMMARY:Lunar day 1 · Lunar Month 8\, Fire Pig · Rabjung 18\, Year 1\, Fi
+ re Rabbit
+DESCRIPTION:Lunar Month 8\, Fire Pig\nRabjung 18\, Year 1\, Fire Rabbit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2047-09-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20471020
+DTEND;VALUE=DATE:20471021
+SUMMARY:Lunar day 2 · first day of Lunar Month 9\, Earth Mouse (lunar day 
+ 1 omitted) · Rabjung 18\, Year 1\, Fire Rabbit
+DESCRIPTION:Lunar Month 9\, Earth Mouse\nRabjung 18\, Year 1\, Fire Rabbit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2047-09-lhabab@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20471109
+DTEND;VALUE=DATE:20471110
+SUMMARY:Lhabab Düchen (Descent from the god realm)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Earth Mouse\nRabjung 18\, Year 1\
+ , Fire Rabbit
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2047-10-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20471118
+DTEND;VALUE=DATE:20471119
+SUMMARY:Lunar day 1 · Lunar Month 10\, Earth Ox · Rabjung 18\, Year 1\, F
+ ire Rabbit
+DESCRIPTION:Lunar Month 10\, Earth Ox\nRabjung 18\, Year 1\, Fire Rabbit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2047-11-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20471217
+DTEND;VALUE=DATE:20471218
+SUMMARY:Lunar day 1 · Lunar Month 11\, Iron Tiger · Rabjung 18\, Year 1\,
+  Fire Rabbit
+DESCRIPTION:Lunar Month 11\, Iron Tiger\nRabjung 18\, Year 1\, Fire Rabbit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2047-12-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20480116
+DTEND;VALUE=DATE:20480117
+SUMMARY:Lunar day 1 · Lunar Month 12\, Iron Rabbit · Rabjung 18\, Year 1\
+ , Fire Rabbit
+DESCRIPTION:Lunar Month 12\, Iron Rabbit\nRabjung 18\, Year 1\, Fire Rabbit
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2048-01-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20480214
+DTEND;VALUE=DATE:20480215
+SUMMARY:Lunar day 1 · Lunar Month 1\, Water Dragon · Rabjung 18\, Year 2\
+ , Earth Dragon
+DESCRIPTION:Lunar Month 1\, Water Dragon\nRabjung 18\, Year 2\, Earth Drago
+ n
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2048-01-losar@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20480214
+DTEND;VALUE=DATE:20480215
+SUMMARY:Losar (Tibetan New Year)
+DESCRIPTION:Rabjung 18\, Year 2\, Earth Dragon
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2048-01-chotrul@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20480229
+DTEND;VALUE=DATE:20480301
+SUMMARY:Chotrul Düchen (Day of Miracles)
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Water Dragon\nRabjung 18\, Year 2
+ \, Earth Dragon
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2048-02-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20480315
+DTEND;VALUE=DATE:20480316
+SUMMARY:Lunar day 1 · Lunar Month 2\, Water Snake · Rabjung 18\, Year 2\,
+  Earth Dragon
+DESCRIPTION:Lunar Month 2\, Water Snake\nRabjung 18\, Year 2\, Earth Dragon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2048-03-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20480414
+DTEND;VALUE=DATE:20480415
+SUMMARY:Lunar day 1 · Lunar Month 3\, Wood Horse · Rabjung 18\, Year 2\, 
+ Earth Dragon
+DESCRIPTION:Lunar Month 3\, Wood Horse\nRabjung 18\, Year 2\, Earth Dragon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2048-04-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20480513
+DTEND;VALUE=DATE:20480514
+SUMMARY:Lunar day 1 · Lunar Month 4\, Wood Sheep · Rabjung 18\, Year 2\, 
+ Earth Dragon
+DESCRIPTION:Lunar Month 4\, Wood Sheep\nRabjung 18\, Year 2\, Earth Dragon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2048-04-saga_dawa@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20480527
+DTEND;VALUE=DATE:20480528
+SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Wood Sheep\nRabjung 18\, Year 2\,
+  Earth Dragon
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2048-05-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20480612
+DTEND;VALUE=DATE:20480613
+SUMMARY:Lunar day 1 · Lunar Month 5\, Fire Monkey · Rabjung 18\, Year 2\,
+  Earth Dragon
+DESCRIPTION:Lunar Month 5\, Fire Monkey\nRabjung 18\, Year 2\, Earth Dragon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2048-06-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20480712
+DTEND;VALUE=DATE:20480713
+SUMMARY:Lunar day 1 · Lunar Month 6\, Fire Bird · Rabjung 18\, Year 2\, E
+ arth Dragon
+DESCRIPTION:Lunar Month 6\, Fire Bird\nRabjung 18\, Year 2\, Earth Dragon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2048-06-chokhor@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20480715
+DTEND;VALUE=DATE:20480716
+SUMMARY:Chökhor Düchen (First Turning of the Wheel)
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Fire Bird\nRabjung 18\, Year 2\, E
+ arth Dragon
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2048-07-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20480810
+DTEND;VALUE=DATE:20480811
+SUMMARY:Lunar day 1 · Lunar Month 7\, Earth Dog · Rabjung 18\, Year 2\, E
+ arth Dragon
+DESCRIPTION:Lunar Month 7\, Earth Dog\nRabjung 18\, Year 2\, Earth Dragon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2048-08-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20480909
+DTEND;VALUE=DATE:20480910
+SUMMARY:Lunar day 1 · Lunar Month 8\, Earth Pig · Rabjung 18\, Year 2\, E
+ arth Dragon
+DESCRIPTION:Lunar Month 8\, Earth Pig\nRabjung 18\, Year 2\, Earth Dragon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2048-09-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20481008
+DTEND;VALUE=DATE:20481009
+SUMMARY:Lunar day 1 · Lunar Month 9\, Iron Mouse · Rabjung 18\, Year 2\, 
+ Earth Dragon
+DESCRIPTION:Lunar Month 9\, Iron Mouse\nRabjung 18\, Year 2\, Earth Dragon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2048-09-lhabab@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20481028
+DTEND;VALUE=DATE:20481029
+SUMMARY:Lhabab Düchen (Descent from the god realm)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Iron Mouse\nRabjung 18\, Year 2\,
+  Earth Dragon
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2048-09-lhabab-r@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20481029
+DTEND;VALUE=DATE:20481030
+SUMMARY:Lhabab Düchen (Descent from the god realm) (repeated)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Iron Mouse\nRabjung 18\, Year 2\,
+  Earth Dragon
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2048-10L-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20481107
+DTEND;VALUE=DATE:20481108
+SUMMARY:Lunar day 1 · Lunar Month 10 (Leap)\, Iron Ox · Rabjung 18\, Year
+  2\, Earth Dragon
+DESCRIPTION:Lunar Month 10 (Leap)\, Iron Ox\nRabjung 18\, Year 2\, Earth Dr
+ agon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2048-10-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20481206
+DTEND;VALUE=DATE:20481207
+SUMMARY:Lunar day 1 · Lunar Month 10\, Iron Ox · Rabjung 18\, Year 2\, Ea
+ rth Dragon
+DESCRIPTION:Lunar Month 10\, Iron Ox\nRabjung 18\, Year 2\, Earth Dragon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2048-11-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20490104
+DTEND;VALUE=DATE:20490105
+SUMMARY:Lunar day 1 · Lunar Month 11\, Iron Tiger · Rabjung 18\, Year 2\,
+  Earth Dragon
+DESCRIPTION:Lunar Month 11\, Iron Tiger\nRabjung 18\, Year 2\, Earth Dragon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2048-12-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20490203
+DTEND;VALUE=DATE:20490204
+SUMMARY:Lunar day 1 · Lunar Month 12\, Iron Rabbit · Rabjung 18\, Year 2\
+ , Earth Dragon
+DESCRIPTION:Lunar Month 12\, Iron Rabbit\nRabjung 18\, Year 2\, Earth Drago
+ n
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2049-01-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20490304
+DTEND;VALUE=DATE:20490305
+SUMMARY:Lunar day 1 · Lunar Month 1\, Water Dragon · Rabjung 18\, Year 3\
+ , Earth Snake
+DESCRIPTION:Lunar Month 1\, Water Dragon\nRabjung 18\, Year 3\, Earth Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2049-01-losar@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20490304
+DTEND;VALUE=DATE:20490305
+SUMMARY:Losar (Tibetan New Year)
+DESCRIPTION:Rabjung 18\, Year 3\, Earth Snake
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2049-01-chotrul@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20490319
+DTEND;VALUE=DATE:20490320
+SUMMARY:Chotrul Düchen (Day of Miracles)
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Water Dragon\nRabjung 18\, Year 3
+ \, Earth Snake
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2049-02-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20490403
+DTEND;VALUE=DATE:20490404
+SUMMARY:Lunar day 1 · Lunar Month 2\, Water Snake · Rabjung 18\, Year 3\,
+  Earth Snake
+DESCRIPTION:Lunar Month 2\, Water Snake\nRabjung 18\, Year 3\, Earth Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2049-03-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20490502
+DTEND;VALUE=DATE:20490503
+SUMMARY:Lunar day 1 · Lunar Month 3\, Wood Horse · Rabjung 18\, Year 3\, 
+ Earth Snake
+DESCRIPTION:Lunar Month 3\, Wood Horse\nRabjung 18\, Year 3\, Earth Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2049-04-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20490601
+DTEND;VALUE=DATE:20490602
+SUMMARY:Lunar day 1 · Lunar Month 4\, Wood Sheep · Rabjung 18\, Year 3\, 
+ Earth Snake
+DESCRIPTION:Lunar Month 4\, Wood Sheep\nRabjung 18\, Year 3\, Earth Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2049-04-saga_dawa@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20490615
+DTEND;VALUE=DATE:20490616
+SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Wood Sheep\nRabjung 18\, Year 3\,
+  Earth Snake
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2049-05-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20490701
+DTEND;VALUE=DATE:20490702
+SUMMARY:Lunar day 1 · Lunar Month 5\, Fire Monkey · Rabjung 18\, Year 3\,
+  Earth Snake
+DESCRIPTION:Lunar Month 5\, Fire Monkey\nRabjung 18\, Year 3\, Earth Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2049-06-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20490730
+DTEND;VALUE=DATE:20490731
+SUMMARY:Lunar day 1 · Lunar Month 6\, Fire Bird · Rabjung 18\, Year 3\, E
+ arth Snake
+DESCRIPTION:Lunar Month 6\, Fire Bird\nRabjung 18\, Year 3\, Earth Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2049-06-chokhor@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20490802
+DTEND;VALUE=DATE:20490803
+SUMMARY:Chökhor Düchen (First Turning of the Wheel)
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Fire Bird\nRabjung 18\, Year 3\, E
+ arth Snake
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2049-07-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20490829
+DTEND;VALUE=DATE:20490830
+SUMMARY:Lunar day 1 · Lunar Month 7\, Earth Dog · Rabjung 18\, Year 3\, E
+ arth Snake
+DESCRIPTION:Lunar Month 7\, Earth Dog\nRabjung 18\, Year 3\, Earth Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2049-08-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20490927
+DTEND;VALUE=DATE:20490928
+SUMMARY:Lunar day 1 · Lunar Month 8\, Earth Pig · Rabjung 18\, Year 3\, E
+ arth Snake
+DESCRIPTION:Lunar Month 8\, Earth Pig\nRabjung 18\, Year 3\, Earth Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2049-09-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20491027
+DTEND;VALUE=DATE:20491028
+SUMMARY:Lunar day 1 · Lunar Month 9\, Iron Mouse · Rabjung 18\, Year 3\, 
+ Earth Snake
+DESCRIPTION:Lunar Month 9\, Iron Mouse\nRabjung 18\, Year 3\, Earth Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2049-09-lhabab@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20491116
+DTEND;VALUE=DATE:20491117
+SUMMARY:Lhabab Düchen (Descent from the god realm)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Iron Mouse\nRabjung 18\, Year 3\,
+  Earth Snake
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2049-10-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20491126
+DTEND;VALUE=DATE:20491127
+SUMMARY:Lunar day 1 · Lunar Month 10\, Iron Ox · Rabjung 18\, Year 3\, Ea
+ rth Snake
+DESCRIPTION:Lunar Month 10\, Iron Ox\nRabjung 18\, Year 3\, Earth Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2049-11-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20491225
+DTEND;VALUE=DATE:20491226
+SUMMARY:Lunar day 1 · Lunar Month 11\, Water Tiger · Rabjung 18\, Year 3\
+ , Earth Snake
+DESCRIPTION:Lunar Month 11\, Water Tiger\nRabjung 18\, Year 3\, Earth Snake
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2049-12-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20500124
+DTEND;VALUE=DATE:20500125
+SUMMARY:Lunar day 2 · first day of Lunar Month 12\, Water Rabbit (lunar da
+ y 1 omitted) · Rabjung 18\, Year 3\, Earth Snake
+DESCRIPTION:Lunar Month 12\, Water Rabbit\nRabjung 18\, Year 3\, Earth Snak
+ e
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2050-01-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20500222
+DTEND;VALUE=DATE:20500223
+SUMMARY:Lunar day 1 · Lunar Month 1\, Wood Dragon · Rabjung 18\, Year 4\,
+  Iron Horse
+DESCRIPTION:Lunar Month 1\, Wood Dragon\nRabjung 18\, Year 4\, Iron Horse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2050-01-losar@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20500222
+DTEND;VALUE=DATE:20500223
+SUMMARY:Losar (Tibetan New Year)
+DESCRIPTION:Rabjung 18\, Year 4\, Iron Horse
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2050-01-chotrul@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20500308
+DTEND;VALUE=DATE:20500309
+SUMMARY:Chotrul Düchen (Day of Miracles)
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Wood Dragon\nRabjung 18\, Year 4\
+ , Iron Horse
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2050-02-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20500323
+DTEND;VALUE=DATE:20500324
+SUMMARY:Lunar day 1 · Lunar Month 2\, Wood Snake · Rabjung 18\, Year 4\, 
+ Iron Horse
+DESCRIPTION:Lunar Month 2\, Wood Snake\nRabjung 18\, Year 4\, Iron Horse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2050-03-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20500422
+DTEND;VALUE=DATE:20500423
+SUMMARY:Lunar day 1 · Lunar Month 3\, Fire Horse · Rabjung 18\, Year 4\, 
+ Iron Horse
+DESCRIPTION:Lunar Month 3\, Fire Horse\nRabjung 18\, Year 4\, Iron Horse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2050-04-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20500521
+DTEND;VALUE=DATE:20500522
+SUMMARY:Lunar day 1 · Lunar Month 4\, Fire Sheep · Rabjung 18\, Year 4\, 
+ Iron Horse
+DESCRIPTION:Lunar Month 4\, Fire Sheep\nRabjung 18\, Year 4\, Iron Horse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2050-04-saga_dawa@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20500605
+DTEND;VALUE=DATE:20500606
+SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Fire Sheep\nRabjung 18\, Year 4\,
+  Iron Horse
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2050-05-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20500620
+DTEND;VALUE=DATE:20500621
+SUMMARY:Lunar day 1 · Lunar Month 5\, Earth Monkey · Rabjung 18\, Year 4\
+ , Iron Horse
+DESCRIPTION:Lunar Month 5\, Earth Monkey\nRabjung 18\, Year 4\, Iron Horse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2050-06-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20500719
+DTEND;VALUE=DATE:20500720
+SUMMARY:Lunar day 1 · Lunar Month 6\, Earth Bird · Rabjung 18\, Year 4\, 
+ Iron Horse
+DESCRIPTION:Lunar Month 6\, Earth Bird\nRabjung 18\, Year 4\, Iron Horse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2050-06-chokhor@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20500722
+DTEND;VALUE=DATE:20500723
+SUMMARY:Chökhor Düchen (First Turning of the Wheel)
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Earth Bird\nRabjung 18\, Year 4\, 
+ Iron Horse
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2050-06-chokhor-r@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20500723
+DTEND;VALUE=DATE:20500724
+SUMMARY:Chökhor Düchen (First Turning of the Wheel) (repeated)
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Earth Bird\nRabjung 18\, Year 4\, 
+ Iron Horse
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2050-07-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20500818
+DTEND;VALUE=DATE:20500819
+SUMMARY:Lunar day 1 · Lunar Month 7\, Iron Dog · Rabjung 18\, Year 4\, Ir
+ on Horse
+DESCRIPTION:Lunar Month 7\, Iron Dog\nRabjung 18\, Year 4\, Iron Horse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2050-08-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20500917
+DTEND;VALUE=DATE:20500918
+SUMMARY:Lunar day 1 · Lunar Month 8\, Iron Pig · Rabjung 18\, Year 4\, Ir
+ on Horse
+DESCRIPTION:Lunar Month 8\, Iron Pig\nRabjung 18\, Year 4\, Iron Horse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2050-09-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20501016
+DTEND;VALUE=DATE:20501017
+SUMMARY:Lunar day 1 · Lunar Month 9\, Water Mouse · Rabjung 18\, Year 4\,
+  Iron Horse
+DESCRIPTION:Lunar Month 9\, Water Mouse\nRabjung 18\, Year 4\, Iron Horse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2050-09-lhabab@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20501105
+DTEND;VALUE=DATE:20501106
+SUMMARY:Lhabab Düchen (Descent from the god realm)
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Water Mouse\nRabjung 18\, Year 4\
+ , Iron Horse
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2050-10-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20501115
+DTEND;VALUE=DATE:20501116
+SUMMARY:Lunar day 1 · Lunar Month 10\, Water Ox · Rabjung 18\, Year 4\, I
+ ron Horse
+DESCRIPTION:Lunar Month 10\, Water Ox\nRabjung 18\, Year 4\, Iron Horse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phugpa-en-no15-2050-11-d01@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20501215
+DTEND;VALUE=DATE:20501216
+SUMMARY:Lunar day 1 · Lunar Month 11\, Water Tiger · Rabjung 18\, Year 4\
+ , Iron Horse
+DESCRIPTION:Lunar Month 11\, Water Tiger\nRabjung 18\, Year 4\, Iron Horse
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
