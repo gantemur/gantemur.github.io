@@ -1,0 +1,87 @@
+---
+layout: layouts/base.njk
+title: Lunar calendar feeds
+permalink: /cal/
+variants:
+  - { suffix: "", label: "1st and 15th" }
+  - { suffix: "-no15", label: "1st only" }
+feeds:
+  - id: mongol
+    name: Mongol lunar calendar
+    native: Монгол билгийн тоолол
+    langs: [{ code: en, label: English }, { code: mn, label: Монгол }]
+    festivals: Bituun, Tsagaan Sar, Ikh Düichen, Chinggis Khaan's birthday
+  - id: phugpa
+    name: Tibetan calendar (Phugpa)
+    native: བོད་ཀྱི་ལོ་ཐོ། (ཕུག་ལུགས།)
+    langs: [{ code: en, label: English }, { code: bo, label: བོད་ཡིག }]
+    festivals: Losar and the four düchen
+  - id: tsurphu
+    name: Tibetan calendar (Tsurphu)
+    native: བོད་ཀྱི་ལོ་ཐོ། (མཚུར་ལུགས།)
+    langs: [{ code: en, label: English }, { code: bo, label: བོད་ཡིག }]
+    festivals: Losar and the four düchen
+  - id: bhutan
+    name: Bhutanese calendar
+    native: འབྲུག་གི་ལོ་ཐོ།
+    langs: [{ code: en, label: English }, { code: dz, label: རྫོང་ཁ }]
+    festivals: Losar and the four düchen
+---
+
+<h1>Lunar calendar feeds</h1>
+<p class="lede narrow">Subscribe to a traditional lunar calendar in the calendar app you already use (Apple, Google, Outlook and others). Each feed adds a separate calendar layer showing the first day of every lunar month, with the full month and year, the 15th lunar day, and the main festivals. The dates are computed with <a href="https://gantemur.github.io/caltib/">caltib</a> and cover 2020–2050.</p>
+
+<div class="stack">
+  {% for cal in feeds %}
+    <section class="rule-section">
+      <h2>{{ cal.name }} <span class="meta">{{ cal.native }}</span></h2>
+      <p class="meta">Festivals: {{ cal.festivals }}.</p>
+      <table class="data-table">
+        <thead>
+          <tr><th>Language</th><th>Days shown</th><th>Subscribe</th></tr>
+        </thead>
+        <tbody>
+          {% for lang in cal.langs %}
+            {% for variant in variants %}
+              {% set file = cal.id + "-" + lang.code + variant.suffix + ".ics" %}
+              <tr>
+                <td>{{ lang.label }}</td>
+                <td>{{ variant.label }}</td>
+                <td class="feed-links" data-feed="{{ file }}">
+                  <a class="feed-apple" href="{{ file }}">Apple</a> ·
+                  <a class="feed-google" href="https://calendar.google.com/calendar/render?cid=webcal://gantemur.github.io/cal/{{ file }}">Google</a> ·
+                  <a href="{{ file }}">.ics file</a>
+                </td>
+              </tr>
+            {% endfor %}
+          {% endfor %}
+        </tbody>
+      </table>
+    </section>
+  {% endfor %}
+
+  <section class="rule-section">
+    <h2>How to subscribe</h2>
+    <ul class="compact-list">
+      <li><strong>iPhone, iPad, Mac:</strong> tap or click <em>Apple</em> and confirm the subscription.</li>
+      <li><strong>Google Calendar:</strong> click <em>Google</em> on a computer and confirm. The calendar then also appears in the Google Calendar app on Android and iPhone (enable it under the app's settings if hidden).</li>
+      <li><strong>Outlook and other apps:</strong> copy the address of the <em>.ics file</em> link and use "Subscribe from web" or "Add calendar from URL".</li>
+    </ul>
+    <p class="meta">Subscribed calendars refresh automatically; Google may take a day to show updates. Downloading and importing the .ics file instead gives a one-time copy that does not update.</p>
+  </section>
+
+  <section class="rule-section">
+    <h2>Conventions</h2>
+    <ul class="compact-list">
+      <li>Lunar days are sometimes omitted or repeated. If lunar day 1 is omitted, the month's first event is on lunar day 2 and says so; if it is repeated, the second day gets a short "repeated" event.</li>
+      <li>If lunar day 15 is omitted, the event is shown on lunar day 14; if it is repeated, both days are shown. Festivals on a fixed lunar day follow the same rule. Festivals fall in the regular, not the leap, month.</li>
+      <li>Events are all-day and marked as free time, so they do not block your schedule.</li>
+    </ul>
+  </section>
+</div>
+
+<script>
+  for (const a of document.querySelectorAll(".feed-apple")) {
+    a.href = "webcal://gantemur.github.io/cal/" + a.closest("[data-feed]").dataset.feed;
+  }
+</script>
