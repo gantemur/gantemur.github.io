@@ -98,6 +98,32 @@
     "source": "user-scheduled"
   },
   {
+    "id": "short-course-elementary-qft-summer-2026",
+    "title": "From qubits to particle physics",
+    "term": {
+      "label": "Summer 2026"
+    },
+    "year": 2026,
+    "institution": "Mongolian Academy of Sciences / National University of Mongolia",
+    "institutionShort": "Summer School on Theoretical Physics (MAS/NUM)",
+    "role": "Instructor",
+    "roleNote": "Summer School on Theoretical Physics",
+    "level": "short-course",
+    "status": "completed",
+    "category": "short-course",
+    "kind": "short-course",
+    "languages": [
+      "mn"
+    ],
+    "topics": [
+      "quantum field theory",
+      "discrete quantum models",
+      "particle physics"
+    ],
+    "cvInclude": true,
+    "source": "user-confirmed-2026-11-10; owner-corrected-2026-11-11"
+  },
+  {
     "id": "math-262-fall-2025",
     "code": "Math 262",
     "title": "Intermediate calculus",
@@ -173,6 +199,27 @@
     ],
     "cvInclude": true,
     "source": "user-corrected; homepage/tmp/pdfs/cv.txt"
+  },
+  {
+    "id": "mas-num-summer-school-statistical-physics-2025",
+    "title": "Statistical physics",
+    "term": {
+      "label": "Summer 2025"
+    },
+    "year": 2025,
+    "institution": "Mongolian Academy of Sciences / National University of Mongolia",
+    "institutionShort": "Summer School on Theoretical Physics (MAS/NUM)",
+    "role": "Instructor",
+    "roleNote": "Summer School on Theoretical Physics",
+    "level": "short-course",
+    "status": "completed",
+    "category": "short-course",
+    "kind": "short-course",
+    "topics": [
+      "statistical physics"
+    ],
+    "cvInclude": true,
+    "source": "owner-confirmed-2026-11-11"
   },
   {
     "id": "num-math101-fall-2024",
@@ -366,6 +413,27 @@
     "source": "user-corrected; YouTube-course-supported; homepage/tmp/pdfs/cv.txt"
   },
   {
+    "id": "mas-num-summer-school-mathematical-statistics-2024",
+    "title": "Mathematical statistics",
+    "term": {
+      "label": "Summer 2024"
+    },
+    "year": 2024,
+    "institution": "Mongolian Academy of Sciences / National University of Mongolia",
+    "institutionShort": "Summer School on Theoretical Physics (MAS/NUM)",
+    "role": "Instructor",
+    "roleNote": "Summer School on Theoretical Physics",
+    "level": "short-course",
+    "status": "completed",
+    "category": "short-course",
+    "kind": "short-course",
+    "topics": [
+      "mathematical statistics"
+    ],
+    "cvInclude": true,
+    "source": "owner-confirmed-2026-11-11"
+  },
+  {
     "id": "math-317-fall-2023",
     "code": "Math 317",
     "title": "Numerical analysis",
@@ -505,6 +573,27 @@
     "source": "user-corrected; homepage/tmp/pdfs/cv.txt"
   },
   {
+    "id": "mas-num-summer-school-relativity-2023",
+    "title": "Relativity",
+    "term": {
+      "label": "Summer 2023"
+    },
+    "year": 2023,
+    "institution": "Mongolian Academy of Sciences / National University of Mongolia",
+    "institutionShort": "Summer School on Theoretical Physics (MAS/NUM)",
+    "role": "Instructor",
+    "roleNote": "Summer School on Theoretical Physics",
+    "level": "short-course",
+    "status": "completed",
+    "category": "short-course",
+    "kind": "short-course",
+    "topics": [
+      "relativity"
+    ],
+    "cvInclude": true,
+    "source": "owner-confirmed-2026-11-11"
+  },
+  {
     "id": "num-phys405-fall-2022",
     "code": "PHYS405",
     "title": "Nonlinear dynamics and chaos",
@@ -533,6 +622,27 @@
     ],
     "cvInclude": true,
     "source": "user-corrected; homepage/tmp/pdfs/cv.txt"
+  },
+  {
+    "id": "mas-num-summer-school-electromagnetism-2022",
+    "title": "Electromagnetism",
+    "term": {
+      "label": "Summer 2022"
+    },
+    "year": 2022,
+    "institution": "Mongolian Academy of Sciences / National University of Mongolia",
+    "institutionShort": "Summer School on Theoretical Physics (MAS/NUM)",
+    "role": "Instructor",
+    "roleNote": "Summer School on Theoretical Physics",
+    "level": "short-course",
+    "status": "completed",
+    "category": "short-course",
+    "kind": "short-course",
+    "topics": [
+      "electromagnetism"
+    ],
+    "cvInclude": true,
+    "source": "owner-confirmed-2026-11-11"
   },
   {
     "id": "math-567-fall-2021",
@@ -661,6 +771,67 @@
     "archive": "local-simplified",
     "cvInclude": true,
     "source": "_old_site/McGill/teaching.html"
+  },
+  {
+    "id": "mas-num-summer-school-pde-2021",
+    "title": "Partial differential equations",
+    "term": {
+      "label": "Summer 2021"
+    },
+    "year": 2021,
+    "institution": "Mongolian Academy of Sciences / National University of Mongolia",
+    "institutionShort": "Summer School on Theoretical Physics (MAS/NUM)",
+    "role": "Instructor",
+    "roleNote": "Summer School on Theoretical Physics",
+    "level": "short-course",
+    "status": "completed",
+    "category": "short-course",
+    "kind": "short-course",
+    "topics": [
+      "PDE"
+    ],
+    "cvInclude": true,
+    "source": "owner-confirmed-2026-11-11"
+  },
+  {
+    "id": "online-course-quantum-computation-2021",
+    "title": "Quantum computation",
+    "term": {
+      "label": "2021"
+    },
+    "year": 2021,
+    "role": "Instructor",
+    "level": "short-course",
+    "status": "completed",
+    "category": "short-course",
+    "kind": "online-course",
+    "delivery": "online",
+    "lectureCount": 11,
+    "topics": [
+      "quantum computation"
+    ],
+    "cvInclude": true,
+    "source": "owner-confirmed-2026-11-11"
+  },
+  {
+    "id": "online-course-cryptography-2021",
+    "title": "Cryptography",
+    "term": {
+      "label": "2021"
+    },
+    "year": 2021,
+    "role": "Instructor",
+    "level": "short-course",
+    "status": "completed",
+    "category": "short-course",
+    "kind": "online-course",
+    "delivery": "online",
+    "lectureCount": 9,
+    "topics": [
+      "cryptography"
+    ],
+    "cvInclude": true,
+    "source": "owner-confirmed-2026-11-11"
   },
   {
     "id": "math-578-fall-2020",

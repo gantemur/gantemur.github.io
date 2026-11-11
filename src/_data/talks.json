@@ -1,5 +1,96 @@
 [
   {
+    "id": "projectional-nudging-jiangxi-normal-conference-2026-06-13",
+    "title": "Projectional nudging for the 2D Navier–Stokes equations",
+    "year": 2026,
+    "description": "International Conference of Partial Differential Equations from Fluid Dynamics, School of Mathematics and Statistics, Jiangxi Normal University, Nanchang, China. June 13, 2026. Subtitle: Invisible shears, small divisors, and kernel-free observability.",
+    "links": [],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "user-supplied-title-slide-2026-11-10"
+  },
+  {
+    "id": "projectional-nudging-jiangxi-normal-2026-06-10",
+    "title": "Projectional nudging for 2D Navier–Stokes equations",
+    "year": 2026,
+    "description": "Jiangxi Normal University, Nanchang, China. June 10, 2026. Subtitle: Invisible shears, small divisors, and kernel-free observability.",
+    "links": [],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "user-supplied-title-slide-2026-11-10"
+  },
+  {
+    "id": "deep-relu-refinement-cascades-jiangxi-normal-2026-06-10",
+    "title": "Deep ReLU Networks and Refinement Cascades",
+    "year": 2026,
+    "description": "Jiangxi Normal University, Nanchang, China. June 10, 2026. Subtitle: The geometry of the seam.",
+    "links": [],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "user-supplied-title-slide-2026-11-10"
+  },
+  {
+    "id": "projectional-nudging-nanchang-university-2026-06-08",
+    "title": "Projectional nudging for 2D Navier–Stokes equations",
+    "year": 2026,
+    "description": "Nanchang University PDE Seminar, Nanchang, China. June 8, 2026. Subtitle: Invisible shears, small divisors, and kernel-free observability.",
+    "links": [],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "user-supplied-title-slide-2026-11-10"
+  },
+  {
+    "id": "square-lattice-rotational-symmetry-ipt-2026-05-22",
+    "title": "Does a square lattice necessarily break rotational symmetry?",
+    "year": 2026,
+    "description": "Research seminar, Institute of Physics and Technology, Mongolia. May 22, 2026. Original Mongolian title: “Дөрвөлжин тор эргэлтийн тэгш хэмийг заавал эвддэг үү?”",
+    "links": [],
+    "type": "talk",
+    "languages": [
+      "mn"
+    ],
+    "cvInclude": true,
+    "source": "user-supplied-seminar-notice-2026-11-10"
+  },
+  {
+    "id": "pde-analysis-seminar-east-china-university-technology-2025",
+    "title": "PDE/Analysis seminar",
+    "year": 2025,
+    "description": "East China University of Technology, Nanchang, China. 2025; exact talk title and date not yet recorded.",
+    "links": [],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "owner-confirmed-2026-11-11"
+  },
+  {
+    "id": "pde-analysis-seminar-jiangxi-finance-economics-2025",
+    "title": "PDE/Analysis seminar",
+    "year": 2025,
+    "description": "Jiangxi University of Finance and Economics, Nanchang, China. 2025; exact talk title and date not yet recorded.",
+    "links": [],
+    "type": "talk",
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "owner-confirmed-2026-11-11"
+  },
+  {
     "id": "pde-seminar-jiangxi-normal-university-2025",
     "title": "PDE seminar",
     "year": 2025,
@@ -37,6 +128,26 @@
     ],
     "cvInclude": true,
     "source": "cv.pdf"
+  },
+  {
+    "id": "von-neumann-and-quantum-mechanics-mas-imdt-2024",
+    "title": "Von Neumann and quantum mechanics",
+    "year": 2024,
+    "description": "Lecture at the Institute of Mathematics and Digital Technology, Mongolian Academy of Sciences, Mongolia. 2024; exact date not yet recorded.",
+    "links": [],
+    "type": "lecture",
+    "cvInclude": true,
+    "source": "owner-confirmed-2026-11-11"
+  },
+  {
+    "id": "poincare-and-mathematical-physics-mas-imdt-2024",
+    "title": "Poincaré and mathematical physics",
+    "year": 2024,
+    "description": "Lecture at the Institute of Mathematics and Digital Technology, Mongolian Academy of Sciences, Mongolia. 2024; exact date not yet recorded.",
+    "links": [],
+    "type": "lecture",
+    "cvInclude": true,
+    "source": "owner-confirmed-2026-11-11"
   },
   {
     "id": "canadian-mathematical-society-winter-meeting-2023",
@@ -115,6 +226,36 @@
     ],
     "cvInclude": true,
     "source": "cv.pdf"
+  },
+  {
+    "id": "riemann-hypothesis-millennium-problems-online-2021",
+    "title": "The Riemann hypothesis",
+    "year": 2021,
+    "description": "Public online lecture, Millennium Problems lecture series by multiple experts, April 9–25, 2021. Individual lecture date not yet identified.",
+    "links": [],
+    "type": "public lecture",
+    "cvInclude": true,
+    "source": "owner-confirmed-2026-11-11"
+  },
+  {
+    "id": "navier-stokes-millennium-problems-online-2021",
+    "title": "The Navier–Stokes equations",
+    "year": 2021,
+    "description": "Public online lecture, Millennium Problems lecture series by multiple experts, April 9–25, 2021. Individual lecture date not yet identified.",
+    "links": [],
+    "type": "public lecture",
+    "cvInclude": true,
+    "source": "owner-confirmed-2026-11-11"
+  },
+  {
+    "id": "poincare-conjecture-millennium-problems-online-2021",
+    "title": "The Poincaré conjecture",
+    "year": 2021,
+    "description": "Public online lecture, Millennium Problems lecture series by multiple experts, April 9–25, 2021. Individual lecture date not yet identified.",
+    "links": [],
+    "type": "public lecture",
+    "cvInclude": true,
+    "source": "owner-confirmed-2026-11-11"
   },
   {
     "id": "on-convergence-of-discrete-exterior-calculus-2019",
