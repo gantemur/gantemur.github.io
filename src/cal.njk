@@ -1,89 +1,132 @@
 ---
 layout: layouts/base.njk
 title: Lunar calendar feeds
+language: mn
 permalink: /cal/
-variants:
-  - { suffix: "", label: "1st and 15th" }
-  - { suffix: "-no15", label: "1st only" }
+langnames:
+  mn: { mn: Монгол, en: Mongolian }
+  en: { mn: Англи, en: English }
+  bo: { mn: Төвд, en: Tibetan }
+  dz: { mn: Зонха, en: Dzongkha }
+days:
+  d115: { mn: Шинийн 1 ба 15, en: 1st and 15th }
+  d1: { mn: Зөвхөн шинийн 1, en: 1st only }
+  ausp: { mn: Зурхайн онцлох өдрүүд, en: Auspicious days }
 feeds:
-  - id: mongol
-    name: Mongol lunar calendar
-    native: Монгол билгийн тоолол
-    langs: [{ code: en, label: English }, { code: mn, label: Монгол }]
-    festivals: Bituun, Tsagaan Sar, Ikh Düichen, Chinggis Khaan's birthday
-  - id: phugpa
-    name: Tibetan calendar (Phugpa)
+  - name: { mn: Монгол билгийн тоолол, en: Mongol lunar calendar }
+    festivals:
+      mn: "Баяр ёслол: Битүүн, Цагаан сар, Их дүйчин, Чингис хааны төрсөн өдөр. Зурхайн онцлох өдрүүд: Балжинням, Дашням (сайн), Модон хохимой, Тэрсүүд (цээртэй)."
+      en: "Festivals: Bituun, Tsagaan Sar, Ikh Düichen, Chinggis Khaan's birthday. Auspicious days: Baljinnyam, Dashnyam (auspicious), Modon khokhimoi, Tersüüd (days to be careful)."
+    rows:
+      - [mongol-mn.ics, mn, d115]
+      - [mongol-mn-no15.ics, mn, d1]
+      - [mongol-auspicious-mn.ics, mn, ausp]
+      - [mongol-en.ics, en, d115]
+      - [mongol-en-no15.ics, en, d1]
+      - [mongol-auspicious-en.ics, en, ausp]
+  - name: { mn: Төвд зурхай (Пүг), en: Tibetan calendar (Phugpa) }
     native: བོད་ཀྱི་ལོ་ཐོ། (ཕུག་ལུགས།)
-    langs: [{ code: en, label: English }, { code: bo, label: བོད་ཡིག }]
-    festivals: Losar and the four düchen
-  - id: tsurphu
-    name: Tibetan calendar (Tsurphu)
+    festivals: &tibfest
+      mn: "Баяр ёслол: Лосар ба дөрвөн их дүйчин."
+      en: "Festivals: Losar and the four düchen."
+    rows:
+      - [phugpa-bo.ics, bo, d115]
+      - [phugpa-bo-no15.ics, bo, d1]
+      - [phugpa-en.ics, en, d115]
+      - [phugpa-en-no15.ics, en, d1]
+  - name: { mn: Төвд зурхай (Цүр), en: Tibetan calendar (Tsurphu) }
     native: བོད་ཀྱི་ལོ་ཐོ། (མཚུར་ལུགས།)
-    langs: [{ code: en, label: English }, { code: bo, label: བོད་ཡིག }]
-    festivals: Losar and the four düchen
-  - id: bhutan
-    name: Bhutanese calendar
+    festivals: *tibfest
+    rows:
+      - [tsurphu-bo.ics, bo, d115]
+      - [tsurphu-bo-no15.ics, bo, d1]
+      - [tsurphu-en.ics, en, d115]
+      - [tsurphu-en-no15.ics, en, d1]
+  - name: { mn: Бутан зурхай, en: Bhutanese calendar }
     native: འབྲུག་གི་ལོ་ཐོ།
-    langs: [{ code: en, label: English }, { code: dz, label: རྫོང་ཁ }]
-    festivals: Losar and the four düchen
+    festivals: *tibfest
+    rows:
+      - [bhutan-dz.ics, dz, d115]
+      - [bhutan-dz-no15.ics, dz, d1]
+      - [bhutan-en.ics, en, d115]
+      - [bhutan-en-no15.ics, en, d1]
 ---
+{% macro t(o) %}<span class="l-mn">{{ o.mn }}</span><span class="l-en">{{ o.en }}</span>{% endmacro %}
+<script>
+  (function () {
+    var lang = "mn";
+    try {
+      var q = new URLSearchParams(location.search).get("lang");
+      lang = q || localStorage.getItem("cal-lang") || "mn";
+    } catch (e) {}
+    if (lang === "en") {
+      document.documentElement.classList.add("ui-en");
+      document.documentElement.lang = "en";
+    }
+  })();
+</script>
+<style>
+  html:not(.ui-en) .l-en,
+  html.ui-en .l-mn { display: none !important; }
+  .cal-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 1rem; }
+  .lang-switch { font-size: 0.95rem; white-space: nowrap; padding-top: 0.6rem; }
+  .lang-switch a { text-decoration: none; }
+  .cal-note { font-size: 0.95rem; color: var(--muted, #555); }
+  .cal-native { font-weight: normal; font-size: 1rem; margin-left: 0.5rem; color: var(--muted, #555); }
+  html:not(.ui-en) .lang-switch [data-set="mn"],
+  html.ui-en .lang-switch [data-set="en"] { font-weight: bold; text-decoration: underline; }
+</style>
 
-<h1>Lunar calendar feeds</h1>
-<p class="lede narrow">Subscribe to a traditional lunar calendar in the calendar app you already use (Apple, Google, Outlook and others). Each feed adds a separate calendar layer showing the first day of every lunar month, with the full month and year, the 15th lunar day, and the main festivals. The dates are computed with <a href="https://gantemur.github.io/caltib/">caltib</a> and cover 2020–2050.</p>
+<div class="cal-head">
+  <h1><span class="l-mn">Билгийн тооллын хуанли</span><span class="l-en">Lunar calendar feeds</span></h1>
+  <nav class="lang-switch" aria-label="Language">
+    <a href="?lang=mn" data-set="mn">MN</a> | <a href="?lang=en" data-set="en">EN</a>
+  </nav>
+</div>
+
+<p class="lede narrow l-mn">Өөрийн хэрэглэдэг хуанлийн програмдаа (Apple, Google, Outlook гэх мэт) уламжлалт билгийн тооллыг захиалж нэмээрэй. Захиалсан хуанли тусдаа давхарга болж, билгийн сар бүрийн шинийн нэгэнд сар, жилийн нэрийг бүтнээр, мөн шинийн 15 болон гол баяр ёслолуудыг харуулна. Огноог <a href="https://gantemur.github.io/caltib/">caltib</a>-ээр тооцоолсон бөгөөд 2020–2050 оныг хамарна.</p>
+<p class="lede narrow l-en">Subscribe to a traditional lunar calendar in the calendar app you already use (Apple, Google, Outlook and others). Each feed adds a separate calendar layer showing the first day of every lunar month, with the full month and year, the 15th lunar day, and the main festivals. The dates are computed with <a href="https://gantemur.github.io/caltib/">caltib</a> and cover 2020–2050.</p>
 
 <div class="stack">
   {% for cal in feeds %}
     <section class="rule-section">
-      <h2>{{ cal.name }} <span class="meta">{{ cal.native }}</span></h2>
-      <p class="meta">Festivals: {{ cal.festivals }}.</p>
+      <h2>{{ t(cal.name) }}{% if cal.native %} <span class="cal-native">{{ cal.native }}</span>{% endif %}</h2>
+      <p class="cal-note">{{ t(cal.festivals) }}</p>
       <table class="data-table">
         <thead>
-          <tr><th>Language</th><th>Days shown</th><th>Subscribe</th></tr>
+          <tr>
+            <th><span class="l-mn">Хэл</span><span class="l-en">Language</span></th>
+            <th><span class="l-mn">Харуулах өдрүүд</span><span class="l-en">Days shown</span></th>
+            <th><span class="l-mn">Захиалах</span><span class="l-en">Subscribe</span></th>
+          </tr>
         </thead>
         <tbody>
-          {% for lang in cal.langs %}
-            {% for variant in variants %}
-              {% set file = cal.id + "-" + lang.code + variant.suffix + ".ics" %}
-              <tr>
-                <td>{{ lang.label }}</td>
-                <td>{{ variant.label }}</td>
-                <td class="feed-links" data-feed="{{ file }}">
-                  <a class="feed-apple" href="{{ file }}">Apple</a> ·
-                  <a class="feed-google" href="https://calendar.google.com/calendar/render?cid=webcal://gantemur.github.io/cal/{{ file }}">Google</a> ·
-                  <a href="{{ file }}">.ics file</a>
-                </td>
-              </tr>
-            {% endfor %}
+          {% for row in cal.rows %}
+            <tr>
+              <td>{{ t(langnames[row[1]]) }}</td>
+              <td>{{ t(days[row[2]]) }}</td>
+              <td class="feed-links" data-feed="{{ row[0] }}">
+                <a class="feed-apple" href="{{ row[0] }}">Apple</a> ·
+                <a href="https://calendar.google.com/calendar/render?cid=webcal://gantemur.github.io/cal/{{ row[0] }}">Google</a> ·
+                <a href="{{ row[0] }}"><span class="l-mn">.ics файл</span><span class="l-en">.ics file</span></a>
+              </td>
+            </tr>
           {% endfor %}
         </tbody>
       </table>
     </section>
   {% endfor %}
 
-  <section class="rule-section">
-    <h2>Mongol auspicious days <span class="meta">Зурхайн онцлох өдрүүд</span></h2>
-    <p class="meta">Балжинням and Дашням (auspicious), Модон хохимой and Тэрсүүд (days to be careful), with Tsagaan Sar, Ikh Düichen and Chinggis Khaan's birthday. Can be combined with the Mongol calendar above.</p>
-    <table class="data-table">
-      <thead>
-        <tr><th>Language</th><th>Subscribe</th></tr>
-      </thead>
-      <tbody>
-        {% for lang in feeds[0].langs %}
-          {% set file = "mongol-auspicious-" + lang.code + ".ics" %}
-          <tr>
-            <td>{{ lang.label }}</td>
-            <td class="feed-links" data-feed="{{ file }}">
-              <a class="feed-apple" href="{{ file }}">Apple</a> ·
-              <a class="feed-google" href="https://calendar.google.com/calendar/render?cid=webcal://gantemur.github.io/cal/{{ file }}">Google</a> ·
-              <a href="{{ file }}">.ics file</a>
-            </td>
-          </tr>
-        {% endfor %}
-      </tbody>
-    </table>
+  <section class="rule-section l-mn">
+    <h2>Хэрхэн захиалах вэ</h2>
+    <ul class="compact-list">
+      <li><strong>iPhone, iPad, Mac:</strong> <em>Apple</em> дээр дарж захиалгаа баталгаажуулна.</li>
+      <li><strong>Google хуанли:</strong> компьютер дээрээ <em>Google</em> дээр дарж баталгаажуулна. Дараа нь Android болон iPhone дээрх Google Calendar аппд мөн гарч ирнэ (харагдахгүй бол аппын тохиргооноос асаана).</li>
+      <li><strong>Outlook болон бусад:</strong> <em>.ics файл</em> холбоосын хаягийг хуулж, "Subscribe from web" эсвэл "Add calendar from URL" хэсэгт оруулна.</li>
+    </ul>
+    <p class="meta">Захиалсан хуанли автоматаар шинэчлэгдэнэ; Google шинэчлэлтийг харуулахад нэг өдөр хүртэл болж магадгүй. .ics файлыг татаж импортлоход нэг удаагийн хуулбар болох тул цаашид шинэчлэгдэхгүй.</p>
   </section>
-
-  <section class="rule-section">
+  <section class="rule-section l-en">
     <h2>How to subscribe</h2>
     <ul class="compact-list">
       <li><strong>iPhone, iPad, Mac:</strong> tap or click <em>Apple</em> and confirm the subscription.</li>
@@ -93,7 +136,16 @@ feeds:
     <p class="meta">Subscribed calendars refresh automatically; Google may take a day to show updates. Downloading and importing the .ics file instead gives a one-time copy that does not update.</p>
   </section>
 
-  <section class="rule-section">
+  <section class="rule-section l-mn">
+    <h2>Дүрэм</h2>
+    <ul class="compact-list">
+      <li>Шинийн өдөр заримдаа тасардаг эсвэл давхардаг. Шинийн 1 тасарвал сарын эхний тэмдэглэл шинийн 2-нд, энэ тухай дурдсан байдлаар гарна; давхарвал хоёр дахь өдөрт нь богино "давхар" тэмдэглэл гарна.</li>
+      <li>Шинийн 15 тасарвал шинийн 14-нд харуулна; давхарвал хоёр өдрийг хоёуланг нь харуулна. Тогтмол шинийн өдөрт тохиодог баярууд мөн энэ дүрмийг баримтална. Баярууд илүү сард биш, жирийн сард тохионо.</li>
+      <li>Зурхайн онцлох өдрүүдийг Монгол зурхайн түгээмэл заншлаар тэмдэглэнэ: тасарсан шинийн өдөрт тохиовол өмнөх өдөрт нь; давхар өдрийн зөвхөн хоёр дахьд нь; илүү сартай хосоос зөвхөн илүү (эхний) сард нь.</li>
+      <li>Бүх тэмдэглэл бүтэн өдрийнх бөгөөд "чөлөөтэй" гэж тэмдэглэгдсэн тул таны цагийн хуваарийг хаахгүй.</li>
+    </ul>
+  </section>
+  <section class="rule-section l-en">
     <h2>Conventions</h2>
     <ul class="compact-list">
       <li>Lunar days are sometimes omitted or repeated. If lunar day 1 is omitted, the month's first event is on lunar day 2 and says so; if it is repeated, the second day gets a short "repeated" event.</li>
@@ -107,5 +159,15 @@ feeds:
 <script>
   for (const a of document.querySelectorAll(".feed-apple")) {
     a.href = "webcal://gantemur.github.io/cal/" + a.closest("[data-feed]").dataset.feed;
+  }
+  for (const a of document.querySelectorAll(".lang-switch a")) {
+    a.addEventListener("click", function (e) {
+      e.preventDefault();
+      const en = a.dataset.set === "en";
+      document.documentElement.classList.toggle("ui-en", en);
+      document.documentElement.lang = en ? "en" : "mn";
+      try { localStorage.setItem("cal-lang", a.dataset.set); } catch (err) {}
+      try { history.replaceState(null, "", en ? "?lang=en" : location.pathname); } catch (err) {}
+    });
   }
 </script>
