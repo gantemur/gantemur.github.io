@@ -4,13 +4,13 @@ PRODID:-//caltib//lunar day feeds//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Mongol auspicious days
-X-WR-CALDESC:Baljinnyam\, Dashnyam\, Modon khokhimoi\, Tersüüd\, Tsagaan 
- Sar\, Ikh Düichen and Chinggis Khaan's birthday\, 2020–2050. https://ga
- ntemur.github.io/cal/
+X-WR-CALDESC:Baljinnyam\, Dashnyam\, Modon khokhimoi and Tersüüd\, 2020
+ –2050. Add-on to the Mongol lunar calendar feed. https://gantemur.github
+ .io/cal/
 NAME:Mongol auspicious days
-DESCRIPTION:Baljinnyam\, Dashnyam\, Modon khokhimoi\, Tersüüd\, Tsagaan S
- ar\, Ikh Düichen and Chinggis Khaan's birthday\, 2020–2050. https://gan
- temur.github.io/cal/
+DESCRIPTION:Baljinnyam\, Dashnyam\, Modon khokhimoi and Tersüüd\, 2020–
+ 2050. Add-on to the Mongol lunar calendar feed. https://gantemur.github.io
+ /cal/
 URL:https://gantemur.github.io/cal/
 REFRESH-INTERVAL;VALUE=DURATION:P7D
 X-PUBLISHED-TTL:P7D
@@ -75,16 +75,6 @@ DTSTART;VALUE=DATE:20200222
 DTEND;VALUE=DATE:20200223
 SUMMARY:Modon khokhimoi (inauspicious)
 DESCRIPTION:Last winter month\, Red Ox month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2020-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20200224
-DTEND;VALUE=DATE:20200225
-SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Cycle 17\, Year 34\, White Mouse
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -211,17 +201,6 @@ DTSTART;VALUE=DATE:20200531
 DTEND;VALUE=DATE:20200601
 SUMMARY:Dashnyam (auspicious)
 DESCRIPTION:First summer month\, White Snake month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2020-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20200605
-DTEND;VALUE=DATE:20200606
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15\nFirst summer month\, White Snake month\nCycle 17\
- , Year 34\, White Mouse
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -378,17 +357,6 @@ DESCRIPTION:Last autumn month\, Red Dog month
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-en-2020-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20201116
-DTEND;VALUE=DATE:20201117
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
-DESCRIPTION:Lunar day 1\nFirst winter month\, Red Pig month\nCycle 17\, Yea
- r 34\, White Mouse
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-en-2020-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20201116
@@ -494,16 +462,6 @@ DTSTART;VALUE=DATE:20210210
 DTEND;VALUE=DATE:20210211
 SUMMARY:Modon khokhimoi (inauspicious)
 DESCRIPTION:Last winter month\, Yellow Ox month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2021-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20210212
-DTEND;VALUE=DATE:20210213
-SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Cycle 17\, Year 35\, White Ox
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -639,17 +597,6 @@ DTSTART;VALUE=DATE:20210521
 DTEND;VALUE=DATE:20210522
 SUMMARY:Dashnyam (auspicious)
 DESCRIPTION:First summer month\, Black Snake month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2021-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20210526
-DTEND;VALUE=DATE:20210527
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15\nFirst summer month\, Black Snake month\nCycle 17\
- , Year 35\, White Ox
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -798,17 +745,6 @@ DESCRIPTION:Last autumn month\, Yellow Dog month
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-en-2021-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20211105
-DTEND;VALUE=DATE:20211106
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
-DESCRIPTION:Lunar day 1\nFirst winter month\, Yellow Pig month\nCycle 17\, 
- Year 35\, White Ox
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-en-2021-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20211105
@@ -914,16 +850,6 @@ DTSTART;VALUE=DATE:20220131
 DTEND;VALUE=DATE:20220201
 SUMMARY:Modon khokhimoi (inauspicious)
 DESCRIPTION:Last winter month\, White Ox month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2022-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20220202
-DTEND;VALUE=DATE:20220203
-SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Cycle 17\, Year 36\, Black Tiger
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1059,17 +985,6 @@ DTSTART;VALUE=DATE:20220510
 DTEND;VALUE=DATE:20220511
 SUMMARY:Dashnyam (auspicious)
 DESCRIPTION:First summer month (Leap)\, Blue Snake month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2022-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20220614
-DTEND;VALUE=DATE:20220615
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15\nFirst summer month\, Blue Snake month\nCycle 17\,
-  Year 36\, Black Tiger
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1226,17 +1141,6 @@ DESCRIPTION:Last autumn month\, White Dog month
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-en-2022-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20221124
-DTEND;VALUE=DATE:20221125
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
-DESCRIPTION:Lunar day 1\nFirst winter month\, White Pig month\nCycle 17\, Y
- ear 36\, Black Tiger
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-en-2022-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20221124
@@ -1342,16 +1246,6 @@ DTSTART;VALUE=DATE:20230219
 DTEND;VALUE=DATE:20230220
 SUMMARY:Modon khokhimoi (inauspicious)
 DESCRIPTION:Last winter month\, Black Ox month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2023-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20230221
-DTEND;VALUE=DATE:20230222
-SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Cycle 17\, Year 37\, Black Rabbit
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1487,17 +1381,6 @@ DTSTART;VALUE=DATE:20230529
 DTEND;VALUE=DATE:20230530
 SUMMARY:Dashnyam (auspicious)
 DESCRIPTION:First summer month\, Red Snake month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2023-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20230604
-DTEND;VALUE=DATE:20230605
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15\nFirst summer month\, Red Snake month\nCycle 17\, 
- Year 37\, Black Rabbit
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1654,17 +1537,6 @@ DESCRIPTION:Last autumn month\, Black Dog month
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-en-2023-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20231114
-DTEND;VALUE=DATE:20231115
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
-DESCRIPTION:Lunar day 1\nFirst winter month\, Black Pig month\nCycle 17\, Y
- ear 37\, Black Rabbit
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-en-2023-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20231114
@@ -1770,16 +1642,6 @@ DTSTART;VALUE=DATE:20240209
 DTEND;VALUE=DATE:20240210
 SUMMARY:Modon khokhimoi (inauspicious)
 DESCRIPTION:Last winter month\, Blue Ox month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2024-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20240210
-DTEND;VALUE=DATE:20240211
-SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Cycle 17\, Year 38\, Blue Dragon
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1915,17 +1777,6 @@ DTSTART;VALUE=DATE:20240517
 DTEND;VALUE=DATE:20240518
 SUMMARY:Dashnyam (auspicious)
 DESCRIPTION:First summer month\, Yellow Snake month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2024-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20240523
-DTEND;VALUE=DATE:20240524
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15\nFirst summer month\, Yellow Snake month\nCycle 17
- \, Year 38\, Blue Dragon
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2082,17 +1933,6 @@ DESCRIPTION:Last autumn month\, Blue Dog month
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-en-2024-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20241102
-DTEND;VALUE=DATE:20241103
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
-DESCRIPTION:Lunar day 1\nFirst winter month\, Blue Pig month\nCycle 17\, Ye
- ar 38\, Blue Dragon
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-en-2024-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20241102
@@ -2207,16 +2047,6 @@ DTSTART;VALUE=DATE:20250301
 DTEND;VALUE=DATE:20250302
 SUMMARY:Baljinnyam (auspicious)
 DESCRIPTION:First spring month\, Yellow Tiger month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2025-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20250301
-DTEND;VALUE=DATE:20250302
-SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Cycle 17\, Year 39\, Blue Snake
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2343,17 +2173,6 @@ DTSTART;VALUE=DATE:20250604
 DTEND;VALUE=DATE:20250605
 SUMMARY:Dashnyam (auspicious)
 DESCRIPTION:First summer month\, White Snake month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2025-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20250611
-DTEND;VALUE=DATE:20250612
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15\nFirst summer month\, White Snake month\nCycle 17\
- , Year 39\, Blue Snake
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2510,17 +2329,6 @@ DESCRIPTION:Last autumn month\, Red Dog month
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-en-2025-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20251121
-DTEND;VALUE=DATE:20251122
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
-DESCRIPTION:Lunar day 1\nFirst winter month\, Red Pig month\nCycle 17\, Yea
- r 39\, Blue Snake
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-en-2025-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20251121
@@ -2626,16 +2434,6 @@ DTSTART;VALUE=DATE:20260216
 DTEND;VALUE=DATE:20260217
 SUMMARY:Modon khokhimoi (inauspicious)
 DESCRIPTION:Last winter month\, Yellow Ox month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2026-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20260218
-DTEND;VALUE=DATE:20260219
-SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Cycle 17\, Year 40\, Red Horse
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2771,17 +2569,6 @@ DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
 SUMMARY:Dashnyam (auspicious)
 DESCRIPTION:First summer month\, Black Snake month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2026-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20260531
-DTEND;VALUE=DATE:20260601
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15\nFirst summer month\, Black Snake month\nCycle 17\
- , Year 40\, Red Horse
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2938,17 +2725,6 @@ DESCRIPTION:Last autumn month\, Yellow Dog month
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-en-2026-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
-DESCRIPTION:Lunar day 1\nFirst winter month\, Yellow Pig month\nCycle 17\, 
- Year 40\, Red Horse
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-en-2026-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261110
@@ -3054,16 +2830,6 @@ DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Modon khokhimoi (inauspicious)
 DESCRIPTION:Last winter month\, White Ox month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2027-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20270207
-DTEND;VALUE=DATE:20270208
-SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Cycle 17\, Year 41\, Red Sheep
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3199,17 +2965,6 @@ DTSTART;VALUE=DATE:20270514
 DTEND;VALUE=DATE:20270515
 SUMMARY:Dashnyam (auspicious)
 DESCRIPTION:First summer month\, Blue Snake month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2027-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20270520
-DTEND;VALUE=DATE:20270521
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15\nFirst summer month\, Blue Snake month\nCycle 17\,
-  Year 41\, Red Sheep
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3366,17 +3121,6 @@ DESCRIPTION:Last autumn month (Leap)\, White Dog month
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-en-2027-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20271129
-DTEND;VALUE=DATE:20271130
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
-DESCRIPTION:Lunar day 1\nFirst winter month\, White Pig month\nCycle 17\, Y
- ear 41\, Red Sheep
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-en-2027-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20271129
@@ -3482,16 +3226,6 @@ DTSTART;VALUE=DATE:20280224
 DTEND;VALUE=DATE:20280225
 SUMMARY:Modon khokhimoi (inauspicious)
 DESCRIPTION:Last winter month\, Black Ox month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2028-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20280226
-DTEND;VALUE=DATE:20280227
-SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Cycle 17\, Year 42\, Yellow Monkey
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3627,17 +3361,6 @@ DTSTART;VALUE=DATE:20280601
 DTEND;VALUE=DATE:20280602
 SUMMARY:Dashnyam (auspicious)
 DESCRIPTION:First summer month\, Red Snake month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2028-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20280607
-DTEND;VALUE=DATE:20280608
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15\nFirst summer month\, Red Snake month\nCycle 17\, 
- Year 42\, Yellow Monkey
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3794,17 +3517,6 @@ DESCRIPTION:Last autumn month\, Black Dog month
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-en-2028-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20281117
-DTEND;VALUE=DATE:20281118
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
-DESCRIPTION:Lunar day 1\nFirst winter month\, Black Pig month\nCycle 17\, Y
- ear 42\, Yellow Monkey
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-en-2028-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20281117
@@ -3910,16 +3622,6 @@ DTSTART;VALUE=DATE:20290212
 DTEND;VALUE=DATE:20290213
 SUMMARY:Modon khokhimoi (inauspicious)
 DESCRIPTION:Last winter month\, Blue Ox month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2029-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20290214
-DTEND;VALUE=DATE:20290215
-SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Cycle 17\, Year 43\, Yellow Bird
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4046,17 +3748,6 @@ DTSTART;VALUE=DATE:20290522
 DTEND;VALUE=DATE:20290523
 SUMMARY:Dashnyam (auspicious)
 DESCRIPTION:First summer month\, Yellow Snake month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2029-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20290527
-DTEND;VALUE=DATE:20290528
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15\nFirst summer month\, Yellow Snake month\nCycle 17
- \, Year 43\, Yellow Bird
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4213,17 +3904,6 @@ DESCRIPTION:Last autumn month\, Blue Dog month
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-en-2029-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20291107
-DTEND;VALUE=DATE:20291108
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
-DESCRIPTION:Lunar day 1\nFirst winter month\, Blue Pig month\nCycle 17\, Ye
- ar 43\, Yellow Bird
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-en-2029-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20291107
@@ -4329,16 +4009,6 @@ DTSTART;VALUE=DATE:20300201
 DTEND;VALUE=DATE:20300202
 SUMMARY:Modon khokhimoi (inauspicious)
 DESCRIPTION:Last winter month\, Red Ox month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2030-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20300203
-DTEND;VALUE=DATE:20300204
-SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Cycle 17\, Year 44\, White Dog
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4474,17 +4144,6 @@ DTSTART;VALUE=DATE:20300511
 DTEND;VALUE=DATE:20300512
 SUMMARY:Dashnyam (auspicious)
 DESCRIPTION:First summer month\, White Snake month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2030-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20300517
-DTEND;VALUE=DATE:20300518
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15\nFirst summer month\, White Snake month\nCycle 17\
- , Year 44\, White Dog
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4642,17 +4301,6 @@ DESCRIPTION:Last autumn month\, Red Dog month
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-en-2030-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20301126
-DTEND;VALUE=DATE:20301127
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
-DESCRIPTION:Lunar day 1\nFirst winter month\, Red Pig month\nCycle 17\, Yea
- r 44\, White Dog
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-en-2030-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20301126
@@ -4758,16 +4406,6 @@ DTSTART;VALUE=DATE:20310220
 DTEND;VALUE=DATE:20310221
 SUMMARY:Modon khokhimoi (inauspicious)
 DESCRIPTION:Last winter month\, Yellow Ox month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2031-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20310222
-DTEND;VALUE=DATE:20310223
-SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Cycle 17\, Year 45\, White Pig
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4903,17 +4541,6 @@ DTSTART;VALUE=DATE:20310530
 DTEND;VALUE=DATE:20310531
 SUMMARY:Dashnyam (auspicious)
 DESCRIPTION:First summer month\, Black Snake month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2031-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20310605
-DTEND;VALUE=DATE:20310606
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15\nFirst summer month\, Black Snake month\nCycle 17\
- , Year 45\, White Pig
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5070,17 +4697,6 @@ DESCRIPTION:Last autumn month\, Yellow Dog month
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-en-2031-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20311115
-DTEND;VALUE=DATE:20311116
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
-DESCRIPTION:Lunar day 1\nFirst winter month\, Yellow Pig month\nCycle 17\, 
- Year 45\, White Pig
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-en-2031-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20311115
@@ -5186,16 +4802,6 @@ DTSTART;VALUE=DATE:20320210
 DTEND;VALUE=DATE:20320211
 SUMMARY:Modon khokhimoi (inauspicious)
 DESCRIPTION:Last winter month\, White Ox month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2032-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20320212
-DTEND;VALUE=DATE:20320213
-SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Cycle 17\, Year 46\, Black Mouse
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5331,17 +4937,6 @@ DTSTART;VALUE=DATE:20320518
 DTEND;VALUE=DATE:20320519
 SUMMARY:Dashnyam (auspicious)
 DESCRIPTION:First summer month\, Blue Snake month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2032-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20320525
-DTEND;VALUE=DATE:20320526
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15\nFirst summer month\, Blue Snake month\nCycle 17\,
-  Year 46\, Black Mouse
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5498,17 +5093,6 @@ DESCRIPTION:Last autumn month\, White Dog month
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-en-2032-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20321104
-DTEND;VALUE=DATE:20321105
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
-DESCRIPTION:Lunar day 1\nFirst winter month\, White Pig month\nCycle 17\, Y
- ear 46\, Black Mouse
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-en-2032-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20321104
@@ -5614,16 +5198,6 @@ DTSTART;VALUE=DATE:20330129
 DTEND;VALUE=DATE:20330130
 SUMMARY:Modon khokhimoi (inauspicious)
 DESCRIPTION:Last winter month\, Black Ox month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2033-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20330131
-DTEND;VALUE=DATE:20330201
-SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Cycle 17\, Year 47\, Black Ox
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5759,17 +5333,6 @@ DTSTART;VALUE=DATE:20330606
 DTEND;VALUE=DATE:20330607
 SUMMARY:Dashnyam (auspicious)
 DESCRIPTION:First summer month\, Red Snake month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2033-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20330612
-DTEND;VALUE=DATE:20330613
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15\nFirst summer month\, Red Snake month\nCycle 17\, 
- Year 47\, Black Ox
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5926,17 +5489,6 @@ DESCRIPTION:Last autumn month\, Black Dog month
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-en-2033-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20331122
-DTEND;VALUE=DATE:20331123
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
-DESCRIPTION:Lunar day 1\nFirst winter month\, Black Pig month\nCycle 17\, Y
- ear 47\, Black Ox
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-en-2033-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20331122
@@ -6042,16 +5594,6 @@ DTSTART;VALUE=DATE:20340217
 DTEND;VALUE=DATE:20340218
 SUMMARY:Modon khokhimoi (inauspicious)
 DESCRIPTION:Last winter month\, Blue Ox month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2034-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20340219
-DTEND;VALUE=DATE:20340220
-SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Cycle 17\, Year 48\, Blue Tiger
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6187,29 +5729,6 @@ DTSTART;VALUE=DATE:20340526
 DTEND;VALUE=DATE:20340527
 SUMMARY:Dashnyam (auspicious)
 DESCRIPTION:First summer month\, Yellow Snake month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2034-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20340601
-DTEND;VALUE=DATE:20340602
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15\nFirst summer month\, Yellow Snake month\nCycle 17
- \, Year 48\, Blue Tiger
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2034-04-ikh_duichen-r@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20340602
-DTEND;VALUE=DATE:20340603
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana (repea
- ted)
-DESCRIPTION:Lunar day 15\nFirst summer month\, Yellow Snake month\nCycle 17
- \, Year 48\, Blue Tiger
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6366,17 +5885,6 @@ DESCRIPTION:Last autumn month\, Blue Dog month
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-en-2034-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20341111
-DTEND;VALUE=DATE:20341112
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
-DESCRIPTION:Lunar day 1\nFirst winter month\, Blue Pig month\nCycle 17\, Ye
- ar 48\, Blue Tiger
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-en-2034-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20341111
@@ -6482,16 +5990,6 @@ DTSTART;VALUE=DATE:20350207
 DTEND;VALUE=DATE:20350208
 SUMMARY:Modon khokhimoi (inauspicious)
 DESCRIPTION:Last winter month\, Red Ox month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2035-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20350209
-DTEND;VALUE=DATE:20350210
-SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Cycle 17\, Year 49\, Blue Rabbit
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6627,17 +6125,6 @@ DTSTART;VALUE=DATE:20350516
 DTEND;VALUE=DATE:20350517
 SUMMARY:Dashnyam (auspicious)
 DESCRIPTION:First summer month\, White Snake month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2035-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20350522
-DTEND;VALUE=DATE:20350523
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15\nFirst summer month\, White Snake month\nCycle 17\
- , Year 49\, Blue Rabbit
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6822,17 +6309,6 @@ DESCRIPTION:First winter month (Leap)\, Red Pig month
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-en-2035-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20351130
-DTEND;VALUE=DATE:20351201
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
-DESCRIPTION:Lunar day 1\nFirst winter month\, Red Pig month\nCycle 17\, Yea
- r 49\, Blue Rabbit
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-en-2035-11-baljinnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20351230
@@ -6902,16 +6378,6 @@ DTSTART;VALUE=DATE:20360225
 DTEND;VALUE=DATE:20360226
 SUMMARY:Modon khokhimoi (inauspicious)
 DESCRIPTION:Last winter month\, Yellow Ox month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2036-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20360228
-DTEND;VALUE=DATE:20360229
-SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Cycle 17\, Year 50\, Red Dragon
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -7047,17 +6513,6 @@ DTSTART;VALUE=DATE:20360603
 DTEND;VALUE=DATE:20360604
 SUMMARY:Dashnyam (auspicious)
 DESCRIPTION:First summer month\, Black Snake month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2036-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20360608
-DTEND;VALUE=DATE:20360609
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15\nFirst summer month\, Black Snake month\nCycle 17\
- , Year 50\, Red Dragon
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -7214,17 +6669,6 @@ DESCRIPTION:Last autumn month\, Yellow Dog month
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-en-2036-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20361118
-DTEND;VALUE=DATE:20361119
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
-DESCRIPTION:Lunar day 1\nFirst winter month\, Yellow Pig month\nCycle 17\, 
- Year 50\, Red Dragon
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-en-2036-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20361118
@@ -7330,16 +6774,6 @@ DTSTART;VALUE=DATE:20370213
 DTEND;VALUE=DATE:20370214
 SUMMARY:Modon khokhimoi (inauspicious)
 DESCRIPTION:Last winter month\, White Ox month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2037-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20370216
-DTEND;VALUE=DATE:20370217
-SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Cycle 17\, Year 51\, Red Snake
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -7475,17 +6909,6 @@ DTSTART;VALUE=DATE:20370523
 DTEND;VALUE=DATE:20370524
 SUMMARY:Dashnyam (auspicious)
 DESCRIPTION:First summer month\, Blue Snake month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2037-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20370529
-DTEND;VALUE=DATE:20370530
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15\nFirst summer month\, Blue Snake month\nCycle 17\,
-  Year 51\, Red Snake
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -7642,17 +7065,6 @@ DESCRIPTION:Last autumn month\, White Dog month
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-en-2037-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20371108
-DTEND;VALUE=DATE:20371109
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
-DESCRIPTION:Lunar day 1\nFirst winter month\, White Pig month\nCycle 17\, Y
- ear 51\, Red Snake
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-en-2037-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20371108
@@ -7758,16 +7170,6 @@ DTSTART;VALUE=DATE:20380203
 DTEND;VALUE=DATE:20380204
 SUMMARY:Modon khokhimoi (inauspicious)
 DESCRIPTION:Last winter month\, Black Ox month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2038-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20380205
-DTEND;VALUE=DATE:20380206
-SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Cycle 17\, Year 52\, Yellow Horse
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -7903,17 +7305,6 @@ DTSTART;VALUE=DATE:20380513
 DTEND;VALUE=DATE:20380514
 SUMMARY:Dashnyam (auspicious)
 DESCRIPTION:First summer month\, Red Snake month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2038-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20380518
-DTEND;VALUE=DATE:20380519
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15\nFirst summer month\, Red Snake month\nCycle 17\, 
- Year 52\, Yellow Horse
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -8070,17 +7461,6 @@ DESCRIPTION:Last autumn month\, Black Dog month
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-en-2038-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20381127
-DTEND;VALUE=DATE:20381128
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
-DESCRIPTION:Lunar day 1\nFirst winter month\, Black Pig month\nCycle 17\, Y
- ear 52\, Yellow Horse
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-en-2038-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20381127
@@ -8186,16 +7566,6 @@ DTSTART;VALUE=DATE:20390222
 DTEND;VALUE=DATE:20390223
 SUMMARY:Modon khokhimoi (inauspicious)
 DESCRIPTION:Last winter month\, Blue Ox month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2039-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20390224
-DTEND;VALUE=DATE:20390225
-SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Cycle 17\, Year 53\, Yellow Sheep
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -8331,17 +7701,6 @@ DTSTART;VALUE=DATE:20390601
 DTEND;VALUE=DATE:20390602
 SUMMARY:Dashnyam (auspicious)
 DESCRIPTION:First summer month\, Yellow Snake month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2039-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20390606
-DTEND;VALUE=DATE:20390607
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15\nFirst summer month\, Yellow Snake month\nCycle 17
- \, Year 53\, Yellow Sheep
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -8498,17 +7857,6 @@ DESCRIPTION:Last autumn month\, Blue Dog month
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-en-2039-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20391117
-DTEND;VALUE=DATE:20391118
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
-DESCRIPTION:Lunar day 1\nFirst winter month\, Blue Pig month\nCycle 17\, Ye
- ar 53\, Yellow Sheep
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-en-2039-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20391117
@@ -8614,16 +7962,6 @@ DTSTART;VALUE=DATE:20400211
 DTEND;VALUE=DATE:20400212
 SUMMARY:Modon khokhimoi (inauspicious)
 DESCRIPTION:Last winter month\, Red Ox month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2040-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20400213
-DTEND;VALUE=DATE:20400214
-SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Cycle 17\, Year 54\, White Monkey
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -8759,17 +8097,6 @@ DTSTART;VALUE=DATE:20400520
 DTEND;VALUE=DATE:20400521
 SUMMARY:Dashnyam (auspicious)
 DESCRIPTION:First summer month\, White Snake month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2040-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20400526
-DTEND;VALUE=DATE:20400527
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15\nFirst summer month\, White Snake month\nCycle 17\
- , Year 54\, White Monkey
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -8926,17 +8253,6 @@ DESCRIPTION:Last autumn month\, Red Dog month
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-en-2040-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20401105
-DTEND;VALUE=DATE:20401106
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
-DESCRIPTION:Lunar day 1\nFirst winter month\, Red Pig month\nCycle 17\, Yea
- r 54\, White Monkey
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-en-2040-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20401105
@@ -9042,16 +8358,6 @@ DTSTART;VALUE=DATE:20410131
 DTEND;VALUE=DATE:20410201
 SUMMARY:Modon khokhimoi (inauspicious)
 DESCRIPTION:Last winter month\, Yellow Ox month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2041-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20410202
-DTEND;VALUE=DATE:20410203
-SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Cycle 17\, Year 55\, White Bird
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -9187,17 +8493,6 @@ DTSTART;VALUE=DATE:20410608
 DTEND;VALUE=DATE:20410609
 SUMMARY:Dashnyam (auspicious)
 DESCRIPTION:First summer month\, Black Snake month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2041-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20410614
-DTEND;VALUE=DATE:20410615
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15\nFirst summer month\, Black Snake month\nCycle 17\
- , Year 55\, White Bird
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -9354,17 +8649,6 @@ DESCRIPTION:Last autumn month\, Yellow Dog month
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-en-2041-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20411124
-DTEND;VALUE=DATE:20411125
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
-DESCRIPTION:Lunar day 1\nFirst winter month\, Yellow Pig month\nCycle 17\, 
- Year 55\, White Bird
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-en-2041-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20411124
@@ -9461,16 +8745,6 @@ DTSTART;VALUE=DATE:20420219
 DTEND;VALUE=DATE:20420220
 SUMMARY:Modon khokhimoi (inauspicious)
 DESCRIPTION:Last winter month\, White Ox month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2042-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20420221
-DTEND;VALUE=DATE:20420222
-SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Cycle 17\, Year 56\, Black Dog
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -9606,17 +8880,6 @@ DTSTART;VALUE=DATE:20420528
 DTEND;VALUE=DATE:20420529
 SUMMARY:Dashnyam (auspicious)
 DESCRIPTION:First summer month\, Blue Snake month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2042-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20420603
-DTEND;VALUE=DATE:20420604
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15\nFirst summer month\, Blue Snake month\nCycle 17\,
-  Year 56\, Black Dog
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -9773,17 +9036,6 @@ DESCRIPTION:Last autumn month\, White Dog month
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-en-2042-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20421113
-DTEND;VALUE=DATE:20421114
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
-DESCRIPTION:Lunar day 1\nFirst winter month\, White Pig month\nCycle 17\, Y
- ear 56\, Black Dog
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-en-2042-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20421113
@@ -9889,16 +9141,6 @@ DTSTART;VALUE=DATE:20430208
 DTEND;VALUE=DATE:20430209
 SUMMARY:Modon khokhimoi (inauspicious)
 DESCRIPTION:Last winter month\, Black Ox month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2043-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20430210
-DTEND;VALUE=DATE:20430211
-SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Cycle 17\, Year 57\, Black Pig
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -10034,17 +9276,6 @@ DTSTART;VALUE=DATE:20430517
 DTEND;VALUE=DATE:20430518
 SUMMARY:Dashnyam (auspicious)
 DESCRIPTION:First summer month\, Red Snake month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2043-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20430523
-DTEND;VALUE=DATE:20430524
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15\nFirst summer month\, Red Snake month\nCycle 17\, 
- Year 57\, Black Pig
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -10201,17 +9432,6 @@ DESCRIPTION:Last autumn month\, Black Dog month
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-en-2043-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20431102
-DTEND;VALUE=DATE:20431103
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
-DESCRIPTION:Lunar day 1\nFirst winter month\, Black Pig month\nCycle 17\, Y
- ear 57\, Black Pig
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-en-2043-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20431102
@@ -10317,16 +9537,6 @@ DTSTART;VALUE=DATE:20440128
 DTEND;VALUE=DATE:20440129
 SUMMARY:Modon khokhimoi (inauspicious)
 DESCRIPTION:Last winter month (Leap)\, Blue Ox month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2044-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20440229
-DTEND;VALUE=DATE:20440301
-SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Cycle 17\, Year 58\, Blue Mouse
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -10462,17 +9672,6 @@ DTSTART;VALUE=DATE:20440604
 DTEND;VALUE=DATE:20440605
 SUMMARY:Dashnyam (auspicious)
 DESCRIPTION:First summer month\, Yellow Snake month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2044-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20440610
-DTEND;VALUE=DATE:20440611
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15\nFirst summer month\, Yellow Snake month\nCycle 17
- \, Year 58\, Blue Mouse
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -10629,17 +9828,6 @@ DESCRIPTION:Last autumn month\, Blue Dog month
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-en-2044-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20441120
-DTEND;VALUE=DATE:20441121
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
-DESCRIPTION:Lunar day 1\nFirst winter month\, Blue Pig month\nCycle 17\, Ye
- ar 58\, Blue Mouse
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-en-2044-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20441120
@@ -10745,16 +9933,6 @@ DTSTART;VALUE=DATE:20450215
 DTEND;VALUE=DATE:20450216
 SUMMARY:Modon khokhimoi (inauspicious)
 DESCRIPTION:Last winter month\, Red Ox month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2045-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20450217
-DTEND;VALUE=DATE:20450218
-SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Cycle 17\, Year 59\, Blue Ox
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -10890,17 +10068,6 @@ DTSTART;VALUE=DATE:20450525
 DTEND;VALUE=DATE:20450526
 SUMMARY:Dashnyam (auspicious)
 DESCRIPTION:First summer month\, White Snake month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2045-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20450530
-DTEND;VALUE=DATE:20450531
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15\nFirst summer month\, White Snake month\nCycle 17\
- , Year 59\, Blue Ox
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -11057,17 +10224,6 @@ DESCRIPTION:Last autumn month\, Red Dog month
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-en-2045-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20451109
-DTEND;VALUE=DATE:20451110
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
-DESCRIPTION:Lunar day 1\nFirst winter month\, Red Pig month\nCycle 17\, Yea
- r 59\, Blue Ox
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-en-2045-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20451109
@@ -11173,16 +10329,6 @@ DTSTART;VALUE=DATE:20460204
 DTEND;VALUE=DATE:20460205
 SUMMARY:Modon khokhimoi (inauspicious)
 DESCRIPTION:Last winter month\, Yellow Ox month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2046-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20460206
-DTEND;VALUE=DATE:20460207
-SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Cycle 17\, Year 60\, Red Tiger
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -11318,17 +10464,6 @@ DTSTART;VALUE=DATE:20460514
 DTEND;VALUE=DATE:20460515
 SUMMARY:Dashnyam (auspicious)
 DESCRIPTION:First summer month\, Black Snake month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2046-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20460520
-DTEND;VALUE=DATE:20460521
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15\nFirst summer month\, Black Snake month\nCycle 17\
- , Year 60\, Red Tiger
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -11485,17 +10620,6 @@ DESCRIPTION:Last autumn month\, Yellow Dog month
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-en-2046-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20461128
-DTEND;VALUE=DATE:20461129
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
-DESCRIPTION:Lunar day 1\nFirst winter month\, Yellow Pig month\nCycle 17\, 
- Year 60\, Red Tiger
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-en-2046-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20461128
@@ -11601,16 +10725,6 @@ DTSTART;VALUE=DATE:20470223
 DTEND;VALUE=DATE:20470224
 SUMMARY:Modon khokhimoi (inauspicious)
 DESCRIPTION:Last winter month\, White Ox month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2047-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20470225
-DTEND;VALUE=DATE:20470226
-SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Cycle 18\, Year 1\, Red Rabbit
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -11746,17 +10860,6 @@ DTSTART;VALUE=DATE:20470602
 DTEND;VALUE=DATE:20470603
 SUMMARY:Dashnyam (auspicious)
 DESCRIPTION:First summer month\, Blue Snake month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2047-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20470608
-DTEND;VALUE=DATE:20470609
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15\nFirst summer month\, Blue Snake month\nCycle 18\,
-  Year 1\, Red Rabbit
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -11913,17 +11016,6 @@ DESCRIPTION:Last autumn month\, White Dog month
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-en-2047-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20471118
-DTEND;VALUE=DATE:20471119
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
-DESCRIPTION:Lunar day 1\nFirst winter month\, White Pig month\nCycle 18\, Y
- ear 1\, Red Rabbit
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-en-2047-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20471118
@@ -12029,16 +11121,6 @@ DTSTART;VALUE=DATE:20480212
 DTEND;VALUE=DATE:20480213
 SUMMARY:Modon khokhimoi (inauspicious)
 DESCRIPTION:Last winter month\, Black Ox month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2048-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20480214
-DTEND;VALUE=DATE:20480215
-SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Cycle 18\, Year 2\, Yellow Dragon
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -12174,17 +11256,6 @@ DTSTART;VALUE=DATE:20480522
 DTEND;VALUE=DATE:20480523
 SUMMARY:Dashnyam (auspicious)
 DESCRIPTION:First summer month\, Red Snake month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2048-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20480527
-DTEND;VALUE=DATE:20480528
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15\nFirst summer month\, Red Snake month\nCycle 18\, 
- Year 2\, Yellow Dragon
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -12341,17 +11412,6 @@ DESCRIPTION:Last autumn month\, Black Dog month
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-en-2048-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20481107
-DTEND;VALUE=DATE:20481108
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
-DESCRIPTION:Lunar day 1\nFirst winter month\, Black Pig month\nCycle 18\, Y
- ear 2\, Yellow Dragon
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-en-2048-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20481107
@@ -12457,16 +11517,6 @@ DTSTART;VALUE=DATE:20490201
 DTEND;VALUE=DATE:20490202
 SUMMARY:Modon khokhimoi (inauspicious)
 DESCRIPTION:Last winter month\, Blue Ox month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2049-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20490203
-DTEND;VALUE=DATE:20490204
-SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Cycle 18\, Year 3\, Yellow Snake
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -12602,17 +11652,6 @@ DTSTART;VALUE=DATE:20490511
 DTEND;VALUE=DATE:20490512
 SUMMARY:Dashnyam (auspicious)
 DESCRIPTION:First summer month\, Yellow Snake month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2049-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20490517
-DTEND;VALUE=DATE:20490518
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15\nFirst summer month\, Yellow Snake month\nCycle 18
- \, Year 3\, Yellow Snake
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -12770,17 +11809,6 @@ DESCRIPTION:Last autumn month\, Blue Dog month
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-en-2049-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20491126
-DTEND;VALUE=DATE:20491127
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
-DESCRIPTION:Lunar day 1\nFirst winter month\, Blue Pig month\nCycle 18\, Ye
- ar 3\, Yellow Snake
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-en-2049-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20491126
@@ -12886,16 +11914,6 @@ DTSTART;VALUE=DATE:20500220
 DTEND;VALUE=DATE:20500221
 SUMMARY:Modon khokhimoi (inauspicious)
 DESCRIPTION:Last winter month\, Red Ox month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2050-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20500222
-DTEND;VALUE=DATE:20500223
-SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Cycle 18\, Year 4\, White Horse
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -13031,17 +12049,6 @@ DTSTART;VALUE=DATE:20500530
 DTEND;VALUE=DATE:20500531
 SUMMARY:Dashnyam (auspicious)
 DESCRIPTION:First summer month\, White Snake month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2050-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20500605
-DTEND;VALUE=DATE:20500606
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15\nFirst summer month\, White Snake month\nCycle 18\
- , Year 4\, White Horse
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -13195,17 +12202,6 @@ DTSTART;VALUE=DATE:20501031
 DTEND;VALUE=DATE:20501101
 SUMMARY:Tersüüd (inauspicious)
 DESCRIPTION:Last autumn month\, Red Dog month
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-en-2050-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20501115
-DTEND;VALUE=DATE:20501116
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
-DESCRIPTION:Lunar day 1\nFirst winter month\, Red Pig month\nCycle 18\, Yea
- r 4\, White Horse
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

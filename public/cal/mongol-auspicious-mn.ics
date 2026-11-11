@@ -4,13 +4,13 @@ PRODID:-//caltib//lunar day feeds//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Зурхайн онцлох өдрүүд
-X-WR-CALDESC:Baljinnyam\, Dashnyam\, Modon khokhimoi\, Tersüüd\, Tsagaan 
- Sar\, Ikh Düichen and Chinggis Khaan's birthday\, 2020–2050. https://ga
- ntemur.github.io/cal/
+X-WR-CALDESC:Baljinnyam\, Dashnyam\, Modon khokhimoi and Tersüüd\, 2020
+ –2050. Add-on to the Mongol lunar calendar feed. https://gantemur.github
+ .io/cal/
 NAME:Зурхайн онцлох өдрүүд
-DESCRIPTION:Baljinnyam\, Dashnyam\, Modon khokhimoi\, Tersüüd\, Tsagaan S
- ar\, Ikh Düichen and Chinggis Khaan's birthday\, 2020–2050. https://gan
- temur.github.io/cal/
+DESCRIPTION:Baljinnyam\, Dashnyam\, Modon khokhimoi and Tersüüd\, 2020–
+ 2050. Add-on to the Mongol lunar calendar feed. https://gantemur.github.io
+ /cal/
 URL:https://gantemur.github.io/cal/
 REFRESH-INTERVAL;VALUE=DURATION:P7D
 X-PUBLISHED-TTL:P7D
@@ -75,16 +75,6 @@ DTSTART;VALUE=DATE:20200222
 DTEND;VALUE=DATE:20200223
 SUMMARY:Модон хохимой
 DESCRIPTION:Өвлийн сүүл улаагчин үхэр сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2020-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20200224
-DTEND;VALUE=DATE:20200225
-SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 34 он цагаан хулгана жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -211,17 +201,6 @@ DTSTART;VALUE=DATE:20200531
 DTEND;VALUE=DATE:20200601
 SUMMARY:Дашням
 DESCRIPTION:Зуны эхэн цагаагчин могой сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2020-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20200605
-DTEND;VALUE=DATE:20200606
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн цагаагчин мого
- й сар\n17-р жарны 34 он цагаан хулгана жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -378,18 +357,6 @@ DESCRIPTION:Намрын сүүл улаан нохой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2020-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20201116
-DTEND;VALUE=DATE:20201117
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн улаагчин гаха
- й сар\n17-р жарны 34 он цагаан хулгана жил
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-mn-2020-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20201116
@@ -495,16 +462,6 @@ DTSTART;VALUE=DATE:20210210
 DTEND;VALUE=DATE:20210211
 SUMMARY:Модон хохимой
 DESCRIPTION:Өвлийн сүүл шарагчин үхэр сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2021-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20210212
-DTEND;VALUE=DATE:20210213
-SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 35 он цагаагчин үхэр жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -640,17 +597,6 @@ DTSTART;VALUE=DATE:20210521
 DTEND;VALUE=DATE:20210522
 SUMMARY:Дашням
 DESCRIPTION:Зуны эхэн харагчин могой сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2021-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20210526
-DTEND;VALUE=DATE:20210527
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн харагчин могой 
- сар\n17-р жарны 35 он цагаагчин үхэр жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -799,18 +745,6 @@ DESCRIPTION:Намрын сүүл шар нохой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2021-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20211105
-DTEND;VALUE=DATE:20211106
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн шарагчин гаха
- й сар\n17-р жарны 35 он цагаагчин үхэр жил
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-mn-2021-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20211105
@@ -916,16 +850,6 @@ DTSTART;VALUE=DATE:20220131
 DTEND;VALUE=DATE:20220201
 SUMMARY:Модон хохимой
 DESCRIPTION:Өвлийн сүүл цагаагчин үхэр сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2022-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20220202
-DTEND;VALUE=DATE:20220203
-SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 36 он хар бар жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1061,17 +985,6 @@ DTSTART;VALUE=DATE:20220510
 DTEND;VALUE=DATE:20220511
 SUMMARY:Дашням
 DESCRIPTION:Зуны эхэн (илүү) хөхөгчин могой сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2022-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20220614
-DTEND;VALUE=DATE:20220615
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн хөхөгчин могой 
- сар\n17-р жарны 36 он хар бар жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1228,18 +1141,6 @@ DESCRIPTION:Намрын сүүл цагаан нохой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2022-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20221124
-DTEND;VALUE=DATE:20221125
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн цагаагчин гах
- ай сар\n17-р жарны 36 он хар бар жил
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-mn-2022-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20221124
@@ -1345,16 +1246,6 @@ DTSTART;VALUE=DATE:20230219
 DTEND;VALUE=DATE:20230220
 SUMMARY:Модон хохимой
 DESCRIPTION:Өвлийн сүүл харагчин үхэр сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2023-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20230221
-DTEND;VALUE=DATE:20230222
-SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 37 он харагчин туулай жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1490,17 +1381,6 @@ DTSTART;VALUE=DATE:20230529
 DTEND;VALUE=DATE:20230530
 SUMMARY:Дашням
 DESCRIPTION:Зуны эхэн улаагчин могой сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2023-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20230604
-DTEND;VALUE=DATE:20230605
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн улаагчин могой 
- сар\n17-р жарны 37 он харагчин туулай жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1657,18 +1537,6 @@ DESCRIPTION:Намрын сүүл хар нохой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2023-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20231114
-DTEND;VALUE=DATE:20231115
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн харагчин гаха
- й сар\n17-р жарны 37 он харагчин туулай жил
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-mn-2023-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20231114
@@ -1774,16 +1642,6 @@ DTSTART;VALUE=DATE:20240209
 DTEND;VALUE=DATE:20240210
 SUMMARY:Модон хохимой
 DESCRIPTION:Өвлийн сүүл хөхөгчин үхэр сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2024-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20240210
-DTEND;VALUE=DATE:20240211
-SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 38 он хөх луу жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1919,17 +1777,6 @@ DTSTART;VALUE=DATE:20240517
 DTEND;VALUE=DATE:20240518
 SUMMARY:Дашням
 DESCRIPTION:Зуны эхэн шарагчин могой сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2024-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20240523
-DTEND;VALUE=DATE:20240524
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн шарагчин могой 
- сар\n17-р жарны 38 он хөх луу жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2086,18 +1933,6 @@ DESCRIPTION:Намрын сүүл хөх нохой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2024-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20241102
-DTEND;VALUE=DATE:20241103
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн хөхөгчин гаха
- й сар\n17-р жарны 38 он хөх луу жил
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-mn-2024-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20241102
@@ -2216,16 +2051,6 @@ DTSTART;VALUE=DATE:20250301
 DTEND;VALUE=DATE:20250302
 SUMMARY:Балжинням
 DESCRIPTION:Хаврын тэргүүн шар барс сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2025-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20250301
-DTEND;VALUE=DATE:20250302
-SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 39 он хөхөгчин могой жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2352,17 +2177,6 @@ DTSTART;VALUE=DATE:20250604
 DTEND;VALUE=DATE:20250605
 SUMMARY:Дашням
 DESCRIPTION:Зуны эхэн цагаагчин могой сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2025-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20250611
-DTEND;VALUE=DATE:20250612
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн цагаагчин мого
- й сар\n17-р жарны 39 он хөхөгчин могой жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2519,18 +2333,6 @@ DESCRIPTION:Намрын сүүл улаан нохой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2025-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20251121
-DTEND;VALUE=DATE:20251122
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн улаагчин гаха
- й сар\n17-р жарны 39 он хөхөгчин могой жил
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-mn-2025-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20251121
@@ -2636,16 +2438,6 @@ DTSTART;VALUE=DATE:20260216
 DTEND;VALUE=DATE:20260217
 SUMMARY:Модон хохимой
 DESCRIPTION:Өвлийн сүүл шарагчин үхэр сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2026-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20260218
-DTEND;VALUE=DATE:20260219
-SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 40 он улаан морин жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2781,17 +2573,6 @@ DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
 SUMMARY:Дашням
 DESCRIPTION:Зуны эхэн харагчин могой сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2026-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20260531
-DTEND;VALUE=DATE:20260601
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн харагчин могой 
- сар\n17-р жарны 40 он улаан морин жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2948,18 +2729,6 @@ DESCRIPTION:Намрын сүүл шар нохой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2026-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн шарагчин гаха
- й сар\n17-р жарны 40 он улаан морин жил
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-mn-2026-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261110
@@ -3065,16 +2834,6 @@ DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Модон хохимой
 DESCRIPTION:Өвлийн сүүл цагаагчин үхэр сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2027-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20270207
-DTEND;VALUE=DATE:20270208
-SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 41 он улаагчин хонин жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3210,17 +2969,6 @@ DTSTART;VALUE=DATE:20270514
 DTEND;VALUE=DATE:20270515
 SUMMARY:Дашням
 DESCRIPTION:Зуны эхэн хөхөгчин могой сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2027-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20270520
-DTEND;VALUE=DATE:20270521
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн хөхөгчин могой 
- сар\n17-р жарны 41 он улаагчин хонин жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3377,18 +3125,6 @@ DESCRIPTION:Намрын сүүл (илүү) цагаан нохой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2027-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20271129
-DTEND;VALUE=DATE:20271130
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн цагаагчин гах
- ай сар\n17-р жарны 41 он улаагчин хонин жил
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-mn-2027-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20271129
@@ -3494,16 +3230,6 @@ DTSTART;VALUE=DATE:20280224
 DTEND;VALUE=DATE:20280225
 SUMMARY:Модон хохимой
 DESCRIPTION:Өвлийн сүүл харагчин үхэр сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2028-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20280226
-DTEND;VALUE=DATE:20280227
-SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 42 он шар бичин жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3639,17 +3365,6 @@ DTSTART;VALUE=DATE:20280601
 DTEND;VALUE=DATE:20280602
 SUMMARY:Дашням
 DESCRIPTION:Зуны эхэн улаагчин могой сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2028-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20280607
-DTEND;VALUE=DATE:20280608
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн улаагчин могой 
- сар\n17-р жарны 42 он шар бичин жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3806,18 +3521,6 @@ DESCRIPTION:Намрын сүүл хар нохой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2028-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20281117
-DTEND;VALUE=DATE:20281118
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн харагчин гаха
- й сар\n17-р жарны 42 он шар бичин жил
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-mn-2028-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20281117
@@ -3923,16 +3626,6 @@ DTSTART;VALUE=DATE:20290212
 DTEND;VALUE=DATE:20290213
 SUMMARY:Модон хохимой
 DESCRIPTION:Өвлийн сүүл хөхөгчин үхэр сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2029-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20290214
-DTEND;VALUE=DATE:20290215
-SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 43 он шарагчин тахиа жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4059,17 +3752,6 @@ DTSTART;VALUE=DATE:20290522
 DTEND;VALUE=DATE:20290523
 SUMMARY:Дашням
 DESCRIPTION:Зуны эхэн шарагчин могой сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2029-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20290527
-DTEND;VALUE=DATE:20290528
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн шарагчин могой 
- сар\n17-р жарны 43 он шарагчин тахиа жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4226,18 +3908,6 @@ DESCRIPTION:Намрын сүүл хөх нохой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2029-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20291107
-DTEND;VALUE=DATE:20291108
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн хөхөгчин гаха
- й сар\n17-р жарны 43 он шарагчин тахиа жил
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-mn-2029-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20291107
@@ -4343,16 +4013,6 @@ DTSTART;VALUE=DATE:20300201
 DTEND;VALUE=DATE:20300202
 SUMMARY:Модон хохимой
 DESCRIPTION:Өвлийн сүүл улаагчин үхэр сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2030-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20300203
-DTEND;VALUE=DATE:20300204
-SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 44 он цагаан нохой жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4488,17 +4148,6 @@ DTSTART;VALUE=DATE:20300511
 DTEND;VALUE=DATE:20300512
 SUMMARY:Дашням
 DESCRIPTION:Зуны эхэн цагаагчин могой сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2030-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20300517
-DTEND;VALUE=DATE:20300518
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн цагаагчин мого
- й сар\n17-р жарны 44 он цагаан нохой жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4656,18 +4305,6 @@ DESCRIPTION:Намрын сүүл улаан нохой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2030-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20301126
-DTEND;VALUE=DATE:20301127
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн улаагчин гаха
- й сар\n17-р жарны 44 он цагаан нохой жил
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-mn-2030-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20301126
@@ -4773,16 +4410,6 @@ DTSTART;VALUE=DATE:20310220
 DTEND;VALUE=DATE:20310221
 SUMMARY:Модон хохимой
 DESCRIPTION:Өвлийн сүүл шарагчин үхэр сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2031-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20310222
-DTEND;VALUE=DATE:20310223
-SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 45 он цагаагчин гахай жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4918,17 +4545,6 @@ DTSTART;VALUE=DATE:20310530
 DTEND;VALUE=DATE:20310531
 SUMMARY:Дашням
 DESCRIPTION:Зуны эхэн харагчин могой сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2031-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20310605
-DTEND;VALUE=DATE:20310606
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн харагчин могой 
- сар\n17-р жарны 45 он цагаагчин гахай жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5085,18 +4701,6 @@ DESCRIPTION:Намрын сүүл шар нохой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2031-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20311115
-DTEND;VALUE=DATE:20311116
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн шарагчин гаха
- й сар\n17-р жарны 45 он цагаагчин гахай жил
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-mn-2031-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20311115
@@ -5202,16 +4806,6 @@ DTSTART;VALUE=DATE:20320210
 DTEND;VALUE=DATE:20320211
 SUMMARY:Модон хохимой
 DESCRIPTION:Өвлийн сүүл цагаагчин үхэр сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2032-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20320212
-DTEND;VALUE=DATE:20320213
-SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 46 он хар хулгана жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5347,17 +4941,6 @@ DTSTART;VALUE=DATE:20320518
 DTEND;VALUE=DATE:20320519
 SUMMARY:Дашням
 DESCRIPTION:Зуны эхэн хөхөгчин могой сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2032-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20320525
-DTEND;VALUE=DATE:20320526
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн хөхөгчин могой 
- сар\n17-р жарны 46 он хар хулгана жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5514,18 +5097,6 @@ DESCRIPTION:Намрын сүүл цагаан нохой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2032-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20321104
-DTEND;VALUE=DATE:20321105
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн цагаагчин гах
- ай сар\n17-р жарны 46 он хар хулгана жил
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-mn-2032-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20321104
@@ -5631,16 +5202,6 @@ DTSTART;VALUE=DATE:20330129
 DTEND;VALUE=DATE:20330130
 SUMMARY:Модон хохимой
 DESCRIPTION:Өвлийн сүүл харагчин үхэр сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2033-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20330131
-DTEND;VALUE=DATE:20330201
-SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 47 он харагчин үхэр жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5780,17 +5341,6 @@ DTSTART;VALUE=DATE:20330606
 DTEND;VALUE=DATE:20330607
 SUMMARY:Дашням
 DESCRIPTION:Зуны эхэн улаагчин могой сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2033-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20330612
-DTEND;VALUE=DATE:20330613
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн улаагчин могой 
- сар\n17-р жарны 47 он харагчин үхэр жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5947,18 +5497,6 @@ DESCRIPTION:Намрын сүүл хар нохой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2033-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20331122
-DTEND;VALUE=DATE:20331123
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн харагчин гаха
- й сар\n17-р жарны 47 он харагчин үхэр жил
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-mn-2033-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20331122
@@ -6064,16 +5602,6 @@ DTSTART;VALUE=DATE:20340217
 DTEND;VALUE=DATE:20340218
 SUMMARY:Модон хохимой
 DESCRIPTION:Өвлийн сүүл хөхөгчин үхэр сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2034-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20340219
-DTEND;VALUE=DATE:20340220
-SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 48 он хөх бар жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6209,29 +5737,6 @@ DTSTART;VALUE=DATE:20340526
 DTEND;VALUE=DATE:20340527
 SUMMARY:Дашням
 DESCRIPTION:Зуны эхэн шарагчин могой сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2034-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20340601
-DTEND;VALUE=DATE:20340602
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн шарагчин могой 
- сар\n17-р жарны 48 он хөх бар жил
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2034-04-ikh_duichen-r@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20340602
-DTEND;VALUE=DATE:20340603
-SUMMARY:Бурхан багшийн Их дүйчин өдөр (давха
- р)
-DESCRIPTION:Шинийн 15\nЗуны эхэн шарагчин могой 
- сар\n17-р жарны 48 он хөх бар жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6388,18 +5893,6 @@ DESCRIPTION:Намрын сүүл хөх нохой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2034-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20341111
-DTEND;VALUE=DATE:20341112
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн хөхөгчин гаха
- й сар\n17-р жарны 48 он хөх бар жил
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-mn-2034-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20341111
@@ -6505,16 +5998,6 @@ DTSTART;VALUE=DATE:20350207
 DTEND;VALUE=DATE:20350208
 SUMMARY:Модон хохимой
 DESCRIPTION:Өвлийн сүүл улаагчин үхэр сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2035-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20350209
-DTEND;VALUE=DATE:20350210
-SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 49 он хөхөгчин туулай жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6650,17 +6133,6 @@ DTSTART;VALUE=DATE:20350516
 DTEND;VALUE=DATE:20350517
 SUMMARY:Дашням
 DESCRIPTION:Зуны эхэн цагаагчин могой сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2035-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20350522
-DTEND;VALUE=DATE:20350523
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн цагаагчин мого
- й сар\n17-р жарны 49 он хөхөгчин туулай жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6849,18 +6321,6 @@ DESCRIPTION:Өвлийн эхэн (илүү) улаагчин гахай с
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2035-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20351130
-DTEND;VALUE=DATE:20351201
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн улаагчин гаха
- й сар\n17-р жарны 49 он хөхөгчин туулай жил
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-mn-2035-11-baljinnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20351230
@@ -6930,16 +6390,6 @@ DTSTART;VALUE=DATE:20360225
 DTEND;VALUE=DATE:20360226
 SUMMARY:Модон хохимой
 DESCRIPTION:Өвлийн сүүл шарагчин үхэр сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2036-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20360228
-DTEND;VALUE=DATE:20360229
-SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 50 он улаан луу жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -7075,17 +6525,6 @@ DTSTART;VALUE=DATE:20360603
 DTEND;VALUE=DATE:20360604
 SUMMARY:Дашням
 DESCRIPTION:Зуны эхэн харагчин могой сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2036-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20360608
-DTEND;VALUE=DATE:20360609
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн харагчин могой 
- сар\n17-р жарны 50 он улаан луу жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -7242,18 +6681,6 @@ DESCRIPTION:Намрын сүүл шар нохой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2036-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20361118
-DTEND;VALUE=DATE:20361119
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн шарагчин гаха
- й сар\n17-р жарны 50 он улаан луу жил
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-mn-2036-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20361118
@@ -7359,16 +6786,6 @@ DTSTART;VALUE=DATE:20370213
 DTEND;VALUE=DATE:20370214
 SUMMARY:Модон хохимой
 DESCRIPTION:Өвлийн сүүл цагаагчин үхэр сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2037-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20370216
-DTEND;VALUE=DATE:20370217
-SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 51 он улаагчин могой жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -7504,17 +6921,6 @@ DTSTART;VALUE=DATE:20370523
 DTEND;VALUE=DATE:20370524
 SUMMARY:Дашням
 DESCRIPTION:Зуны эхэн хөхөгчин могой сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2037-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20370529
-DTEND;VALUE=DATE:20370530
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн хөхөгчин могой 
- сар\n17-р жарны 51 он улаагчин могой жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -7671,18 +7077,6 @@ DESCRIPTION:Намрын сүүл цагаан нохой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2037-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20371108
-DTEND;VALUE=DATE:20371109
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн цагаагчин гах
- ай сар\n17-р жарны 51 он улаагчин могой жил
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-mn-2037-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20371108
@@ -7788,16 +7182,6 @@ DTSTART;VALUE=DATE:20380203
 DTEND;VALUE=DATE:20380204
 SUMMARY:Модон хохимой
 DESCRIPTION:Өвлийн сүүл харагчин үхэр сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2038-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20380205
-DTEND;VALUE=DATE:20380206
-SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 52 он шар морин жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -7933,17 +7317,6 @@ DTSTART;VALUE=DATE:20380513
 DTEND;VALUE=DATE:20380514
 SUMMARY:Дашням
 DESCRIPTION:Зуны эхэн улаагчин могой сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2038-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20380518
-DTEND;VALUE=DATE:20380519
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн улаагчин могой 
- сар\n17-р жарны 52 он шар морин жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -8100,18 +7473,6 @@ DESCRIPTION:Намрын сүүл хар нохой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2038-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20381127
-DTEND;VALUE=DATE:20381128
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн харагчин гаха
- й сар\n17-р жарны 52 он шар морин жил
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-mn-2038-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20381127
@@ -8217,16 +7578,6 @@ DTSTART;VALUE=DATE:20390222
 DTEND;VALUE=DATE:20390223
 SUMMARY:Модон хохимой
 DESCRIPTION:Өвлийн сүүл хөхөгчин үхэр сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2039-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20390224
-DTEND;VALUE=DATE:20390225
-SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 53 он шарагчин хонин жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -8362,17 +7713,6 @@ DTSTART;VALUE=DATE:20390601
 DTEND;VALUE=DATE:20390602
 SUMMARY:Дашням
 DESCRIPTION:Зуны эхэн шарагчин могой сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2039-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20390606
-DTEND;VALUE=DATE:20390607
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн шарагчин могой 
- сар\n17-р жарны 53 он шарагчин хонин жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -8529,18 +7869,6 @@ DESCRIPTION:Намрын сүүл хөх нохой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2039-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20391117
-DTEND;VALUE=DATE:20391118
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн хөхөгчин гаха
- й сар\n17-р жарны 53 он шарагчин хонин жил
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-mn-2039-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20391117
@@ -8646,16 +7974,6 @@ DTSTART;VALUE=DATE:20400211
 DTEND;VALUE=DATE:20400212
 SUMMARY:Модон хохимой
 DESCRIPTION:Өвлийн сүүл улаагчин үхэр сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2040-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20400213
-DTEND;VALUE=DATE:20400214
-SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 54 он цагаан бичин жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -8791,17 +8109,6 @@ DTSTART;VALUE=DATE:20400520
 DTEND;VALUE=DATE:20400521
 SUMMARY:Дашням
 DESCRIPTION:Зуны эхэн цагаагчин могой сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2040-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20400526
-DTEND;VALUE=DATE:20400527
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн цагаагчин мого
- й сар\n17-р жарны 54 он цагаан бичин жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -8958,18 +8265,6 @@ DESCRIPTION:Намрын сүүл улаан нохой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2040-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20401105
-DTEND;VALUE=DATE:20401106
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн улаагчин гаха
- й сар\n17-р жарны 54 он цагаан бичин жил
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-mn-2040-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20401105
@@ -9075,16 +8370,6 @@ DTSTART;VALUE=DATE:20410131
 DTEND;VALUE=DATE:20410201
 SUMMARY:Модон хохимой
 DESCRIPTION:Өвлийн сүүл шарагчин үхэр сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2041-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20410202
-DTEND;VALUE=DATE:20410203
-SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 55 он цагаагчин тахиа жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -9220,17 +8505,6 @@ DTSTART;VALUE=DATE:20410608
 DTEND;VALUE=DATE:20410609
 SUMMARY:Дашням
 DESCRIPTION:Зуны эхэн харагчин могой сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2041-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20410614
-DTEND;VALUE=DATE:20410615
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн харагчин могой 
- сар\n17-р жарны 55 он цагаагчин тахиа жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -9387,18 +8661,6 @@ DESCRIPTION:Намрын сүүл шар нохой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2041-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20411124
-DTEND;VALUE=DATE:20411125
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн шарагчин гаха
- й сар\n17-р жарны 55 он цагаагчин тахиа жил
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-mn-2041-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20411124
@@ -9495,16 +8757,6 @@ DTSTART;VALUE=DATE:20420219
 DTEND;VALUE=DATE:20420220
 SUMMARY:Модон хохимой
 DESCRIPTION:Өвлийн сүүл цагаагчин үхэр сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2042-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20420221
-DTEND;VALUE=DATE:20420222
-SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 56 он хар нохой жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -9640,17 +8892,6 @@ DTSTART;VALUE=DATE:20420528
 DTEND;VALUE=DATE:20420529
 SUMMARY:Дашням
 DESCRIPTION:Зуны эхэн хөхөгчин могой сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2042-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20420603
-DTEND;VALUE=DATE:20420604
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн хөхөгчин могой 
- сар\n17-р жарны 56 он хар нохой жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -9807,18 +9048,6 @@ DESCRIPTION:Намрын сүүл цагаан нохой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2042-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20421113
-DTEND;VALUE=DATE:20421114
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн цагаагчин гах
- ай сар\n17-р жарны 56 он хар нохой жил
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-mn-2042-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20421113
@@ -9924,16 +9153,6 @@ DTSTART;VALUE=DATE:20430208
 DTEND;VALUE=DATE:20430209
 SUMMARY:Модон хохимой
 DESCRIPTION:Өвлийн сүүл харагчин үхэр сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2043-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20430210
-DTEND;VALUE=DATE:20430211
-SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 57 он харагчин гахай жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -10069,17 +9288,6 @@ DTSTART;VALUE=DATE:20430517
 DTEND;VALUE=DATE:20430518
 SUMMARY:Дашням
 DESCRIPTION:Зуны эхэн улаагчин могой сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2043-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20430523
-DTEND;VALUE=DATE:20430524
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн улаагчин могой 
- сар\n17-р жарны 57 он харагчин гахай жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -10236,18 +9444,6 @@ DESCRIPTION:Намрын сүүл хар нохой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2043-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20431102
-DTEND;VALUE=DATE:20431103
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн харагчин гаха
- й сар\n17-р жарны 57 он харагчин гахай жил
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-mn-2043-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20431102
@@ -10357,16 +9553,6 @@ DTEND;VALUE=DATE:20440129
 SUMMARY:Модон хохимой
 DESCRIPTION:Өвлийн сүүл (илүү) хөхөгчин үхэр са
  р
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2044-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20440229
-DTEND;VALUE=DATE:20440301
-SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 58 он хөх хулгана жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -10502,17 +9688,6 @@ DTSTART;VALUE=DATE:20440604
 DTEND;VALUE=DATE:20440605
 SUMMARY:Дашням
 DESCRIPTION:Зуны эхэн шарагчин могой сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2044-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20440610
-DTEND;VALUE=DATE:20440611
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн шарагчин могой 
- сар\n17-р жарны 58 он хөх хулгана жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -10669,18 +9844,6 @@ DESCRIPTION:Намрын сүүл хөх нохой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2044-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20441120
-DTEND;VALUE=DATE:20441121
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн хөхөгчин гаха
- й сар\n17-р жарны 58 он хөх хулгана жил
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-mn-2044-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20441120
@@ -10786,16 +9949,6 @@ DTSTART;VALUE=DATE:20450215
 DTEND;VALUE=DATE:20450216
 SUMMARY:Модон хохимой
 DESCRIPTION:Өвлийн сүүл улаагчин үхэр сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2045-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20450217
-DTEND;VALUE=DATE:20450218
-SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 59 он хөхөгчин үхэр жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -10931,17 +10084,6 @@ DTSTART;VALUE=DATE:20450525
 DTEND;VALUE=DATE:20450526
 SUMMARY:Дашням
 DESCRIPTION:Зуны эхэн цагаагчин могой сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2045-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20450530
-DTEND;VALUE=DATE:20450531
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн цагаагчин мого
- й сар\n17-р жарны 59 он хөхөгчин үхэр жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -11098,18 +10240,6 @@ DESCRIPTION:Намрын сүүл улаан нохой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2045-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20451109
-DTEND;VALUE=DATE:20451110
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн улаагчин гаха
- й сар\n17-р жарны 59 он хөхөгчин үхэр жил
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-mn-2045-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20451109
@@ -11215,16 +10345,6 @@ DTSTART;VALUE=DATE:20460204
 DTEND;VALUE=DATE:20460205
 SUMMARY:Модон хохимой
 DESCRIPTION:Өвлийн сүүл шарагчин үхэр сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2046-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20460206
-DTEND;VALUE=DATE:20460207
-SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 60 он улаан бар жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -11360,17 +10480,6 @@ DTSTART;VALUE=DATE:20460514
 DTEND;VALUE=DATE:20460515
 SUMMARY:Дашням
 DESCRIPTION:Зуны эхэн харагчин могой сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2046-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20460520
-DTEND;VALUE=DATE:20460521
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн харагчин могой 
- сар\n17-р жарны 60 он улаан бар жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -11530,18 +10639,6 @@ DESCRIPTION:Намрын сүүл шар нохой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2046-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20461128
-DTEND;VALUE=DATE:20461129
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн шарагчин гаха
- й сар\n17-р жарны 60 он улаан бар жил
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-mn-2046-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20461128
@@ -11647,16 +10744,6 @@ DTSTART;VALUE=DATE:20470223
 DTEND;VALUE=DATE:20470224
 SUMMARY:Модон хохимой
 DESCRIPTION:Өвлийн сүүл цагаагчин үхэр сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2047-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20470225
-DTEND;VALUE=DATE:20470226
-SUMMARY:Цагаан сар
-DESCRIPTION:18-р жарны 1 он улаагчин туулай жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -11792,17 +10879,6 @@ DTSTART;VALUE=DATE:20470602
 DTEND;VALUE=DATE:20470603
 SUMMARY:Дашням
 DESCRIPTION:Зуны эхэн хөхөгчин могой сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2047-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20470608
-DTEND;VALUE=DATE:20470609
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн хөхөгчин могой 
- сар\n18-р жарны 1 он улаагчин туулай жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -11959,18 +11035,6 @@ DESCRIPTION:Намрын сүүл цагаан нохой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2047-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20471118
-DTEND;VALUE=DATE:20471119
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн цагаагчин гах
- ай сар\n18-р жарны 1 он улаагчин туулай жил
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-mn-2047-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20471118
@@ -12076,16 +11140,6 @@ DTSTART;VALUE=DATE:20480212
 DTEND;VALUE=DATE:20480213
 SUMMARY:Модон хохимой
 DESCRIPTION:Өвлийн сүүл харагчин үхэр сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2048-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20480214
-DTEND;VALUE=DATE:20480215
-SUMMARY:Цагаан сар
-DESCRIPTION:18-р жарны 2 он шар луу жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -12221,17 +11275,6 @@ DTSTART;VALUE=DATE:20480522
 DTEND;VALUE=DATE:20480523
 SUMMARY:Дашням
 DESCRIPTION:Зуны эхэн улаагчин могой сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2048-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20480527
-DTEND;VALUE=DATE:20480528
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн улаагчин могой 
- сар\n18-р жарны 2 он шар луу жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -12388,18 +11431,6 @@ DESCRIPTION:Намрын сүүл хар нохой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2048-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20481107
-DTEND;VALUE=DATE:20481108
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн харагчин гаха
- й сар\n18-р жарны 2 он шар луу жил
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-mn-2048-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20481107
@@ -12505,16 +11536,6 @@ DTSTART;VALUE=DATE:20490201
 DTEND;VALUE=DATE:20490202
 SUMMARY:Модон хохимой
 DESCRIPTION:Өвлийн сүүл хөхөгчин үхэр сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2049-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20490203
-DTEND;VALUE=DATE:20490204
-SUMMARY:Цагаан сар
-DESCRIPTION:18-р жарны 3 он шарагчин могой жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -12650,17 +11671,6 @@ DTSTART;VALUE=DATE:20490511
 DTEND;VALUE=DATE:20490512
 SUMMARY:Дашням
 DESCRIPTION:Зуны эхэн шарагчин могой сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2049-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20490517
-DTEND;VALUE=DATE:20490518
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн шарагчин могой 
- сар\n18-р жарны 3 он шарагчин могой жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -12818,18 +11828,6 @@ DESCRIPTION:Намрын сүүл хөх нохой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2049-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20491126
-DTEND;VALUE=DATE:20491127
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн хөхөгчин гаха
- й сар\n18-р жарны 3 он шарагчин могой жил
-CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-auspicious-mn-2049-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20491126
@@ -12935,16 +11933,6 @@ DTSTART;VALUE=DATE:20500220
 DTEND;VALUE=DATE:20500221
 SUMMARY:Модон хохимой
 DESCRIPTION:Өвлийн сүүл улаагчин үхэр сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2050-01-tsagaan_sar@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20500222
-DTEND;VALUE=DATE:20500223
-SUMMARY:Цагаан сар
-DESCRIPTION:18-р жарны 4 он цагаан морин жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -13080,17 +12068,6 @@ DTSTART;VALUE=DATE:20500530
 DTEND;VALUE=DATE:20500531
 SUMMARY:Дашням
 DESCRIPTION:Зуны эхэн цагаагчин могой сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2050-04-ikh_duichen@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20500605
-DTEND;VALUE=DATE:20500606
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн цагаагчин мого
- й сар\n18-р жарны 4 он цагаан морин жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -13244,18 +12221,6 @@ DTSTART;VALUE=DATE:20501031
 DTEND;VALUE=DATE:20501101
 SUMMARY:Тэрсүүд
 DESCRIPTION:Намрын сүүл улаан нохой сар
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-auspicious-mn-2050-10-chinggis@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20501115
-DTEND;VALUE=DATE:20501116
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн улаагчин гаха
- й сар\n18-р жарны 4 он цагаан морин жил
-CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
