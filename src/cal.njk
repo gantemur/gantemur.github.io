@@ -1,6 +1,7 @@
 ---
-layout: layouts/base.njk
-title: Lunar calendar feeds
+layout: layouts/standalone.njk
+title: Билгийн тооллын хуанли · Lunar calendar feeds
+description: Subscribable Mongol, Tibetan and Bhutanese lunar calendars for Apple, Google and Outlook calendar apps.
 language: mn
 permalink: /cal/
 langnames:
@@ -72,6 +73,8 @@ feeds:
   .lang-switch { font-size: 0.95rem; white-space: nowrap; padding-top: 0.6rem; }
   .lang-switch a { text-decoration: none; }
   .cal-note { font-size: 0.95rem; color: var(--muted, #555); }
+  .cal-footer { text-align: center; font-size: 0.85rem; color: var(--muted, #555); margin-top: 3rem; padding-top: 1.2rem; border-top: 1px solid var(--line, #ddd); }
+  .cal-footer a { font-weight: bold; text-decoration: none; }
   .cal-native { font-weight: normal; font-size: 1rem; margin-left: 0.5rem; color: var(--muted, #555); }
   html:not(.ui-en) .lang-switch [data-set="mn"],
   html.ui-en .lang-switch [data-set="en"] { font-weight: bold; text-decoration: underline; }
@@ -124,7 +127,7 @@ feeds:
       <li><strong>Google хуанли:</strong> компьютер дээрээ <em>Google</em> дээр дарж баталгаажуулна. Дараа нь Android болон iPhone дээрх Google Calendar аппд мөн гарч ирнэ (харагдахгүй бол аппын тохиргооноос асаана).</li>
       <li><strong>Outlook болон бусад:</strong> <em>.ics файл</em> холбоосын хаягийг хуулж, "Subscribe from web" эсвэл "Add calendar from URL" хэсэгт оруулна.</li>
     </ul>
-    <p class="meta">Захиалсан хуанли автоматаар шинэчлэгдэнэ; Google шинэчлэлтийг харуулахад нэг өдөр хүртэл болж магадгүй. .ics файлыг татаж импортлоход нэг удаагийн хуулбар болох тул цаашид шинэчлэгдэхгүй.</p>
+    <p class="cal-note">Захиалсан хуанли автоматаар шинэчлэгдэнэ; Google шинэчлэлтийг харуулахад нэг өдөр хүртэл болж магадгүй. .ics файлыг татаж импортлоход нэг удаагийн хуулбар болох тул цаашид шинэчлэгдэхгүй.</p>
   </section>
   <section class="rule-section l-en">
     <h2>How to subscribe</h2>
@@ -133,7 +136,7 @@ feeds:
       <li><strong>Google Calendar:</strong> click <em>Google</em> on a computer and confirm. The calendar then also appears in the Google Calendar app on Android and iPhone (enable it under the app's settings if hidden).</li>
       <li><strong>Outlook and other apps:</strong> copy the address of the <em>.ics file</em> link and use "Subscribe from web" or "Add calendar from URL".</li>
     </ul>
-    <p class="meta">Subscribed calendars refresh automatically; Google may take a day to show updates. Downloading and importing the .ics file instead gives a one-time copy that does not update.</p>
+    <p class="cal-note">Subscribed calendars refresh automatically; Google may take a day to show updates. Downloading and importing the .ics file instead gives a one-time copy that does not update.</p>
   </section>
 
   <section class="rule-section l-mn">
@@ -155,6 +158,12 @@ feeds:
     </ul>
   </section>
 </div>
+
+<footer class="cal-footer">
+  <span class="l-mn">Тооцоолол: <a href="https://gantemur.github.io/caltib/">caltib</a> — Зохиосон: Цогтгэрэлийн Гантөмөр</span>
+  <span class="l-en">Powered by <a href="https://gantemur.github.io/caltib/">caltib</a> — Designed by Tsogtgerel Gantumur</span>
+  &middot; &copy; 2026
+</footer>
 
 <script>
   for (const a of document.querySelectorAll(".feed-apple")) {

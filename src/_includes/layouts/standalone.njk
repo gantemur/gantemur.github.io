@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="{{ language or 'en' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ title }}</title>
+    <meta name="description" content="{{ description or title }}">
+    <link rel="stylesheet" href="/assets/site.css">
+  </head>
+  <body>
+    <main id="main" class="wrap page">
+      {{ content | safe }}
+    </main>
+  </body>
+</html>
