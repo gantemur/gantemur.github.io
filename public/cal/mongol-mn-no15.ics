@@ -26,17 +26,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200223
 DTEND;VALUE=DATE:20200224
 SUMMARY:Битүүн
+DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
+ сүүл улаагчин үхэр сар\n17-р жарны 33 он шар
+ агчин гахай жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2020-01-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20200224
-DTEND;VALUE=DATE:20200225
-SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн шар барс сар\n17-р жа
- рны 34 он цагаан хулгана жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -45,7 +38,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200224
 DTEND;VALUE=DATE:20200225
 SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 34 он цагаан хулгана жил
+DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн шар барс сар\n17-р жарны 34 он ца
+ гаан хулгана жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -95,8 +90,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200605
 DTEND;VALUE=DATE:20200606
 SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн цагаагчин мого
- й сар\n17-р жарны 34 он цагаан хулгана жил
+DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
+ цагаагчин могой сар\n17-р жарны 34 он цагаа
+ н хулгана жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -157,19 +153,10 @@ DTSTART;VALUE=DATE:20201116
 DTEND;VALUE=DATE:20201117
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
  гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн улаагчин гаха
- й сар\n17-р жарны 34 он цагаан хулгана жил
+DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
+ хэн улаагчин гахай сар\n17-р жарны 34 он цаг
+ аан хулгана жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2020-10-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20201116
-DTEND;VALUE=DATE:20201117
-SUMMARY:Шинийн 1 · Өвлийн эхэн сар
-DESCRIPTION:Өвлийн эхэн улаагчин гахай сар\n17-р
-  жарны 34 он цагаан хулгана жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -198,17 +185,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210211
 DTEND;VALUE=DATE:20210212
 SUMMARY:Битүүн
+DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
+ сүүл шарагчин үхэр сар\n17-р жарны 34 он цаг
+ аан хулгана жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2021-01-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20210212
-DTEND;VALUE=DATE:20210213
-SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн цагаан барс сар\n17-р
-  жарны 35 он цагаагчин үхэр жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -217,7 +197,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210212
 DTEND;VALUE=DATE:20210213
 SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 35 он цагаагчин үхэр жил
+DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн цагаан барс сар\n17-р жарны 35 он
+  цагаагчин үхэр жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -257,8 +239,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210526
 DTEND;VALUE=DATE:20210527
 SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн харагчин могой 
- сар\n17-р жарны 35 он цагаагчин үхэр жил
+DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
+ харагчин могой сар\n17-р жарны 35 он цагааг
+ чин үхэр жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -330,19 +313,10 @@ DTSTART;VALUE=DATE:20211105
 DTEND;VALUE=DATE:20211106
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
  гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн шарагчин гаха
- й сар\n17-р жарны 35 он цагаагчин үхэр жил
+DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
+ хэн шарагчин гахай сар\n17-р жарны 35 он цаг
+ аагчин үхэр жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2021-10-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20211105
-DTEND;VALUE=DATE:20211106
-SUMMARY:Шинийн 1 · Өвлийн эхэн сар
-DESCRIPTION:Өвлийн эхэн шарагчин гахай сар\n17-р
-  жарны 35 он цагаагчин үхэр жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -371,17 +345,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220201
 DTEND;VALUE=DATE:20220202
 SUMMARY:Битүүн
+DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
+ сүүл цагаагчин үхэр сар\n17-р жарны 35 он ца
+ гаагчин үхэр жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2022-01-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20220202
-DTEND;VALUE=DATE:20220203
-SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн хар барс сар\n17-р жа
- рны 36 он хар бар жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -390,7 +357,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220202
 DTEND;VALUE=DATE:20220203
 SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 36 он хар бар жил
+DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн хар барс сар\n17-р жарны 36 он ха
+ р бар жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -440,8 +409,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220614
 DTEND;VALUE=DATE:20220615
 SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн хөхөгчин могой 
- сар\n17-р жарны 36 он хар бар жил
+DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
+ хөхөгчин могой сар\n17-р жарны 36 он хар бар
+  жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -502,19 +472,10 @@ DTSTART;VALUE=DATE:20221124
 DTEND;VALUE=DATE:20221125
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
  гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн цагаагчин гах
- ай сар\n17-р жарны 36 он хар бар жил
+DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
+ хэн цагаагчин гахай сар\n17-р жарны 36 он ха
+ р бар жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2022-10-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20221124
-DTEND;VALUE=DATE:20221125
-SUMMARY:Шинийн 1 · Өвлийн эхэн сар
-DESCRIPTION:Өвлийн эхэн цагаагчин гахай сар\n17-
- р жарны 36 он хар бар жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -543,17 +504,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230220
 DTEND;VALUE=DATE:20230221
 SUMMARY:Битүүн
+DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
+ сүүл харагчин үхэр сар\n17-р жарны 36 он хар
+  бар жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2023-01-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20230221
-DTEND;VALUE=DATE:20230222
-SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн хөх барс сар\n17-р жа
- рны 37 он харагчин туулай жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -562,7 +516,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230221
 DTEND;VALUE=DATE:20230222
 SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 37 он харагчин туулай жил
+DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн хөх барс сар\n17-р жарны 37 он ха
+ рагчин туулай жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -602,8 +558,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230604
 DTEND;VALUE=DATE:20230605
 SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн улаагчин могой 
- сар\n17-р жарны 37 он харагчин туулай жил
+DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
+ улаагчин могой сар\n17-р жарны 37 он харагч
+ ин туулай жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -674,19 +631,10 @@ DTSTART;VALUE=DATE:20231114
 DTEND;VALUE=DATE:20231115
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
  гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн харагчин гаха
- й сар\n17-р жарны 37 он харагчин туулай жил
+DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
+ хэн харагчин гахай сар\n17-р жарны 37 он хар
+ агчин туулай жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2023-10-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20231114
-DTEND;VALUE=DATE:20231115
-SUMMARY:Шинийн 1 · Өвлийн эхэн сар
-DESCRIPTION:Өвлийн эхэн харагчин гахай сар\n17-р
-  жарны 37 он харагчин туулай жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -715,17 +663,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240209
 DTEND;VALUE=DATE:20240210
 SUMMARY:Битүүн
+DESCRIPTION:Шинийн 29 · Өвлийн сүүл сар\nӨвлийн 
+ сүүл хөхөгчин үхэр сар\n17-р жарны 37 он хар
+ агчин туулай жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2024-01-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20240210
-DTEND;VALUE=DATE:20240211
-SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн улаан барс сар\n17-р 
- жарны 38 он хөх луу жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -734,7 +675,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240210
 DTEND;VALUE=DATE:20240211
 SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 38 он хөх луу жил
+DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн улаан барс сар\n17-р жарны 38 он 
+ хөх луу жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -774,8 +717,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240523
 DTEND;VALUE=DATE:20240524
 SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн шарагчин могой 
- сар\n17-р жарны 38 он хөх луу жил
+DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
+ шарагчин могой сар\n17-р жарны 38 он хөх луу
+  жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -836,19 +780,10 @@ DTSTART;VALUE=DATE:20241102
 DTEND;VALUE=DATE:20241103
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
  гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн хөхөгчин гаха
- й сар\n17-р жарны 38 он хөх луу жил
+DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
+ хэн хөхөгчин гахай сар\n17-р жарны 38 он хөх
+  луу жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2024-10-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20241102
-DTEND;VALUE=DATE:20241103
-SUMMARY:Шинийн 1 · Өвлийн эхэн сар
-DESCRIPTION:Өвлийн эхэн хөхөгчин гахай сар\n17-р
-  жарны 38 он хөх луу жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -887,18 +822,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250228
 DTEND;VALUE=DATE:20250301
 SUMMARY:Битүүн
+DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
+ сүүл улаагчин үхэр сар\n17-р жарны 38 он хөх
+  луу жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2025-01-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20250301
-DTEND;VALUE=DATE:20250302
-SUMMARY:Шинийн 2 · Хаврын тэргүүн сар (шинийн 
- 1 тасарсан)
-DESCRIPTION:Хаврын тэргүүн шар барс сар\n17-р жа
- рны 39 он хөхөгчин могой жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -907,7 +834,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250301
 DTEND;VALUE=DATE:20250302
 SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 39 он хөхөгчин могой жил
+DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар (шини
+ йн 1 тасарсан)\nХаврын тэргүүн шар барс са
+ р\n17-р жарны 39 он хөхөгчин могой жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -947,8 +876,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250611
 DTEND;VALUE=DATE:20250612
 SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн цагаагчин мого
- й сар\n17-р жарны 39 он хөхөгчин могой жил
+DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
+ цагаагчин могой сар\n17-р жарны 39 он хөхөг
+ чин могой жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1009,19 +939,10 @@ DTSTART;VALUE=DATE:20251121
 DTEND;VALUE=DATE:20251122
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
  гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн улаагчин гаха
- й сар\n17-р жарны 39 он хөхөгчин могой жил
+DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
+ хэн улаагчин гахай сар\n17-р жарны 39 он хөх
+ өгчин могой жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2025-10-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20251121
-DTEND;VALUE=DATE:20251122
-SUMMARY:Шинийн 1 · Өвлийн эхэн сар
-DESCRIPTION:Өвлийн эхэн улаагчин гахай сар\n17-р
-  жарны 39 он хөхөгчин могой жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1050,17 +971,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260217
 DTEND;VALUE=DATE:20260218
 SUMMARY:Битүүн
+DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
+ сүүл шарагчин үхэр сар\n17-р жарны 39 он хөх
+ өгчин могой жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2026-01-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20260218
-DTEND;VALUE=DATE:20260219
-SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн цагаан барс сар\n17-р
-  жарны 40 он улаан морин жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1069,7 +983,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260218
 DTEND;VALUE=DATE:20260219
 SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 40 он улаан морин жил
+DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн цагаан барс сар\n17-р жарны 40 он
+  улаан морин жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1110,8 +1026,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260601
 SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн харагчин могой 
- сар\n17-р жарны 40 он улаан морин жил
+DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
+ харагчин могой сар\n17-р жарны 40 он улаан м
+ орин жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1172,19 +1089,10 @@ DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
  гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн шарагчин гаха
- й сар\n17-р жарны 40 он улаан морин жил
+DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
+ хэн шарагчин гахай сар\n17-р жарны 40 он ула
+ ан морин жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2026-10-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:Шинийн 1 · Өвлийн эхэн сар
-DESCRIPTION:Өвлийн эхэн шарагчин гахай сар\n17-р
-  жарны 40 он улаан морин жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1213,17 +1121,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Битүүн
+DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
+ сүүл цагаагчин үхэр сар\n17-р жарны 40 он ул
+ аан морин жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2027-01-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20270207
-DTEND;VALUE=DATE:20270208
-SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн хар барс сар\n17-р жа
- рны 41 он улаагчин хонин жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1232,7 +1133,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 41 он улаагчин хонин жил
+DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн хар барс сар\n17-р жарны 41 он ул
+ аагчин хонин жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1272,8 +1175,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
 SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн хөхөгчин могой 
- сар\n17-р жарны 41 он улаагчин хонин жил
+DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
+ хөхөгчин могой сар\n17-р жарны 41 он улаагч
+ ин хонин жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1345,19 +1249,10 @@ DTSTART;VALUE=DATE:20271129
 DTEND;VALUE=DATE:20271130
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
  гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн цагаагчин гах
- ай сар\n17-р жарны 41 он улаагчин хонин жил
+DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
+ хэн цагаагчин гахай сар\n17-р жарны 41 он ул
+ аагчин хонин жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2027-10-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20271129
-DTEND;VALUE=DATE:20271130
-SUMMARY:Шинийн 1 · Өвлийн эхэн сар
-DESCRIPTION:Өвлийн эхэн цагаагчин гахай сар\n17-
- р жарны 41 он улаагчин хонин жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1386,17 +1281,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280225
 DTEND;VALUE=DATE:20280226
 SUMMARY:Битүүн
+DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
+ сүүл харагчин үхэр сар\n17-р жарны 41 он ула
+ агчин хонин жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2028-01-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20280226
-DTEND;VALUE=DATE:20280227
-SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн хөх барс сар\n17-р жа
- рны 42 он шар бичин жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1405,7 +1293,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280226
 DTEND;VALUE=DATE:20280227
 SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 42 он шар бичин жил
+DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн хөх барс сар\n17-р жарны 42 он ша
+ р бичин жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1445,8 +1335,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280607
 DTEND;VALUE=DATE:20280608
 SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн улаагчин могой 
- сар\n17-р жарны 42 он шар бичин жил
+DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
+ улаагчин могой сар\n17-р жарны 42 он шар бич
+ ин жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1508,19 +1399,10 @@ DTSTART;VALUE=DATE:20281117
 DTEND;VALUE=DATE:20281118
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
  гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн харагчин гаха
- й сар\n17-р жарны 42 он шар бичин жил
+DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
+ хэн харагчин гахай сар\n17-р жарны 42 он шар
+  бичин жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2028-10-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20281117
-DTEND;VALUE=DATE:20281118
-SUMMARY:Шинийн 1 · Өвлийн эхэн сар
-DESCRIPTION:Өвлийн эхэн харагчин гахай сар\n17-р
-  жарны 42 он шар бичин жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1549,17 +1431,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290213
 DTEND;VALUE=DATE:20290214
 SUMMARY:Битүүн
+DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
+ сүүл хөхөгчин үхэр сар\n17-р жарны 42 он шар
+  бичин жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2029-01-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20290214
-DTEND;VALUE=DATE:20290215
-SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн улаан барс сар\n17-р 
- жарны 43 он шарагчин тахиа жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1568,7 +1443,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290214
 DTEND;VALUE=DATE:20290215
 SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 43 он шарагчин тахиа жил
+DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн улаан барс сар\n17-р жарны 43 он 
+ шарагчин тахиа жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1608,8 +1485,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290527
 DTEND;VALUE=DATE:20290528
 SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн шарагчин могой 
- сар\n17-р жарны 43 он шарагчин тахиа жил
+DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
+ шарагчин могой сар\n17-р жарны 43 он шарагч
+ ин тахиа жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1670,19 +1548,10 @@ DTSTART;VALUE=DATE:20291107
 DTEND;VALUE=DATE:20291108
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
  гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн хөхөгчин гаха
- й сар\n17-р жарны 43 он шарагчин тахиа жил
+DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
+ хэн хөхөгчин гахай сар\n17-р жарны 43 он шар
+ агчин тахиа жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2029-10-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20291107
-DTEND;VALUE=DATE:20291108
-SUMMARY:Шинийн 1 · Өвлийн эхэн сар
-DESCRIPTION:Өвлийн эхэн хөхөгчин гахай сар\n17-р
-  жарны 43 он шарагчин тахиа жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1712,17 +1581,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300202
 DTEND;VALUE=DATE:20300203
 SUMMARY:Битүүн
+DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
+ сүүл улаагчин үхэр сар\n17-р жарны 43 он шар
+ агчин тахиа жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2030-01-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20300203
-DTEND;VALUE=DATE:20300204
-SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн шар барс сар\n17-р жа
- рны 44 он цагаан нохой жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1731,7 +1593,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300203
 DTEND;VALUE=DATE:20300204
 SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 44 он цагаан нохой жил
+DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн шар барс сар\n17-р жарны 44 он ца
+ гаан нохой жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1771,8 +1635,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300517
 DTEND;VALUE=DATE:20300518
 SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн цагаагчин мого
- й сар\n17-р жарны 44 он цагаан нохой жил
+DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
+ цагаагчин могой сар\n17-р жарны 44 он цагаа
+ н нохой жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1843,19 +1708,10 @@ DTSTART;VALUE=DATE:20301126
 DTEND;VALUE=DATE:20301127
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
  гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн улаагчин гаха
- й сар\n17-р жарны 44 он цагаан нохой жил
+DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
+ хэн улаагчин гахай сар\n17-р жарны 44 он цаг
+ аан нохой жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2030-10-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20301126
-DTEND;VALUE=DATE:20301127
-SUMMARY:Шинийн 1 · Өвлийн эхэн сар
-DESCRIPTION:Өвлийн эхэн улаагчин гахай сар\n17-р
-  жарны 44 он цагаан нохой жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1884,17 +1740,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310221
 DTEND;VALUE=DATE:20310222
 SUMMARY:Битүүн
+DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
+ сүүл шарагчин үхэр сар\n17-р жарны 44 он цаг
+ аан нохой жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2031-01-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20310222
-DTEND;VALUE=DATE:20310223
-SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн цагаан барс сар\n17-р
-  жарны 45 он цагаагчин гахай жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1903,7 +1752,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310222
 DTEND;VALUE=DATE:20310223
 SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 45 он цагаагчин гахай жил
+DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн цагаан барс сар\n17-р жарны 45 он
+  цагаагчин гахай жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1943,8 +1794,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310605
 DTEND;VALUE=DATE:20310606
 SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн харагчин могой 
- сар\n17-р жарны 45 он цагаагчин гахай жил
+DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
+ харагчин могой сар\n17-р жарны 45 он цагааг
+ чин гахай жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2005,19 +1857,10 @@ DTSTART;VALUE=DATE:20311115
 DTEND;VALUE=DATE:20311116
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
  гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн шарагчин гаха
- й сар\n17-р жарны 45 он цагаагчин гахай жил
+DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
+ хэн шарагчин гахай сар\n17-р жарны 45 он цаг
+ аагчин гахай жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2031-10-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20311115
-DTEND;VALUE=DATE:20311116
-SUMMARY:Шинийн 1 · Өвлийн эхэн сар
-DESCRIPTION:Өвлийн эхэн шарагчин гахай сар\n17-р
-  жарны 45 он цагаагчин гахай жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2046,17 +1889,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320211
 DTEND;VALUE=DATE:20320212
 SUMMARY:Битүүн
+DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
+ сүүл цагаагчин үхэр сар\n17-р жарны 45 он ца
+ гаагчин гахай жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2032-01-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20320212
-DTEND;VALUE=DATE:20320213
-SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн хар барс сар\n17-р жа
- рны 46 он хар хулгана жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2065,7 +1901,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320212
 DTEND;VALUE=DATE:20320213
 SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 46 он хар хулгана жил
+DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн хар барс сар\n17-р жарны 46 он ха
+ р хулгана жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2105,8 +1943,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320525
 DTEND;VALUE=DATE:20320526
 SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн хөхөгчин могой 
- сар\n17-р жарны 46 он хар хулгана жил
+DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
+ хөхөгчин могой сар\n17-р жарны 46 он хар хул
+ гана жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2167,19 +2006,10 @@ DTSTART;VALUE=DATE:20321104
 DTEND;VALUE=DATE:20321105
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
  гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн цагаагчин гах
- ай сар\n17-р жарны 46 он хар хулгана жил
+DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
+ хэн цагаагчин гахай сар\n17-р жарны 46 он ха
+ р хулгана жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2032-10-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20321104
-DTEND;VALUE=DATE:20321105
-SUMMARY:Шинийн 1 · Өвлийн эхэн сар
-DESCRIPTION:Өвлийн эхэн цагаагчин гахай сар\n17-
- р жарны 46 он хар хулгана жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2208,17 +2038,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330130
 DTEND;VALUE=DATE:20330131
 SUMMARY:Битүүн
+DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
+ сүүл харагчин үхэр сар\n17-р жарны 46 он хар
+  хулгана жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2033-01-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20330131
-DTEND;VALUE=DATE:20330201
-SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн хөх барс сар\n17-р жа
- рны 47 он харагчин үхэр жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2227,7 +2050,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330131
 DTEND;VALUE=DATE:20330201
 SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 47 он харагчин үхэр жил
+DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн хөх барс сар\n17-р жарны 47 он ха
+ рагчин үхэр жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2277,8 +2102,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330612
 DTEND;VALUE=DATE:20330613
 SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн улаагчин могой 
- сар\n17-р жарны 47 он харагчин үхэр жил
+DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
+ улаагчин могой сар\n17-р жарны 47 он харагч
+ ин үхэр жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2339,19 +2165,10 @@ DTSTART;VALUE=DATE:20331122
 DTEND;VALUE=DATE:20331123
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
  гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн харагчин гаха
- й сар\n17-р жарны 47 он харагчин үхэр жил
+DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
+ хэн харагчин гахай сар\n17-р жарны 47 он хар
+ агчин үхэр жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2033-10-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20331122
-DTEND;VALUE=DATE:20331123
-SUMMARY:Шинийн 1 · Өвлийн эхэн сар
-DESCRIPTION:Өвлийн эхэн харагчин гахай сар\n17-р
-  жарны 47 он харагчин үхэр жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2380,17 +2197,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340218
 DTEND;VALUE=DATE:20340219
 SUMMARY:Битүүн
+DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
+ сүүл хөхөгчин үхэр сар\n17-р жарны 47 он хар
+ агчин үхэр жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2034-01-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20340219
-DTEND;VALUE=DATE:20340220
-SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн улаан барс сар\n17-р 
- жарны 48 он хөх бар жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2399,7 +2209,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340219
 DTEND;VALUE=DATE:20340220
 SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 48 он хөх бар жил
+DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн улаан барс сар\n17-р жарны 48 он 
+ хөх бар жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2439,8 +2251,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340601
 DTEND;VALUE=DATE:20340602
 SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн шарагчин могой 
- сар\n17-р жарны 48 он хөх бар жил
+DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
+ шарагчин могой сар\n17-р жарны 48 он хөх бар
+  жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2451,8 +2264,9 @@ DTSTART;VALUE=DATE:20340602
 DTEND;VALUE=DATE:20340603
 SUMMARY:Бурхан багшийн Их дүйчин өдөр (давха
  р)
-DESCRIPTION:Шинийн 15\nЗуны эхэн шарагчин могой 
- сар\n17-р жарны 48 он хөх бар жил
+DESCRIPTION:Шинийн 15 (давхар) · Зуны эхэн сар\nЗ
+ уны эхэн шарагчин могой сар\n17-р жарны 48 о
+ н хөх бар жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2513,19 +2327,10 @@ DTSTART;VALUE=DATE:20341111
 DTEND;VALUE=DATE:20341112
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
  гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн хөхөгчин гаха
- й сар\n17-р жарны 48 он хөх бар жил
+DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
+ хэн хөхөгчин гахай сар\n17-р жарны 48 он хөх
+  бар жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2034-10-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20341111
-DTEND;VALUE=DATE:20341112
-SUMMARY:Шинийн 1 · Өвлийн эхэн сар
-DESCRIPTION:Өвлийн эхэн хөхөгчин гахай сар\n17-р
-  жарны 48 он хөх бар жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2554,17 +2359,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350208
 DTEND;VALUE=DATE:20350209
 SUMMARY:Битүүн
+DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
+ сүүл улаагчин үхэр сар\n17-р жарны 48 он хөх
+  бар жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2035-01-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20350209
-DTEND;VALUE=DATE:20350210
-SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн шар барс сар\n17-р жа
- рны 49 он хөхөгчин туулай жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2573,7 +2371,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350209
 DTEND;VALUE=DATE:20350210
 SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 49 он хөхөгчин туулай жил
+DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн шар барс сар\n17-р жарны 49 он хө
+ хөгчин туулай жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2613,8 +2413,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350522
 DTEND;VALUE=DATE:20350523
 SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн цагаагчин мого
- й сар\n17-р жарны 49 он хөхөгчин туулай жил
+DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
+ цагаагчин могой сар\n17-р жарны 49 он хөхөг
+ чин туулай жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2686,19 +2487,10 @@ DTSTART;VALUE=DATE:20351130
 DTEND;VALUE=DATE:20351201
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
  гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн улаагчин гаха
- й сар\n17-р жарны 49 он хөхөгчин туулай жил
+DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
+ хэн улаагчин гахай сар\n17-р жарны 49 он хөх
+ өгчин туулай жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2035-10-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20351130
-DTEND;VALUE=DATE:20351201
-SUMMARY:Шинийн 1 · Өвлийн эхэн сар
-DESCRIPTION:Өвлийн эхэн улаагчин гахай сар\n17-р
-  жарны 49 он хөхөгчин туулай жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2727,17 +2519,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360227
 DTEND;VALUE=DATE:20360228
 SUMMARY:Битүүн
+DESCRIPTION:Шинийн 30 (давхар) · Өвлийн сүүл сар\
+ nӨвлийн сүүл шарагчин үхэр сар\n17-р жарны 
+ 49 он хөхөгчин туулай жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2036-01-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20360228
-DTEND;VALUE=DATE:20360229
-SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн цагаан барс сар\n17-р
-  жарны 50 он улаан луу жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2746,7 +2531,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360228
 DTEND;VALUE=DATE:20360229
 SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 50 он улаан луу жил
+DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн цагаан барс сар\n17-р жарны 50 он
+  улаан луу жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2786,8 +2573,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360608
 DTEND;VALUE=DATE:20360609
 SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн харагчин могой 
- сар\n17-р жарны 50 он улаан луу жил
+DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
+ харагчин могой сар\n17-р жарны 50 он улаан л
+ уу жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2849,19 +2637,10 @@ DTSTART;VALUE=DATE:20361118
 DTEND;VALUE=DATE:20361119
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
  гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн шарагчин гаха
- й сар\n17-р жарны 50 он улаан луу жил
+DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
+ хэн шарагчин гахай сар\n17-р жарны 50 он ула
+ ан луу жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2036-10-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20361118
-DTEND;VALUE=DATE:20361119
-SUMMARY:Шинийн 1 · Өвлийн эхэн сар
-DESCRIPTION:Өвлийн эхэн шарагчин гахай сар\n17-р
-  жарны 50 он улаан луу жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2890,17 +2669,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370215
 DTEND;VALUE=DATE:20370216
 SUMMARY:Битүүн
+DESCRIPTION:Шинийн 30 (давхар) · Өвлийн сүүл сар\
+ nӨвлийн сүүл цагаагчин үхэр сар\n17-р жарн
+ ы 50 он улаан луу жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2037-01-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20370216
-DTEND;VALUE=DATE:20370217
-SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн хар барс сар\n17-р жа
- рны 51 он улаагчин могой жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2909,7 +2681,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370216
 DTEND;VALUE=DATE:20370217
 SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 51 он улаагчин могой жил
+DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн хар барс сар\n17-р жарны 51 он ул
+ аагчин могой жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2949,8 +2723,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370529
 DTEND;VALUE=DATE:20370530
 SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн хөхөгчин могой 
- сар\n17-р жарны 51 он улаагчин могой жил
+DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
+ хөхөгчин могой сар\n17-р жарны 51 он улаагч
+ ин могой жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3012,19 +2787,10 @@ DTSTART;VALUE=DATE:20371108
 DTEND;VALUE=DATE:20371109
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
  гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн цагаагчин гах
- ай сар\n17-р жарны 51 он улаагчин могой жил
+DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
+ хэн цагаагчин гахай сар\n17-р жарны 51 он ул
+ аагчин могой жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2037-10-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20371108
-DTEND;VALUE=DATE:20371109
-SUMMARY:Шинийн 1 · Өвлийн эхэн сар
-DESCRIPTION:Өвлийн эхэн цагаагчин гахай сар\n17-
- р жарны 51 он улаагчин могой жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3053,17 +2819,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380204
 DTEND;VALUE=DATE:20380205
 SUMMARY:Битүүн
+DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
+ сүүл харагчин үхэр сар\n17-р жарны 51 он ула
+ агчин могой жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2038-01-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20380205
-DTEND;VALUE=DATE:20380206
-SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн хөх барс сар\n17-р жа
- рны 52 он шар морин жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3072,7 +2831,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380205
 DTEND;VALUE=DATE:20380206
 SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 52 он шар морин жил
+DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн хөх барс сар\n17-р жарны 52 он ша
+ р морин жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3112,8 +2873,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380518
 DTEND;VALUE=DATE:20380519
 SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн улаагчин могой 
- сар\n17-р жарны 52 он шар морин жил
+DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
+ улаагчин могой сар\n17-р жарны 52 он шар мор
+ ин жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3185,19 +2947,10 @@ DTSTART;VALUE=DATE:20381127
 DTEND;VALUE=DATE:20381128
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
  гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн харагчин гаха
- й сар\n17-р жарны 52 он шар морин жил
+DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
+ хэн харагчин гахай сар\n17-р жарны 52 он шар
+  морин жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2038-10-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20381127
-DTEND;VALUE=DATE:20381128
-SUMMARY:Шинийн 1 · Өвлийн эхэн сар
-DESCRIPTION:Өвлийн эхэн харагчин гахай сар\n17-р
-  жарны 52 он шар морин жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3226,17 +2979,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390223
 DTEND;VALUE=DATE:20390224
 SUMMARY:Битүүн
+DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
+ сүүл хөхөгчин үхэр сар\n17-р жарны 52 он шар
+  морин жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2039-01-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20390224
-DTEND;VALUE=DATE:20390225
-SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн улаан барс сар\n17-р 
- жарны 53 он шарагчин хонин жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3245,7 +2991,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390224
 DTEND;VALUE=DATE:20390225
 SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 53 он шарагчин хонин жил
+DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн улаан барс сар\n17-р жарны 53 он 
+ шарагчин хонин жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3285,8 +3033,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390606
 DTEND;VALUE=DATE:20390607
 SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн шарагчин могой 
- сар\n17-р жарны 53 он шарагчин хонин жил
+DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
+ шарагчин могой сар\n17-р жарны 53 он шарагч
+ ин хонин жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3347,19 +3096,10 @@ DTSTART;VALUE=DATE:20391117
 DTEND;VALUE=DATE:20391118
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
  гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн хөхөгчин гаха
- й сар\n17-р жарны 53 он шарагчин хонин жил
+DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
+ хэн хөхөгчин гахай сар\n17-р жарны 53 он шар
+ агчин хонин жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2039-10-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20391117
-DTEND;VALUE=DATE:20391118
-SUMMARY:Шинийн 1 · Өвлийн эхэн сар
-DESCRIPTION:Өвлийн эхэн хөхөгчин гахай сар\n17-р
-  жарны 53 он шарагчин хонин жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3389,17 +3129,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400212
 DTEND;VALUE=DATE:20400213
 SUMMARY:Битүүн
+DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
+ сүүл улаагчин үхэр сар\n17-р жарны 53 он шар
+ агчин хонин жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2040-01-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20400213
-DTEND;VALUE=DATE:20400214
-SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн шар барс сар\n17-р жа
- рны 54 он цагаан бичин жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3408,7 +3141,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400213
 DTEND;VALUE=DATE:20400214
 SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 54 он цагаан бичин жил
+DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн шар барс сар\n17-р жарны 54 он ца
+ гаан бичин жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3449,8 +3184,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400526
 DTEND;VALUE=DATE:20400527
 SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн цагаагчин мого
- й сар\n17-р жарны 54 он цагаан бичин жил
+DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
+ цагаагчин могой сар\n17-р жарны 54 он цагаа
+ н бичин жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3511,19 +3247,10 @@ DTSTART;VALUE=DATE:20401105
 DTEND;VALUE=DATE:20401106
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
  гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн улаагчин гаха
- й сар\n17-р жарны 54 он цагаан бичин жил
+DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
+ хэн улаагчин гахай сар\n17-р жарны 54 он цаг
+ аан бичин жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2040-10-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20401105
-DTEND;VALUE=DATE:20401106
-SUMMARY:Шинийн 1 · Өвлийн эхэн сар
-DESCRIPTION:Өвлийн эхэн улаагчин гахай сар\n17-р
-  жарны 54 он цагаан бичин жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3552,17 +3279,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410201
 DTEND;VALUE=DATE:20410202
 SUMMARY:Битүүн
+DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
+ сүүл шарагчин үхэр сар\n17-р жарны 54 он цаг
+ аан бичин жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2041-01-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20410202
-DTEND;VALUE=DATE:20410203
-SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн цагаан барс сар\n17-р
-  жарны 55 он цагаагчин тахиа жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3571,7 +3291,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410202
 DTEND;VALUE=DATE:20410203
 SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 55 он цагаагчин тахиа жил
+DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн цагаан барс сар\n17-р жарны 55 он
+  цагаагчин тахиа жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3622,8 +3344,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410614
 DTEND;VALUE=DATE:20410615
 SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн харагчин могой 
- сар\n17-р жарны 55 он цагаагчин тахиа жил
+DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
+ харагчин могой сар\n17-р жарны 55 он цагааг
+ чин тахиа жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3694,19 +3417,10 @@ DTSTART;VALUE=DATE:20411124
 DTEND;VALUE=DATE:20411125
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
  гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн шарагчин гаха
- й сар\n17-р жарны 55 он цагаагчин тахиа жил
+DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
+ хэн шарагчин гахай сар\n17-р жарны 55 он цаг
+ аагчин тахиа жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2041-10-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20411124
-DTEND;VALUE=DATE:20411125
-SUMMARY:Шинийн 1 · Өвлийн эхэн сар
-DESCRIPTION:Өвлийн эхэн шарагчин гахай сар\n17-р
-  жарны 55 он цагаагчин тахиа жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3735,17 +3449,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420220
 DTEND;VALUE=DATE:20420221
 SUMMARY:Битүүн
+DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
+ сүүл цагаагчин үхэр сар\n17-р жарны 55 он ца
+ гаагчин тахиа жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2042-01-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20420221
-DTEND;VALUE=DATE:20420222
-SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн хар барс сар\n17-р жа
- рны 56 он хар нохой жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3754,7 +3461,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420221
 DTEND;VALUE=DATE:20420222
 SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 56 он хар нохой жил
+DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн хар барс сар\n17-р жарны 56 он ха
+ р нохой жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3794,8 +3503,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420603
 DTEND;VALUE=DATE:20420604
 SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн хөхөгчин могой 
- сар\n17-р жарны 56 он хар нохой жил
+DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
+ хөхөгчин могой сар\n17-р жарны 56 он хар нох
+ ой жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3866,19 +3576,10 @@ DTSTART;VALUE=DATE:20421113
 DTEND;VALUE=DATE:20421114
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
  гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн цагаагчин гах
- ай сар\n17-р жарны 56 он хар нохой жил
+DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
+ хэн цагаагчин гахай сар\n17-р жарны 56 он ха
+ р нохой жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2042-10-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20421113
-DTEND;VALUE=DATE:20421114
-SUMMARY:Шинийн 1 · Өвлийн эхэн сар
-DESCRIPTION:Өвлийн эхэн цагаагчин гахай сар\n17-
- р жарны 56 он хар нохой жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3907,17 +3608,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430209
 DTEND;VALUE=DATE:20430210
 SUMMARY:Битүүн
+DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
+ сүүл харагчин үхэр сар\n17-р жарны 56 он хар
+  нохой жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2043-01-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20430210
-DTEND;VALUE=DATE:20430211
-SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн хөх барс сар\n17-р жа
- рны 57 он харагчин гахай жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3926,7 +3620,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430210
 DTEND;VALUE=DATE:20430211
 SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 57 он харагчин гахай жил
+DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн хөх барс сар\n17-р жарны 57 он ха
+ рагчин гахай жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3966,8 +3662,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430523
 DTEND;VALUE=DATE:20430524
 SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн улаагчин могой 
- сар\n17-р жарны 57 он харагчин гахай жил
+DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
+ улаагчин могой сар\n17-р жарны 57 он харагч
+ ин гахай жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4028,19 +3725,10 @@ DTSTART;VALUE=DATE:20431102
 DTEND;VALUE=DATE:20431103
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
  гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн харагчин гаха
- й сар\n17-р жарны 57 он харагчин гахай жил
+DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
+ хэн харагчин гахай сар\n17-р жарны 57 он хар
+ агчин гахай жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2043-10-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20431102
-DTEND;VALUE=DATE:20431103
-SUMMARY:Шинийн 1 · Өвлийн эхэн сар
-DESCRIPTION:Өвлийн эхэн харагчин гахай сар\n17-р
-  жарны 57 он харагчин гахай жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4079,17 +3767,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440228
 DTEND;VALUE=DATE:20440229
 SUMMARY:Битүүн
+DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
+ сүүл хөхөгчин үхэр сар\n17-р жарны 57 он хар
+ агчин гахай жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2044-01-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20440229
-DTEND;VALUE=DATE:20440301
-SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн улаан барс сар\n17-р 
- жарны 58 он хөх хулгана жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4098,7 +3779,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440229
 DTEND;VALUE=DATE:20440301
 SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 58 он хөх хулгана жил
+DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн улаан барс сар\n17-р жарны 58 он 
+ хөх хулгана жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4138,8 +3821,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440610
 DTEND;VALUE=DATE:20440611
 SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн шарагчин могой 
- сар\n17-р жарны 58 он хөх хулгана жил
+DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
+ шарагчин могой сар\n17-р жарны 58 он хөх хул
+ гана жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4201,19 +3885,10 @@ DTSTART;VALUE=DATE:20441120
 DTEND;VALUE=DATE:20441121
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
  гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн хөхөгчин гаха
- й сар\n17-р жарны 58 он хөх хулгана жил
+DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
+ хэн хөхөгчин гахай сар\n17-р жарны 58 он хөх
+  хулгана жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2044-10-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20441120
-DTEND;VALUE=DATE:20441121
-SUMMARY:Шинийн 1 · Өвлийн эхэн сар
-DESCRIPTION:Өвлийн эхэн хөхөгчин гахай сар\n17-р
-  жарны 58 он хөх хулгана жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4242,17 +3917,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450216
 DTEND;VALUE=DATE:20450217
 SUMMARY:Битүүн
+DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
+ сүүл улаагчин үхэр сар\n17-р жарны 58 он хөх
+  хулгана жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2045-01-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20450217
-DTEND;VALUE=DATE:20450218
-SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн шар барс сар\n17-р жа
- рны 59 он хөхөгчин үхэр жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4261,7 +3929,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450217
 DTEND;VALUE=DATE:20450218
 SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 59 он хөхөгчин үхэр жил
+DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн шар барс сар\n17-р жарны 59 он хө
+ хөгчин үхэр жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4301,8 +3971,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450530
 DTEND;VALUE=DATE:20450531
 SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн цагаагчин мого
- й сар\n17-р жарны 59 он хөхөгчин үхэр жил
+DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
+ цагаагчин могой сар\n17-р жарны 59 он хөхөг
+ чин үхэр жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4364,19 +4035,10 @@ DTSTART;VALUE=DATE:20451109
 DTEND;VALUE=DATE:20451110
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
  гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн улаагчин гаха
- й сар\n17-р жарны 59 он хөхөгчин үхэр жил
+DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
+ хэн улаагчин гахай сар\n17-р жарны 59 он хөх
+ өгчин үхэр жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2045-10-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20451109
-DTEND;VALUE=DATE:20451110
-SUMMARY:Шинийн 1 · Өвлийн эхэн сар
-DESCRIPTION:Өвлийн эхэн улаагчин гахай сар\n17-р
-  жарны 59 он хөхөгчин үхэр жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4405,17 +4067,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460205
 DTEND;VALUE=DATE:20460206
 SUMMARY:Битүүн
+DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
+ сүүл шарагчин үхэр сар\n17-р жарны 59 он хөх
+ өгчин үхэр жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2046-01-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20460206
-DTEND;VALUE=DATE:20460207
-SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн цагаан барс сар\n17-р
-  жарны 60 он улаан бар жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4424,7 +4079,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460206
 DTEND;VALUE=DATE:20460207
 SUMMARY:Цагаан сар
-DESCRIPTION:17-р жарны 60 он улаан бар жил
+DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн цагаан барс сар\n17-р жарны 60 он
+  улаан бар жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4464,8 +4121,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460520
 DTEND;VALUE=DATE:20460521
 SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн харагчин могой 
- сар\n17-р жарны 60 он улаан бар жил
+DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
+ харагчин могой сар\n17-р жарны 60 он улаан б
+ ар жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4537,19 +4195,10 @@ DTSTART;VALUE=DATE:20461128
 DTEND;VALUE=DATE:20461129
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
  гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн шарагчин гаха
- й сар\n17-р жарны 60 он улаан бар жил
+DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
+ хэн шарагчин гахай сар\n17-р жарны 60 он ула
+ ан бар жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2046-10-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20461128
-DTEND;VALUE=DATE:20461129
-SUMMARY:Шинийн 1 · Өвлийн эхэн сар
-DESCRIPTION:Өвлийн эхэн шарагчин гахай сар\n17-р
-  жарны 60 он улаан бар жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4578,17 +4227,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470224
 DTEND;VALUE=DATE:20470225
 SUMMARY:Битүүн
+DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
+ сүүл цагаагчин үхэр сар\n17-р жарны 60 он ул
+ аан бар жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2047-01-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20470225
-DTEND;VALUE=DATE:20470226
-SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн хар барс сар\n18-р жа
- рны 1 он улаагчин туулай жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4597,7 +4239,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470225
 DTEND;VALUE=DATE:20470226
 SUMMARY:Цагаан сар
-DESCRIPTION:18-р жарны 1 он улаагчин туулай жил
+DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн хар барс сар\n18-р жарны 1 он ула
+ агчин туулай жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4637,8 +4281,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470608
 DTEND;VALUE=DATE:20470609
 SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн хөхөгчин могой 
- сар\n18-р жарны 1 он улаагчин туулай жил
+DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
+ хөхөгчин могой сар\n18-р жарны 1 он улаагчи
+ н туулай жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4699,19 +4344,10 @@ DTSTART;VALUE=DATE:20471118
 DTEND;VALUE=DATE:20471119
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
  гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн цагаагчин гах
- ай сар\n18-р жарны 1 он улаагчин туулай жил
+DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
+ хэн цагаагчин гахай сар\n18-р жарны 1 он ул
+ аагчин туулай жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2047-10-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20471118
-DTEND;VALUE=DATE:20471119
-SUMMARY:Шинийн 1 · Өвлийн эхэн сар
-DESCRIPTION:Өвлийн эхэн цагаагчин гахай сар\n18-
- р жарны 1 он улаагчин туулай жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4740,17 +4376,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480213
 DTEND;VALUE=DATE:20480214
 SUMMARY:Битүүн
+DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
+ сүүл харагчин үхэр сар\n18-р жарны 1 он ула
+ агчин туулай жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2048-01-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20480214
-DTEND;VALUE=DATE:20480215
-SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн хөх барс сар\n18-р жа
- рны 2 он шар луу жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4759,7 +4388,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480214
 DTEND;VALUE=DATE:20480215
 SUMMARY:Цагаан сар
-DESCRIPTION:18-р жарны 2 он шар луу жил
+DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн хөх барс сар\n18-р жарны 2 он шар
+  луу жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4799,8 +4430,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480527
 DTEND;VALUE=DATE:20480528
 SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн улаагчин могой 
- сар\n18-р жарны 2 он шар луу жил
+DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
+ улаагчин могой сар\n18-р жарны 2 он шар луу 
+ жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4861,19 +4493,10 @@ DTSTART;VALUE=DATE:20481107
 DTEND;VALUE=DATE:20481108
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
  гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн харагчин гаха
- й сар\n18-р жарны 2 он шар луу жил
+DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
+ хэн харагчин гахай сар\n18-р жарны 2 он шар 
+ луу жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2048-10-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20481107
-DTEND;VALUE=DATE:20481108
-SUMMARY:Шинийн 1 · Өвлийн эхэн сар
-DESCRIPTION:Өвлийн эхэн харагчин гахай сар\n18-р
-  жарны 2 он шар луу жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4903,17 +4526,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490202
 DTEND;VALUE=DATE:20490203
 SUMMARY:Битүүн
+DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
+ сүүл хөхөгчин үхэр сар\n18-р жарны 2 он шар 
+ луу жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2049-01-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20490203
-DTEND;VALUE=DATE:20490204
-SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн улаан барс сар\n18-р 
- жарны 3 он шарагчин могой жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4922,7 +4538,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490203
 DTEND;VALUE=DATE:20490204
 SUMMARY:Цагаан сар
-DESCRIPTION:18-р жарны 3 он шарагчин могой жил
+DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн улаан барс сар\n18-р жарны 3 он ш
+ арагчин могой жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4962,8 +4580,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490517
 DTEND;VALUE=DATE:20490518
 SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн шарагчин могой 
- сар\n18-р жарны 3 он шарагчин могой жил
+DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
+ шарагчин могой сар\n18-р жарны 3 он шарагчи
+ н могой жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5044,19 +4663,10 @@ DTSTART;VALUE=DATE:20491126
 DTEND;VALUE=DATE:20491127
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
  гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн хөхөгчин гаха
- й сар\n18-р жарны 3 он шарагчин могой жил
+DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
+ хэн хөхөгчин гахай сар\n18-р жарны 3 он шар
+ агчин могой жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2049-10-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20491126
-DTEND;VALUE=DATE:20491127
-SUMMARY:Шинийн 1 · Өвлийн эхэн сар
-DESCRIPTION:Өвлийн эхэн хөхөгчин гахай сар\n18-р
-  жарны 3 он шарагчин могой жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5085,17 +4695,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500221
 DTEND;VALUE=DATE:20500222
 SUMMARY:Битүүн
+DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
+ сүүл улаагчин үхэр сар\n18-р жарны 3 он шар
+ агчин могой жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2050-01-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20500222
-DTEND;VALUE=DATE:20500223
-SUMMARY:Шинийн 1 · Хаврын тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн шар барс сар\n18-р жа
- рны 4 он цагаан морин жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5104,7 +4707,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500222
 DTEND;VALUE=DATE:20500223
 SUMMARY:Цагаан сар
-DESCRIPTION:18-р жарны 4 он цагаан морин жил
+DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн шар барс сар\n18-р жарны 4 он цаг
+ аан морин жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5145,8 +4750,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500605
 DTEND;VALUE=DATE:20500606
 SUMMARY:Бурхан багшийн Их дүйчин өдөр
-DESCRIPTION:Шинийн 15\nЗуны эхэн цагаагчин мого
- й сар\n18-р жарны 4 он цагаан морин жил
+DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
+ цагаагчин могой сар\n18-р жарны 4 он цагаан
+  морин жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5207,19 +4813,10 @@ DTSTART;VALUE=DATE:20501115
 DTEND;VALUE=DATE:20501116
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
  гол бахархлын өдөр)
-DESCRIPTION:Шинийн 1\nӨвлийн эхэн улаагчин гаха
- й сар\n18-р жарны 4 он цагаан морин жил
+DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
+ хэн улаагчин гахай сар\n18-р жарны 4 он цаг
+ аан морин жил
 CATEGORIES:festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-mn-no15-2050-10-d01@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20501115
-DTEND;VALUE=DATE:20501116
-SUMMARY:Шинийн 1 · Өвлийн эхэн сар
-DESCRIPTION:Өвлийн эхэн улаагчин гахай сар\n18-р
-  жарны 4 он цагаан морин жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
