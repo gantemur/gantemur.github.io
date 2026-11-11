@@ -105,7 +105,7 @@
     },
     "year": 2026,
     "institution": "Mongolian Academy of Sciences / National University of Mongolia",
-    "institutionShort": "Summer School on Theoretical Physics (MAS/NUM)",
+    "institutionShort": "MAS/NUM",
     "role": "Instructor",
     "roleNote": "Summer School on Theoretical Physics",
     "level": "short-course",
@@ -121,7 +121,8 @@
       "particle physics"
     ],
     "cvInclude": true,
-    "source": "user-confirmed-2026-11-10; owner-corrected-2026-11-11"
+    "source": "user-confirmed-2026-11-10; owner-corrected-2026-11-11",
+    "code": "Short course"
   },
   {
     "id": "math-262-fall-2025",
@@ -208,7 +209,7 @@
     },
     "year": 2025,
     "institution": "Mongolian Academy of Sciences / National University of Mongolia",
-    "institutionShort": "Summer School on Theoretical Physics (MAS/NUM)",
+    "institutionShort": "MAS/NUM",
     "role": "Instructor",
     "roleNote": "Summer School on Theoretical Physics",
     "level": "short-course",
@@ -219,7 +220,8 @@
       "statistical physics"
     ],
     "cvInclude": true,
-    "source": "owner-confirmed-2026-11-11"
+    "source": "owner-confirmed-2026-11-11",
+    "code": "Short course"
   },
   {
     "id": "num-math101-fall-2024",
@@ -420,7 +422,7 @@
     },
     "year": 2024,
     "institution": "Mongolian Academy of Sciences / National University of Mongolia",
-    "institutionShort": "Summer School on Theoretical Physics (MAS/NUM)",
+    "institutionShort": "MAS/NUM",
     "role": "Instructor",
     "roleNote": "Summer School on Theoretical Physics",
     "level": "short-course",
@@ -431,7 +433,8 @@
       "mathematical statistics"
     ],
     "cvInclude": true,
-    "source": "owner-confirmed-2026-11-11"
+    "source": "owner-confirmed-2026-11-11",
+    "code": "Short course"
   },
   {
     "id": "math-317-fall-2023",
@@ -580,7 +583,7 @@
     },
     "year": 2023,
     "institution": "Mongolian Academy of Sciences / National University of Mongolia",
-    "institutionShort": "Summer School on Theoretical Physics (MAS/NUM)",
+    "institutionShort": "MAS/NUM",
     "role": "Instructor",
     "roleNote": "Summer School on Theoretical Physics",
     "level": "short-course",
@@ -591,7 +594,8 @@
       "relativity"
     ],
     "cvInclude": true,
-    "source": "owner-confirmed-2026-11-11"
+    "source": "owner-confirmed-2026-11-11",
+    "code": "Short course"
   },
   {
     "id": "num-phys405-fall-2022",
@@ -631,7 +635,7 @@
     },
     "year": 2022,
     "institution": "Mongolian Academy of Sciences / National University of Mongolia",
-    "institutionShort": "Summer School on Theoretical Physics (MAS/NUM)",
+    "institutionShort": "MAS/NUM",
     "role": "Instructor",
     "roleNote": "Summer School on Theoretical Physics",
     "level": "short-course",
@@ -642,7 +646,8 @@
       "electromagnetism"
     ],
     "cvInclude": true,
-    "source": "owner-confirmed-2026-11-11"
+    "source": "owner-confirmed-2026-11-11",
+    "code": "Short course"
   },
   {
     "id": "math-567-fall-2021",
@@ -780,7 +785,7 @@
     },
     "year": 2021,
     "institution": "Mongolian Academy of Sciences / National University of Mongolia",
-    "institutionShort": "Summer School on Theoretical Physics (MAS/NUM)",
+    "institutionShort": "MAS/NUM",
     "role": "Instructor",
     "roleNote": "Summer School on Theoretical Physics",
     "level": "short-course",
@@ -791,13 +796,14 @@
       "PDE"
     ],
     "cvInclude": true,
-    "source": "owner-confirmed-2026-11-11"
+    "source": "owner-confirmed-2026-11-11",
+    "code": "Short course"
   },
   {
     "id": "online-course-quantum-computation-2021",
     "title": "Quantum computation",
     "term": {
-      "label": "2021"
+      "label": "Spring 2021"
     },
     "year": 2021,
     "role": "Instructor",
@@ -811,13 +817,16 @@
       "quantum computation"
     ],
     "cvInclude": true,
-    "source": "owner-confirmed-2026-11-11"
+    "source": "owner-confirmed-2026-11-11",
+    "code": "Online course",
+    "institution": "Tatsaltsal",
+    "institutionShort": "Tatsaltsal"
   },
   {
     "id": "online-course-cryptography-2021",
     "title": "Cryptography",
     "term": {
-      "label": "2021"
+      "label": "Spring 2021"
     },
     "year": 2021,
     "role": "Instructor",
@@ -831,7 +840,10 @@
       "cryptography"
     ],
     "cvInclude": true,
-    "source": "owner-confirmed-2026-11-11"
+    "source": "owner-confirmed-2026-11-11",
+    "code": "Online course",
+    "institution": "Tatsaltsal",
+    "institutionShort": "Tatsaltsal"
   },
   {
     "id": "math-578-fall-2020",
@@ -1517,11 +1529,11 @@
     "id": "short-course-moving-frames-general-relativity-mas-2019",
     "title": "Moving frames in GR",
     "term": {
-      "label": "2019"
+      "label": "Summer 2019"
     },
     "year": 2019,
-    "institution": "Mongolian Academy of Sciences",
-    "institutionShort": "MAS",
+    "institution": "Mongolian Academy of Sciences / National University of Mongolia",
+    "institutionShort": "MAS/NUM",
     "role": "Instructor",
     "level": "short-course",
     "category": "short-course",
@@ -1533,18 +1545,19 @@
       "general relativity"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/teaching.html"
+    "source": "_old_site/McGill/teaching.html",
+    "code": "Short course"
   },
   {
     "id": "short-course-introduction-general-relativity-mas-2018",
     "title": "Introduction to GR",
     "term": {
-      "label": "June 2018"
+      "label": "Summer 2018"
     },
-    "displayTerm": "June 2018",
+    "displayTerm": "Summer 2018",
     "year": 2018,
-    "institution": "Mongolian Academy of Sciences",
-    "institutionShort": "MAS",
+    "institution": "Mongolian Academy of Sciences / National University of Mongolia",
+    "institutionShort": "MAS/NUM",
     "role": "Instructor",
     "level": "short-course",
     "category": "short-course",
@@ -1556,7 +1569,8 @@
       "general relativity"
     ],
     "cvInclude": true,
-    "source": "_old_site/McGill/teaching.html; homepage/tmp/pdfs/cv.txt"
+    "source": "_old_site/McGill/teaching.html; homepage/tmp/pdfs/cv.txt",
+    "code": "Short course"
   },
   {
     "id": "ucsd-math-170c-spring-2007",
