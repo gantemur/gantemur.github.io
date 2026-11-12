@@ -85,8 +85,11 @@ feeds:
   }
   .btn-pair { white-space: nowrap; }
   @media (max-width: 600px) {
-    .data-table th, .data-table td { padding-left: 0.2rem; padding-right: 0.2rem; }
+    .data-table { display: table; }
+    .data-table th, .data-table td { padding-left: 0.2rem; padding-right: 0.2rem; min-width: 0; overflow-wrap: normal; }
     .feed-links a { padding: 0.1rem 0.55rem; margin-right: 0.25rem; }
+    .data-table th:first-child, .data-table td:first-child { width: 1%; white-space: nowrap; padding-right: 0.9rem; }
+    .data-table th:nth-child(2), .data-table td:nth-child(2) { padding-right: 0.7rem; }
   }
   .feed-links a:hover, .feed-links a:focus-visible { border-color: var(--link); background: #fff; }
   .feed-copy.copied { border-color: var(--accent-2); color: var(--accent-2); }
