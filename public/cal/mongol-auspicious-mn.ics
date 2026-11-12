@@ -3,11 +3,11 @@ VERSION:2.0
 PRODID:-//caltib//lunar day feeds//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Зурхайн онцлох өдрүүд
+X-WR-CALNAME:Балжка Дашка
 X-WR-CALDESC:Baljinnyam\, Dashnyam\, Modon khokhimoi and Tersüüd\, 2020
  –2050. Add-on to the Mongol lunar calendar feed. https://gantemur.github
  .io/cal/
-NAME:Зурхайн онцлох өдрүүд
+NAME:Балжка Дашка
 DESCRIPTION:Baljinnyam\, Dashnyam\, Modon khokhimoi and Tersüüd\, 2020–
  2050. Add-on to the Mongol lunar calendar feed. https://gantemur.github.io
  /cal/
