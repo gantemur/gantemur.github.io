@@ -24,7 +24,7 @@
   {
     "id": "numerical-geometric-discretization",
     "title": "Numerical analysis and geometric discretization",
-    "summary": "Adaptive finite and boundary element methods, including optimal W^{1,p} adaptivity, Banach-space relaxed quasi-orthogonality and inf-sup stable Galerkin methods; finite and discrete exterior calculus and wavelet approximation.",
+    "summary": "Adaptive finite and boundary element methods, including optimal W1p adaptivity, Banach-space relaxed quasi-orthogonality and inf-sup stable Galerkin methods; finite and discrete exterior calculus and wavelet approximation.",
     "keywords": [
       "numerical analysis",
       "adaptive methods",
@@ -60,7 +60,9 @@
     "relatedPublicationIds": [
       "gantumur-optimal-afem-w1p-2026",
       "bolorkhuu-gantumur-relu-loop-controllers-2026",
-      "gantumur-relu-tensor-product-refinement-2026"
+      "gantumur-relu-tensor-product-refinement-2026",
+      "gantumur-relu-two-chart-atlas-selector-2026",
+      "bolorkhuu-gantumur-relu-binary-affine-refinement-2026"
     ],
     "languages": [
       "en"

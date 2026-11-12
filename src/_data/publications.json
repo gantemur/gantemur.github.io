@@ -141,7 +141,7 @@
     "topicIds": [
       "approximation-adaptivity-neural-realization"
     ],
-    "featured": false,
+    "featured": true,
     "cv": {
       "selected": true
     },
@@ -156,6 +156,44 @@
         "name": "Boldsaikhan Bolorkhuu",
         "self": false
       },
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
+  },
+  {
+    "id": "gantumur-relu-two-chart-atlas-selector-2026",
+    "type": "preprint",
+    "title": "Neural network realization of binary refinement iterates via a two-chart atlas selector",
+    "authorIds": [
+      "tsogtgerel-gantumur"
+    ],
+    "year": 2026,
+    "status": "preprint",
+    "category": "preprint",
+    "arxiv": "2608.02624",
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2608.02624"
+      }
+    ],
+    "topicIds": [
+      "approximation-adaptivity-neural-realization"
+    ],
+    "featured": true,
+    "cv": {
+      "selected": true
+    },
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "arXiv:2608.02624v1 (2026-08-05); papers/nn/atlas1d/PUBLICATION.md verified 2026-11-11",
+    "authors": [
       {
         "id": "tsogtgerel-gantumur",
         "name": "Tsogtgerel Gantumur",
@@ -266,7 +304,7 @@
     "topicIds": [
       "relu-refinement"
     ],
-    "featured": true,
+    "featured": false,
     "cv": {
       "selected": true
     },
