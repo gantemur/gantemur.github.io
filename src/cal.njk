@@ -20,6 +20,9 @@ feeds:
     festivals:
       mn: "Баяр ёслол: Битүүн, Цагаан сар, Их дүйчин, Чингис хааны төрсөн өдөр. Зурхайн онцлох өдрүүд: уламжлалт зурхайн бичигт заасан Балжинням, Дашням, Модон хохимой, Тэрсүүд. Энэ нь үндсэн хуанлийн нэмэлт тул хамт захиалахад юу ч давхардахгүй."
       en: "Festivals: Bituun, Tsagaan Sar, Ikh Düichen, Chinggis Khaan's birthday. Auspicious days: Baljinnyam, Dashnyam, Modon khokhimoi and Tersüüd, as given in the traditional Mongolian almanac. It is an add-on to the calendar above: subscribe to both and nothing appears twice."
+    tip:
+      mn: "Ихэнх хүмүүс эхний болон 3 дахь мөрт буй календарийг сонгоод нэмэхэд болно."
+      en: "Most people only need the calendars in the first and third rows (in English: the fourth and sixth)."
     rows:
       - [mongol-mn.ics, mn, d115]
       - [mongol-mn-no15.ics, mn, d1]
@@ -90,14 +93,15 @@ feeds:
   </nav>
 </div>
 
-<p class="lede narrow l-mn">Сар бүрийн шинийн 1 ба 15, мөн билгийн тооллыг дагадаг гол баяр ёслолуудыг календарьтаа нэмээрэй. Огноог <a href="https://gantemur.github.io/caltib/">caltib</a>-ээр 2050 он хүртэл тооцоолсон.</p>
-<p class="lede narrow l-en">Add lunar days 1 and 15 of every month, and the main festivals that follow the lunar calendar, to your calendar. The dates are computed with <a href="https://gantemur.github.io/caltib/">caltib</a> up to 2050.</p>
+<p class="lede narrow l-mn">Сар бүрийн шинийн 1 ба 15, мөн билгийн тооллыг дагадаг гол баяр ёслолуудыг календарьтаа нэмээрэй. Огноог 2050 он хүртэл тооцоолсон.</p>
+<p class="lede narrow l-en">Add lunar days 1 and 15 of every month, and the main festivals that follow the lunar calendar, to your calendar. The dates are computed up to 2050.</p>
 
 <div class="stack">
   {% for cal in feeds %}
     <section class="rule-section">
       <h2>{{ t(cal.name) }}{% if cal.native %} <span class="cal-native">{{ cal.native }}</span>{% endif %}</h2>
       <p class="cal-note">{{ t(cal.festivals) }}</p>
+      {% if cal.tip %}<p>{{ t(cal.tip) }}</p>{% endif %}
       <table class="data-table">
         <thead>
           <tr>
