@@ -1,5 +1,33 @@
 [
   {
+    "id": "caltib",
+    "name": "caltib",
+    "kind": "library",
+    "description": "A Python library and web laboratory for high-precision Tibetan calendrical mathematics, historical traditions, reform models, diagnostics, and interactive calendar generation.",
+    "url": "https://gantemur.github.io/caltib/",
+    "status": "separate project",
+    "languages": [
+      "en"
+    ],
+    "links": [
+      {
+        "label": "Web calendar",
+        "url": "https://gantemur.github.io/caltib/app.html"
+      },
+      {
+        "label": "Diagnostics",
+        "url": "https://gantemur.github.io/caltib/diag.html"
+      },
+      {
+        "label": "Lunar calendar subscriptions",
+        "url": "/cal/"
+      }
+    ],
+    "cvInclude": false,
+    "source": "https://gantemur.github.io/caltib/",
+    "inlineLinks": true
+  },
+  {
     "id": "sol",
     "name": "Sol",
     "kind": "tool-collection",
@@ -39,40 +67,5 @@
     ],
     "cvInclude": false,
     "source": "https://gantemur.github.io/sol/"
-  },
-  {
-    "id": "caltib",
-    "name": "caltib",
-    "kind": "library",
-    "description": "A Python library and web laboratory for high-precision Tibetan calendrical mathematics, historical traditions, reform models, diagnostics, and interactive calendar generation.",
-    "url": "https://gantemur.github.io/caltib/",
-    "status": "separate project",
-    "languages": [
-      "en"
-    ],
-    "links": [
-      {
-        "label": "Live web calendar",
-        "url": "https://gantemur.github.io/caltib/app.html",
-        "description": "Interactive localized calendar generator."
-      },
-      {
-        "label": "Diagnostics lab",
-        "url": "https://gantemur.github.io/caltib/diag.html",
-        "description": "Tools for drift and reform diagnostics."
-      },
-      {
-        "label": "API reference",
-        "url": "https://gantemur.github.io/caltib/api/",
-        "description": "Generated API documentation."
-      },
-      {
-        "label": "GitHub repository",
-        "url": "https://github.com/gantemur/caltib",
-        "description": "Source code for the library."
-      }
-    ],
-    "cvInclude": false,
-    "source": "https://gantemur.github.io/caltib/"
   }
 ]

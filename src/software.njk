@@ -13,18 +13,29 @@ permalink: /software/
       <h2>{{ item.name }}</h2>
       <p>{{ item.description }}</p>
       <p class="meta">Languages: {{ item | languages }}.</p>
-      {% if item.url %}
-        <p><a href="{{ item.url }}">Project page</a></p>
-      {% endif %}
-      {% if item.links and item.links.length %}
-        <ul class="plain-list compact-list">
+      {% if item.inlineLinks %}
+        <div class="link-row" aria-label="{{ item.name }} links">
+          {% if item.url %}
+            <a href="{{ item.url }}">Project page</a>
+          {% endif %}
           {% for link in item.links %}
-            <li>
-              <a href="{{ link.url }}">{{ link.label }}</a>
-              {% if link.description %}<span>{{ link.description }}</span>{% endif %}
-            </li>
+            <a href="{{ link.url }}">{{ link.label }}</a>
           {% endfor %}
-        </ul>
+        </div>
+      {% else %}
+        {% if item.url %}
+          <p><a href="{{ item.url }}">Project page</a></p>
+        {% endif %}
+        {% if item.links and item.links.length %}
+          <ul class="plain-list compact-list">
+            {% for link in item.links %}
+              <li>
+                <a href="{{ link.url }}">{{ link.label }}</a>
+                {% if link.description %}<span>{{ link.description }}</span>{% endif %}
+              </li>
+            {% endfor %}
+          </ul>
+        {% endif %}
       {% endif %}
     </section>
   {% endfor %}
