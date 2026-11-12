@@ -84,6 +84,10 @@ feeds:
     color: var(--link); font-size: 0.9rem; line-height: 1.5; text-decoration: none; white-space: nowrap;
   }
   .feed-links a:hover, .feed-links a:focus-visible { border-color: var(--link); background: #fff; }
+  .feed-copy.copied { border-color: var(--accent-2); color: var(--accent-2); }
+  .feed-copy .copy-msg, .feed-copy.copied .copy-label { display: none; }
+  .feed-copy.copied .copy-msg { display: inline; }
+  .feed-url { display: block; width: 100%; margin-top: 0.3rem; font-size: 0.8rem; }
   .cal-note { font-size: 0.95rem; color: var(--muted, #555); }
   .cal-footer { text-align: center; font-size: 0.85rem; color: var(--muted, #555); margin-top: 3rem; padding-top: 1.2rem; border-top: 1px solid var(--line, #ddd); }
   .cal-footer a { font-weight: bold; text-decoration: none; }
@@ -124,7 +128,7 @@ feeds:
               <td class="feed-links" data-feed="{{ row[0] }}">
                 <a class="feed-apple" href="{{ row[0] }}">Apple</a>
                 <a href="https://calendar.google.com/calendar/render?cid=webcal://gantemur.github.io/cal/{{ row[0] }}">Google</a>
-                <a href="{{ row[0] }}"><span class="l-mn">.ics файл</span><span class="l-en">.ics file</span></a>
+                <a class="feed-copy" href="{{ row[0] }}"><span class="copy-label"><span class="l-mn">Холбоос хуулах</span><span class="l-en">Copy link</span></span><span class="copy-msg"><span class="l-mn">✓ Хуулагдлаа</span><span class="l-en">✓ Copied</span></span></a>
               </td>
             </tr>
           {% endfor %}
@@ -138,7 +142,7 @@ feeds:
     <ul class="compact-list">
       <li><strong>iPhone, iPad, Mac:</strong> <em>Apple</em> дээр дарж захиалгаа баталгаажуулна.</li>
       <li><strong>Google хуанли:</strong> компьютер дээрээ <em>Google</em> дээр дарж баталгаажуулна. Дараа нь Android болон iPhone дээрх Google Calendar аппд мөн гарч ирнэ (харагдахгүй бол аппын тохиргооноос асаагаарай).</li>
-      <li><strong>Outlook болон бусад:</strong> <em>.ics файл</em> холбоосын хаягийг хуулж, "Subscribe from web" эсвэл "Add calendar from URL" хэсэгт оруулна.</li>
+      <li><strong>Outlook болон бусад:</strong> <em>Холбоос хуулах</em> дээр дарж, хуулсан хаягаа "Subscribe from web" эсвэл "Add calendar from URL" хэсэгт буулгана.</li>
     </ul>
     <p class="cal-note">Тоолол маань 2050 он хүртэл тооцоологдсон учраас нэг нэмчихсэн бол сүлжээгүй газар ч санаа амар байж болно. Ямар нэг шинэчлэл хийгдлээ гэхэд захиалсан хуанли түүнийг нь автоматаар тусгана. Харин .ics файлыг татах нь нэг удаагийн үйлдэл.</p>
   </section>
@@ -147,7 +151,7 @@ feeds:
     <ul class="compact-list">
       <li><strong>iPhone, iPad, Mac:</strong> tap or click <em>Apple</em> and confirm the subscription.</li>
       <li><strong>Google Calendar:</strong> click <em>Google</em> on a computer and confirm. The calendar then also appears in the Google Calendar app on Android and iPhone (enable it under the app's settings if hidden).</li>
-      <li><strong>Outlook and other apps:</strong> copy the address of the <em>.ics file</em> link and use "Subscribe from web" or "Add calendar from URL".</li>
+      <li><strong>Outlook and other apps:</strong> click <em>Copy link</em> and paste the address into "Subscribe from web" or "Add calendar from URL".</li>
     </ul>
     <p class="cal-note">The calendar is computed up to 2050, so once added it keeps working without a connection. If anything is updated, a subscribed calendar picks it up automatically. Downloading the .ics file, on the other hand, is a one-time copy.</p>
   </section>
@@ -179,6 +183,34 @@ feeds:
 <script>
   for (const a of document.querySelectorAll(".feed-apple")) {
     a.href = "webcal://gantemur.github.io/cal/" + a.closest("[data-feed]").dataset.feed;
+  }
+  for (const a of document.querySelectorAll(".feed-copy")) {
+    a.addEventListener("click", function (e) {
+      e.preventDefault();
+      const url = "https://gantemur.github.io/cal/" + a.closest("[data-feed]").dataset.feed;
+      const done = function () {
+        a.classList.add("copied");
+        setTimeout(function () { a.classList.remove("copied"); }, 2000);
+      };
+      const fallback = function () {
+        // Show the address so it can be copied by hand.
+        let box = a.parentNode.querySelector(".feed-url");
+        if (!box) {
+          box = document.createElement("input");
+          box.className = "feed-url";
+          box.readOnly = true;
+          box.value = url;
+          a.parentNode.appendChild(box);
+        }
+        box.focus();
+        box.select();
+      };
+      try {
+        navigator.clipboard.writeText(url).then(done, fallback);
+      } catch (err) {
+        fallback();
+      }
+    });
   }
   for (const a of document.querySelectorAll(".lang-switch a")) {
     a.addEventListener("click", function (e) {
