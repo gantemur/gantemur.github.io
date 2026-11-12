@@ -12,20 +12,24 @@
     "links": [
       {
         "label": "Web calendar",
-        "url": "https://gantemur.github.io/caltib/app.html"
+        "url": "https://gantemur.github.io/caltib/app.html",
+        "labelMn": "Веб хуанли"
       },
       {
         "label": "Diagnostics",
-        "url": "https://gantemur.github.io/caltib/diag.html"
+        "url": "https://gantemur.github.io/caltib/diag.html",
+        "labelMn": "Оношилгоо"
       },
       {
         "label": "Lunar calendar subscriptions",
-        "url": "/cal/"
+        "url": "/cal/",
+        "labelMn": "Билгийн тоолол захиалах"
       }
     ],
     "cvInclude": false,
     "source": "https://gantemur.github.io/caltib/",
-    "inlineLinks": true
+    "inlineLinks": true,
+    "descriptionMn": "Төвдийн уламжлалт тооллын математикийн тооцоолол, түүхэн хувилбар, шинэчлэлийн загвар, оношилгоо болон хуанли үүсгэх боломжтой Python сан, веб лаборатори."
   },
   {
     "id": "sol",
@@ -42,30 +46,41 @@
       {
         "label": "Ptolemaic planetary models",
         "url": "https://gantemur.github.io/sol/tools/planets-en/",
-        "description": "English planetary and Ptolemaic model animations."
+        "description": "English planetary and Ptolemaic model animations.",
+        "labelMn": "Птолемейн гаригийн загварууд",
+        "descriptionMn": "Англи хэлээрх гаригийн хөдөлгөөний болон Птолемейн загварын дүрслэл."
       },
       {
         "label": "Гаригуудын загвар",
         "url": "https://gantemur.github.io/sol/tools/planets-mn/",
-        "description": "Mongolian planetary and Ptolemaic model animations."
+        "description": "Mongolian planetary and Ptolemaic model animations.",
+        "labelMn": "Гаригуудын загвар",
+        "descriptionMn": "Монгол хэлээрх гаригийн хөдөлгөөний болон Птолемейн загварын дүрслэл."
       },
       {
         "label": "Doppler effect",
         "url": "https://gantemur.github.io/sol/tools/doppler/",
-        "description": "Mongolian canvas demonstrations for sound and light Doppler effects."
+        "description": "Mongolian canvas demonstrations for sound and light Doppler effects.",
+        "labelMn": "Доплерын эффект",
+        "descriptionMn": "Дуу ба гэрлийн Доплерын эффектийн үзүүлэн."
       },
       {
         "label": "Kinetic particle toy",
         "url": "https://gantemur.github.io/sol/tools/kinetic/",
-        "description": "Mongolian educational animation for particles, wind, and waves."
+        "description": "Mongolian educational animation for particles, wind, and waves.",
+        "labelMn": "Бөөмсийн хөдөлгөөний загвар",
+        "descriptionMn": "Бөөмс, салхи, долгионыг үзүүлэх сургалтын хөдөлгөөнт загвар."
       },
       {
         "label": "Armature calculator",
         "url": "https://gantemur.github.io/sol/tools/armatur/",
-        "description": "A reinforcing-bar cutting calculator."
+        "description": "A reinforcing-bar cutting calculator.",
+        "labelMn": "Арматурын тооцоолуур",
+        "descriptionMn": "Арматурын төмрийн огтлолт тооцоолох хэрэгсэл."
       }
     ],
     "cvInclude": false,
-    "source": "https://gantemur.github.io/sol/"
+    "source": "https://gantemur.github.io/sol/",
+    "descriptionMn": "Гаригийн хөдөлгөөний дүрслэл, Доплерын эффект, бөөмсийн хөдөлгөөн болон сургалтын тооцоолуур зэрэг шинжлэх ухааны жижиг веб хэрэгслүүдийн цуглуулга."
   }
 ]

@@ -4,39 +4,115 @@ title: Software
 permalink: /software/
 ---
 
-<h1>Software</h1>
-<p class="lede narrow">Selected standalone software projects and computational tools.</p>
+<style>
+  .software-page-head {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 0.5rem 1.5rem;
+  }
+  .software-page-head h1 { max-width: none; }
+  .software-lang-switch {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    margin-left: auto;
+    padding-top: 0.65rem;
+    font: 0.9rem ui-sans-serif, system-ui, sans-serif;
+    white-space: nowrap;
+  }
+  .software-lang-switch button {
+    color: var(--ink);
+    font: inherit;
+    border: 0;
+    border-bottom: 2px solid transparent;
+    background: transparent;
+    padding: 0.1rem 0;
+    cursor: pointer;
+  }
+  .software-lang-switch button[aria-pressed="true"] {
+    border-bottom-color: var(--accent);
+    font-weight: 700;
+  }
+  .software-lang-switch button:focus-visible {
+    outline: 2px solid var(--accent-2);
+    outline-offset: 3px;
+  }
+  #software-page .sw-mn { display: none; }
+  #software-page .sw-en { display: inline; }
+  #software-page[data-lang="mn"] .sw-en { display: none; }
+  #software-page[data-lang="mn"] .sw-mn { display: inline; }
+  #software-page .software-link-description { display: block; }
+</style>
 
-<div class="stack">
-  {% for item in software %}
-    <section class="rule-section">
-      <h2>{{ item.name }}</h2>
-      <p>{{ item.description }}</p>
-      <p class="meta">Languages: {{ item | languages }}.</p>
-      {% if item.inlineLinks %}
-        <div class="link-row" aria-label="{{ item.name }} links">
-          {% if item.url %}
-            <a href="{{ item.url }}">Project page</a>
-          {% endif %}
-          {% for link in item.links %}
-            <a href="{{ link.url }}">{{ link.label }}</a>
-          {% endfor %}
-        </div>
-      {% else %}
-        {% if item.url %}
-          <p><a href="{{ item.url }}">Project page</a></p>
-        {% endif %}
-        {% if item.links and item.links.length %}
-          <ul class="plain-list compact-list">
+<div id="software-page" data-lang="en" lang="en">
+  <div class="software-page-head">
+    <h1><span class="sw-en">Software</span><span class="sw-mn">Програм хангамж</span></h1>
+    <div class="software-lang-switch" role="group" aria-label="Software page language">
+      <button type="button" data-lang="en" aria-pressed="true">EN</button>
+      <span aria-hidden="true">|</span>
+      <button type="button" data-lang="mn" aria-pressed="false">Монгол</button>
+    </div>
+  </div>
+  <p class="lede narrow">
+    <span class="sw-en">Selected standalone software projects and computational tools.</span>
+    <span class="sw-mn">Бие даасан програм хангамж, тооцооллын хэрэгслүүдийн түүвэр.</span>
+  </p>
+
+  <div class="stack">
+    {% for item in software %}
+      <section class="rule-section">
+        <h2>{{ item.name }}</h2>
+        <p><span class="sw-en">{{ item.description }}</span><span class="sw-mn">{{ item.descriptionMn or item.description }}</span></p>
+        <p class="meta"><span class="sw-en">Languages:</span><span class="sw-mn">Хэл:</span> {{ item | languages }}.</p>
+        {% if item.inlineLinks %}
+          <div class="link-row" aria-label="{{ item.name }} links">
+            {% if item.url %}
+              <a href="{{ item.url }}"><span class="sw-en">Project page</span><span class="sw-mn">Төслийн хуудас</span></a>
+            {% endif %}
             {% for link in item.links %}
-              <li>
-                <a href="{{ link.url }}">{{ link.label }}</a>
-                {% if link.description %}<span>{{ link.description }}</span>{% endif %}
-              </li>
+              <a href="{{ link.url }}"><span class="sw-en">{{ link.label }}</span><span class="sw-mn">{{ link.labelMn or link.label }}</span></a>
             {% endfor %}
-          </ul>
+          </div>
+        {% else %}
+          {% if item.url %}
+            <p><a href="{{ item.url }}"><span class="sw-en">Project page</span><span class="sw-mn">Төслийн хуудас</span></a></p>
+          {% endif %}
+          {% if item.links and item.links.length %}
+            <ul class="plain-list compact-list">
+              {% for link in item.links %}
+                <li>
+                  <a href="{{ link.url }}"><span class="sw-en">{{ link.label }}</span><span class="sw-mn">{{ link.labelMn or link.label }}</span></a>
+                  {% if link.description %}
+                    <span class="software-link-description">
+                      <span class="sw-en">{{ link.description }}</span><span class="sw-mn">{{ link.descriptionMn or link.description }}</span>
+                    </span>
+                  {% endif %}
+                </li>
+              {% endfor %}
+            </ul>
+          {% endif %}
         {% endif %}
-      {% endif %}
-    </section>
-  {% endfor %}
+      </section>
+    {% endfor %}
+  </div>
 </div>
+
+<script>
+  (function () {
+    const page = document.getElementById("software-page");
+    if (!page) return;
+    const buttons = page.querySelectorAll(".software-lang-switch button[data-lang]");
+    for (const button of buttons) {
+      button.addEventListener("click", function () {
+        const lang = button.dataset.lang;
+        page.dataset.lang = lang;
+        page.lang = lang;
+        for (const other of buttons) {
+          other.setAttribute("aria-pressed", String(other.dataset.lang === lang));
+        }
+      });
+    }
+  })();
+</script>
