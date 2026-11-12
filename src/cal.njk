@@ -101,7 +101,7 @@ feeds:
     <section class="rule-section">
       <h2>{{ t(cal.name) }}{% if cal.native %} <span class="cal-native">{{ cal.native }}</span>{% endif %}</h2>
       <p class="cal-note">{{ t(cal.festivals) }}</p>
-      {% if cal.tip %}<p>{{ t(cal.tip) }}</p>{% endif %}
+      {% if cal.tip %}<p class="cal-note">{{ t(cal.tip) }}</p>{% endif %}
       <table class="data-table">
         <thead>
           <tr>
