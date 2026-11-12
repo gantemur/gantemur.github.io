@@ -1,5 +1,45 @@
 [
   {
+    "id": "gantumur-optimal-afem-w1p-2026",
+    "type": "preprint",
+    "title": "Optimal adaptive finite element methods in W^{1,p}",
+    "titleHtml": "Optimal adaptive finite element methods in <i>W</i><sup>1,p</sup>",
+    "authorIds": [
+      "tsogtgerel-gantumur"
+    ],
+    "year": 2026,
+    "status": "preprint",
+    "category": "preprint",
+    "arxiv": "2611.11668",
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2611.11668"
+      }
+    ],
+    "topicIds": [
+      "numerical-geometric-discretization",
+      "approximation-adaptivity-neural-realization"
+    ],
+    "featured": true,
+    "cv": {
+      "selected": true
+    },
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "arXiv:2611.11668v1, submitted 2026-11-08 UTC; manuscript in papers/adaptive/w1p/afem_wp.tex; verified 2026-11-11",
+    "authors": [
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
+  },
+  {
     "id": "gantumur-projectional-cda-torus-2026",
     "type": "journal-article",
     "title": "Projectional continuous data assimilation on the torus: Resonant and kernel-free regimes",
@@ -23,7 +63,7 @@
     "topicIds": [
       "geometric-pde-relativity-fluid-dynamics"
     ],
-    "featured": false,
+    "featured": true,
     "cv": {
       "selected": true
     },
@@ -39,7 +79,8 @@
         "self": true,
         "url": "https://gantemur.github.io"
       }
-    ]
+    ],
+    "citation": "Accepted for publication in Journal of Mathematical Fluid Mechanics (2026)"
   },
   {
     "id": "gantumur-projection-geometry-quasi-orthogonality-2026",
@@ -61,7 +102,7 @@
     "topicIds": [
       "numerical-geometric-discretization"
     ],
-    "featured": false,
+    "featured": true,
     "cv": {
       "selected": true
     },
@@ -264,7 +305,7 @@
     "topicIds": [
       "relu-refinement"
     ],
-    "featured": true,
+    "featured": false,
     "cv": {
       "selected": true
     },
@@ -331,12 +372,12 @@
       "nella-rotundo",
       "tsogtgerel-gantumur"
     ],
-    "year": 2025,
+    "year": 2026,
     "status": "accepted",
     "category": "accepted",
     "venue": "Zeitschrift für angewandte Mathematik und Physik",
     "journal": "Zeitschrift für angewandte Mathematik und Physik",
-    "details": "Accepted for publication in Zeitschrift für angewandte Mathematik und Physik",
+    "details": "Accepted for publication",
     "acceptedYear": 2026,
     "arxiv": "2512.22436",
     "links": [
@@ -345,7 +386,9 @@
         "url": "https://arxiv.org/abs/2512.22436"
       }
     ],
-    "topicIds": [],
+    "topicIds": [
+      "geometric-pde-relativity-fluid-dynamics"
+    ],
     "featured": true,
     "cv": {
       "selected": true
@@ -367,7 +410,8 @@
         "self": true,
         "url": "https://gantemur.github.io"
       }
-    ]
+    ],
+    "citation": "Accepted for publication in Zeitschrift für angewandte Mathematik und Physik (2026)"
   },
   {
     "id": "gantumur-chebyshev-sylvester-2025",
@@ -647,7 +691,7 @@
     "venue": "Journal of High Energy Physics",
     "journal": "JHEP",
     "details": "JHEP 07 (2026) 036",
-    "citation": "J. High Energ. Phys. 2026, 36 (2026)",
+    "citation": "JHEP 07 (2026) 036",
     "publishedDate": "2026-07-02",
     "doi": "10.1007/JHEP07(2026)036",
     "arxiv": "2512.22072",
