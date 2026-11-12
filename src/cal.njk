@@ -83,12 +83,18 @@ feeds:
     border: 1px solid var(--line); border-radius: 999px; background: var(--panel-2);
     color: var(--link); font-size: 0.9rem; line-height: 1.5; text-decoration: none; white-space: nowrap;
   }
+  .btn-pair { white-space: nowrap; }
+  @media (max-width: 600px) {
+    .data-table th, .data-table td { padding-left: 0.2rem; padding-right: 0.2rem; }
+    .feed-links a { padding: 0.1rem 0.55rem; margin-right: 0.25rem; }
+  }
   .feed-links a:hover, .feed-links a:focus-visible { border-color: var(--link); background: #fff; }
   .feed-copy.copied { border-color: var(--accent-2); color: var(--accent-2); }
   .feed-copy .copy-msg, .feed-copy.copied .copy-label { display: none; }
   .feed-copy.copied .copy-msg { display: inline; }
   .feed-url { display: block; width: 100%; margin-top: 0.3rem; font-size: 0.8rem; }
   .cal-note { font-size: 0.95rem; color: var(--muted, #555); }
+  .data-table + .cal-note { margin-top: 0.9rem; }
   .cal-footer { text-align: center; font-size: 0.85rem; color: var(--muted, #555); margin-top: 3rem; padding-top: 1.2rem; border-top: 1px solid var(--line, #ddd); }
   .cal-footer a { font-weight: bold; text-decoration: none; }
   .cal-native { font-weight: normal; font-size: 1rem; margin-left: 0.5rem; color: var(--muted, #555); }
@@ -110,7 +116,10 @@ feeds:
   {% for cal in feeds %}
     <section class="rule-section">
       <h2>{{ t(cal.name) }}{% if cal.native %} <span class="cal-native">{{ cal.native }}</span>{% endif %}</h2>
-      <p class="cal-note">{{ t(cal.festivals) }}</p>
+      {% if loop.first %}
+      <p class="cal-note l-mn">Нэмэх нь: iPhone, iPad, Mac дээр <em>Apple</em>; Google хуанли, Android дээр компьютерээсээ <em>Google</em>; Outlook болон бусад програмд <em>Холбоос хуулах</em> дарж, "Subscribe from web" хэсэгт буулгана.</p>
+      <p class="cal-note l-en">To add: on iPhone, iPad or Mac press <em>Apple</em>; for Google Calendar and Android press <em>Google</em> on a computer; for Outlook and other apps press <em>Copy link</em> and paste it into "Subscribe from web".</p>
+      {% endif %}
       {% if cal.tip %}<p class="cal-note">{{ t(cal.tip) }}</p>{% endif %}
       <table class="data-table">
         <thead>
@@ -126,14 +135,14 @@ feeds:
               <td>{{ t(langnames[row[1]]) }}</td>
               <td>{{ t(days[row[2]]) }}</td>
               <td class="feed-links" data-feed="{{ row[0] }}">
-                <a class="feed-apple" href="{{ row[0] }}">Apple</a>
-                <a href="https://calendar.google.com/calendar/render?cid=webcal://gantemur.github.io/cal/{{ row[0] }}">Google</a>
+                <span class="btn-pair"><a class="feed-apple" href="{{ row[0] }}">Apple</a><a href="https://calendar.google.com/calendar/render?cid=webcal://gantemur.github.io/cal/{{ row[0] }}">Google</a></span>
                 <a class="feed-copy" href="{{ row[0] }}"><span class="copy-label"><span class="l-mn">Холбоос хуулах</span><span class="l-en">Copy link</span></span><span class="copy-msg"><span class="l-mn">✓ Хуулагдлаа</span><span class="l-en">✓ Copied</span></span></a>
               </td>
             </tr>
           {% endfor %}
         </tbody>
       </table>
+      <p class="cal-note">{{ t(cal.festivals) }}</p>
     </section>
   {% endfor %}
 
@@ -144,7 +153,7 @@ feeds:
       <li><strong>Google хуанли:</strong> компьютер дээрээ <em>Google</em> дээр дарж баталгаажуулна. Дараа нь Android болон iPhone дээрх Google Calendar аппд мөн гарч ирнэ (харагдахгүй бол аппын тохиргооноос асаагаарай).</li>
       <li><strong>Outlook болон бусад:</strong> <em>Холбоос хуулах</em> дээр дарж, хуулсан хаягаа "Subscribe from web" эсвэл "Add calendar from URL" хэсэгт буулгана.</li>
     </ul>
-    <p class="cal-note">Тоолол маань 2050 он хүртэл тооцоологдсон учраас нэг нэмчихсэн бол сүлжээгүй газар ч санаа амар байж болно. Ямар нэг шинэчлэл хийгдлээ гэхэд захиалсан хуанли түүнийг нь автоматаар тусгана. Харин .ics файлыг татах нь нэг удаагийн үйлдэл.</p>
+    <p class="cal-note">Тоолол маань 2050 он хүртэл тооцоологдсон учраас нэг нэмчихсэн бол сүлжээгүй газар ч санаа амар байж болно. Ямар нэг шинэчлэл хийгдлээ гэхэд захиалсан хуанли түүнийг нь автоматаар тусгана.</p>
   </section>
   <section class="rule-section l-en">
     <h2>How to add</h2>
@@ -153,7 +162,7 @@ feeds:
       <li><strong>Google Calendar:</strong> click <em>Google</em> on a computer and confirm. The calendar then also appears in the Google Calendar app on Android and iPhone (enable it under the app's settings if hidden).</li>
       <li><strong>Outlook and other apps:</strong> click <em>Copy link</em> and paste the address into "Subscribe from web" or "Add calendar from URL".</li>
     </ul>
-    <p class="cal-note">The calendar is computed up to 2050, so once added it keeps working without a connection. If anything is updated, a subscribed calendar picks it up automatically. Downloading the .ics file, on the other hand, is a one-time copy.</p>
+    <p class="cal-note">The calendar is computed up to 2050, so once added it keeps working without a connection. If anything is updated, a subscribed calendar picks it up automatically.</p>
   </section>
 
   <section class="rule-section l-mn">
