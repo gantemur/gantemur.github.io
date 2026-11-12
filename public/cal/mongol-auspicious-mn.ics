@@ -1060,45 +1060,43 @@ DESCRIPTION:Уламжлалт зурхайд сайн өдөрт тооц
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2022-04L-baljinnyam@gantemur.github.io
+UID:mongol-auspicious-mn-2022-04-baljinnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20220503
-DTEND;VALUE=DATE:20220504
+DTSTART;VALUE=DATE:20220602
+DTEND;VALUE=DATE:20220603
 SUMMARY:Балжинням
 DESCRIPTION:Уламжлалт зурхайд сайн өдөрт тооц
- дог.\nЗуны эхэн (илүү) хөхөгчин могой сар
+ дог.\nЗуны эхэн хөхөгчин могой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2022-04L-modon_khokhimoi@gantemur.github.io
+UID:mongol-auspicious-mn-2022-04-modon_khokhimoi@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20220505
-DTEND;VALUE=DATE:20220506
+DTSTART;VALUE=DATE:20220603
+DTEND;VALUE=DATE:20220604
 SUMMARY:Модон хохимой
 DESCRIPTION:Уламжлалт зурхайд цээртэй өдөрт т
- ооцдог.\nЗуны эхэн (илүү) хөхөгчин могой с
- ар
+ ооцдог.\nЗуны эхэн хөхөгчин могой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2022-04L-tersuud@gantemur.github.io
+UID:mongol-auspicious-mn-2022-04-tersuud@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20220508
-DTEND;VALUE=DATE:20220509
+DTSTART;VALUE=DATE:20220606
+DTEND;VALUE=DATE:20220607
 SUMMARY:Тэрсүүд
 DESCRIPTION:Уламжлалт зурхайд цээртэй өдөрт т
- ооцдог.\nЗуны эхэн (илүү) хөхөгчин могой с
- ар
+ ооцдог.\nЗуны эхэн хөхөгчин могой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2022-04L-dashnyam@gantemur.github.io
+UID:mongol-auspicious-mn-2022-04-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20220510
-DTEND;VALUE=DATE:20220511
+DTSTART;VALUE=DATE:20220608
+DTEND;VALUE=DATE:20220609
 SUMMARY:Дашням
 DESCRIPTION:Уламжлалт зурхайд сайн өдөрт тооц
- дог.\nЗуны эхэн (илүү) хөхөгчин могой сар
+ дог.\nЗуны эхэн хөхөгчин могой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2232,45 +2230,43 @@ DESCRIPTION:Уламжлалт зурхайд сайн өдөрт тооц
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2024-12L-baljinnyam@gantemur.github.io
+UID:mongol-auspicious-mn-2024-12-baljinnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20250108
-DTEND;VALUE=DATE:20250109
+DTSTART;VALUE=DATE:20250206
+DTEND;VALUE=DATE:20250207
 SUMMARY:Балжинням
 DESCRIPTION:Уламжлалт зурхайд сайн өдөрт тооц
- дог.\nӨвлийн сүүл (илүү) улаагчин үхэр сар
+ дог.\nӨвлийн сүүл улаагчин үхэр сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2024-12L-dashnyam@gantemur.github.io
+UID:mongol-auspicious-mn-2024-12-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20250109
-DTEND;VALUE=DATE:20250110
+DTSTART;VALUE=DATE:20250207
+DTEND;VALUE=DATE:20250208
 SUMMARY:Дашням
 DESCRIPTION:Уламжлалт зурхайд сайн өдөрт тооц
- дог.\nӨвлийн сүүл (илүү) улаагчин үхэр сар
+ дог.\nӨвлийн сүүл улаагчин үхэр сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2024-12L-tersuud@gantemur.github.io
+UID:mongol-auspicious-mn-2024-12-tersuud@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20250120
-DTEND;VALUE=DATE:20250121
+DTSTART;VALUE=DATE:20250218
+DTEND;VALUE=DATE:20250219
 SUMMARY:Тэрсүүд
 DESCRIPTION:Уламжлалт зурхайд цээртэй өдөрт т
- ооцдог.\nӨвлийн сүүл (илүү) улаагчин үхэр 
- сар
+ ооцдог.\nӨвлийн сүүл улаагчин үхэр сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2024-12L-modon_khokhimoi@gantemur.github.io
+UID:mongol-auspicious-mn-2024-12-modon_khokhimoi@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20250128
-DTEND;VALUE=DATE:20250129
+DTSTART;VALUE=DATE:20250227
+DTEND;VALUE=DATE:20250228
 SUMMARY:Модон хохимой
 DESCRIPTION:Уламжлалт зурхайд цээртэй өдөрт т
- ооцдог.\nӨвлийн сүүл (илүү) улаагчин үхэр 
- сар
+ ооцдог.\nӨвлийн сүүл улаагчин үхэр сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3446,35 +3442,33 @@ DESCRIPTION:Уламжлалт зурхайд цээртэй өдөрт т
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2027-09L-baljinnyam-dashnyam@gantemur.github.io
+UID:mongol-auspicious-mn-2027-09-baljinnyam-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20271002
-DTEND;VALUE=DATE:20271003
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
 SUMMARY:Балжинням · Дашням
 DESCRIPTION:Уламжлалт зурхайд сайн өдөрт тооц
- дог.\nНамрын сүүл (илүү) цагаан нохой сар
+ дог.\nНамрын сүүл цагаан нохой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2027-09L-modon_khokhimoi@gantemur.github.io
+UID:mongol-auspicious-mn-2027-09-modon_khokhimoi@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20271009
-DTEND;VALUE=DATE:20271010
+DTSTART;VALUE=DATE:20271107
+DTEND;VALUE=DATE:20271108
 SUMMARY:Модон хохимой
 DESCRIPTION:Уламжлалт зурхайд цээртэй өдөрт т
- ооцдог.\nНамрын сүүл (илүү) цагаан нохой с
- ар
+ ооцдог.\nНамрын сүүл цагаан нохой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2027-09L-tersuud@gantemur.github.io
+UID:mongol-auspicious-mn-2027-09-tersuud@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20271017
-DTEND;VALUE=DATE:20271018
+DTSTART;VALUE=DATE:20271115
+DTEND;VALUE=DATE:20271116
 SUMMARY:Тэрсүүд
 DESCRIPTION:Уламжлалт зурхайд цээртэй өдөрт т
- ооцдог.\nНамрын сүүл (илүү) цагаан нохой с
- ар
+ ооцдог.\nНамрын сүүл цагаан нохой сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4619,34 +4613,33 @@ DESCRIPTION:Уламжлалт зурхайд сайн өдөрт тооц
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2030-05L-baljinnyam@gantemur.github.io
+UID:mongol-auspicious-mn-2030-05-baljinnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20300604
-DTEND;VALUE=DATE:20300605
+DTSTART;VALUE=DATE:20300703
+DTEND;VALUE=DATE:20300704
 SUMMARY:Балжинням
 DESCRIPTION:Уламжлалт зурхайд сайн өдөрт тооц
- дог.\nЗуны дунд (илүү) хар морь сар
+ дог.\nЗуны дунд хар морь сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2030-05L-dashnyam@gantemur.github.io
+UID:mongol-auspicious-mn-2030-05-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20300605
-DTEND;VALUE=DATE:20300606
+DTSTART;VALUE=DATE:20300704
+DTEND;VALUE=DATE:20300705
 SUMMARY:Дашням
 DESCRIPTION:Уламжлалт зурхайд сайн өдөрт тооц
- дог.\nЗуны дунд (илүү) хар морь сар
+ дог.\nЗуны дунд хар морь сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2030-05L-modon_khokhimoi-tersuud@gantemur.github.i
- o
+UID:mongol-auspicious-mn-2030-05-modon_khokhimoi-tersuud@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20300606
-DTEND;VALUE=DATE:20300607
+DTSTART;VALUE=DATE:20300705
+DTEND;VALUE=DATE:20300706
 SUMMARY:Модон хохимой · Тэрсүүд
 DESCRIPTION:Уламжлалт зурхайд цээртэй өдөрт т
- ооцдог.\nЗуны дунд (илүү) хар морь сар
+ ооцдог.\nЗуны дунд хар морь сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5822,47 +5815,43 @@ DESCRIPTION:Уламжлалт зурхайд цээртэй өдөрт т
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2033-02L-modon_khokhimoi@gantemur.github.io
+UID:mongol-auspicious-mn-2033-02-modon_khokhimoi@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20330303
-DTEND;VALUE=DATE:20330304
+DTSTART;VALUE=DATE:20330401
+DTEND;VALUE=DATE:20330402
 SUMMARY:Модон хохимой
 DESCRIPTION:Уламжлалт зурхайд цээртэй өдөрт т
- ооцдог.\nХаврын дунд (илүү) хөхөгчин туул
- ай сар
+ ооцдог.\nХаврын дунд хөхөгчин туулай сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2033-02L-dashnyam@gantemur.github.io
+UID:mongol-auspicious-mn-2033-02-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20330304
-DTEND;VALUE=DATE:20330305
+DTSTART;VALUE=DATE:20330402
+DTEND;VALUE=DATE:20330403
 SUMMARY:Дашням
 DESCRIPTION:Уламжлалт зурхайд сайн өдөрт тооц
- дог.\nХаврын дунд (илүү) хөхөгчин туулай с
- ар
+ дог.\nХаврын дунд хөхөгчин туулай сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2033-02L-baljinnyam@gantemur.github.io
+UID:mongol-auspicious-mn-2033-02-baljinnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20330308
-DTEND;VALUE=DATE:20330309
+DTSTART;VALUE=DATE:20330407
+DTEND;VALUE=DATE:20330408
 SUMMARY:Балжинням
 DESCRIPTION:Уламжлалт зурхайд сайн өдөрт тооц
- дог.\nХаврын дунд (илүү) хөхөгчин туулай с
- ар
+ дог.\nХаврын дунд хөхөгчин туулай сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2033-02L-tersuud@gantemur.github.io
+UID:mongol-auspicious-mn-2033-02-tersuud@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20330311
-DTEND;VALUE=DATE:20330312
+DTSTART;VALUE=DATE:20330410
+DTEND;VALUE=DATE:20330411
 SUMMARY:Тэрсүүд
 DESCRIPTION:Уламжлалт зурхайд цээртэй өдөрт т
- ооцдог.\nХаврын дунд (илүү) хөхөгчин туул
- ай сар
+ ооцдог.\nХаврын дунд хөхөгчин туулай сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6988,47 +6977,43 @@ DESCRIPTION:Уламжлалт зурхайд цээртэй өдөрт т
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2035-10L-dashnyam@gantemur.github.io
+UID:mongol-auspicious-mn-2035-10-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20351101
-DTEND;VALUE=DATE:20351102
+DTSTART;VALUE=DATE:20351130
+DTEND;VALUE=DATE:20351201
 SUMMARY:Дашням
 DESCRIPTION:Уламжлалт зурхайд сайн өдөрт тооц
- дог.\nӨвлийн эхэн (илүү) улаагчин гахай са
- р
+ дог.\nӨвлийн эхэн улаагчин гахай сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2035-10L-baljinnyam@gantemur.github.io
+UID:mongol-auspicious-mn-2035-10-baljinnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20351116
-DTEND;VALUE=DATE:20351117
+DTSTART;VALUE=DATE:20351215
+DTEND;VALUE=DATE:20351216
 SUMMARY:Балжинням
 DESCRIPTION:Уламжлалт зурхайд сайн өдөрт тооц
- дог.\nӨвлийн эхэн (илүү) улаагчин гахай са
- р
+ дог.\nӨвлийн эхэн улаагчин гахай сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2035-10L-modon_khokhimoi@gantemur.github.io
+UID:mongol-auspicious-mn-2035-10-modon_khokhimoi@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20351119
-DTEND;VALUE=DATE:20351120
+DTSTART;VALUE=DATE:20351218
+DTEND;VALUE=DATE:20351219
 SUMMARY:Модон хохимой
 DESCRIPTION:Уламжлалт зурхайд цээртэй өдөрт т
- ооцдог.\nӨвлийн эхэн (илүү) улаагчин гаха
- й сар
+ ооцдог.\nӨвлийн эхэн улаагчин гахай сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2035-10L-tersuud@gantemur.github.io
+UID:mongol-auspicious-mn-2035-10-tersuud@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20351124
-DTEND;VALUE=DATE:20351125
+DTSTART;VALUE=DATE:20351224
+DTEND;VALUE=DATE:20351225
 SUMMARY:Тэрсүүд
 DESCRIPTION:Уламжлалт зурхайд цээртэй өдөрт т
- ооцдог.\nӨвлийн эхэн (илүү) улаагчин гаха
- й сар
+ ооцдог.\nӨвлийн эхэн улаагчин гахай сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -8214,43 +8199,43 @@ DESCRIPTION:Уламжлалт зурхайд сайн өдөрт тооц
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2038-07L-tersuud@gantemur.github.io
+UID:mongol-auspicious-mn-2038-07-tersuud@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20380801
-DTEND;VALUE=DATE:20380802
+DTSTART;VALUE=DATE:20380831
+DTEND;VALUE=DATE:20380901
 SUMMARY:Тэрсүүд
 DESCRIPTION:Уламжлалт зурхайд цээртэй өдөрт т
- ооцдог.\nНамрын эхэн (илүү) цагаан бич сар
+ ооцдог.\nНамрын эхэн цагаан бич сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2038-07L-baljinnyam@gantemur.github.io
+UID:mongol-auspicious-mn-2038-07-baljinnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20380803
-DTEND;VALUE=DATE:20380804
+DTSTART;VALUE=DATE:20380902
+DTEND;VALUE=DATE:20380903
 SUMMARY:Балжинням
 DESCRIPTION:Уламжлалт зурхайд сайн өдөрт тооц
- дог.\nНамрын эхэн (илүү) цагаан бич сар
+ дог.\nНамрын эхэн цагаан бич сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2038-07L-modon_khokhimoi@gantemur.github.io
+UID:mongol-auspicious-mn-2038-07-modon_khokhimoi@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20380807
-DTEND;VALUE=DATE:20380808
+DTSTART;VALUE=DATE:20380905
+DTEND;VALUE=DATE:20380906
 SUMMARY:Модон хохимой
 DESCRIPTION:Уламжлалт зурхайд цээртэй өдөрт т
- ооцдог.\nНамрын эхэн (илүү) цагаан бич сар
+ ооцдог.\nНамрын эхэн цагаан бич сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2038-07L-dashnyam@gantemur.github.io
+UID:mongol-auspicious-mn-2038-07-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20380817
-DTEND;VALUE=DATE:20380818
+DTSTART;VALUE=DATE:20380916
+DTEND;VALUE=DATE:20380917
 SUMMARY:Дашням
 DESCRIPTION:Уламжлалт зурхайд сайн өдөрт тооц
- дог.\nНамрын эхэн (илүү) цагаан бич сар
+ дог.\nНамрын эхэн цагаан бич сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -9386,43 +9371,43 @@ DESCRIPTION:Уламжлалт зурхайд цээртэй өдөрт т
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2041-03L-dashnyam@gantemur.github.io
+UID:mongol-auspicious-mn-2041-03-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20410401
-DTEND;VALUE=DATE:20410402
+DTSTART;VALUE=DATE:20410501
+DTEND;VALUE=DATE:20410502
 SUMMARY:Дашням
 DESCRIPTION:Уламжлалт зурхайд сайн өдөрт тооц
- дог.\nХаврын сүүл (илүү) хар луу сар
+ дог.\nХаврын сүүл хар луу сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2041-03L-modon_khokhimoi@gantemur.github.io
+UID:mongol-auspicious-mn-2041-03-modon_khokhimoi@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20410403
-DTEND;VALUE=DATE:20410404
+DTSTART;VALUE=DATE:20410503
+DTEND;VALUE=DATE:20410504
 SUMMARY:Модон хохимой
 DESCRIPTION:Уламжлалт зурхайд цээртэй өдөрт т
- ооцдог.\nХаврын сүүл (илүү) хар луу сар
+ ооцдог.\nХаврын сүүл хар луу сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2041-03L-tersuud@gantemur.github.io
+UID:mongol-auspicious-mn-2041-03-tersuud@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20410410
-DTEND;VALUE=DATE:20410411
+DTSTART;VALUE=DATE:20410509
+DTEND;VALUE=DATE:20410510
 SUMMARY:Тэрсүүд
 DESCRIPTION:Уламжлалт зурхайд цээртэй өдөрт т
- ооцдог.\nХаврын сүүл (илүү) хар луу сар
+ ооцдог.\nХаврын сүүл хар луу сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2041-03L-baljinnyam@gantemur.github.io
+UID:mongol-auspicious-mn-2041-03-baljinnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20410411
-DTEND;VALUE=DATE:20410412
+DTSTART;VALUE=DATE:20410510
+DTEND;VALUE=DATE:20410511
 SUMMARY:Балжинням
 DESCRIPTION:Уламжлалт зурхайд сайн өдөрт тооц
- дог.\nХаврын сүүл (илүү) хар луу сар
+ дог.\nХаврын сүүл хар луу сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -10586,45 +10571,43 @@ DESCRIPTION:Уламжлалт зурхайд сайн өдөрт тооц
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2043-12L-baljinnyam@gantemur.github.io
+UID:mongol-auspicious-mn-2043-12-baljinnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20440109
-DTEND;VALUE=DATE:20440110
+DTSTART;VALUE=DATE:20440207
+DTEND;VALUE=DATE:20440208
 SUMMARY:Балжинням
 DESCRIPTION:Уламжлалт зурхайд сайн өдөрт тооц
- дог.\nӨвлийн сүүл (илүү) хөхөгчин үхэр сар
+ дог.\nӨвлийн сүүл хөхөгчин үхэр сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2043-12L-dashnyam@gantemur.github.io
+UID:mongol-auspicious-mn-2043-12-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20440110
-DTEND;VALUE=DATE:20440111
+DTSTART;VALUE=DATE:20440208
+DTEND;VALUE=DATE:20440209
 SUMMARY:Дашням
 DESCRIPTION:Уламжлалт зурхайд сайн өдөрт тооц
- дог.\nӨвлийн сүүл (илүү) хөхөгчин үхэр сар
+ дог.\nӨвлийн сүүл хөхөгчин үхэр сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2043-12L-tersuud@gantemur.github.io
+UID:mongol-auspicious-mn-2043-12-tersuud@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20440120
-DTEND;VALUE=DATE:20440121
+DTSTART;VALUE=DATE:20440219
+DTEND;VALUE=DATE:20440220
 SUMMARY:Тэрсүүд
 DESCRIPTION:Уламжлалт зурхайд цээртэй өдөрт т
- ооцдог.\nӨвлийн сүүл (илүү) хөхөгчин үхэр 
- сар
+ ооцдог.\nӨвлийн сүүл хөхөгчин үхэр сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2043-12L-modon_khokhimoi@gantemur.github.io
+UID:mongol-auspicious-mn-2043-12-modon_khokhimoi@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20440128
-DTEND;VALUE=DATE:20440129
+DTSTART;VALUE=DATE:20440227
+DTEND;VALUE=DATE:20440228
 SUMMARY:Модон хохимой
 DESCRIPTION:Уламжлалт зурхайд цээртэй өдөрт т
- ооцдог.\nӨвлийн сүүл (илүү) хөхөгчин үхэр 
- сар
+ ооцдог.\nӨвлийн сүүл хөхөгчин үхэр сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -11770,36 +11753,33 @@ DESCRIPTION:Уламжлалт зурхайд сайн өдөрт тооц
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2046-08L-modon_khokhimoi@gantemur.github.io
+UID:mongol-auspicious-mn-2046-08-modon_khokhimoi@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20460908
-DTEND;VALUE=DATE:20460909
+DTSTART;VALUE=DATE:20461007
+DTEND;VALUE=DATE:20461008
 SUMMARY:Модон хохимой
 DESCRIPTION:Уламжлалт зурхайд цээртэй өдөрт т
- ооцдог.\nНамрын дунд (илүү) улаагчин тахи
- а сар
+ ооцдог.\nНамрын дунд улаагчин тахиа сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2046-08L-baljinnyam-dashnyam@gantemur.github.io
+UID:mongol-auspicious-mn-2046-08-baljinnyam-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20460917
-DTEND;VALUE=DATE:20460918
+DTSTART;VALUE=DATE:20461016
+DTEND;VALUE=DATE:20461017
 SUMMARY:Балжинням · Дашням
 DESCRIPTION:Уламжлалт зурхайд сайн өдөрт тооц
- дог.\nНамрын дунд (илүү) улаагчин тахиа са
- р
+ дог.\nНамрын дунд улаагчин тахиа сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2046-08L-tersuud@gantemur.github.io
+UID:mongol-auspicious-mn-2046-08-tersuud@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20460919
-DTEND;VALUE=DATE:20460920
+DTSTART;VALUE=DATE:20461019
+DTEND;VALUE=DATE:20461020
 SUMMARY:Тэрсүүд
 DESCRIPTION:Уламжлалт зурхайд цээртэй өдөрт т
- ооцдог.\nНамрын дунд (илүү) улаагчин тахи
- а сар
+ ооцдог.\nНамрын дунд улаагчин тахиа сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -12983,34 +12963,33 @@ DESCRIPTION:Уламжлалт зурхайд сайн өдөрт тооц
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2049-05L-baljinnyam@gantemur.github.io
+UID:mongol-auspicious-mn-2049-05-baljinnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20490603
-DTEND;VALUE=DATE:20490604
+DTSTART;VALUE=DATE:20490703
+DTEND;VALUE=DATE:20490704
 SUMMARY:Балжинням
 DESCRIPTION:Уламжлалт зурхайд сайн өдөрт тооц
- дог.\nЗуны дунд (илүү) цагаан морь сар
+ дог.\nЗуны дунд цагаан морь сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2049-05L-dashnyam@gantemur.github.io
+UID:mongol-auspicious-mn-2049-05-dashnyam@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20490604
-DTEND;VALUE=DATE:20490605
+DTSTART;VALUE=DATE:20490704
+DTEND;VALUE=DATE:20490705
 SUMMARY:Дашням
 DESCRIPTION:Уламжлалт зурхайд сайн өдөрт тооц
- дог.\nЗуны дунд (илүү) цагаан морь сар
+ дог.\nЗуны дунд цагаан морь сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-auspicious-mn-2049-05L-modon_khokhimoi-tersuud@gantemur.github.i
- o
+UID:mongol-auspicious-mn-2049-05-modon_khokhimoi-tersuud@gantemur.github.io
 DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20490605
-DTEND;VALUE=DATE:20490606
+DTSTART;VALUE=DATE:20490705
+DTEND;VALUE=DATE:20490706
 SUMMARY:Модон хохимой · Тэрсүүд
 DESCRIPTION:Уламжлалт зурхайд цээртэй өдөрт т
- ооцдог.\nЗуны дунд (илүү) цагаан морь сар
+ ооцдог.\nЗуны дунд цагаан морь сар
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
