@@ -11,7 +11,7 @@ langnames:
   dz: { mn: རྫོང་ཁ, en: རྫོང་ཁ }
 days:
   d115: { mn: Шинийн 1 ба 15, en: 1st and 15th }
-  d1: { mn: Зөвхөн шинийн 1, en: 1st only }
+  d1: { mn: Шинийн 1, en: 1st only }
   ausp: { mn: Балжка Дашка, en: Auspicious days }
   d115_tib: { mn: ཚེས་༡ དང་༡༥, en: ཚེས་༡ དང་༡༥ }
   d1_tib: { mn: ཚེས་༡ ཁོ་ན།, en: ཚེས་༡ ཁོ་ན། }
@@ -72,6 +72,8 @@ feeds:
   })();
 </script>
 <style>
+  /* Stop iPhone Safari from enlarging paragraph text in landscape. */
+  html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
   html:not(.ui-en) .l-en,
   html.ui-en .l-mn { display: none !important; }
   .cal-head h1 { max-width: none; }
