@@ -2,7 +2,7 @@
   {
     "id": "geometric-pde-relativity-fluid-dynamics",
     "title": "Geometric PDE, relativity, and fluid dynamics",
-    "summary": "Elliptic and geometric PDE, scalar and boundary mean curvature problems, Einstein constraint equations, and fluid equations, including stability and reconstruction questions from partial observations.",
+    "summary": "Elliptic and geometric PDE, Einstein constraint and mean-curvature problems, and fluid dynamics, including continuous data assimilation from partial velocity observations.",
     "keywords": [
       "PDE",
       "geometric analysis",
@@ -12,8 +12,9 @@
     ],
     "status": "continuing",
     "relatedPublicationIds": [
-      "sicca-goncalves-tsogtgerel-scalar-boundary-mean-curvature-2021",
-      "tsogtgerel-holst-meier-non-cmc-apparent-horizon-2018"
+      "sicca-gantumur-scalar-boundary-mean-curvature-2021",
+      "gantumur-projectional-cda-torus-2026",
+      "holst-gantumur-meier-non-cmc-apparent-horizon-2018"
     ],
     "languages": [
       "en"
@@ -23,7 +24,7 @@
   {
     "id": "numerical-geometric-discretization",
     "title": "Numerical analysis and geometric discretization",
-    "summary": "Adaptive finite and boundary element methods, finite element exterior calculus, discrete exterior calculus, wavelet coordinates, and structure-preserving approximation of differential operators.",
+    "summary": "Adaptive finite and boundary element methods, including optimal W^{1,p} adaptivity, Banach-space relaxed quasi-orthogonality and inf-sup stable Galerkin methods; finite and discrete exterior calculus and wavelet approximation.",
     "keywords": [
       "numerical analysis",
       "adaptive methods",
@@ -34,8 +35,10 @@
     ],
     "status": "continuing",
     "relatedPublicationIds": [
-      "schulz-tsogtgerel-dec-poisson-2020",
-      "tsogtgerel-adaptive-methods-besov-multilevel-2017"
+      "gantumur-optimal-afem-w1p-2026",
+      "gantumur-projection-geometry-quasi-orthogonality-2026",
+      "schulz-gantumur-dec-poisson-2020",
+      "gantumur-besov-multilevel-approximation-2017"
     ],
     "languages": [
       "en"
@@ -45,7 +48,7 @@
   {
     "id": "approximation-adaptivity-neural-realization",
     "title": "Approximation theory, adaptivity, and neural realization",
-    "summary": "Nonlinear approximation, adaptive and multilevel methods, refinable systems, subdivision schemes, and exact neural-network realization of refinement algorithms.",
+    "summary": "Nonlinear and multilevel approximation, refinable and subdivision schemes, and exact ReLU-network realizations of iterative one-dimensional and tensor-product refinement algorithms.",
     "keywords": [
       "approximation theory",
       "nonlinear approximation",
@@ -55,7 +58,9 @@
     ],
     "status": "continuing",
     "relatedPublicationIds": [
-      "bolorkhuu-gantumur-relu-loop-controllers-2026"
+      "gantumur-optimal-afem-w1p-2026",
+      "bolorkhuu-gantumur-relu-loop-controllers-2026",
+      "gantumur-relu-tensor-product-refinement-2026"
     ],
     "languages": [
       "en"
@@ -65,7 +70,7 @@
   {
     "id": "quantum-fields-computational-regularization",
     "title": "Quantum fields and computational regularization",
-    "summary": "Dynamical lattice regulators and computational approaches to quantum field theory, with attention to continuum symmetries, locality, positivity, and computable regularization.",
+    "summary": "Dynamical lattice regulators for Euclidean quantum field theory, with rotational symmetry and reflection positivity at finite cutoff; locality and universality are studied under explicit hypotheses.",
     "keywords": [
       "QFT",
       "lattice regulators",
@@ -74,7 +79,8 @@
     ],
     "status": "current",
     "relatedPublicationIds": [
-      "gantumur-dynamical-lattice-regulators-jhep-2026"
+      "gantumur-dynamical-lattice-regulators-jhep-2026",
+      "gantumur-conditional-euclidean-hamiltonian-reductions-2026"
     ],
     "languages": [
       "en"

@@ -3,7 +3,7 @@
   {% set citation = pub | publicationCitation %}
   {% set links = pub | publicationLinks %}
 
-  <strong class="publication-title">{{ pub.title }}</strong>
+  <strong class="publication-title">{% if pub.titleHtml %}{{ pub.titleHtml | safe }}{% else %}{{ pub.title }}{% endif %}</strong>
   {% if coauthors %}
     <span class="publication-coauthors">{{ coauthors | safe }}</span>
   {% endif %}
