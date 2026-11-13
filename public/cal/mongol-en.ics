@@ -19,8 +19,8 @@ DTSTART;VALUE=DATE:20200109
 DTEND;VALUE=DATE:20200110
 RRULE:FREQ=YEARLY;UNTIL=20501231
 SUMMARY:3rd nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:A three-year-old ox's horns freeze and crack\nThe winter Nine N
+ ines: the 81 days from 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -40,9 +40,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200118
 DTEND;VALUE=DATE:20200119
 RRULE:FREQ=YEARLY;UNTIL=20501231
+EXDATE;VALUE=DATE:20490118
 SUMMARY:4th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:A four-year-old ox's horns freeze and crack\nThe winter Nine Ni
+ nes: the 81 days from 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -62,9 +63,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200127
 DTEND;VALUE=DATE:20200128
 RRULE:FREQ=YEARLY;UNTIL=20501231
+EXDATE;VALUE=DATE:20280127,20320127
 SUMMARY:5th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Porridge set out no longer freezes\nThe winter Nine Nines: the 
+ 81 days from 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -74,9 +76,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200205
 DTEND;VALUE=DATE:20200206
 RRULE:FREQ=YEARLY;UNTIL=20501231
+EXDATE;VALUE=DATE:20230205,20380205,20460205
 SUMMARY:6th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Paths start to show\nThe winter Nine Nines: the 81 days from 22
+  December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -96,9 +99,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200214
 DTEND;VALUE=DATE:20200215
 RRULE:FREQ=YEARLY;UNTIL=20501231
+EXDATE;VALUE=DATE:20290214,20330214,20480214
 SUMMARY:7th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Hilltops turn bare\nThe winter Nine Nines: the 81 days from 22 
+ December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -108,8 +112,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200223
 DTEND;VALUE=DATE:20200224
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 · Last winter month\nLast winter month\, Red Ox m
- onth\nCycle 17\, Year 33\, Yellow Pig
+DESCRIPTION:Lunar day 30 · Last winter month · 8th nine begins · It turn
+ s slushy\nLast winter month\, Red Ox month\nCycle 17\, Year 33\, Yellow Pi
+ g
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -119,9 +124,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200223
 DTEND;VALUE=DATE:20200224
 RRULE:FREQ=YEARLY;UNTIL=20501231
+EXDATE;VALUE=DATE:20200223,20390223,20430223
 SUMMARY:8th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:It turns slushy\nThe winter Nine Nines: the 81 days from 22 Dec
+ ember\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -142,8 +148,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200303
 DTEND;VALUE=DATE:20200304
 SUMMARY:9th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Ordinary warmth returns\nThe winter Nine Nines: the 81 days fro
+ m 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -155,17 +161,6 @@ DTEND;VALUE=DATE:20200310
 SUMMARY:Lunar day 15 · First spring month
 DESCRIPTION:First spring month\, Yellow Tiger month\nCycle 17\, Year 34\, W
  hite Mouse
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-en-2019-nines-end@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20200312
-DTEND;VALUE=DATE:20200313
-SUMMARY:End of the Nine Nines
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -376,9 +371,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20201222
 DTEND;VALUE=DATE:20201223
 RRULE:FREQ=YEARLY;UNTIL=20501231
+EXDATE;VALUE=DATE:20331222,20371222
 SUMMARY:1st nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Milk vodka freezes\nThe winter Nine Nines: the 81 days from 22 
+ December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -398,9 +394,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20201231
 DTEND;VALUE=DATE:20210101
 RRULE:FREQ=YEARLY;UNTIL=20501231
+EXDATE;VALUE=DATE:20241231,20281231
 SUMMARY:2nd nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Double-distilled vodka freezes\nThe winter Nine Nines: the 81 d
+ ays from 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -462,19 +459,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210304
 DTEND;VALUE=DATE:20210305
 SUMMARY:9th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-en-2020-nines-end@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20210313
-DTEND;VALUE=DATE:20210314
-SUMMARY:End of the Nine Nines
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Ordinary warmth returns\nThe winter Nine Nines: the 81 days fro
+ m 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -758,19 +744,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220304
 DTEND;VALUE=DATE:20220305
 SUMMARY:9th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-en-2021-nines-end@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20220313
-DTEND;VALUE=DATE:20220314
-SUMMARY:End of the Nine Nines
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Ordinary warmth returns\nThe winter Nine Nines: the 81 days fro
+ m 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1012,8 +987,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230205
 DTEND;VALUE=DATE:20230206
 SUMMARY:Lunar day 15 · Last winter month
-DESCRIPTION:Last winter month\, Black Ox month\nCycle 17\, Year 36\, Black 
- Tiger
+DESCRIPTION:Lunar day 15 · Last winter month · 6th nine begins · Paths s
+ tart to show\nLast winter month\, Black Ox month\nCycle 17\, Year 36\, Bla
+ ck Tiger
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1044,8 +1020,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230304
 DTEND;VALUE=DATE:20230305
 SUMMARY:9th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Ordinary warmth returns\nThe winter Nine Nines: the 81 days fro
+ m 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1057,17 +1033,6 @@ DTEND;VALUE=DATE:20230308
 SUMMARY:Lunar day 15 · First spring month
 DESCRIPTION:First spring month\, Blue Tiger month\nCycle 17\, Year 37\, Bla
  ck Rabbit
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-en-2022-nines-end@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20230313
-DTEND;VALUE=DATE:20230314
-SUMMARY:End of the Nine Nines
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1340,8 +1305,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240303
 DTEND;VALUE=DATE:20240304
 SUMMARY:9th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Ordinary warmth returns\nThe winter Nine Nines: the 81 days fro
+ m 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1353,17 +1318,6 @@ DTEND;VALUE=DATE:20240312
 SUMMARY:Lunar day 1 · Middle spring month
 DESCRIPTION:Middle spring month\, Red Rabbit month\nCycle 17\, Year 38\, Bl
  ue Dragon
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-en-2023-nines-end@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20240312
-DTEND;VALUE=DATE:20240313
-SUMMARY:End of the Nine Nines
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1564,8 +1518,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20241231
 DTEND;VALUE=DATE:20250101
 SUMMARY:Lunar day 1 · Last winter month (Leap)
-DESCRIPTION:Last winter month (Leap)\, Red Ox month\nCycle 17\, Year 38\, B
- lue Dragon
+DESCRIPTION:Lunar day 1 · Last winter month (Leap) · 2nd nine begins · D
+ ouble-distilled vodka freezes\nLast winter month (Leap)\, Red Ox month\nCy
+ cle 17\, Year 38\, Blue Dragon
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1626,19 +1581,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250304
 DTEND;VALUE=DATE:20250305
 SUMMARY:9th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-en-2024-nines-end@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20250313
-DTEND;VALUE=DATE:20250314
-SUMMARY:End of the Nine Nines
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Ordinary warmth returns\nThe winter Nine Nines: the 81 days fro
+ m 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1912,19 +1856,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260304
 DTEND;VALUE=DATE:20260305
 SUMMARY:9th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-en-2025-nines-end@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20260313
-DTEND;VALUE=DATE:20260314
-SUMMARY:End of the Nine Nines
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Ordinary warmth returns\nThe winter Nine Nines: the 81 days fro
+ m 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2198,8 +2131,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
 SUMMARY:9th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Ordinary warmth returns\nThe winter Nine Nines: the 81 days fro
+ m 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2211,17 +2144,6 @@ DTEND;VALUE=DATE:20270310
 SUMMARY:Lunar day 1 · Middle spring month
 DESCRIPTION:Middle spring month\, Black Rabbit month\nCycle 17\, Year 41\, 
  Red Sheep
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-en-2026-nines-end@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20270313
-DTEND;VALUE=DATE:20270314
-SUMMARY:End of the Nine Nines
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2452,8 +2374,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280127
 DTEND;VALUE=DATE:20280128
 SUMMARY:Lunar day 1 · Last winter month
-DESCRIPTION:Last winter month\, Black Ox month\nCycle 17\, Year 41\, Red Sh
- eep
+DESCRIPTION:Lunar day 1 · Last winter month · 5th nine begins · Porridge
+  set out no longer freezes\nLast winter month\, Black Ox month\nCycle 17\,
+  Year 41\, Red Sheep
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2494,8 +2417,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280303
 DTEND;VALUE=DATE:20280304
 SUMMARY:9th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Ordinary warmth returns\nThe winter Nine Nines: the 81 days fro
+ m 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2507,17 +2430,6 @@ DTEND;VALUE=DATE:20280312
 SUMMARY:Lunar day 15 · First spring month
 DESCRIPTION:First spring month\, Blue Tiger month\nCycle 17\, Year 42\, Yel
  low Monkey
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-en-2027-nines-end@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20280312
-DTEND;VALUE=DATE:20280313
-SUMMARY:End of the Nine Nines
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2718,8 +2630,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20281231
 DTEND;VALUE=DATE:20290101
 SUMMARY:Lunar day 15 · Middle winter month
-DESCRIPTION:Middle winter month\, Blue Mouse month\nCycle 17\, Year 42\, Ye
- llow Monkey
+DESCRIPTION:Lunar day 15 · Middle winter month · 2nd nine begins · Doubl
+ e-distilled vodka freezes\nMiddle winter month\, Blue Mouse month\nCycle 1
+ 7\, Year 42\, Yellow Monkey
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2759,8 +2672,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290214
 DTEND;VALUE=DATE:20290215
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month\nFirst spring month\, Red Tig
- er month\nCycle 17\, Year 43\, Yellow Bird
+DESCRIPTION:Lunar day 1 · First spring month · 7th nine begins · Hilltop
+ s turn bare\nFirst spring month\, Red Tiger month\nCycle 17\, Year 43\, Ye
+ llow Bird
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2780,19 +2694,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290304
 DTEND;VALUE=DATE:20290305
 SUMMARY:9th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-en-2028-nines-end@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20290313
-DTEND;VALUE=DATE:20290314
-SUMMARY:End of the Nine Nines
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Ordinary warmth returns\nThe winter Nine Nines: the 81 days fro
+ m 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3056,8 +2959,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300304
 DTEND;VALUE=DATE:20300305
 SUMMARY:9th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Ordinary warmth returns\nThe winter Nine Nines: the 81 days fro
+ m 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3069,17 +2972,6 @@ DTEND;VALUE=DATE:20300306
 SUMMARY:Lunar day 1 · Middle spring month
 DESCRIPTION:Middle spring month\, Yellow Rabbit month\nCycle 17\, Year 44\,
   White Dog
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-en-2029-nines-end@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20300313
-DTEND;VALUE=DATE:20300314
-SUMMARY:End of the Nine Nines
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3352,8 +3244,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310304
 DTEND;VALUE=DATE:20310305
 SUMMARY:9th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Ordinary warmth returns\nThe winter Nine Nines: the 81 days fro
+ m 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3365,17 +3257,6 @@ DTEND;VALUE=DATE:20310310
 SUMMARY:Lunar day 15 · First spring month
 DESCRIPTION:First spring month\, White Tiger month\nCycle 17\, Year 45\, Wh
  ite Pig
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-en-2030-nines-end@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20310313
-DTEND;VALUE=DATE:20310314
-SUMMARY:End of the Nine Nines
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3596,8 +3477,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320127
 DTEND;VALUE=DATE:20320128
 SUMMARY:Lunar day 15 · Last winter month
-DESCRIPTION:Last winter month\, White Ox month\nCycle 17\, Year 45\, White 
- Pig
+DESCRIPTION:Lunar day 15 · Last winter month · 5th nine begins · Porridg
+ e set out no longer freezes\nLast winter month\, White Ox month\nCycle 17\
+ , Year 45\, White Pig
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3638,19 +3520,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320303
 DTEND;VALUE=DATE:20320304
 SUMMARY:9th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-en-2031-nines-end@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20320312
-DTEND;VALUE=DATE:20320313
-SUMMARY:End of the Nine Nines
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Ordinary warmth returns\nThe winter Nine Nines: the 81 days fro
+ m 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3904,8 +3775,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330214
 DTEND;VALUE=DATE:20330215
 SUMMARY:Lunar day 15 · First spring month
-DESCRIPTION:First spring month\, Blue Tiger month\nCycle 17\, Year 47\, Bla
- ck Ox
+DESCRIPTION:Lunar day 15 · First spring month · 7th nine begins · Hillto
+ ps turn bare\nFirst spring month\, Blue Tiger month\nCycle 17\, Year 47\, 
+ Black Ox
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3924,19 +3796,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330304
 DTEND;VALUE=DATE:20330305
 SUMMARY:9th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-en-2032-nines-end@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20330313
-DTEND;VALUE=DATE:20330314
-SUMMARY:End of the Nine Nines
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Ordinary warmth returns\nThe winter Nine Nines: the 81 days fro
+ m 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4138,8 +3999,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20331222
 DTEND;VALUE=DATE:20331223
 SUMMARY:Lunar day 1 · Middle winter month
-DESCRIPTION:Middle winter month\, Blue Mouse month\nCycle 17\, Year 47\, Bl
- ack Ox
+DESCRIPTION:Lunar day 1 · Middle winter month · 1st nine begins · Milk v
+ odka freezes\nMiddle winter month\, Blue Mouse month\nCycle 17\, Year 47\,
+  Black Ox
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4195,35 +4057,14 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-en-2033-nine9@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20340304
-DTEND;VALUE=DATE:20340305
-SUMMARY:9th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-en-2034-01-d15@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340304
 DTEND;VALUE=DATE:20340305
 SUMMARY:Lunar day 15 · First spring month
-DESCRIPTION:First spring month\, Red Tiger month\nCycle 17\, Year 48\, Blue
-  Tiger
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-en-2033-nines-end@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20340313
-DTEND;VALUE=DATE:20340314
-SUMMARY:End of the Nine Nines
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
+DESCRIPTION:Lunar day 15 · First spring month · 9th nine begins · Ordina
+ ry warmth returns\nFirst spring month\, Red Tiger month\nCycle 17\, Year 4
+ 8\, Blue Tiger
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4498,8 +4339,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350304
 DTEND;VALUE=DATE:20350305
 SUMMARY:9th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Ordinary warmth returns\nThe winter Nine Nines: the 81 days fro
+ m 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4511,17 +4352,6 @@ DTEND;VALUE=DATE:20350311
 SUMMARY:Lunar day 1 · Middle spring month
 DESCRIPTION:Middle spring month\, Yellow Rabbit month\nCycle 17\, Year 49\,
   Blue Rabbit
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-en-2034-nines-end@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20350313
-DTEND;VALUE=DATE:20350314
-SUMMARY:End of the Nine Nines
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4784,19 +4614,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360303
 DTEND;VALUE=DATE:20360304
 SUMMARY:9th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-en-2035-nines-end@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20360312
-DTEND;VALUE=DATE:20360313
-SUMMARY:End of the Nine Nines
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Ordinary warmth returns\nThe winter Nine Nines: the 81 days fro
+ m 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5080,19 +4899,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370304
 DTEND;VALUE=DATE:20370305
 SUMMARY:9th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-en-2036-nines-end@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20370313
-DTEND;VALUE=DATE:20370314
-SUMMARY:End of the Nine Nines
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Ordinary warmth returns\nThe winter Nine Nines: the 81 days fro
+ m 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5304,8 +5112,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20371222
 DTEND;VALUE=DATE:20371223
 SUMMARY:Lunar day 15 · Middle winter month
-DESCRIPTION:Middle winter month\, Black Mouse month\nCycle 17\, Year 51\, R
- ed Snake
+DESCRIPTION:Lunar day 15 · Middle winter month · 1st nine begins · Milk 
+ vodka freezes\nMiddle winter month\, Black Mouse month\nCycle 17\, Year 51
+ \, Red Snake
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5345,8 +5154,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380205
 DTEND;VALUE=DATE:20380206
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month\nFirst spring month\, Blue Ti
- ger month\nCycle 17\, Year 52\, Yellow Horse
+DESCRIPTION:Lunar day 1 · First spring month · 6th nine begins · Paths s
+ tart to show\nFirst spring month\, Blue Tiger month\nCycle 17\, Year 52\, 
+ Yellow Horse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5366,8 +5176,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380304
 DTEND;VALUE=DATE:20380305
 SUMMARY:9th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Ordinary warmth returns\nThe winter Nine Nines: the 81 days fro
+ m 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5379,17 +5189,6 @@ DTEND;VALUE=DATE:20380307
 SUMMARY:Lunar day 1 · Middle spring month
 DESCRIPTION:Middle spring month\, Blue Rabbit month\nCycle 17\, Year 52\, Y
  ellow Horse
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-en-2037-nines-end@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20380313
-DTEND;VALUE=DATE:20380314
-SUMMARY:End of the Nine Nines
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5630,8 +5429,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390223
 DTEND;VALUE=DATE:20390224
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 · Last winter month\nLast winter month\, Blue Ox 
- month\nCycle 17\, Year 52\, Yellow Horse
+DESCRIPTION:Lunar day 30 · Last winter month · 8th nine begins · It turn
+ s slushy\nLast winter month\, Blue Ox month\nCycle 17\, Year 52\, Yellow H
+ orse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5652,8 +5452,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390304
 DTEND;VALUE=DATE:20390305
 SUMMARY:9th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Ordinary warmth returns\nThe winter Nine Nines: the 81 days fro
+ m 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5665,17 +5465,6 @@ DTEND;VALUE=DATE:20390311
 SUMMARY:Lunar day 15 · First spring month
 DESCRIPTION:First spring month\, Red Tiger month\nCycle 17\, Year 53\, Yell
  ow Sheep
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-en-2038-nines-end@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20390313
-DTEND;VALUE=DATE:20390314
-SUMMARY:End of the Nine Nines
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5938,19 +5727,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400303
 DTEND;VALUE=DATE:20400304
 SUMMARY:9th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-en-2039-nines-end@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20400312
-DTEND;VALUE=DATE:20400313
-SUMMARY:End of the Nine Nines
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Ordinary warmth returns\nThe winter Nine Nines: the 81 days fro
+ m 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6224,19 +6002,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410304
 DTEND;VALUE=DATE:20410305
 SUMMARY:9th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-en-2040-nines-end@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20410313
-DTEND;VALUE=DATE:20410314
-SUMMARY:End of the Nine Nines
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Ordinary warmth returns\nThe winter Nine Nines: the 81 days fro
+ m 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6520,8 +6287,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420304
 DTEND;VALUE=DATE:20420305
 SUMMARY:9th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Ordinary warmth returns\nThe winter Nine Nines: the 81 days fro
+ m 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6533,17 +6300,6 @@ DTEND;VALUE=DATE:20420307
 SUMMARY:Lunar day 15 · First spring month
 DESCRIPTION:First spring month\, Black Tiger month\nCycle 17\, Year 56\, Bl
  ack Dog
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-en-2041-nines-end@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20420313
-DTEND;VALUE=DATE:20420314
-SUMMARY:End of the Nine Nines
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6806,7 +6562,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430223
 DTEND;VALUE=DATE:20430224
 SUMMARY:Lunar day 15 · First spring month
-DESCRIPTION:First spring month\, Blue Tiger month\nCycle 17\, Year 57\, Bla
+DESCRIPTION:Lunar day 15 · First spring month · 8th nine begins · It tur
+ ns slushy\nFirst spring month\, Blue Tiger month\nCycle 17\, Year 57\, Bla
  ck Pig
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6816,8 +6573,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430304
 DTEND;VALUE=DATE:20430305
 SUMMARY:9th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Ordinary warmth returns\nThe winter Nine Nines: the 81 days fro
+ m 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6829,17 +6586,6 @@ DTEND;VALUE=DATE:20430313
 SUMMARY:Lunar day 1 · Middle spring month
 DESCRIPTION:Middle spring month\, Blue Rabbit month\nCycle 17\, Year 57\, B
  lack Pig
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-en-2042-nines-end@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20430313
-DTEND;VALUE=DATE:20430314
-SUMMARY:End of the Nine Nines
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -7102,19 +6848,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440303
 DTEND;VALUE=DATE:20440304
 SUMMARY:9th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-en-2043-nines-end@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20440312
-DTEND;VALUE=DATE:20440313
-SUMMARY:End of the Nine Nines
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Ordinary warmth returns\nThe winter Nine Nines: the 81 days fro
+ m 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7388,19 +7123,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450304
 DTEND;VALUE=DATE:20450305
 SUMMARY:9th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-en-2044-nines-end@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20450313
-DTEND;VALUE=DATE:20450314
-SUMMARY:End of the Nine Nines
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Ordinary warmth returns\nThe winter Nine Nines: the 81 days fro
+ m 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7630,8 +7354,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460205
 DTEND;VALUE=DATE:20460206
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 · Last winter month\nLast winter month\, Yellow O
- x month\nCycle 17\, Year 59\, Blue Ox
+DESCRIPTION:Lunar day 30 · Last winter month · 6th nine begins · Paths s
+ tart to show\nLast winter month\, Yellow Ox month\nCycle 17\, Year 59\, Bl
+ ue Ox
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7662,8 +7387,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460304
 DTEND;VALUE=DATE:20460305
 SUMMARY:9th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Ordinary warmth returns\nThe winter Nine Nines: the 81 days fro
+ m 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7675,17 +7400,6 @@ DTEND;VALUE=DATE:20460309
 SUMMARY:Lunar day 1 · Middle spring month
 DESCRIPTION:Middle spring month\, White Rabbit month\nCycle 17\, Year 60\, 
  Red Tiger
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-en-2045-nines-end@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20460313
-DTEND;VALUE=DATE:20460314
-SUMMARY:End of the Nine Nines
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -7948,8 +7662,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470304
 DTEND;VALUE=DATE:20470305
 SUMMARY:9th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Ordinary warmth returns\nThe winter Nine Nines: the 81 days fro
+ m 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7961,17 +7675,6 @@ DTEND;VALUE=DATE:20470313
 SUMMARY:Lunar day 15 · First spring month
 DESCRIPTION:First spring month\, Black Tiger month\nCycle 18\, Year 1\, Red
   Rabbit
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-en-2046-nines-end@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20470313
-DTEND;VALUE=DATE:20470314
-SUMMARY:End of the Nine Nines
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -8213,8 +7916,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480214
 DTEND;VALUE=DATE:20480215
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month\nFirst spring month\, Blue Ti
- ger month\nCycle 18\, Year 2\, Yellow Dragon
+DESCRIPTION:Lunar day 1 · First spring month · 7th nine begins · Hilltop
+ s turn bare\nFirst spring month\, Blue Tiger month\nCycle 18\, Year 2\, Ye
+ llow Dragon
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8234,19 +7938,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480303
 DTEND;VALUE=DATE:20480304
 SUMMARY:9th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-en-2047-nines-end@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20480312
-DTEND;VALUE=DATE:20480313
-SUMMARY:End of the Nine Nines
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Ordinary warmth returns\nThe winter Nine Nines: the 81 days fro
+ m 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8468,8 +8161,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490118
 DTEND;VALUE=DATE:20490119
 SUMMARY:Lunar day 15 · Last winter month
-DESCRIPTION:Last winter month\, Blue Ox month\nCycle 18\, Year 2\, Yellow D
- ragon
+DESCRIPTION:Lunar day 15 · Last winter month · 4th nine begins · A four-
+ year-old ox's horns freeze and crack\nLast winter month\, Blue Ox month\nC
+ ycle 18\, Year 2\, Yellow Dragon
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -8505,35 +8199,14 @@ DESCRIPTION:First spring month\, Red Tiger month\nCycle 18\, Year 3\, Yello
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-en-2048-nine9@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20490304
-DTEND;VALUE=DATE:20490305
-SUMMARY:9th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mongol-en-2049-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490304
 DTEND;VALUE=DATE:20490305
 SUMMARY:Lunar day 1 · Middle spring month
-DESCRIPTION:Middle spring month\, Red Rabbit month\nCycle 18\, Year 3\, Yel
- low Snake
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-en-2048-nines-end@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20490313
-DTEND;VALUE=DATE:20490314
-SUMMARY:End of the Nine Nines
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
+DESCRIPTION:Lunar day 1 · Middle spring month · 9th nine begins · Ordina
+ ry warmth returns\nMiddle spring month\, Red Rabbit month\nCycle 18\, Year
+  3\, Yellow Snake
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -8806,8 +8479,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500304
 DTEND;VALUE=DATE:20500305
 SUMMARY:9th nine begins
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
+DESCRIPTION:Ordinary warmth returns\nThe winter Nine Nines: the 81 days fro
+ m 22 December\, counted in nines of nine days.
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8819,17 +8492,6 @@ DTEND;VALUE=DATE:20500309
 SUMMARY:Lunar day 15 · First spring month
 DESCRIPTION:First spring month\, Yellow Tiger month\nCycle 18\, Year 4\, Wh
  ite Horse
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mongol-en-2049-nines-end@gantemur.github.io
-DTSTAMP:20261111T000000Z
-DTSTART;VALUE=DATE:20500313
-DTEND;VALUE=DATE:20500314
-SUMMARY:End of the Nine Nines
-DESCRIPTION:The winter Nine Nines: the 81 days from 22 December\, counted i
- n nines of nine days.
-CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
