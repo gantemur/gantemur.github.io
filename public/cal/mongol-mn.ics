@@ -11,6 +11,18 @@ URL:https://gantemur.github.io/cal/
 REFRESH-INTERVAL;VALUE=DURATION:P7D
 X-PUBLISHED-TTL:P7D
 BEGIN:VEVENT
+UID:mongol-mn-nine3@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20200109
+DTEND;VALUE=DATE:20200110
+RRULE:FREQ=YEARLY;UNTIL=20501231
+SUMMARY:3 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-2019-11-d15@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200110
@@ -18,6 +30,18 @@ DTEND;VALUE=DATE:20200111
 SUMMARY:Шинийн 15 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд улаан хулгана сар\n17-р 
  жарны 33 он шарагчин гахай жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-nine4@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20200118
+DTEND;VALUE=DATE:20200119
+RRULE:FREQ=YEARLY;UNTIL=20501231
+SUMMARY:4 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -31,6 +55,30 @@ DESCRIPTION:Өвлийн сүүл улаагчин үхэр сар\n17-р
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-nine5@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20200127
+DTEND;VALUE=DATE:20200128
+RRULE:FREQ=YEARLY;UNTIL=20501231
+SUMMARY:5 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-nine6@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20200205
+DTEND;VALUE=DATE:20200206
+RRULE:FREQ=YEARLY;UNTIL=20501231
+SUMMARY:6 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-2019-12-d15@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200209
@@ -38,6 +86,18 @@ DTEND;VALUE=DATE:20200210
 SUMMARY:Шинийн 15 · Өвлийн сүүл сар
 DESCRIPTION:Өвлийн сүүл улаагчин үхэр сар\n17-р 
  жарны 33 он шарагчин гахай жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-nine7@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20200214
+DTEND;VALUE=DATE:20200215
+RRULE:FREQ=YEARLY;UNTIL=20501231
+SUMMARY:7 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -53,6 +113,18 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-nine8@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20200223
+DTEND;VALUE=DATE:20200224
+RRULE:FREQ=YEARLY;UNTIL=20501231
+SUMMARY:8 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-2020-01-tsagaan_sar@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200224
@@ -65,6 +137,17 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-2019-nine9@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20200303
+DTEND;VALUE=DATE:20200304
+SUMMARY:9 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-2020-01-d15@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200309
@@ -72,6 +155,17 @@ DTEND;VALUE=DATE:20200310
 SUMMARY:Шинийн 15 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн шар барс сар\n17-р жа
  рны 34 он цагаан хулгана жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2019-nines-end@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20200312
+DTEND;VALUE=DATE:20200313
+SUMMARY:Есөн ес дууслаа
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -280,6 +374,18 @@ DESCRIPTION:Өвлийн дунд шар хулгана сар\n17-р жа
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-nine1@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20201222
+DTEND;VALUE=DATE:20201223
+RRULE:FREQ=YEARLY;UNTIL=20501231
+SUMMARY:1 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-2020-11-d15@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20201229
@@ -287,6 +393,18 @@ DTEND;VALUE=DATE:20201230
 SUMMARY:Шинийн 15 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд шар хулгана сар\n17-р жа
  рны 34 он цагаан хулгана жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-nine2@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20201231
+DTEND;VALUE=DATE:20210101
+RRULE:FREQ=YEARLY;UNTIL=20501231
+SUMMARY:2 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -341,6 +459,28 @@ DTEND;VALUE=DATE:20210228
 SUMMARY:Шинийн 15 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн цагаан барс сар\n17-р
   жарны 35 он цагаагчин үхэр жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2020-nine9@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20210304
+DTEND;VALUE=DATE:20210305
+SUMMARY:9 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2020-nines-end@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20210313
+DTEND;VALUE=DATE:20210314
+SUMMARY:Есөн ес дууслаа
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -624,6 +764,28 @@ DESCRIPTION:Хаврын дунд харагчин туулай сар\n17-
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-2021-nine9@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20220304
+DTEND;VALUE=DATE:20220305
+SUMMARY:9 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2021-nines-end@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20220313
+DTEND;VALUE=DATE:20220314
+SUMMARY:Есөн ес дууслаа
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-2022-02-d15@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220318
@@ -893,6 +1055,17 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-2022-nine9@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20230304
+DTEND;VALUE=DATE:20230305
+SUMMARY:9 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-2023-01-d15@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230307
@@ -900,6 +1073,17 @@ DTEND;VALUE=DATE:20230308
 SUMMARY:Шинийн 15 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн хөх барс сар\n17-р жа
  рны 37 он харагчин туулай жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2022-nines-end@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20230313
+DTEND;VALUE=DATE:20230314
+SUMMARY:Есөн ес дууслаа
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1172,6 +1356,17 @@ DESCRIPTION:Хаврын тэргүүн улаан барс сар\n17-р
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-2023-nine9@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20240303
+DTEND;VALUE=DATE:20240304
+SUMMARY:9 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-2024-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240311
@@ -1179,6 +1374,17 @@ DTEND;VALUE=DATE:20240312
 SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд улаагчин туулай сар\n17-
  р жарны 38 он хөх луу жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2023-nines-end@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20240312
+DTEND;VALUE=DATE:20240313
+SUMMARY:Есөн ес дууслаа
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1438,6 +1644,28 @@ DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар (шини
  йн 1 тасарсан)\nХаврын тэргүүн шар барс са
  р\n17-р жарны 39 он хөхөгчин могой жил
 CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2024-nine9@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20250304
+DTEND;VALUE=DATE:20250305
+SUMMARY:9 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2024-nines-end@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20250313
+DTEND;VALUE=DATE:20250314
+SUMMARY:Есөн ес дууслаа
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1708,6 +1936,28 @@ DTEND;VALUE=DATE:20260304
 SUMMARY:Шинийн 15 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн цагаан барс сар\n17-р
   жарны 40 он улаан морин жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2025-nine9@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20260304
+DTEND;VALUE=DATE:20260305
+SUMMARY:9 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2025-nines-end@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260314
+SUMMARY:Есөн ес дууслаа
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1982,6 +2232,17 @@ DESCRIPTION:Хаврын тэргүүн хар барс сар\n17-р жа
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-2026-nine9@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:9 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-2027-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270309
@@ -1989,6 +2250,17 @@ DTEND;VALUE=DATE:20270310
 SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд харагчин туулай сар\n17-
  р жарны 41 он улаагчин хонин жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2026-nines-end@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:Есөн ес дууслаа
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2262,6 +2534,17 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-2027-nine9@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20280303
+DTEND;VALUE=DATE:20280304
+SUMMARY:9 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-2028-01-d15@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280311
@@ -2269,6 +2552,17 @@ DTEND;VALUE=DATE:20280312
 SUMMARY:Шинийн 15 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн хөх барс сар\n17-р жа
  рны 42 он шар бичин жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2027-nines-end@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20280312
+DTEND;VALUE=DATE:20280313
+SUMMARY:Есөн ес дууслаа
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2532,6 +2826,28 @@ DESCRIPTION:Хаврын тэргүүн улаан барс сар\n17-р
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-2028-nine9@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20290304
+DTEND;VALUE=DATE:20290305
+SUMMARY:9 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2028-nines-end@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20290313
+DTEND;VALUE=DATE:20290314
+SUMMARY:Есөн ес дууслаа
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-2029-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290316
@@ -2792,6 +3108,17 @@ DESCRIPTION:Хаврын тэргүүн шар барс сар\n17-р жа
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-2029-nine9@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20300304
+DTEND;VALUE=DATE:20300305
+SUMMARY:9 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-2030-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300305
@@ -2799,6 +3126,17 @@ DTEND;VALUE=DATE:20300306
 SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд шарагчин туулай сар\n17-
  р жарны 44 он цагаан нохой жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2029-nines-end@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20300313
+DTEND;VALUE=DATE:20300314
+SUMMARY:Есөн ес дууслаа
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3071,6 +3409,17 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-2030-nine9@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20310304
+DTEND;VALUE=DATE:20310305
+SUMMARY:9 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-2031-01-d15@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310309
@@ -3078,6 +3427,17 @@ DTEND;VALUE=DATE:20310310
 SUMMARY:Шинийн 15 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн цагаан барс сар\n17-р
   жарны 45 он цагаагчин гахай жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2030-nines-end@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20310313
+DTEND;VALUE=DATE:20310314
+SUMMARY:Есөн ес дууслаа
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3337,6 +3697,28 @@ DTEND;VALUE=DATE:20320227
 SUMMARY:Шинийн 15 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн хар барс сар\n17-р жа
  рны 46 он хар хулгана жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2031-nine9@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20320303
+DTEND;VALUE=DATE:20320304
+SUMMARY:9 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2031-nines-end@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20320312
+DTEND;VALUE=DATE:20320313
+SUMMARY:Есөн ес дууслаа
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3609,6 +3991,28 @@ DESCRIPTION:Хаврын дунд (илүү) хөхөгчин туулай
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-2032-nine9@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20330304
+DTEND;VALUE=DATE:20330305
+SUMMARY:9 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2032-nines-end@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20330313
+DTEND;VALUE=DATE:20330314
+SUMMARY:Есөн ес дууслаа
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-2033-02L-d15@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330315
@@ -3868,6 +4272,17 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-2033-nine9@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20340304
+DTEND;VALUE=DATE:20340305
+SUMMARY:9 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-2034-01-d15@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340304
@@ -3875,6 +4290,17 @@ DTEND;VALUE=DATE:20340305
 SUMMARY:Шинийн 15 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн улаан барс сар\n17-р 
  жарны 48 он хөх бар жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2033-nines-end@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20340313
+DTEND;VALUE=DATE:20340314
+SUMMARY:Есөн ес дууслаа
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4150,6 +4576,17 @@ DESCRIPTION:Хаврын тэргүүн шар барс сар\n17-р жа
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-2034-nine9@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20350304
+DTEND;VALUE=DATE:20350305
+SUMMARY:9 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-2035-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350310
@@ -4157,6 +4594,17 @@ DTEND;VALUE=DATE:20350311
 SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд шарагчин туулай сар\n17-
  р жарны 49 он хөхөгчин туулай жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2034-nines-end@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20350313
+DTEND;VALUE=DATE:20350314
+SUMMARY:Есөн ес дууслаа
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4418,6 +4866,28 @@ DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
  ын тэргүүн цагаан барс сар\n17-р жарны 50 он
   улаан луу жил
 CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2035-nine9@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20360303
+DTEND;VALUE=DATE:20360304
+SUMMARY:9 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2035-nines-end@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20360312
+DTEND;VALUE=DATE:20360313
+SUMMARY:Есөн ес дууслаа
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4702,6 +5172,28 @@ DESCRIPTION:Хаврын тэргүүн хар барс сар\n17-р жа
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-2036-nine9@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20370304
+DTEND;VALUE=DATE:20370305
+SUMMARY:9 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2036-nines-end@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20370313
+DTEND;VALUE=DATE:20370314
+SUMMARY:Есөн ес дууслаа
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-2037-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370317
@@ -4972,6 +5464,17 @@ DESCRIPTION:Хаврын тэргүүн хөх барс сар\n17-р жа
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-2037-nine9@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20380304
+DTEND;VALUE=DATE:20380305
+SUMMARY:9 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-2038-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380306
@@ -4979,6 +5482,17 @@ DTEND;VALUE=DATE:20380307
 SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд хөхөгчин туулай сар\n17-
  р жарны 52 он шар морин жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2037-nines-end@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20380313
+DTEND;VALUE=DATE:20380314
+SUMMARY:Есөн ес дууслаа
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5242,6 +5756,17 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-2038-nine9@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20390304
+DTEND;VALUE=DATE:20390305
+SUMMARY:9 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-2039-01-d15@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390310
@@ -5249,6 +5774,17 @@ DTEND;VALUE=DATE:20390311
 SUMMARY:Шинийн 15 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн улаан барс сар\n17-р 
  жарны 53 он шарагчин хонин жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2038-nines-end@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20390313
+DTEND;VALUE=DATE:20390314
+SUMMARY:Есөн ес дууслаа
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5509,6 +6045,28 @@ DTEND;VALUE=DATE:20400228
 SUMMARY:Шинийн 15 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн шар барс сар\n17-р жа
  рны 54 он цагаан бичин жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2039-nine9@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20400303
+DTEND;VALUE=DATE:20400304
+SUMMARY:9 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2039-nines-end@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20400312
+DTEND;VALUE=DATE:20400313
+SUMMARY:Есөн ес дууслаа
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5779,6 +6337,28 @@ DTEND;VALUE=DATE:20410304
 SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд цагаагчин туулай сар\n1
  7-р жарны 55 он цагаагчин тахиа жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2040-nine9@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20410304
+DTEND;VALUE=DATE:20410305
+SUMMARY:9 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2040-nines-end@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20410313
+DTEND;VALUE=DATE:20410314
+SUMMARY:Есөн ес дууслаа
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6062,6 +6642,17 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-2041-nine9@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20420304
+DTEND;VALUE=DATE:20420305
+SUMMARY:9 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-2042-01-d15@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420306
@@ -6069,6 +6660,17 @@ DTEND;VALUE=DATE:20420307
 SUMMARY:Шинийн 15 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн хар барс сар\n17-р жа
  рны 56 он хар нохой жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2041-nines-end@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20420313
+DTEND;VALUE=DATE:20420314
+SUMMARY:Есөн ес дууслаа
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6341,6 +6943,17 @@ DESCRIPTION:Хаврын тэргүүн хөх барс сар\n17-р жа
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-2042-nine9@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20430304
+DTEND;VALUE=DATE:20430305
+SUMMARY:9 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-2043-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430312
@@ -6348,6 +6961,17 @@ DTEND;VALUE=DATE:20430313
 SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд хөхөгчин туулай сар\n17-
  р жарны 57 он харагчин гахай жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2042-nines-end@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20430313
+DTEND;VALUE=DATE:20430314
+SUMMARY:Есөн ес дууслаа
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6607,6 +7231,28 @@ DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
  ын тэргүүн улаан барс сар\n17-р жарны 58 он 
  хөх хулгана жил
 CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2043-nine9@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20440303
+DTEND;VALUE=DATE:20440304
+SUMMARY:9 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2043-nines-end@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20440312
+DTEND;VALUE=DATE:20440313
+SUMMARY:Есөн ес дууслаа
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6881,6 +7527,28 @@ DESCRIPTION:Хаврын тэргүүн шар барс сар\n17-р жа
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-2044-nine9@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20450304
+DTEND;VALUE=DATE:20450305
+SUMMARY:9 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2044-nines-end@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20450313
+DTEND;VALUE=DATE:20450314
+SUMMARY:Есөн ес дууслаа
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-2045-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450319
@@ -7143,6 +7811,17 @@ DESCRIPTION:Хаврын тэргүүн цагаан барс сар\n17-р
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-2045-nine9@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20460304
+DTEND;VALUE=DATE:20460305
+SUMMARY:9 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-2046-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460308
@@ -7150,6 +7829,17 @@ DTEND;VALUE=DATE:20460309
 SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд цагаагчин туулай сар\n1
  7-р жарны 60 он улаан бар жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2045-nines-end@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20460313
+DTEND;VALUE=DATE:20460314
+SUMMARY:Есөн ес дууслаа
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -7413,6 +8103,17 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-2046-nine9@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20470304
+DTEND;VALUE=DATE:20470305
+SUMMARY:9 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-2047-01-d15@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470312
@@ -7420,6 +8121,17 @@ DTEND;VALUE=DATE:20470313
 SUMMARY:Шинийн 15 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн хар барс сар\n18-р жа
  рны 1 он улаагчин туулай жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2046-nines-end@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20470313
+DTEND;VALUE=DATE:20470314
+SUMMARY:Есөн ес дууслаа
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -7679,6 +8391,28 @@ DTEND;VALUE=DATE:20480301
 SUMMARY:Шинийн 15 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн хөх барс сар\n18-р жа
  рны 2 он шар луу жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2047-nine9@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20480303
+DTEND;VALUE=DATE:20480304
+SUMMARY:9 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2047-nines-end@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20480312
+DTEND;VALUE=DATE:20480313
+SUMMARY:Есөн ес дууслаа
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -7942,6 +8676,17 @@ DESCRIPTION:Хаврын тэргүүн улаан барс сар\n18-р
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-2048-nine9@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20490304
+DTEND;VALUE=DATE:20490305
+SUMMARY:9 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-2049-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490304
@@ -7949,6 +8694,17 @@ DTEND;VALUE=DATE:20490305
 SUMMARY:Шинийн 1 · Хаврын дунд сар
 DESCRIPTION:Хаврын дунд улаагчин туулай сар\n18-
  р жарны 3 он шарагчин могой жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2048-nines-end@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20490313
+DTEND;VALUE=DATE:20490314
+SUMMARY:Есөн ес дууслаа
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -8221,6 +8977,17 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-2049-nine9@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20500304
+DTEND;VALUE=DATE:20500305
+SUMMARY:9 ес эхэлнэ
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-2050-01-d15@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500308
@@ -8228,6 +8995,17 @@ DTEND;VALUE=DATE:20500309
 SUMMARY:Шинийн 15 · Хаврын тэргүүн сар
 DESCRIPTION:Хаврын тэргүүн шар барс сар\n18-р жа
  рны 4 он цагаан морин жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2049-nines-end@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20500313
+DTEND;VALUE=DATE:20500314
+SUMMARY:Есөн ес дууслаа
+DESCRIPTION:Өвлийн есөн ес: 12-р сарын 22-оос хойш
+  81 хоногийг есөн хоногоор тоолно.
+CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
