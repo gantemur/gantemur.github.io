@@ -1,67 +1,86 @@
 ---
 layout: layouts/standalone.njk
-title: Android test · Билгийн тоолол
+title: Туршилт · Билгийн тоолол
 language: mn
 permalink: /cal/android-test/
 noindex: true
-feed: mongol-mn.ics
 ---
 <style>
   html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
   .test-list { list-style: none; padding: 0; }
-  .test-list li { margin: 0 0 1.2rem; padding: 0.8rem 1rem; border: 1px solid var(--line); border-radius: 0.6rem; background: var(--panel-2); }
+  .test-list li { margin: 0 0 1.1rem; padding: 0.8rem 1rem; border: 1px solid var(--line); border-radius: 0.6rem; background: var(--panel-2); }
   .test-list .tag { font-weight: bold; margin-right: 0.4rem; }
-  .test-list a, .test-list button { display: inline-block; margin-top: 0.4rem; padding: 0.2rem 0.9rem; border: 1px solid var(--link); border-radius: 999px; color: var(--link); background: #fff; font: inherit; font-size: 0.95rem; text-decoration: none; cursor: pointer; }
-  .test-note { font-size: 0.9rem; color: var(--muted, #555); margin: 0.3rem 0 0; }
-  #ua { font-family: monospace; font-size: 0.8rem; word-break: break-all; color: var(--muted, #555); }
+  .btn { display: inline-block; margin: 0.4rem 0.4rem 0 0; padding: 0.2rem 0.9rem; border: 1px solid var(--link); border-radius: 999px;
+         color: var(--link); background: #fff; font: inherit; font-size: 0.95rem; text-decoration: none; cursor: pointer; }
+  .note { font-size: 0.9rem; color: var(--muted, #555); margin: 0.3rem 0 0; }
+  .dev { padding: 0.7rem 1rem; border-radius: 0.6rem; background: #fff8ec; border: 1px solid var(--accent-2, #b06a00); }
+  #ua { font-family: monospace; font-size: 0.75rem; word-break: break-all; color: var(--muted, #555); }
 </style>
 
-<h1>Android туршилт</h1>
-<p>Энэ хуудас нь Android утсан дээр Google хуанлид календарь нэмэх аргуудыг турших зориулалттай. Доорх товч бүрийг дарж, юу болсныг (Google Calendar апп нээгдсэн, алдаа гарсан, «Add calendar» цонх гарсан, хоосон хуудас гэх мэт) товч бичиж, боломжтой бол дэлгэцийн зураг илгээнэ үү. Нэг удаа Chrome дээр, нэг удаа Facebook дотроос туршвал хамгийн сайн.</p>
-<p class="test-note">Бүх товч «Монгол билгийн тоолол (шинийн 1 ба 15)» календарийг нэмнэ. Хэд хэдэн аргаар амжилттай нэмэгдвэл давхардсан календарийг Google хуанлийн тохиргооноос устгаж болно.</p>
+<h1>Туршилт</h1>
+<p>Утсан дээрээс Google хуанлид календарь нэмэх аргуудыг шалгаж байна. Товч бүр <strong>өөр өөр «Тест» календарь</strong> нэмнэ (жишээ нь «Тест A»), тиймээс аль арга нь ажилласан нь тодорхой харагдана. Тест календарь 11-р сарын 15-аас 14 хоног өдөр бүр «Тест A» гэх мэт тэмдэглэл харуулаад дуусна; дараа нь устгаж болно.</p>
 
-<p class="test-note">Таны төхөөрөмж: <strong id="dev">…</strong></p>
-<p id="ua"></p>
+<div class="dev">
+  <div>Таны төхөөрөмж: <strong id="dev">…</strong></div>
+  <div class="note" id="fbnote" hidden>Та Facebook (эсвэл өөр апп)-ын дотор нээсэн байна. Эхлээд <strong>ингэж</strong> туршаад, дараа нь цэснээс (⋮ эсвэл …) «Open in browser»-ыг сонгож <strong>дахин</strong> туршвал хамгийн сайн.</div>
+  <div class="note" id="brnote" hidden>Та хөтчөөр (Chrome гэх мэт) нээсэн байна. Боломжтой бол Facebook дотроос нээгээд дахин туршаарай.</div>
+</div>
 
+<h2>1. Товч бүрийг дарна</h2>
 <ol class="test-list">
-  <li><span class="tag">A</span>Одоогийн Google товч (webcal, кодлоогүй).<br>
-    <a id="t-a" href="#">A: Google</a></li>
-  <li><span class="tag">B</span>Ижил хаяг, https болон кодолсон.<br>
-    <a id="t-b" href="#">B: Google (https)</a></li>
-  <li><span class="tag">C</span>Chrome-оор албадан нээх (intent://).<br>
-    <a id="t-c" href="#">C: Chrome-оор</a></li>
-  <li><span class="tag">D</span>Google хуанлийн «From URL» тохиргооны хуудсыг Chrome-оор нээх. Эхлээд «Холбоос хуулах» дарна.<br>
-    <button type="button" id="copy">Холбоос хуулах</button>
-    <a id="t-d" href="#">D: From URL хуудас</a></li>
-  <li><span class="tag">E</span>webcal:// холбоос (ICSx⁵ гэх мэт апп суусан бол түүгээр нээгдэж магадгүй).<br>
-    <a id="t-e" href="#">E: webcal</a></li>
-  <li><span class="tag">F</span>Гараар: Chrome-оор <em>calendar.google.com</em> нээж, ⋮ цэснээс «Desktop site»-ыг асаагаад, ⚙ Тохиргоо → «Add calendar» → «From URL» хэсэгт хуулсан холбоосоо paste хийнэ. Ажилласан эсэхийг бичнэ үү.</li>
+  <li><span class="tag">A</span>Одоогийн Google товч.<br><a class="btn" id="t-a" href="#">A</a></li>
+  <li><span class="tag">B</span>Ижил, гэхдээ https хаягтай.<br><a class="btn" id="t-b" href="#">B</a></li>
+  <li><span class="tag">C</span>Chrome-оор албадан нээх (intent).<br><a class="btn" id="t-c" href="#">C</a></li>
+  <li><span class="tag">D</span>Эхлээд «Хуулах», дараа нь Google хуанлийн «From URL» хуудсыг Chrome-оор нээж, тэнд paste хийнэ.<br>
+    <button type="button" class="btn copy" data-v="d">Хуулах (D)</button><a class="btn" id="t-d" href="#">D: From URL</a></li>
+  <li><span class="tag">E</span>webcal холбоос (iPhone дээр ч мөн туршиж болно; Android дээр ICSx⁵ гэх мэт апп байвал түүгээр нээгдэж магадгүй).<br><a class="btn" id="t-e" href="#">E</a></li>
+  <li><span class="tag">F</span>Гараар: «Хуулах» дараад, Chrome-оор calendar.google.com нээж, ⋮ цэснээс «Desktop site»-ыг асаагаад, ⚙ Settings → «Add calendar» → «From URL» хэсэгт paste хийнэ.<br>
+    <button type="button" class="btn copy" data-v="f">Хуулах (F)</button></li>
 </ol>
+
+<h2>2. Үр дүнгээ бичнэ</h2>
+<ul>
+  <li>Үсэг бүрийн хувьд: дарахад юу болсон бэ? (Google Calendar апп нээгдсэн, account сонгуулсан, «successfully added» гарсан, алдаа, хоосон хуудас гэх мэт)</li>
+  <li><strong>Хэдэн цагийн дараа</strong> Google Calendar апп → ☰ цэсний календарийн жагсаалтын <strong>дэлгэцийн зургийг</strong> илгээнэ үү. Тэнд аль «Тест» календарь үлдсэн нь хамгийн чухал мэдээлэл.</li>
+  <li>Компьютер байвал: calendar.google.com → «Other calendars» дотор аль «Тест» харагдаж байна вэ?</li>
+  <li>Дээрх «Таны төхөөрөмж» мөрийг хамт бичнэ үү.</li>
+</ul>
+<p class="note">Дараа нь «Тест» календариудыг компьютерээс calendar.google.com → Settings → тухайн календарь → «Remove» хийж устгана (эсвэл 14 хоногийн дараа өөрөө хоосорно).</p>
+<p id="ua"></p>
 
 <script>
   (function () {
-    var feed = "gantemur.github.io/cal/{{ feed }}";
-    var https = "https://" + feed;
-    var gB = "https://calendar.google.com/calendar/render?cid=" + encodeURIComponent(https);
+    var base = "gantemur.github.io/cal/test/test-";
+    var https = function (v) { return "https://" + base + v + ".ics"; };
+    var renderEnc = function (v) { return "https://calendar.google.com/calendar/render?cid=" + encodeURIComponent(https(v)); };
     var set = function (id, href) { document.getElementById(id).href = href; };
-    set("t-a", "https://calendar.google.com/calendar/render?cid=webcal://" + feed);
-    set("t-b", gB);
-    set("t-c", "intent://calendar.google.com/calendar/render?cid=" + encodeURIComponent(https) +
-      "#Intent;scheme=https;package=com.android.chrome;S.browser_fallback_url=" + encodeURIComponent(gB) + ";end");
+    set("t-a", "https://calendar.google.com/calendar/render?cid=webcal://" + base + "a.ics");
+    set("t-b", renderEnc("b"));
+    set("t-c", "intent://calendar.google.com/calendar/render?cid=" + encodeURIComponent(https("c")) +
+      "#Intent;scheme=https;package=com.android.chrome;S.browser_fallback_url=" + encodeURIComponent(renderEnc("c")) + ";end");
     set("t-d", "intent://calendar.google.com/calendar/r/settings/addbyurl#Intent;scheme=https;package=com.android.chrome;S.browser_fallback_url=" +
       encodeURIComponent("https://calendar.google.com/calendar/r/settings/addbyurl") + ";end");
-    set("t-e", "webcal://" + feed);
+    set("t-e", "webcal://" + base + "e.ics");
     var ua = navigator.userAgent;
-    var inapp = /FBAN|FBAV|FB_IAB|Instagram|Line\/|MicroMessenger/.test(ua) || (/Android/.test(ua) && /; wv\)/.test(ua));
+    var android = /Android/.test(ua), ios = /iPhone|iPad|iPod/.test(ua);
+    var inapp = /FBAN|FBAV|FB_IAB|Instagram|Line\/|MicroMessenger/.test(ua) || (android && /; wv\)/.test(ua));
+    var fb = /FBAN|FBAV|FB_IAB/.test(ua);
     document.getElementById("dev").textContent =
-      (/Android/.test(ua) ? "Android" : /iPhone|iPad/.test(ua) ? "iPhone/iPad" : "компьютер") +
-      (inapp ? " · апп доторх хөтөч (Facebook гэх мэт)" : "");
+      (android ? "Android" : ios ? "iPhone/iPad" : "компьютер") +
+      (inapp ? (fb ? " · Facebook доторх хөтөч" : " · апп доторх хөтөч") : " · хөтөч");
+    document.getElementById(inapp ? "fbnote" : "brnote").hidden = false;
     document.getElementById("ua").textContent = ua;
-    document.getElementById("copy").addEventListener("click", function () {
-      var b = this;
-      var done = function () { b.textContent = "✓ Хуулагдлаа"; };
-      try { navigator.clipboard.writeText(https).then(done, function () { prompt("Хуулах:", https); }); }
-      catch (e) { prompt("Хуулах:", https); }
+    document.querySelectorAll(".copy").forEach(function (b) {
+      b.addEventListener("click", function () {
+        var url = https(b.dataset.v);
+        var done = function () { b.textContent = "✓ Хуулагдлаа"; };
+        var show = function () {
+          var i = document.createElement("input");
+          i.value = url; i.readOnly = true; i.style.width = "100%";
+          b.parentNode.appendChild(i); i.focus(); i.select();
+        };
+        try { navigator.clipboard.writeText(url).then(done, show); } catch (e) { show(); }
+      });
     });
   })();
 </script>
