@@ -34,7 +34,8 @@ noindex: true
   <li><span class="tag">D</span>Эхлээд «Хуулах», дараа нь Google хуанлийн «From URL» хуудсыг Chrome-оор нээж, тэнд paste хийнэ.<br>
     <button type="button" class="btn copy" data-v="d">Хуулах (D)</button><a class="btn" id="t-d" href="#">D: From URL</a></li>
   <li><span class="tag">E</span>webcal холбоос (iPhone дээр ч мөн туршиж болно; Android дээр ICSx⁵ гэх мэт апп байвал түүгээр нээгдэж магадгүй).<br><a class="btn" id="t-e" href="#">E</a></li>
-  <li><span class="tag">G</span>Зөвхөн Facebook дотроос: энэ хуудсыг Chrome-оор шууд нээх товч. Chrome-оор нээгдсэн эсэхийг бичнэ үү (нээгдвэл тэнд A–F-ийг үргэлжлүүлэн туршиж болно).<br><a class="btn" id="t-g" href="#">G: Chrome-оор нээх</a></li>
+  <li><span class="tag">H</span>C-тэй ижил, гэхдээ календарийн хаяг нь http (s-гүй).<br><a class="btn" id="t-h" href="#">H</a></li>
+  <li><span class="tag">G</span>Зөвхөн Facebook дотроос: энэ хуудсыг Chrome-оор шууд нээх товч. Chrome-оор нээгдсэн эсэхийг бичнэ үү (нээгдвэл тэнд бусад тестийг үргэлжлүүлэн туршиж болно).<br><a class="btn" id="t-g" href="#">G: Chrome-оор нээх</a></li>
   <li><span class="tag">F</span>Гараар: «Хуулах» дараад, хөтчөөрөө calendar.google.com нээнэ. Компьютерийн хувилбарыг асаана: Chrome: ⋮ → «Desktop site»; Samsung Internet: ≡ → «Desktop version»; бусад хөтөч: цэснээс «Desktop» / «Компьютерийн хувилбар». Дараа нь ⚙ Settings → «Add calendar» → «From URL» хэсэгт paste хийнэ.<br>
     <button type="button" class="btn copy" data-v="f">Хуулах (F)</button></li>
 </ol>
@@ -63,6 +64,10 @@ noindex: true
       "#Intent;scheme=https;package=com.android.chrome;S.browser_fallback_url=" + encodeURIComponent(renderEnc("c")) + ";end");
     set("t-d", "intent://calendar.google.com/calendar/r/settings/addbyurl#Intent;scheme=https;package=com.android.chrome;S.browser_fallback_url=" +
       encodeURIComponent("https://calendar.google.com/calendar/r/settings/addbyurl") + ";end");
+    var httpH = "http://" + base + "h.ics";
+    var renderH = "https://calendar.google.com/calendar/render?cid=" + encodeURIComponent(httpH);
+    set("t-h", "intent://calendar.google.com/calendar/render?cid=" + encodeURIComponent(httpH) +
+      "#Intent;scheme=https;package=com.android.chrome;S.browser_fallback_url=" + encodeURIComponent(renderH) + ";end");
     set("t-e", "webcal://" + base + "e.ics");
     set("t-g", "intent://gantemur.github.io/cal/android-test/#Intent;scheme=https;package=com.android.chrome;S.browser_fallback_url=" +
       encodeURIComponent("https://gantemur.github.io/cal/android-test/") + ";end");
