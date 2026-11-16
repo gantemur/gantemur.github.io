@@ -1,0 +1,26 @@
+{#- Visit and tap counts for the /cal pages (GoatCounter site gantemur-cal; no cookies).
+    Taps are counted as events named "<page>/<button>/<feed>", e.g. "beta/google/mongol-mn". -#}
+<script data-goatcounter="https://gantemur-cal.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+<script>
+  document.addEventListener("click", function (e) {
+    var a = e.target.closest && e.target.closest("a");
+    if (!a) return;
+    var holder = a.closest("[data-feed]");
+    if (!holder) return;
+    var feed = holder.dataset.feed.replace(/\.ics$/, "");
+    var root = document.documentElement, kind;
+    if (a.classList.contains("cal-pill")) {
+      kind = a.dataset.copy === "1"
+        ? (root.dataset.app === "google" ? "google-phone-copy" : "copy")
+        : (root.dataset.app || "google");
+    } else {
+      kind = a.classList.contains("feed-apple") ? "apple" : a.classList.contains("feed-copy") ? "copy" : "google";
+    }
+    var page = location.pathname.indexOf("/beta") >= 0 ? "beta" : "main";
+    try {
+      if (window.goatcounter && window.goatcounter.count) {
+        window.goatcounter.count({ path: page + "/" + kind + "/" + feed, title: kind + " · " + feed, event: true });
+      }
+    } catch (err) {}
+  });
+</script>
