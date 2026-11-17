@@ -68,12 +68,23 @@ module.exports = function (eleventyConfig) {
   }
 
   function publicationDateValue(pub) {
-    for (const key of ["publishedDate", "date", "publicationDate"]) {
-      const time = Date.parse(pub && pub[key]);
+    // A journal event determines an article's place in the bibliography;
+    // the original arXiv/preprint year remains part of its source record.
+    const kinds = publicationKind(pub);
+    const accepted = kinds.includes("accepted") && !kinds.includes("published");
+    const dateKeys = accepted ? ["acceptedDate"] : ["publishedDate", "publicationDate", "date"];
+    for (const key of dateKeys) {
+      const value = pub && pub[key];
+      if (!value) continue;
+      const time = Date.parse(value);
       if (Number.isFinite(time)) return time;
     }
-    const year = publicationYear(pub);
-    return year ? Date.UTC(year, 11, 31) : 0;
+    const year = accepted
+      ? Number((pub && (pub.acceptedYear || pub.year)) || 0)
+      : publicationYear(pub);
+    // Unknown day: treat the entry as year-only rather than inventing a
+    // December 31 event. Exact dated entries sort before year-only ones.
+    return year ? Date.UTC(year, 0, 1) : 0;
   }
 
   function arxivId(pub) {
@@ -382,7 +393,6 @@ module.exports = function (eleventyConfig) {
     return sortPublicationSection(items, new Set(["published", "accepted", "article"]), (a, b) => {
       return (
         publicationDateValue(b) - publicationDateValue(a) ||
-        arxivSortValue(b) - arxivSortValue(a) ||
         publicationTitleCompare(a, b)
       );
     });
