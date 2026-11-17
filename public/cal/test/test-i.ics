@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//caltib//android test//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Тест I (устгаж болно)
+NAME:Тест I (устгаж болно)
+X-WR-CALDESC:Test calendar for https://gantemur.github.io/cal/android-test/
+  — safe to remove.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:cal-android-test-I@gantemur.github.io
+DTSTAMP:20261115T000000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+RRULE:FREQ=DAILY;COUNT=14
+SUMMARY:Тест I
+DESCRIPTION:gantemur.github.io/cal/android-test
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
