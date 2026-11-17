@@ -8,7 +8,11 @@
     <span class="publication-coauthors">{{ coauthors | safe }}</span>
   {% endif %}
   {% if citation %}
-    <span class="publication-citation">{{ citation | safe }}</span>
+    {% if trackFeaturedLinks and pub.featured and pub.status == "preprint" and pub.arxiv %}
+      <span class="publication-citation"><a href="https://arxiv.org/abs/{{ pub.arxiv }}" data-goatcounter-click="home-paper-{{ pub.id }}-arxiv" data-goatcounter-title="{{ pub.title }} · arXiv">arXiv:{{ pub.arxiv }}</a>{% if pub.year %} ({{ pub.year }}){% endif %}.</span>
+    {% else %}
+      <span class="publication-citation">{{ citation | safe }}</span>
+    {% endif %}
   {% endif %}
   {% if links and links.length %}
     <span class="publication-links">
