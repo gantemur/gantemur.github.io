@@ -158,8 +158,9 @@ DTSTART;VALUE=DATE:20200308
 DTEND;VALUE=DATE:20200309
 RRULE:FREQ=YEARLY;UNTIL=20501231
 EXDATE;VALUE=DATE:20460308
-SUMMARY:Олон улсын эмэгтэйчүүдийн өдөр
-DESCRIPTION:Бүх нийтээр амрах баярын өдөр.
+SUMMARY:Эмэгтэйчүүдийн баяр
+DESCRIPTION:Олон улсын эмэгтэйчүүдийн өдөр.\nБ
+ үх нийтээр амрах баярын өдөр.
 CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -356,8 +357,9 @@ DTSTART;VALUE=DATE:20201126
 DTEND;VALUE=DATE:20201127
 RRULE:FREQ=YEARLY;UNTIL=20501231
 EXDATE;VALUE=DATE:20301126,20491126
-SUMMARY:Бүгд Найрамдах Улс тунхагласан өдөр
-DESCRIPTION:Бүх нийтээр амрах баярын өдөр.
+SUMMARY:Улс тунхагласан өдөр
+DESCRIPTION:Бүгд Найрамдах Улс тунхагласан өд
+ өр.\nБүх нийтээр амрах баярын өдөр.
 CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2095,12 +2097,13 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20301126
 DTEND;VALUE=DATE:20301127
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр) · Бүгд Найрамдах Улс 
- тунхагласан өдөр
+ гол бахархлын өдөр) · Улс тунхагласан өд
+ өр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн улаагчин гахай сар\n17-р жарны 44 он цаг
- аан нохой жил\nБүх нийтээр амрах баярын ө
- дөр.
+ аан нохой жил\nБүгд Найрамдах Улс тунхаг
+ ласан өдөр.\nБүх нийтээр амрах баярын өдө
+ р.
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4689,11 +4692,11 @@ UID:mongol-mn-no15-hol-0308-2046@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460308
 DTEND;VALUE=DATE:20460309
-SUMMARY:Олон улсын эмэгтэйчүүдийн өдөр
+SUMMARY:Эмэгтэйчүүдийн баяр
 DESCRIPTION:Шинийн 1 · Хаврын дунд сар\nХаврын д
  унд цагаагчин туулай сар\n17-р жарны 60 он у
- лаан бар жил\nБүх нийтээр амрах баярын өд
- өр.
+ лаан бар жил\nОлон улсын эмэгтэйчүүдийн 
+ өдөр.\nБүх нийтээр амрах баярын өдөр.
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5296,12 +5299,13 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20491126
 DTEND;VALUE=DATE:20491127
 SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр) · Бүгд Найрамдах Улс 
- тунхагласан өдөр
+ гол бахархлын өдөр) · Улс тунхагласан өд
+ өр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн хөхөгчин гахай сар\n18-р жарны 3 он шар
- агчин могой жил\nБүх нийтээр амрах баяры
- н өдөр.
+ агчин могой жил\nБүгд Найрамдах Улс тунх
+ агласан өдөр.\nБүх нийтээр амрах баярын ө
+ дөр.
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
