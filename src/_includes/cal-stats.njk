@@ -6,7 +6,7 @@
     var a = e.target.closest && e.target.closest("a");
     if (!a) return;
     if (a.id === "addbyurl") {
-      try { window.goatcounter && window.goatcounter.count({ path: "beta/addbyurl", title: "Google From URL page", event: true }); } catch (err) {}
+      try { window.goatcounter && window.goatcounter.count({ path: (location.pathname.indexOf("/beta") >= 0 ? "beta" : "main") + "/addbyurl", title: "Google From URL page", event: true }); } catch (err) {}
       return;
     }
     var holder = a.closest("[data-feed]");
