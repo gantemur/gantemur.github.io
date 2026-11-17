@@ -1,0 +1,17 @@
+{# Aggregate visits and selected click events on academic pages only.
+   The lunar-calendar standalone page keeps its separate gantemur-cal tracker. #}
+<script>
+  (function () {
+    // Do not load analytics from local previews, forks, or staging domains.
+    if (window.location.hostname !== "gantemur.github.io") return;
+    // Group a page's query-string variants under its pathname.
+    window.goatcounter = {
+      path: function () { return window.location.pathname || "/"; }
+    };
+    var script = document.createElement("script");
+    script.async = true;
+    script.src = "https://gc.zgo.at/count.js";
+    script.setAttribute("data-goatcounter", "https://gantemur-home.goatcounter.com/count");
+    document.body.appendChild(script);
+  }());
+</script>

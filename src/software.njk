@@ -52,7 +52,7 @@ permalink: /software/
     <div class="software-lang-switch" role="group" aria-label="Software page language">
       <button type="button" data-lang="en" aria-pressed="true">EN</button>
       <span aria-hidden="true">|</span>
-      <button type="button" data-lang="mn" aria-pressed="false">Монгол</button>
+      <button type="button" data-lang="mn" aria-pressed="false" data-goatcounter-click="software-lang-mn" data-goatcounter-title="Software language · Монгол">Монгол</button>
     </div>
   </div>
   <p class="lede narrow">
@@ -69,21 +69,21 @@ permalink: /software/
         {% if item.inlineLinks %}
           <div class="link-row" aria-label="{{ item.name }} links">
             {% if item.url %}
-              <a href="{{ item.url }}"><span class="sw-en">Project page</span><span class="sw-mn">Төслийн хуудас</span></a>
+              <a href="{{ item.url }}" data-goatcounter-click="software-{{ item.id }}-project" data-goatcounter-title="{{ item.name }} · project page"><span class="sw-en">Project page</span><span class="sw-mn">Төслийн хуудас</span></a>
             {% endif %}
             {% for link in item.links %}
-              <a href="{{ link.url }}"><span class="sw-en">{{ link.label }}</span><span class="sw-mn">{{ link.labelMn or link.label }}</span></a>
+              <a href="{{ link.url }}" data-goatcounter-click="software-{{ item.id }}-{{ link.analyticsId }}" data-goatcounter-title="{{ item.name }} · {{ link.label }}"><span class="sw-en">{{ link.label }}</span><span class="sw-mn">{{ link.labelMn or link.label }}</span></a>
             {% endfor %}
           </div>
         {% else %}
           {% if item.url %}
-            <p><a href="{{ item.url }}"><span class="sw-en">Project page</span><span class="sw-mn">Төслийн хуудас</span></a></p>
+            <p><a href="{{ item.url }}" data-goatcounter-click="software-{{ item.id }}-project" data-goatcounter-title="{{ item.name }} · project page"><span class="sw-en">Project page</span><span class="sw-mn">Төслийн хуудас</span></a></p>
           {% endif %}
           {% if item.links and item.links.length %}
             <ul class="plain-list compact-list">
               {% for link in item.links %}
                 <li>
-                  <a href="{{ link.url }}"><span class="sw-en">{{ link.label }}</span><span class="sw-mn">{{ link.labelMn or link.label }}</span></a>
+                  <a href="{{ link.url }}" data-goatcounter-click="software-{{ item.id }}-{{ link.analyticsId }}" data-goatcounter-title="{{ item.name }} · {{ link.label }}"><span class="sw-en">{{ link.label }}</span><span class="sw-mn">{{ link.labelMn or link.label }}</span></a>
                   {% if link.description %}
                     <span class="software-link-description">
                       <span class="sw-en">{{ link.description }}</span><span class="sw-mn">{{ link.descriptionMn or link.description }}</span>

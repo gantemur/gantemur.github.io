@@ -28,7 +28,7 @@ permalink: /teaching/
       <tr>
         <td>{{ course | courseCode }}</td>
         <td>
-          {% if courseUrl %}<a href="{{ courseUrl }}">{{ course.title }}</a>{% else %}{{ course.title }}{% endif %}
+          {% if courseUrl %}<a href="{{ courseUrl }}" data-goatcounter-click="teaching-course" data-goatcounter-title="{{ course | courseCode }} · {{ course.title }}">{{ course.title }}</a>{% else %}{{ course.title }}{% endif %}
           {% if roleNote %}<div class="teaching-role-note">{{ roleNote | safe }}</div>{% endif %}
         </td>
         <td>{{ course | courseTerm }}</td>

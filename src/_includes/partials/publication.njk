@@ -13,7 +13,7 @@
   {% if links and links.length %}
     <span class="publication-links">
       {% for link in links %}
-        <a href="{{ link.url }}">{{ link.label }}</a>{% if not loop.last %} · {% endif %}
+        <a href="{{ link.url }}"{% if page.url == "/" and pub.featured %} data-goatcounter-click="home-paper-{{ pub.id }}-{{ link.label | lower }}" data-goatcounter-title="{{ pub.title }} · {{ link.label }}"{% endif %}>{{ link.label }}</a>{% if not loop.last %} · {% endif %}
       {% endfor %}
     </span>
   {% endif %}
