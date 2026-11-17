@@ -46,15 +46,19 @@
     "authorIds": [
       "tsogtgerel-gantumur"
     ],
-    "year": 2026,
-    "status": "accepted",
-    "category": "accepted",
+    "year": 2027,
+    "status": "published",
+    "category": "published",
     "venue": "Journal of Mathematical Fluid Mechanics",
     "journal": "Journal of Mathematical Fluid Mechanics",
-    "details": "Accepted for publication",
+    "details": "Journal of Mathematical Fluid Mechanics 29, Article 5 (2027); published online 17 November 2026",
     "acceptedYear": 2026,
     "arxiv": "2607.16827",
     "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1007/s00021-026-01071-0"
+      },
       {
         "label": "arXiv",
         "url": "https://arxiv.org/abs/2607.16827"
@@ -71,7 +75,7 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "arXiv:2607.16827; acceptance in JMFM reported by author, 2026-10-24",
+    "source": "arXiv:2607.16827; JMFM acceptance 2026-10-24; DOI assigned in Springer proof; author-supplied Springer article screenshot 2026-11-17 confirms online publication, volume 29, article 5 (2027); papers/fluid/cda/proj/PUBLICATION.md",
     "authors": [
       {
         "id": "tsogtgerel-gantumur",
@@ -80,7 +84,9 @@
         "url": "https://gantemur.github.io"
       }
     ],
-    "citation": "Accepted for publication in Journal of Mathematical Fluid Mechanics (2026)"
+    "citation": "J. Math. Fluid Mech. 29, 5 (2027)",
+    "publishedDate": "2026-11-17",
+    "doi": "10.1007/s00021-026-01071-0"
   },
   {
     "id": "gantumur-projection-geometry-quasi-orthogonality-2026",
