@@ -59,6 +59,11 @@ tibfest:
     var ua = navigator.userAgent;
     var ios = /iPhone|iPad|iPod/.test(ua) || (/Macintosh/.test(ua) && navigator.maxTouchPoints > 1);
     var android = /Android/.test(ua);
+    // Preview another device from a computer: ?device=android or ?device=iphone
+    var dev = "";
+    try { dev = new URLSearchParams(location.search).get("device") || ""; } catch (e) {}
+    if (dev === "android") { android = true; ios = false; }
+    if (dev === "iphone") { ios = true; android = false; }
     if (["apple", "google", "other"].indexOf(app) < 0) {
       app = (ios || /Macintosh/.test(ua)) ? "apple" : "google";
     }
