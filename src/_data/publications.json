@@ -733,10 +733,10 @@
     "year": 2026,
     "status": "published",
     "category": "published",
-    "venue": "Scientific Transactions of the National University of Mongolia, Physics (Физик Сэтгүүл)",
-    "journal": "Физик Сэтгүүл",
+    "venue": "Scientific Transactions of the National University of Mongolia, Physics",
+    "journal": "Scientific Transactions of the National University of Mongolia, Physics",
     "details": "39(631), 85–94 (2026)",
-    "citation": "Физик Сэтгүүл 39(631), 85–94 (2026)",
+    "citation": "Scientific Transactions of the National University of Mongolia, Physics 39(631), 85–94 (2026)",
     "publishedDate": "2026-03-31",
     "doi": "10.22353/physics.v39i631.10622",
     "links": [
@@ -771,7 +771,8 @@
         "self": true,
         "url": "https://gantemur.github.io"
       }
-    ]
+    ],
+    "titleHtml": "Solving the Two-Dimensional Poisson Equation by the Finite-Difference Method"
   },
   {
     "id": "gantumur-dynamical-lattice-regulators-jhep-2026",
