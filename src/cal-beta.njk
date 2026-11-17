@@ -70,6 +70,7 @@ tibfest:
     root.dataset.app = app;
     root.dataset.phone = (ios || android) ? "1" : "0";
     root.dataset.android = android ? "1" : "0";
+    root.dataset.realandroid = /Android/.test(ua) ? "1" : "0";
     root.dataset.inapp = (/FBAN|FBAV|FB_IAB|Instagram|Line\/|MicroMessenger/.test(ua) ||
                           (android && /; wv\)/.test(ua))) ? "1" : "0";
   })();
@@ -174,25 +175,25 @@ tibfest:
     </span>
   </div>
   <div class="how how-apple">
-    <p class="l-mn">Доорх календарь дээр дарж, захиалахыг зөвшөөрнө. iPhone, iPad, Mac-ийн «Calendar» апп-д нэмэгдэнэ.</p>
+    <p class="l-mn">Доорх календарь дээр дарж, нэмэхийг зөвшөөрснөөр iPhone, iPad, Mac-ийн «Calendar» апп-д нэмэгдэнэ.</p>
     <p class="l-en">Tap a calendar below and confirm the subscription. It is added to the Calendar app on iPhone, iPad or Mac.</p>
   </div>
   <div class="how how-google-pc">
-    <p class="l-mn">Доорх календарь дээр дарахад Google хуанли нээгдэнэ; «Add calendar»-ыг дарна. Утсан дээрх Google Calendar апп-д мөн гарч ирнэ (харагдахгүй бол апп-ын тохиргооноос тухайн календарийн «Sync»-ийг асаана).</p>
+    <p class="l-mn">Доорх календарь дээр дарахад Google хуанли нээгдэнэ. Тэгээд «Add calendar»-ыг дараарай. Утсан дээрх Google Calendar апп-д мөн гарч ирнэ (харагдахгүй бол апп-ын тохиргооноос тухайн календарийн «Sync»-ийг асаа).</p>
     <p class="l-en">Click a calendar below; Google Calendar opens, then click "Add calendar". It also appears in the Google Calendar app on your phone (if hidden, turn on "Sync" for it in the app's settings).</p>
   </div>
   <div class="how how-google-phone">
     <ol class="l-mn">
       <li>Доорх календарь дээр дарахад холбоос нь хуулагдана.</li>
-      <li>Chrome-оор (iPhone дээр Safari-аар) calendar.google.com хаягийг нээнэ.</li>
-      <li>Цэснээс «Desktop site»-ыг асаана (Safari: aA → «Request Desktop Website»).</li>
+      <li>Safari-аар <a href="https://calendar.google.com/" target="_blank" rel="noopener">calendar.google.com</a> хаягийг нээнэ.</li>
+      <li>aA → «Request Desktop Website»-ыг сонгоно.</li>
       <li>⚙ Тохиргоо → «Add calendar» → «From URL» хэсэгт хуулсан холбоосоо paste хийж, «Add calendar» дарна.</li>
       <li>Google Calendar апп-д харагдахгүй бол апп-ын тохиргооноос тухайн календарийн «Sync»-ийг асаана.</li>
     </ol>
     <ol class="l-en">
       <li>Tap a calendar below; its link is copied.</li>
-      <li>Open calendar.google.com in Chrome (Safari on iPhone).</li>
-      <li>Turn on "Desktop site" in the menu (Safari: aA → "Request Desktop Website").</li>
+      <li>Open <a href="https://calendar.google.com/" target="_blank" rel="noopener">calendar.google.com</a> in Safari.</li>
+      <li>Choose aA → "Request Desktop Website".</li>
       <li>⚙ Settings → "Add calendar" → "From URL": paste the link and press "Add calendar".</li>
       <li>If it doesn't show in the Google Calendar app, turn on "Sync" for it in the app's settings.</li>
     </ol>
@@ -200,7 +201,7 @@ tibfest:
     <p class="cal-note l-en">With a computer it is simpler: open this page there and click a calendar.</p>
   </div>
   <div class="how how-google-android">
-    <p class="l-mn">Доорх календарь дээр дарахад Google Calendar апп нээгдэнэ; бүртгэлээ сонгоно. Календарь хэдэн минутын дотор ☰ цэсний «Other calendars» хэсэгт гарч ирнэ. Samsung, Xiaomi зэрэг утасны өөрийн хуанлид ч мөн гарна (харагдахгүй бол Google Calendar апп-ын тохиргооноос тухайн календарийн «Sync»-ийг асаана).</p>
+    <p class="l-mn">Доорх календарь дээр дарахад Google Calendar апп нээгдэнэ. Тэндээс бүртгэлээ сонгоорой. Календарь хэдэн минутын дотор ☰ цэсний «Other calendars» хэсэгт гарч ирнэ. Samsung, Xiaomi зэрэг утасны өөрийн хуанлид ч мөн гарна (харагдахгүй бол Google Calendar апп-ын тохиргооноос тухайн календарийн «Sync»-ийг асаана).</p>
     <p class="l-en">Tap a calendar below; the Google Calendar app opens and asks for your account. Within a few minutes the calendar appears under "Other calendars" in the ☰ menu. It also shows in the phone's own calendar app, such as Samsung or Xiaomi Calendar (if not, turn on "Sync" for it in the Google Calendar app's settings).</p>
     <p class="cal-note l-mn">Нэмэгдэхгүй бол дээрх <a class="goto" href="?app=other" data-goto="other">Бусад</a>-ыг сонгоно.</p>
     <p class="cal-note l-en">If it isn't added, choose <a class="goto" href="?app=other" data-goto="other">Other</a> above.</p>
@@ -215,7 +216,7 @@ tibfest:
       <p class="l-mn">Google-гүй утсанд утасныхаа хуанлийн апп эсвэл ICSx⁵ апп-ыг ашиглана.</p>
       <p class="l-en">On phones without Google, use the phone's own calendar app or the ICSx⁵ app.</p>
     </div>
-    <p class="l-mn">Доорх календарь дээр дарахад холбоос нь хуулагдана. Outlook, Thunderbird болон бусад програмын «Subscribe from web» эсвэл «Add calendar from URL» хэсэгт paste хийнэ. Outlook-ыг утсан дээрх хөтчөөр ашиглавал эхлээд «Desktop site» горимыг асаана. <span class="not-android">Google-ийн бус Android хуанлид ICSx⁵ апп-аар нэмж болно.</span></p>
+    <p class="l-mn">Доорх календарь дээр дарахад холбоос нь хуулагдана. Outlook, Thunderbird болон бусад програмын «Subscribe from web» эсвэл «Add calendar from URL» хэсэгт paste хийнэ. Outlook-ыг утсан дээрх хөтчөөр ашиглаж байгаа бол эхлээд «Desktop site» горимыг асаах хэрэгтэй. <span class="not-android">Google-ийн бус Android хуанлид ICSx⁵ апп-аар нэмж болно.</span></p>
     <p class="l-en">Tap a calendar below to copy its link, then paste it into "Subscribe from web" or "Add calendar from URL" in Outlook, Thunderbird or another app. Using Outlook in a phone browser, first turn on "Desktop site". <span class="not-android">For Android calendars other than Google, the ICSx⁵ app can add it.</span></p>
   </div>
 </div>
@@ -295,6 +296,12 @@ tibfest:
         if (app === "apple") {
           a.href = "webcal://" + base + f;
           a.dataset.copy = "";
+        } else if (app === "google" && android && root.dataset.realandroid !== "1") {
+          // ?device=android preview on another device: a plain link
+          a.href = "https://calendar.google.com/calendar/render?cid=" + encodeURIComponent("http://" + base + f);
+          a.target = "_blank";
+          a.rel = "noopener";
+          a.dataset.copy = "";
         } else if (app === "google" && android) {
           // Hand the http:// address to whatever opens calendar.google.com,
           // normally the Google Calendar app (the https:// form fails silently
@@ -355,7 +362,7 @@ tibfest:
         document.querySelector(".app-box").scrollIntoView({ behavior: "smooth", block: "start" });
       });
     });
-    if (root.dataset.android === "1") {
+    if (root.dataset.realandroid === "1") {
       var u = "https://calendar.google.com/calendar/r/settings/addbyurl";
       document.getElementById("addbyurl").href = "intent://calendar.google.com/calendar/r/settings/addbyurl" +
         "#Intent;scheme=https;package=com.android.chrome;S.browser_fallback_url=" + encodeURIComponent(u) + ";end";
