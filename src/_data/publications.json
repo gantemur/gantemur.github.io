@@ -723,6 +723,57 @@
     ]
   },
   {
+    "id": "bayarsaikhan-altankhuu-gantumur-poisson-solvers-2026",
+    "type": "journal-article",
+    "title": "Solving the Two-Dimensional Poisson Equation by the Finite-Difference Method (A comparative study of some simple methods in Python)",
+    "authorIds": [
+      "bayarsaikhan-altankhuu",
+      "tsogtgerel-gantumur"
+    ],
+    "year": 2026,
+    "status": "published",
+    "category": "published",
+    "venue": "Scientific Transactions of the National University of Mongolia, Physics (Физик Сэтгүүл)",
+    "journal": "Физик Сэтгүүл",
+    "details": "39(631), 85–94 (2026)",
+    "citation": "Физик Сэтгүүл 39(631), 85–94 (2026)",
+    "publishedDate": "2026-03-31",
+    "doi": "10.22353/physics.v39i631.10622",
+    "links": [
+      {
+        "label": "journal",
+        "url": "https://journal.num.edu.mn/physics/article/view/10622"
+      },
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.22353/physics.v39i631.10622"
+      }
+    ],
+    "topicIds": [],
+    "featured": false,
+    "cv": {
+      "selected": false
+    },
+    "languages": [
+      "en"
+    ],
+    "cvInclude": true,
+    "source": "NUM Physics journal article page (published 2026-03-31, DOI 10.22353/physics.v39i631.10622); author-provided published article PDF 10622.pdf, reviewed 2026-11-17; publisher name order preserved as alias in people registry",
+    "authors": [
+      {
+        "id": "bayarsaikhan-altankhuu",
+        "name": "Bayarsaikhan Altankhuu",
+        "self": false
+      },
+      {
+        "id": "tsogtgerel-gantumur",
+        "name": "Tsogtgerel Gantumur",
+        "self": true,
+        "url": "https://gantemur.github.io"
+      }
+    ]
+  },
+  {
     "id": "gantumur-dynamical-lattice-regulators-jhep-2026",
     "type": "journal-article",
     "title": "Rotationally invariant dynamical lattice regulators for Euclidean quantum field theories",
