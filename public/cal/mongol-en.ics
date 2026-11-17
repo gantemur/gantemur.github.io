@@ -4,14 +4,28 @@ PRODID:-//caltib//lunar day feeds//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Mongol lunar calendar
-X-WR-CALDESC:Lunar day 1 and 15 of each month and main festivals\, 2020–2
- 050. https://gantemur.github.io/cal/
+X-WR-CALDESC:Lunar day 1 and 15 of each month and main festivals\, Mongolia
+ n public holidays and the winter Nine Nines\, 2020–2050. https://gantemu
+ r.github.io/cal/
 NAME:Mongol lunar calendar
-DESCRIPTION:Lunar day 1 and 15 of each month and main festivals\, 2020–20
- 50. https://gantemur.github.io/cal/
+DESCRIPTION:Lunar day 1 and 15 of each month and main festivals\, Mongolian
+  public holidays and the winter Nine Nines\, 2020–2050. https://gantemur
+ .github.io/cal/
 URL:https://gantemur.github.io/cal/
 REFRESH-INTERVAL;VALUE=DURATION:P7D
 X-PUBLISHED-TTL:P7D
+BEGIN:VEVENT
+UID:mongol-en-hol-0101@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20200101
+DTEND;VALUE=DATE:20200102
+RRULE:FREQ=YEARLY;UNTIL=20501231
+EXDATE;VALUE=DATE:20440101,20480101
+SUMMARY:New Year's Day
+DESCRIPTION:Public holiday in Mongolia.
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
 BEGIN:VEVENT
 UID:mongol-en-nine3@gantemur.github.io
 DTSTAMP:20261111T000000Z
@@ -154,6 +168,18 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-en-hol-0308@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20200308
+DTEND;VALUE=DATE:20200309
+RRULE:FREQ=YEARLY;UNTIL=20501231
+EXDATE;VALUE=DATE:20460308,20500308
+SUMMARY:International Women's Day
+DESCRIPTION:Public holiday in Mongolia.
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-en-2020-01-d15@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200309
@@ -224,6 +250,18 @@ DESCRIPTION:First summer month\, White Snake month\nCycle 17\, Year 34\, Wh
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-en-hol-0601@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20200601
+DTEND;VALUE=DATE:20200602
+RRULE:FREQ=YEARLY;UNTIL=20501231
+EXDATE;VALUE=DATE:20340601,20490601
+SUMMARY:Children's Day
+DESCRIPTION:Public holiday in Mongolia.
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-en-2020-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200605
@@ -252,6 +290,66 @@ DTEND;VALUE=DATE:20200706
 SUMMARY:Lunar day 15 · Middle summer month
 DESCRIPTION:Middle summer month\, Black Horse month\nCycle 17\, Year 34\, W
  hite Mouse
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-en-hol-0711@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20200711
+DTEND;VALUE=DATE:20200712
+RRULE:FREQ=YEARLY;UNTIL=20501231
+EXDATE;VALUE=DATE:20210711
+SUMMARY:Naadam (National Festival)
+DESCRIPTION:Public holiday in Mongolia.
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-en-hol-0712@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20200712
+DTEND;VALUE=DATE:20200713
+RRULE:FREQ=YEARLY;UNTIL=20501231
+EXDATE;VALUE=DATE:20290712,20330712,20480712
+SUMMARY:Naadam (National Festival)
+DESCRIPTION:Public holiday in Mongolia.
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-en-hol-0713@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20200713
+DTEND;VALUE=DATE:20200714
+RRULE:FREQ=YEARLY;UNTIL=20501231
+EXDATE;VALUE=DATE:20220713,20410713
+SUMMARY:Naadam (National Festival)
+DESCRIPTION:Public holiday in Mongolia.
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-en-hol-0714@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20200714
+DTEND;VALUE=DATE:20200715
+RRULE:FREQ=YEARLY;UNTIL=20501231
+EXDATE;VALUE=DATE:20370714
+SUMMARY:Naadam (National Festival)
+DESCRIPTION:Public holiday in Mongolia.
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-en-hol-0715@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20200715
+DTEND;VALUE=DATE:20200716
+RRULE:FREQ=YEARLY;UNTIL=20501231
+EXDATE;VALUE=DATE:20260715,20300715,20450715,20490715
+SUMMARY:Naadam (National Festival)
+DESCRIPTION:Public holiday in Mongolia.
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -346,6 +444,18 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-en-hol-1126@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20201126
+DTEND;VALUE=DATE:20201127
+RRULE:FREQ=YEARLY;UNTIL=20501231
+EXDATE;VALUE=DATE:20301126,20491126
+SUMMARY:Republic Day
+DESCRIPTION:Public holiday in Mongolia.
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-en-2020-10-d15@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20201130
@@ -379,13 +489,15 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-en-2020-11-d15@gantemur.github.io
+UID:mongol-en-hol-1229-2020@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20201229
 DTEND;VALUE=DATE:20201230
-SUMMARY:Lunar day 15 · Middle winter month
-DESCRIPTION:Middle winter month\, Yellow Mouse month\nCycle 17\, Year 34\, 
- White Mouse
+SUMMARY:Independence Day
+DESCRIPTION:Lunar day 15 · Middle winter month\nMiddle winter month\, Yell
+ ow Mouse month\nCycle 17\, Year 34\, White Mouse\nNational Freedom and Ind
+ ependence Day.\nPublic holiday in Mongolia.
+CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -556,13 +668,15 @@ DESCRIPTION:Last summer month\, Blue Sheep month\nCycle 17\, Year 35\, Whit
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-en-2021-06-d01r@gantemur.github.io
+UID:mongol-en-hol-0711-2021@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210711
 DTEND;VALUE=DATE:20210712
-SUMMARY:Lunar day 1 (repeated) · Last summer month
-DESCRIPTION:Last summer month\, Blue Sheep month\nCycle 17\, Year 35\, Whit
- e Ox
+SUMMARY:Naadam (National Festival)
+DESCRIPTION:Lunar day 1 (repeated) · Last summer month\nLast summer month\
+ , Blue Sheep month\nCycle 17\, Year 35\, White Ox\nPublic holiday in Mongo
+ lia.
+CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -674,6 +788,18 @@ DTEND;VALUE=DATE:20211219
 SUMMARY:Lunar day 15 · Middle winter month
 DESCRIPTION:Middle winter month\, White Mouse month\nCycle 17\, Year 35\, W
  hite Ox
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-en-hol-1229@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20211229
+DTEND;VALUE=DATE:20211230
+RRULE:FREQ=YEARLY;UNTIL=20501231
+SUMMARY:Independence Day
+DESCRIPTION:National Freedom and Independence Day.\nPublic holiday in Mongo
+ lia.
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -831,13 +957,26 @@ DESCRIPTION:Middle summer month\, Red Horse month\nCycle 17\, Year 36\, Bla
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-en-2022-05-d15@gantemur.github.io
+UID:mongol-en-hol-0710@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20220710
+DTEND;VALUE=DATE:20220711
+RRULE:FREQ=YEARLY;UNTIL=20501231
+EXDATE;VALUE=DATE:20250710,20400710,20440710
+SUMMARY:Naadam (National Festival)
+DESCRIPTION:Public holiday in Mongolia.
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-en-hol-0713-2022@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220713
 DTEND;VALUE=DATE:20220714
-SUMMARY:Lunar day 15 · Middle summer month
-DESCRIPTION:Middle summer month\, Red Horse month\nCycle 17\, Year 36\, Bla
- ck Tiger
+SUMMARY:Naadam (National Festival)
+DESCRIPTION:Lunar day 15 · Middle summer month\nMiddle summer month\, Red 
+ Horse month\nCycle 17\, Year 36\, Black Tiger\nPublic holiday in Mongolia.
+CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1668,13 +1807,15 @@ DESCRIPTION:Middle summer month\, Black Horse month\nCycle 17\, Year 39\, B
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-en-2025-05-d15@gantemur.github.io
+UID:mongol-en-hol-0710-2025@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250710
 DTEND;VALUE=DATE:20250711
-SUMMARY:Lunar day 15 · Middle summer month
-DESCRIPTION:Middle summer month\, Black Horse month\nCycle 17\, Year 39\, B
- lue Snake
+SUMMARY:Naadam (National Festival)
+DESCRIPTION:Lunar day 15 · Middle summer month\nMiddle summer month\, Blac
+ k Horse month\nCycle 17\, Year 39\, Blue Snake\nPublic holiday in Mongolia
+ .
+CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1953,13 +2094,14 @@ DESCRIPTION:Middle summer month\, Blue Horse month\nCycle 17\, Year 40\, Re
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-en-2026-06-d01@gantemur.github.io
+UID:mongol-en-hol-0715-2026@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260716
-SUMMARY:Lunar day 1 · Last summer month
-DESCRIPTION:Last summer month\, Blue Sheep month\nCycle 17\, Year 40\, Red 
- Horse
+SUMMARY:Naadam (National Festival)
+DESCRIPTION:Lunar day 1 · Last summer month\nLast summer month\, Blue Shee
+ p month\nCycle 17\, Year 40\, Red Horse\nPublic holiday in Mongolia.
+CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2781,13 +2923,14 @@ DESCRIPTION:Middle summer month\, White Horse month\nCycle 17\, Year 43\, Y
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-en-2029-06-d01@gantemur.github.io
+UID:mongol-en-hol-0712-2029@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290712
 DTEND;VALUE=DATE:20290713
-SUMMARY:Lunar day 1 · Last summer month
-DESCRIPTION:Last summer month\, White Sheep month\nCycle 17\, Year 43\, Yel
- low Bird
+SUMMARY:Naadam (National Festival)
+DESCRIPTION:Lunar day 1 · Last summer month\nLast summer month\, White She
+ ep month\nCycle 17\, Year 43\, Yellow Bird\nPublic holiday in Mongolia.
+CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3056,13 +3199,14 @@ DESCRIPTION:Middle summer month\, Black Horse month\nCycle 17\, Year 44\, W
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-en-2030-05-d15@gantemur.github.io
+UID:mongol-en-hol-0715-2030@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300715
 DTEND;VALUE=DATE:20300716
-SUMMARY:Lunar day 15 · Middle summer month
-DESCRIPTION:Middle summer month\, Black Horse month\nCycle 17\, Year 44\, W
- hite Dog
+SUMMARY:Naadam (National Festival)
+DESCRIPTION:Lunar day 15 · Middle summer month\nMiddle summer month\, Blac
+ k Horse month\nCycle 17\, Year 44\, White Dog\nPublic holiday in Mongolia.
+CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3160,10 +3304,10 @@ UID:mongol-en-2030-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20301126
 DTEND;VALUE=DATE:20301127
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
+SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day) · Republic Day
 DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, Red Pig
-  month\nCycle 17\, Year 44\, White Dog
-CATEGORIES:festival
+  month\nCycle 17\, Year 44\, White Dog\nPublic holiday in Mongolia.
+CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3883,13 +4027,14 @@ DESCRIPTION:Middle summer month\, Yellow Horse month\nCycle 17\, Year 47\,
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-en-2033-05-d15@gantemur.github.io
+UID:mongol-en-hol-0712-2033@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330712
 DTEND;VALUE=DATE:20330713
-SUMMARY:Lunar day 15 · Middle summer month
-DESCRIPTION:Middle summer month\, Yellow Horse month\nCycle 17\, Year 47\, 
- Black Ox
+SUMMARY:Naadam (National Festival)
+DESCRIPTION:Lunar day 15 · Middle summer month\nMiddle summer month\, Yell
+ ow Horse month\nCycle 17\, Year 47\, Black Ox\nPublic holiday in Mongolia.
+CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4122,10 +4267,11 @@ UID:mongol-en-2034-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340601
 DTEND;VALUE=DATE:20340602
-SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana
+SUMMARY:Ikh Düichen: Buddha's birth\, enlightenment and parinirvana · Chi
+ ldren's Day
 DESCRIPTION:Lunar day 15 · First summer month\nFirst summer month\, Yellow
-  Snake month\nCycle 17\, Year 48\, Blue Tiger
-CATEGORIES:festival
+  Snake month\nCycle 17\, Year 48\, Blue Tiger\nPublic holiday in Mongolia.
+CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4986,13 +5132,14 @@ DESCRIPTION:Middle summer month\, Red Horse month\nCycle 17\, Year 51\, Red
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-en-2037-06-d01@gantemur.github.io
+UID:mongol-en-hol-0714-2037@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370714
 DTEND;VALUE=DATE:20370715
-SUMMARY:Lunar day 1 · Last summer month
-DESCRIPTION:Last summer month\, Red Sheep month\nCycle 17\, Year 51\, Red S
- nake
+SUMMARY:Naadam (National Festival)
+DESCRIPTION:Lunar day 1 · Last summer month\nLast summer month\, Red Sheep
+  month\nCycle 17\, Year 51\, Red Snake\nPublic holiday in Mongolia.
+CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5814,13 +5961,14 @@ DESCRIPTION:Middle summer month\, Black Horse month\nCycle 17\, Year 54\, W
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-en-2040-06-d01@gantemur.github.io
+UID:mongol-en-hol-0710-2040@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400710
 DTEND;VALUE=DATE:20400711
-SUMMARY:Lunar day 1 · Last summer month
-DESCRIPTION:Last summer month\, Black Sheep month\nCycle 17\, Year 54\, Whi
- te Monkey
+SUMMARY:Naadam (National Festival)
+DESCRIPTION:Lunar day 1 · Last summer month\nLast summer month\, Black She
+ ep month\nCycle 17\, Year 54\, White Monkey\nPublic holiday in Mongolia.
+CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6099,13 +6247,14 @@ DESCRIPTION:Middle summer month\, Blue Horse month\nCycle 17\, Year 55\, Wh
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-en-2041-05-d15@gantemur.github.io
+UID:mongol-en-hol-0713-2041@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410713
 DTEND;VALUE=DATE:20410714
-SUMMARY:Lunar day 15 · Middle summer month
-DESCRIPTION:Middle summer month\, Blue Horse month\nCycle 17\, Year 55\, Wh
- ite Bird
+SUMMARY:Naadam (National Festival)
+DESCRIPTION:Lunar day 15 · Middle summer month\nMiddle summer month\, Blue
+  Horse month\nCycle 17\, Year 55\, White Bird\nPublic holiday in Mongolia.
+CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6781,13 +6930,15 @@ DESCRIPTION:Middle winter month\, Blue Mouse month\nCycle 17\, Year 57\, Bl
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-en-2043-12L-d01@gantemur.github.io
+UID:mongol-en-hol-0101-2044@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440101
 DTEND;VALUE=DATE:20440102
-SUMMARY:Lunar day 1 · Last winter month (Leap)
-DESCRIPTION:Last winter month (Leap)\, Blue Ox month\nCycle 17\, Year 57\, 
- Black Pig
+SUMMARY:New Year's Day
+DESCRIPTION:Lunar day 1 · Last winter month (Leap)\nLast winter month (Lea
+ p)\, Blue Ox month\nCycle 17\, Year 57\, Black Pig\nPublic holiday in Mong
+ olia.
+CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6935,13 +7086,15 @@ DESCRIPTION:Middle summer month\, White Horse month\nCycle 17\, Year 58\, B
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-en-2044-05-d15@gantemur.github.io
+UID:mongol-en-hol-0710-2044@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440710
 DTEND;VALUE=DATE:20440711
-SUMMARY:Lunar day 15 · Middle summer month
-DESCRIPTION:Middle summer month\, White Horse month\nCycle 17\, Year 58\, B
- lue Mouse
+SUMMARY:Naadam (National Festival)
+DESCRIPTION:Lunar day 15 · Middle summer month\nMiddle summer month\, Whit
+ e Horse month\nCycle 17\, Year 58\, Blue Mouse\nPublic holiday in Mongolia
+ .
+CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -7210,13 +7363,14 @@ DESCRIPTION:Middle summer month\, Black Horse month\nCycle 17\, Year 59\, B
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-en-2045-06-d01@gantemur.github.io
+UID:mongol-en-hol-0715-2045@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450715
 DTEND;VALUE=DATE:20450716
-SUMMARY:Lunar day 1 · Last summer month
-DESCRIPTION:Last summer month\, Black Sheep month\nCycle 17\, Year 59\, Blu
- e Ox
+SUMMARY:Naadam (National Festival)
+DESCRIPTION:Lunar day 1 · Last summer month\nLast summer month\, Black She
+ ep month\nCycle 17\, Year 59\, Blue Ox\nPublic holiday in Mongolia.
+CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -7393,13 +7547,14 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-en-2046-02-d01@gantemur.github.io
+UID:mongol-en-hol-0308-2046@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460308
 DTEND;VALUE=DATE:20460309
-SUMMARY:Lunar day 1 · Middle spring month
-DESCRIPTION:Middle spring month\, White Rabbit month\nCycle 17\, Year 60\, 
- Red Tiger
+SUMMARY:International Women's Day
+DESCRIPTION:Lunar day 1 · Middle spring month\nMiddle spring month\, White
+  Rabbit month\nCycle 17\, Year 60\, Red Tiger\nPublic holiday in Mongolia.
+CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -7870,13 +8025,14 @@ DESCRIPTION:Middle winter month\, Black Mouse month\nCycle 18\, Year 1\, Re
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-en-2047-11-d15@gantemur.github.io
+UID:mongol-en-hol-0101-2048@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480101
 DTEND;VALUE=DATE:20480102
-SUMMARY:Lunar day 15 · Middle winter month
-DESCRIPTION:Middle winter month\, Black Mouse month\nCycle 18\, Year 1\, Re
- d Rabbit
+SUMMARY:New Year's Day
+DESCRIPTION:Lunar day 15 · Middle winter month\nMiddle winter month\, Blac
+ k Mouse month\nCycle 18\, Year 1\, Red Rabbit\nPublic holiday in Mongolia.
+CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -8025,13 +8181,14 @@ DESCRIPTION:Middle summer month\, Yellow Horse month\nCycle 18\, Year 2\, Y
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-en-2048-06-d01@gantemur.github.io
+UID:mongol-en-hol-0712-2048@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480712
 DTEND;VALUE=DATE:20480713
-SUMMARY:Lunar day 1 · Last summer month
-DESCRIPTION:Last summer month\, Yellow Sheep month\nCycle 18\, Year 2\, Yel
- low Dragon
+SUMMARY:Naadam (National Festival)
+DESCRIPTION:Lunar day 1 · Last summer month\nLast summer month\, Yellow Sh
+ eep month\nCycle 18\, Year 2\, Yellow Dragon\nPublic holiday in Mongolia.
+CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -8261,13 +8418,15 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-en-2049-05L-d01@gantemur.github.io
+UID:mongol-en-hol-0601-2049@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490601
 DTEND;VALUE=DATE:20490602
-SUMMARY:Lunar day 1 · Middle summer month (Leap)
-DESCRIPTION:Middle summer month (Leap)\, White Horse month\nCycle 18\, Year
-  3\, Yellow Snake
+SUMMARY:Children's Day
+DESCRIPTION:Lunar day 1 · Middle summer month (Leap)\nMiddle summer month 
+ (Leap)\, White Horse month\nCycle 18\, Year 3\, Yellow Snake\nPublic holid
+ ay in Mongolia.
+CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -8291,13 +8450,15 @@ DESCRIPTION:Middle summer month\, White Horse month\nCycle 18\, Year 3\, Ye
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-en-2049-05-d15@gantemur.github.io
+UID:mongol-en-hol-0715-2049@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490715
 DTEND;VALUE=DATE:20490716
-SUMMARY:Lunar day 15 · Middle summer month
-DESCRIPTION:Middle summer month\, White Horse month\nCycle 18\, Year 3\, Ye
- llow Snake
+SUMMARY:Naadam (National Festival)
+DESCRIPTION:Lunar day 15 · Middle summer month\nMiddle summer month\, Whit
+ e Horse month\nCycle 18\, Year 3\, Yellow Snake\nPublic holiday in Mongoli
+ a.
+CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -8395,10 +8556,10 @@ UID:mongol-en-2049-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20491126
 DTEND;VALUE=DATE:20491127
-SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day)
+SUMMARY:Chinggis Khaan's birthday (Mongolian Pride Day) · Republic Day
 DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, Blue Pi
- g month\nCycle 18\, Year 3\, Yellow Snake
-CATEGORIES:festival
+ g month\nCycle 18\, Year 3\, Yellow Snake\nPublic holiday in Mongolia.
+CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -8485,13 +8646,14 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-en-2050-01-d15@gantemur.github.io
+UID:mongol-en-hol-0308-2050@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500308
 DTEND;VALUE=DATE:20500309
-SUMMARY:Lunar day 15 · First spring month
-DESCRIPTION:First spring month\, Yellow Tiger month\nCycle 18\, Year 4\, Wh
- ite Horse
+SUMMARY:International Women's Day
+DESCRIPTION:Lunar day 15 · First spring month\nFirst spring month\, Yellow
+  Tiger month\nCycle 18\, Year 4\, White Horse\nPublic holiday in Mongolia.
+CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
