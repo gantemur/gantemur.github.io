@@ -5,6 +5,10 @@
   document.addEventListener("click", function (e) {
     var a = e.target.closest && e.target.closest("a");
     if (!a) return;
+    if (a.id === "addbyurl") {
+      try { window.goatcounter && window.goatcounter.count({ path: "beta/addbyurl", title: "Google From URL page", event: true }); } catch (err) {}
+      return;
+    }
     var holder = a.closest("[data-feed]");
     if (!holder) return;
     var feed = holder.dataset.feed.replace(/\.ics$/, "");
@@ -12,7 +16,7 @@
     if (a.classList.contains("cal-pill")) {
       kind = a.dataset.copy === "1"
         ? (root.dataset.app === "google" ? "google-phone-copy" : "copy")
-        : (root.dataset.app || "google");
+        : (root.dataset.app || "google") + (root.dataset.android === "1" && root.dataset.app === "google" ? "-android" : "");
     } else {
       kind = a.classList.contains("feed-apple") ? "apple" : a.classList.contains("feed-copy") ? "copy" : "google";
     }

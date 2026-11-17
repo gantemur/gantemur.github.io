@@ -64,6 +64,7 @@ tibfest:
     }
     root.dataset.app = app;
     root.dataset.phone = (ios || android) ? "1" : "0";
+    root.dataset.android = android ? "1" : "0";
     root.dataset.inapp = (/FBAN|FBAV|FB_IAB|Instagram|Line\/|MicroMessenger/.test(ua) ||
                           (android && /; wv\)/.test(ua))) ? "1" : "0";
   })();
@@ -99,7 +100,13 @@ tibfest:
   .how li { margin: 0.15rem 0; }
   html[data-app="apple"] .how-apple,
   html[data-app="google"][data-phone="0"] .how-google-pc,
-  html[data-app="google"][data-phone="1"] .how-google-phone,
+  html[data-app="google"][data-phone="1"][data-android="0"] .how-google-phone,
+  html[data-app="google"][data-android="1"] .how-google-android,
+  html[data-android="1"] .how-other .android-only { display: block; }
+  .how-other .android-only { display: none; }
+  html[data-android="1"] .not-android { display: none; }
+  .how .btn-line { margin: 0.35rem 0 0.5rem; }
+  .how .goto { color: var(--link); text-decoration: underline; cursor: pointer; }
   html[data-app="other"] .how-other { display: block; }
 
   /* Segmented pills: either-or choices are joined */
@@ -186,9 +193,22 @@ tibfest:
     <p class="cal-note l-mn">Компьютер байвал илүү хялбар: энэ хуудсыг компьютерээсээ нээж, календарь дээр дарна.</p>
     <p class="cal-note l-en">With a computer it is simpler: open this page there and click a calendar.</p>
   </div>
+  <div class="how how-google-android">
+    <p class="l-mn">Доорх календарь дээр дарахад Google Calendar апп нээгдэнэ; бүртгэлээ сонгоно. Календарь хэдэн минутын дотор ☰ цэсний «Other calendars» хэсэгт гарч ирнэ.</p>
+    <p class="l-en">Tap a calendar below; the Google Calendar app opens and asks for your account. Within a few minutes the calendar appears under "Other calendars" in the ☰ menu.</p>
+    <p class="cal-note l-mn">Нэмэгдэхгүй бол дээрх <a class="goto" href="?app=other" data-goto="other">Бусад</a>-ыг сонгоно.</p>
+    <p class="cal-note l-en">If it isn't added, choose <a class="goto" href="?app=other" data-goto="other">Other</a> above.</p>
+  </div>
   <div class="how how-other">
-    <p class="l-mn">Доорх календарь дээр дарахад холбоос нь хуулагдана. Outlook, Thunderbird болон бусад програмын «Subscribe from web» эсвэл «Add calendar from URL» хэсэгт paste хийнэ. Outlook-ыг утсан дээрх хөтчөөр ашиглавал эхлээд «Desktop site» горимыг асаана. Google-ийн бус Android хуанлид ICSx⁵ апп-аар нэмж болно.</p>
-    <p class="l-en">Tap a calendar below to copy its link, then paste it into "Subscribe from web" or "Add calendar from URL" in Outlook, Thunderbird or another app. Using Outlook in a phone browser, first turn on "Desktop site". For Android calendars other than Google, the ICSx⁵ app can add it.</p>
+    <div class="android-only">
+      <p class="l-mn">Android дээр Google хуанлид: доорх календарь дээр дарж холбоосыг нь хуулаад, энэ товчоор Google-ийн «From URL» хуудсыг нээнэ. «URL of calendar» нүдэнд paste хийж, «Add calendar» дарна.</p>
+      <p class="l-en">Google Calendar on Android: tap a calendar below to copy its link, open Google's "From URL" page with this button, paste the link into "URL of calendar" and press "Add calendar".</p>
+      <p class="btn-line"><a class="cal-pill" id="addbyurl" href="https://calendar.google.com/calendar/r/settings/addbyurl">Google: From URL</a></p>
+      <p class="l-mn">Google-гүй утсанд утасныхаа хуанлийн апп эсвэл ICSx⁵ апп-ыг ашиглана.</p>
+      <p class="l-en">On phones without Google, use the phone's own calendar app or the ICSx⁵ app.</p>
+    </div>
+    <p class="l-mn">Доорх календарь дээр дарахад холбоос нь хуулагдана. Outlook, Thunderbird болон бусад програмын «Subscribe from web» эсвэл «Add calendar from URL» хэсэгт paste хийнэ. Outlook-ыг утсан дээрх хөтчөөр ашиглавал эхлээд «Desktop site» горимыг асаана. <span class="not-android">Google-ийн бус Android хуанлид ICSx⁵ апп-аар нэмж болно.</span></p>
+    <p class="l-en">Tap a calendar below to copy its link, then paste it into "Subscribe from web" or "Add calendar from URL" in Outlook, Thunderbird or another app. Using Outlook in a phone browser, first turn on "Desktop site". <span class="not-android">For Android calendars other than Google, the ICSx⁵ app can add it.</span></p>
   </div>
 </div>
 
@@ -258,12 +278,20 @@ tibfest:
     var root = document.documentElement;
     var base = "gantemur.github.io/cal/";
     function setLinks() {
-      var app = root.dataset.app, phone = root.dataset.phone === "1";
-      document.querySelectorAll(".cal-pill").forEach(function (a) {
+      var app = root.dataset.app, phone = root.dataset.phone === "1", android = root.dataset.android === "1";
+      document.querySelectorAll(".cal-pill[data-feed]").forEach(function (a) {
         var f = a.dataset.feed;
         a.removeAttribute("target");
         if (app === "apple") {
           a.href = "webcal://" + base + f;
+          a.dataset.copy = "";
+        } else if (app === "google" && android) {
+          // Hand the http:// address to the Google Calendar app via Chrome
+          // (the https:// form fails silently in the app; tester report 2026-11-16).
+          var cid = encodeURIComponent("http://" + base + f);
+          a.href = "intent://calendar.google.com/calendar/render?cid=" + cid +
+            "#Intent;scheme=https;package=com.android.chrome;S.browser_fallback_url=" +
+            encodeURIComponent("https://calendar.google.com/calendar/render?cid=" + cid) + ";end";
           a.dataset.copy = "";
         } else if (app === "google" && !phone) {
           a.href = "https://calendar.google.com/calendar/render?cid=webcal://" + base + f;
@@ -296,18 +324,31 @@ tibfest:
       };
       try { navigator.clipboard.writeText(url).then(done, fallback); } catch (e) { fallback(); }
     }
-    document.querySelectorAll(".cal-pill").forEach(function (a) {
+    document.querySelectorAll(".cal-pill[data-feed]").forEach(function (a) {
       a.addEventListener("click", function (e) {
         if (a.dataset.copy === "1") { e.preventDefault(); copy(a); }
       });
     });
+    function choose(v) {
+      root.dataset.app = v;
+      try { localStorage.setItem("cal-app", v); } catch (e) {}
+      setLinks();
+    }
     document.querySelectorAll(".app-switch button").forEach(function (b) {
-      b.addEventListener("click", function () {
-        root.dataset.app = b.dataset.app;
-        try { localStorage.setItem("cal-app", b.dataset.app); } catch (e) {}
-        setLinks();
+      b.addEventListener("click", function () { choose(b.dataset.app); });
+    });
+    document.querySelectorAll("[data-goto]").forEach(function (a) {
+      a.addEventListener("click", function (e) {
+        e.preventDefault();
+        choose(a.dataset.goto);
+        document.querySelector(".app-box").scrollIntoView({ behavior: "smooth", block: "start" });
       });
     });
+    if (root.dataset.android === "1") {
+      var u = "https://calendar.google.com/calendar/r/settings/addbyurl";
+      document.getElementById("addbyurl").href = "intent://calendar.google.com/calendar/r/settings/addbyurl" +
+        "#Intent;scheme=https;package=com.android.chrome;S.browser_fallback_url=" + encodeURIComponent(u) + ";end";
+    }
     document.querySelectorAll(".lang-switch a").forEach(function (a) {
       a.addEventListener("click", function (e) {
         e.preventDefault();
