@@ -44,6 +44,7 @@ description: Academic homepage for Tsogtgerel Gantumur.
     <h2>Selected Recent Work</h2>
     <a href="/publications/" data-goatcounter-click="home-publications">Bibliography</a>
   </div>
+  {% set trackFeaturedLinks = true %}
   <ol class="pub-list featured-work">
     {% for pub in featuredPublications %}
       {% include "partials/publication.njk" %}
