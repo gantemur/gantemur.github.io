@@ -286,11 +286,12 @@ tibfest:
           a.href = "webcal://" + base + f;
           a.dataset.copy = "";
         } else if (app === "google" && android) {
-          // Hand the http:// address to the Google Calendar app via Chrome
-          // (the https:// form fails silently in the app; tester report 2026-11-16).
+          // Hand the http:// address to whatever opens calendar.google.com,
+          // normally the Google Calendar app (the https:// form fails silently
+          // in the app; tests H and I, 2026-11-16). No Chrome needed.
           var cid = encodeURIComponent("http://" + base + f);
           a.href = "intent://calendar.google.com/calendar/render?cid=" + cid +
-            "#Intent;scheme=https;package=com.android.chrome;S.browser_fallback_url=" +
+            "#Intent;scheme=https;S.browser_fallback_url=" +
             encodeURIComponent("https://calendar.google.com/calendar/render?cid=" + cid) + ";end";
           a.dataset.copy = "";
         } else if (app === "google" && !phone) {
