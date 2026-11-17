@@ -25,6 +25,11 @@ assert.doesNotMatch(cal, /gantemur-home\.goatcounter\.com\/count/,
   "Academic tracker must not be installed on the calendar page");
 
 const home = html("");
+console.log("DEBUG featured click events:",
+  [...home.matchAll(/data-goatcounter-click="([^"]+)"/g)]
+    .map((m) => m[1]).filter((x) => x.startsWith("home-paper")).slice(0, 16));
+console.log("DEBUG AFEM anchor:",
+  home.match(/<a href="https:\/\/arxiv\.org\/abs\/2611\.11668"[^>]*>[^<]*<\/a>/)?.[0] || "(not matched)");
 for (const event of [
   "home-research", "home-publications", "home-calendar", "home-calendar-mn",
   "home-teaching", "home-notes", "home-software", "home-sol", "home-caltib",
