@@ -1811,8 +1811,9 @@ UID:phugpa-en-2026-11-d15o@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-SUMMARY:Lunar day 14 (lunar day 15 omitted) · Lunar Month 11
-DESCRIPTION:Lunar Month 11\, Earth Tiger\nRabjung 17\, Year 40\, Fire Horse
+SUMMARY:Lunar day 14 · Lunar Month 11
+DESCRIPTION:lunar day 15 omitted\nLunar Month 11\, Earth Tiger\nRabjung 17\
+ , Year 40\, Fire Horse
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2115,9 +2116,9 @@ UID:phugpa-en-2028-01-chotrul@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280310
 DTEND;VALUE=DATE:20280311
-SUMMARY:Chotrul Düchen (Day of Miracles) (lunar day 15 omitted)
-DESCRIPTION:Lunar day 14 (lunar day 15 omitted) · Lunar Month 1\nLunar Mon
- th 1\, Water Dragon\nRabjung 17\, Year 42\, Earth Monkey
+SUMMARY:Chotrul Düchen (Day of Miracles)
+DESCRIPTION:Lunar day 14 · Lunar Month 1\nlunar day 15 omitted\nLunar Mont
+ h 1\, Water Dragon\nRabjung 17\, Year 42\, Earth Monkey
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4136,8 +4137,9 @@ UID:phugpa-en-2035-10-d15o@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20351214
 DTEND;VALUE=DATE:20351215
-SUMMARY:Lunar day 14 (lunar day 15 omitted) · Lunar Month 10
-DESCRIPTION:Lunar Month 10\, Fire Ox\nRabjung 17\, Year 49\, Wood Rabbit
+SUMMARY:Lunar day 14 · Lunar Month 10
+DESCRIPTION:lunar day 15 omitted\nLunar Month 10\, Fire Ox\nRabjung 17\, Ye
+ ar 49\, Wood Rabbit
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4421,9 +4423,9 @@ UID:phugpa-en-2036-11-d15o@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370101
 DTEND;VALUE=DATE:20370102
-SUMMARY:Lunar day 14 (lunar day 15 omitted) · Lunar Month 11
-DESCRIPTION:Lunar Month 11\, Earth Tiger\nRabjung 17\, Year 50\, Fire Drago
- n
+SUMMARY:Lunar day 14 · Lunar Month 11
+DESCRIPTION:lunar day 15 omitted\nLunar Month 11\, Earth Tiger\nRabjung 17\
+ , Year 50\, Fire Dragon
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4471,9 +4473,9 @@ UID:phugpa-en-2037-01-chotrul@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370301
 DTEND;VALUE=DATE:20370302
-SUMMARY:Chotrul Düchen (Day of Miracles) (lunar day 15 omitted)
-DESCRIPTION:Lunar day 14 (lunar day 15 omitted) · Lunar Month 1\nLunar Mon
- th 1\, Iron Dragon\nRabjung 17\, Year 51\, Fire Snake
+SUMMARY:Chotrul Düchen (Day of Miracles)
+DESCRIPTION:Lunar day 14 · Lunar Month 1\nlunar day 15 omitted\nLunar Mont
+ h 1\, Iron Dragon\nRabjung 17\, Year 51\, Fire Snake
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7110,9 +7112,9 @@ UID:phugpa-en-2047-01-chotrul@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470311
 DTEND;VALUE=DATE:20470312
-SUMMARY:Chotrul Düchen (Day of Miracles) (lunar day 15 omitted)
-DESCRIPTION:Lunar day 14 (lunar day 15 omitted) · Lunar Month 1\nLunar Mon
- th 1\, Iron Dragon\nRabjung 18\, Year 1\, Fire Rabbit
+SUMMARY:Chotrul Düchen (Day of Miracles)
+DESCRIPTION:Lunar day 14 · Lunar Month 1\nlunar day 15 omitted\nLunar Mont
+ h 1\, Iron Dragon\nRabjung 18\, Year 1\, Fire Rabbit
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT

@@ -2141,11 +2141,10 @@ UID:tsurphu-bo-2026-11-d15o@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
-SUMMARY:ཚེས་༡༤ (ཚེས་༡༥ ཆད།) · ཟླ་བ
- ་༡༡
-DESCRIPTION:ཟླ་བ་༡༡\, ལྕགས་བྱི་བ\nརབ
- ་བྱུང་༡༧པའི་ལོ་༤༠\, མེ་རྟ་
- ལོ།
+SUMMARY:ཚེས་༡༤ · ཟླ་བ་༡༡
+DESCRIPTION:ཚེས་༡༥ ཆད།\nཟླ་བ་༡༡\, ལྕག
+ ས་བྱི་བ\nརབ་བྱུང་༡༧པའི་ལོ་
+ ༤༠\, མེ་རྟ་ལོ།
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2187,10 +2186,9 @@ UID:tsurphu-bo-2027-01-chotrul@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན། (ཚེས་
- ༡༥ ཆད།)
-DESCRIPTION:ཚེས་༡༤ (ཚེས་༡༥ ཆད།) · ཟླ་
- བ་༡\nཟླ་བ་༡\, ཆུ་སྟག\nརབ་བྱུང
+SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
+DESCRIPTION:ཚེས་༡༤ · ཟླ་བ་༡\nཚེས་༡༥ 
+ ཆད།\nཟླ་བ་༡\, ཆུ་སྟག\nརབ་བྱུང
  ་༡༧པའི་ལོ་༤༡\, མེ་ལུག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
@@ -4783,10 +4781,10 @@ UID:tsurphu-bo-2035-10-d15o@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20351214
 DTEND;VALUE=DATE:20351215
-SUMMARY:ཚེས་༡༤ (ཚེས་༡༥ ཆད།) · ཟླ་བ
- ་༡༠
-DESCRIPTION:ཟླ་བ་༡༠\, མེ་ཕག\nརབ་བྱུང
- ་༡༧པའི་ལོ་༤༩\, ཤིང་ཡོས་ལོ།
+SUMMARY:ཚེས་༡༤ · ཟླ་བ་༡༠
+DESCRIPTION:ཚེས་༡༥ ཆད།\nཟླ་བ་༡༠\, མེ་
+ ཕག\nརབ་བྱུང་༡༧པའི་ལོ་༤༩\, ཤི
+ ང་ཡོས་ལོ།
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5144,10 +5142,9 @@ UID:tsurphu-bo-2037-01-chotrul@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370301
 DTEND;VALUE=DATE:20370302
-SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན། (ཚེས་
- ༡༥ ཆད།)
-DESCRIPTION:ཚེས་༡༤ (ཚེས་༡༥ ཆད།) · ཟླ་
- བ་༡\nཟླ་བ་༡\, ཆུ་སྟག\nརབ་བྱུང
+SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
+DESCRIPTION:ཚེས་༡༤ · ཟླ་བ་༡\nཚེས་༡༥ 
+ ཆད།\nཟླ་བ་༡\, ཆུ་སྟག\nརབ་བྱུང
  ་༡༧པའི་ལོ་༥༡\, མེ་སྦྲུལ་ལོ
  །
 CATEGORIES:festival
@@ -7790,10 +7787,9 @@ UID:tsurphu-bo-2046-01-chotrul@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460220
 DTEND;VALUE=DATE:20460221
-SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན། (ཚེས་
- ༡༥ ཆད།)
-DESCRIPTION:ཚེས་༡༤ (ཚེས་༡༥ ཆད།) · ཟླ་
- བ་༡\nཟླ་བ་༡\, ལྕགས་སྟག\nརབ་བྱ
+SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
+DESCRIPTION:ཚེས་༡༤ · ཟླ་བ་༡\nཚེས་༡༥ 
+ ཆད།\nཟླ་བ་༡\, ལྕགས་སྟག\nརབ་བྱ
  ུང་༡༧པའི་ལོ་༦༠\, མེ་སྟག་ལོ
  །
 CATEGORIES:festival

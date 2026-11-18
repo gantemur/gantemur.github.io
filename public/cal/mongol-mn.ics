@@ -18,7 +18,7 @@ DTEND;VALUE=DATE:20200102
 RRULE:FREQ=YEARLY;UNTIL=20501231
 EXDATE;VALUE=DATE:20440101,20480101
 SUMMARY:Шинэ жил
-DESCRIPTION:Бүх нийтээр амрах баярын өдөр.
+DESCRIPTION:Бүх нийтээр амрах баярын өдөр
 CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -30,8 +30,7 @@ DTEND;VALUE=DATE:20200110
 RRULE:FREQ=YEARLY;UNTIL=20501231
 SUMMARY:3 ес эхэлнэ
 DESCRIPTION:Гурван есөд гунан үхрийн эвэр хуга
-  хөлдөнө\nӨвлийн есөн ес: 12-р сарын 22-оос х
- ойш 81 хоногийг есөн хоногоор тоолно.
+  хөлдөнө
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -54,8 +53,7 @@ RRULE:FREQ=YEARLY;UNTIL=20501231
 EXDATE;VALUE=DATE:20490118
 SUMMARY:4 ес эхэлнэ
 DESCRIPTION:Дөрвөн есөд дөнөн үхрийн эвэр хуга
-  хөлдөнө\nӨвлийн есөн ес: 12-р сарын 22-оос х
- ойш 81 хоногийг есөн хоногоор тоолно.
+  хөлдөнө
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -78,8 +76,7 @@ RRULE:FREQ=YEARLY;UNTIL=20501231
 EXDATE;VALUE=DATE:20280127,20320127
 SUMMARY:5 ес эхэлнэ
 DESCRIPTION:Таван есөд тавьсан будаа хөлдөхгү
- й\nӨвлийн есөн ес: 12-р сарын 22-оос хойш 81 х
- оногийг есөн хоногоор тоолно.
+ й
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -89,11 +86,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200205
 DTEND;VALUE=DATE:20200206
 RRULE:FREQ=YEARLY;UNTIL=20501231
-EXDATE;VALUE=DATE:20230205,20380205,20460205
+EXDATE;VALUE=DATE:20230205,20300205,20380205,20460205,20490205
 SUMMARY:6 ес эхэлнэ
-DESCRIPTION:Зургаан есөд зурайсан зам гарна\nӨ
- влийн есөн ес: 12-р сарын 22-оос хойш 81 хоно
- гийг есөн хоногоор тоолно.
+DESCRIPTION:Зургаан есөд зурайсан зам гарна
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -113,11 +108,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200214
 DTEND;VALUE=DATE:20200215
 RRULE:FREQ=YEARLY;UNTIL=20501231
-EXDATE;VALUE=DATE:20290214,20330214,20480214
+EXDATE;VALUE=DATE:20210214,20290214,20330214,20400214,20480214
 SUMMARY:7 ес эхэлнэ
-DESCRIPTION:Долоон есөд довны толгой бараална\
- nӨвлийн есөн ес: 12-р сарын 22-оос хойш 81 хон
- огийг есөн хоногоор тоолно.
+DESCRIPTION:Долоон есөд довны толгой бараална
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -140,11 +133,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200223
 DTEND;VALUE=DATE:20200224
 RRULE:FREQ=YEARLY;UNTIL=20501231
-EXDATE;VALUE=DATE:20200223,20390223,20430223
+EXDATE;VALUE=DATE:20200223,20230223,20310223,20390223,20420223,20430223,205
+ 00223
 SUMMARY:8 ес эхэлнэ
-DESCRIPTION:Найман есөд нял шал болно\nӨвлийн е
- сөн ес: 12-р сарын 22-оос хойш 81 хоногийг ес
- өн хоногоор тоолно.
+DESCRIPTION:Найман есөд нял шал болно
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -156,7 +148,34 @@ DTEND;VALUE=DATE:20200225
 SUMMARY:Цагаан сар
 DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
  ын тэргүүн шар барс сар\n17-р жарны 34 он ца
- гаан хулгана жил
+ гаан хулгана жил\nБүх нийтээр амрах баяр
+ ын өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2020-01-ts2@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20200225
+DTEND;VALUE=DATE:20200226
+SUMMARY:Шинийн 2
+DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн шар барс сар\n17-р жарны 34 он ца
+ гаан хулгана жил\nБүх нийтээр амрах баяр
+ ын өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2020-01-ts3@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20200226
+DTEND;VALUE=DATE:20200227
+SUMMARY:Шинийн 3
+DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн шар барс сар\n17-р жарны 34 он ца
+ гаан хулгана жил\nБүх нийтээр амрах баяр
+ ын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -166,9 +185,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200303
 DTEND;VALUE=DATE:20200304
 SUMMARY:9 ес эхэлнэ
-DESCRIPTION:Есөн есөд ердийн дулаан болно\nӨвл
- ийн есөн ес: 12-р сарын 22-оос хойш 81 хоноги
- йг есөн хоногоор тоолно.
+DESCRIPTION:Есөн есөд ердийн дулаан болно
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -180,8 +197,8 @@ DTEND;VALUE=DATE:20200309
 RRULE:FREQ=YEARLY;UNTIL=20501231
 EXDATE;VALUE=DATE:20460308,20500308
 SUMMARY:Эмэгтэйчүүдийн баяр
-DESCRIPTION:Олон улсын эмэгтэйчүүдийн өдөр.\nБ
- үх нийтээр амрах баярын өдөр.
+DESCRIPTION:Олон улсын эмэгтэйчүүдийн өдөр\nБү
+ х нийтээр амрах баярын өдөр
 CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -263,7 +280,7 @@ DTEND;VALUE=DATE:20200602
 RRULE:FREQ=YEARLY;UNTIL=20501231
 EXDATE;VALUE=DATE:20340601,20490601
 SUMMARY:Хүүхдийн баяр
-DESCRIPTION:Бүх нийтээр амрах баярын өдөр.
+DESCRIPTION:Бүх нийтээр амрах баярын өдөр
 CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -272,10 +289,11 @@ UID:mongol-mn-2020-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200605
 DTEND;VALUE=DATE:20200606
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
+SUMMARY:Их дүйчин өдөр
 DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
  цагаагчин могой сар\n17-р жарны 34 он цагаа
- н хулгана жил
+ н хулгана жил\nБүх нийтээр амрах баярын ө
+ дөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -307,7 +325,7 @@ DTEND;VALUE=DATE:20200712
 RRULE:FREQ=YEARLY;UNTIL=20501231
 EXDATE;VALUE=DATE:20210711
 SUMMARY:Үндэсний их баяр наадам
-DESCRIPTION:Бүх нийтээр амрах баярын өдөр.
+DESCRIPTION:Бүх нийтээр амрах баярын өдөр
 CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -319,7 +337,7 @@ DTEND;VALUE=DATE:20200713
 RRULE:FREQ=YEARLY;UNTIL=20501231
 EXDATE;VALUE=DATE:20290712,20330712,20480712
 SUMMARY:Үндэсний их баяр наадам
-DESCRIPTION:Бүх нийтээр амрах баярын өдөр.
+DESCRIPTION:Бүх нийтээр амрах баярын өдөр
 CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -331,7 +349,7 @@ DTEND;VALUE=DATE:20200714
 RRULE:FREQ=YEARLY;UNTIL=20501231
 EXDATE;VALUE=DATE:20220713,20410713
 SUMMARY:Үндэсний их баяр наадам
-DESCRIPTION:Бүх нийтээр амрах баярын өдөр.
+DESCRIPTION:Бүх нийтээр амрах баярын өдөр
 CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -343,7 +361,7 @@ DTEND;VALUE=DATE:20200715
 RRULE:FREQ=YEARLY;UNTIL=20501231
 EXDATE;VALUE=DATE:20370714
 SUMMARY:Үндэсний их баяр наадам
-DESCRIPTION:Бүх нийтээр амрах баярын өдөр.
+DESCRIPTION:Бүх нийтээр амрах баярын өдөр
 CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -355,7 +373,7 @@ DTEND;VALUE=DATE:20200716
 RRULE:FREQ=YEARLY;UNTIL=20501231
 EXDATE;VALUE=DATE:20260715,20300715,20450715,20490715
 SUMMARY:Үндэсний их баяр наадам
-DESCRIPTION:Бүх нийтээр амрах баярын өдөр.
+DESCRIPTION:Бүх нийтээр амрах баярын өдөр
 CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -444,11 +462,11 @@ UID:mongol-mn-2020-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20201116
 DTEND;VALUE=DATE:20201117
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
+SUMMARY:Монгол бахархлын өдөр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн улаагчин гахай сар\n17-р жарны 34 он цаг
- аан хулгана жил
+ аан хулгана жил\nИх Эзэн Чингис хааны төр
+ сөн өдөр\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -461,7 +479,7 @@ RRULE:FREQ=YEARLY;UNTIL=20501231
 EXDATE;VALUE=DATE:20301126,20491126
 SUMMARY:Улс тунхагласан өдөр
 DESCRIPTION:Бүгд Найрамдах Улс тунхагласан өд
- өр.\nБүх нийтээр амрах баярын өдөр.
+ өр\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -493,9 +511,7 @@ DTEND;VALUE=DATE:20201223
 RRULE:FREQ=YEARLY;UNTIL=20501231
 EXDATE;VALUE=DATE:20331222,20371222
 SUMMARY:1 ес эхэлнэ
-DESCRIPTION:Нэг есөд нэрмэл архи хөлдөнө\nӨвли
- йн есөн ес: 12-р сарын 22-оос хойш 81 хоногий
- г есөн хоногоор тоолно.
+DESCRIPTION:Нэг есөд нэрмэл архи хөлдөнө
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -508,8 +524,8 @@ SUMMARY:Тусгаар тогтнолын өдөр
 DESCRIPTION:Шинийн 15 · Өвлийн дунд сар\nӨвлийн 
  дунд шар хулгана сар\n17-р жарны 34 он цагаа
  н хулгана жил\nҮндэсний эрх чөлөө\, тусга
- ар тогтнолоо сэргээсний баярын өдөр.\nБү
- х нийтээр амрах баярын өдөр.
+ ар тогтнолоо сэргээсний баярын өдөр\nБүх
+  нийтээр амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -521,9 +537,7 @@ DTEND;VALUE=DATE:20210101
 RRULE:FREQ=YEARLY;UNTIL=20501231
 EXDATE;VALUE=DATE:20241231,20281231
 SUMMARY:2 ес эхэлнэ
-DESCRIPTION:Хоёр есөд хорз архи хөлдөнө\nӨвлий
- н есөн ес: 12-р сарын 22-оос хойш 81 хоногийг 
- есөн хоногоор тоолно.
+DESCRIPTION:Хоёр есөд хорз архи хөлдөнө
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -567,7 +581,35 @@ DTEND;VALUE=DATE:20210213
 SUMMARY:Цагаан сар
 DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
  ын тэргүүн цагаан барс сар\n17-р жарны 35 он
-  цагаагчин үхэр жил
+  цагаагчин үхэр жил\nБүх нийтээр амрах ба
+ ярын өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2021-01-ts2@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20210213
+DTEND;VALUE=DATE:20210214
+SUMMARY:Шинийн 2
+DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн цагаан барс сар\n17-р жарны 35 он
+  цагаагчин үхэр жил\nБүх нийтээр амрах ба
+ ярын өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2021-01-ts3@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20210214
+DTEND;VALUE=DATE:20210215
+SUMMARY:Шинийн 3
+DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар · 7 ес 
+ эхэлнэ · Долоон есөд довны толгой бараал
+ на\nХаврын тэргүүн цагаан барс сар\n17-р жа
+ рны 35 он цагаагчин үхэр жил\nБүх нийтээр 
+ амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -587,9 +629,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210304
 DTEND;VALUE=DATE:20210305
 SUMMARY:9 ес эхэлнэ
-DESCRIPTION:Есөн есөд ердийн дулаан болно\nӨвл
- ийн есөн ес: 12-р сарын 22-оос хойш 81 хоноги
- йг есөн хоногоор тоолно.
+DESCRIPTION:Есөн есөд ердийн дулаан болно
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -648,10 +688,11 @@ UID:mongol-mn-2021-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210526
 DTEND;VALUE=DATE:20210527
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
+SUMMARY:Их дүйчин өдөр
 DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
  харагчин могой сар\n17-р жарны 35 он цагааг
- чин үхэр жил
+ чин үхэр жил\nБүх нийтээр амрах баярын өд
+ өр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -694,7 +735,7 @@ SUMMARY:Үндэсний их баяр наадам
 DESCRIPTION:Шинийн 1 (давхар) · Зуны сүүл сар\nЗу
  ны сүүл хөхөгчин хонь сар\n17-р жарны 35 он 
  цагаагчин үхэр жил\nБүх нийтээр амрах ба
- ярын өдөр.
+ ярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -774,11 +815,11 @@ UID:mongol-mn-2021-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20211105
 DTEND;VALUE=DATE:20211106
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
+SUMMARY:Монгол бахархлын өдөр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн шарагчин гахай сар\n17-р жарны 35 он цаг
- аагчин үхэр жил
+ аагчин үхэр жил\nИх Эзэн Чингис хааны төр
+ сөн өдөр\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -820,8 +861,8 @@ DTEND;VALUE=DATE:20211230
 RRULE:FREQ=YEARLY;UNTIL=20501231
 SUMMARY:Тусгаар тогтнолын өдөр
 DESCRIPTION:Үндэсний эрх чөлөө\, тусгаар тогтн
- олоо сэргээсний баярын өдөр.\nБүх нийтээ
- р амрах баярын өдөр.
+ олоо сэргээсний баярын өдөр\nБүх нийтээр
+  амрах баярын өдөр
 CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -865,7 +906,19 @@ DTEND;VALUE=DATE:20220203
 SUMMARY:Цагаан сар
 DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
  ын тэргүүн хар барс сар\n17-р жарны 36 он ха
- р бар жил
+ р бар жил\nБүх нийтээр амрах баярын өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2022-01-ts2@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20220203
+DTEND;VALUE=DATE:20220204
+SUMMARY:Шинийн 2
+DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн хар барс сар\n17-р жарны 36 он ха
+ р бар жил\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -895,9 +948,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220304
 DTEND;VALUE=DATE:20220305
 SUMMARY:9 ес эхэлнэ
-DESCRIPTION:Есөн есөд ердийн дулаан болно\nӨвл
- ийн есөн ес: 12-р сарын 22-оос хойш 81 хоноги
- йг есөн хоногоор тоолно.
+DESCRIPTION:Есөн есөд ердийн дулаан болно
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -966,10 +1017,10 @@ UID:mongol-mn-2022-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220614
 DTEND;VALUE=DATE:20220615
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
+SUMMARY:Их дүйчин өдөр
 DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
  хөхөгчин могой сар\n17-р жарны 36 он хар бар
-  жил
+  жил\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -991,7 +1042,7 @@ DTEND;VALUE=DATE:20220711
 RRULE:FREQ=YEARLY;UNTIL=20501231
 EXDATE;VALUE=DATE:20250710,20400710,20440710
 SUMMARY:Үндэсний их баяр наадам
-DESCRIPTION:Бүх нийтээр амрах баярын өдөр.
+DESCRIPTION:Бүх нийтээр амрах баярын өдөр
 CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1003,7 +1054,7 @@ DTEND;VALUE=DATE:20220714
 SUMMARY:Үндэсний их баяр наадам
 DESCRIPTION:Шинийн 15 · Зуны дунд сар\nЗуны дунд 
  улаан морь сар\n17-р жарны 36 он хар бар жил\
- nБүх нийтээр амрах баярын өдөр.
+ nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1092,11 +1143,11 @@ UID:mongol-mn-2022-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20221124
 DTEND;VALUE=DATE:20221125
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
+SUMMARY:Монгол бахархлын өдөр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн цагаагчин гахай сар\n17-р жарны 36 он ха
- р бар жил
+ р бар жил\nИх Эзэн Чингис хааны төрсөн өд
+ өр\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1182,7 +1233,35 @@ DTEND;VALUE=DATE:20230222
 SUMMARY:Цагаан сар
 DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
  ын тэргүүн хөх барс сар\n17-р жарны 37 он ха
- рагчин туулай жил
+ рагчин туулай жил\nБүх нийтээр амрах бая
+ рын өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2023-01-ts2@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20230222
+DTEND;VALUE=DATE:20230223
+SUMMARY:Шинийн 2
+DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн хөх барс сар\n17-р жарны 37 он ха
+ рагчин туулай жил\nБүх нийтээр амрах бая
+ рын өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2023-01-ts3@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20230223
+DTEND;VALUE=DATE:20230224
+SUMMARY:Шинийн 3
+DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар · 8 ес 
+ эхэлнэ · Найман есөд нял шал болно\nХавры
+ н тэргүүн хөх барс сар\n17-р жарны 37 он хар
+ агчин туулай жил\nБүх нийтээр амрах баяр
+ ын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1192,9 +1271,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230304
 DTEND;VALUE=DATE:20230305
 SUMMARY:9 ес эхэлнэ
-DESCRIPTION:Есөн есөд ердийн дулаан болно\nӨвл
- ийн есөн ес: 12-р сарын 22-оос хойш 81 хоноги
- йг есөн хоногоор тоолно.
+DESCRIPTION:Есөн есөд ердийн дулаан болно
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1263,10 +1340,11 @@ UID:mongol-mn-2023-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230604
 DTEND;VALUE=DATE:20230605
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
+SUMMARY:Их дүйчин өдөр
 DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
  улаагчин могой сар\n17-р жарны 37 он харагч
- ин туулай жил
+ ин туулай жил\nБүх нийтээр амрах баярын ө
+ дөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1385,11 +1463,11 @@ UID:mongol-mn-2023-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20231114
 DTEND;VALUE=DATE:20231115
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
+SUMMARY:Монгол бахархлын өдөр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн харагчин гахай сар\n17-р жарны 37 он хар
- агчин туулай жил
+ агчин туулай жил\nИх Эзэн Чингис хааны тө
+ рсөн өдөр\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1463,7 +1541,34 @@ DTEND;VALUE=DATE:20240211
 SUMMARY:Цагаан сар
 DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
  ын тэргүүн улаан барс сар\n17-р жарны 38 он 
- хөх луу жил
+ хөх луу жил\nБүх нийтээр амрах баярын өдө
+ р
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2024-01-ts2@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20240211
+DTEND;VALUE=DATE:20240212
+SUMMARY:Шинийн 2
+DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн улаан барс сар\n17-р жарны 38 он 
+ хөх луу жил\nБүх нийтээр амрах баярын өдө
+ р
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2024-01-ts3@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20240212
+DTEND;VALUE=DATE:20240213
+SUMMARY:Шинийн 3
+DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн улаан барс сар\n17-р жарны 38 он 
+ хөх луу жил\nБүх нийтээр амрах баярын өдө
+ р
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1483,9 +1588,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240303
 DTEND;VALUE=DATE:20240304
 SUMMARY:9 ес эхэлнэ
-DESCRIPTION:Есөн есөд ердийн дулаан болно\nӨвл
- ийн есөн ес: 12-р сарын 22-оос хойш 81 хоноги
- йг есөн хоногоор тоолно.
+DESCRIPTION:Есөн есөд ердийн дулаан болно
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1544,10 +1647,10 @@ UID:mongol-mn-2024-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240523
 DTEND;VALUE=DATE:20240524
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
+SUMMARY:Их дүйчин өдөр
 DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
  шарагчин могой сар\n17-р жарны 38 он хөх луу
-  жил
+  жил\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1656,11 +1759,11 @@ UID:mongol-mn-2024-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20241102
 DTEND;VALUE=DATE:20241103
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
+SUMMARY:Монгол бахархлын өдөр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн хөхөгчин гахай сар\n17-р жарны 38 он хөх
-  луу жил
+  луу жил\nИх Эзэн Чингис хааны төрсөн өдө
+ р\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1756,7 +1859,21 @@ DTEND;VALUE=DATE:20250302
 SUMMARY:Цагаан сар
 DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар (шини
  йн 1 тасарсан)\nХаврын тэргүүн шар барс са
- р\n17-р жарны 39 он хөхөгчин могой жил
+ р\n17-р жарны 39 он хөхөгчин могой жил\nБүх н
+ ийтээр амрах баярын өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2025-01-ts3@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20250302
+DTEND;VALUE=DATE:20250303
+SUMMARY:Шинийн 3
+DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн шар барс сар\n17-р жарны 39 он хө
+ хөгчин могой жил\nБүх нийтээр амрах баяр
+ ын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1766,9 +1883,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250304
 DTEND;VALUE=DATE:20250305
 SUMMARY:9 ес эхэлнэ
-DESCRIPTION:Есөн есөд ердийн дулаан болно\nӨвл
- ийн есөн ес: 12-р сарын 22-оос хойш 81 хоноги
- йг есөн хоногоор тоолно.
+DESCRIPTION:Есөн есөд ердийн дулаан болно
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1837,10 +1952,11 @@ UID:mongol-mn-2025-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250611
 DTEND;VALUE=DATE:20250612
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
+SUMMARY:Их дүйчин өдөр
 DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
  цагаагчин могой сар\n17-р жарны 39 он хөхөг
- чин могой жил
+ чин могой жил\nБүх нийтээр амрах баярын ө
+ дөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1862,7 +1978,7 @@ DTEND;VALUE=DATE:20250711
 SUMMARY:Үндэсний их баяр наадам
 DESCRIPTION:Шинийн 15 · Зуны дунд сар\nЗуны дунд 
  хар морь сар\n17-р жарны 39 он хөхөгчин мого
- й жил\nБүх нийтээр амрах баярын өдөр.
+ й жил\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1951,11 +2067,11 @@ UID:mongol-mn-2025-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20251121
 DTEND;VALUE=DATE:20251122
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
+SUMMARY:Монгол бахархлын өдөр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн улаагчин гахай сар\n17-р жарны 39 он хөх
- өгчин могой жил
+ өгчин могой жил\nИх Эзэн Чингис хааны төр
+ сөн өдөр\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1964,10 +2080,10 @@ UID:mongol-mn-2025-10-d15o@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20251204
 DTEND;VALUE=DATE:20251205
-SUMMARY:Шинийн 14 (шинийн 15 тасарсан) · Өвлийн 
- эхэн сар
-DESCRIPTION:Өвлийн эхэн улаагчин гахай сар\n17-р
-  жарны 39 он хөхөгчин могой жил
+SUMMARY:Шинийн 14 · Өвлийн эхэн сар
+DESCRIPTION:шинийн 15 тасарсан\nӨвлийн эхэн ула
+ агчин гахай сар\n17-р жарны 39 он хөхөгчин м
+ огой жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2030,7 +2146,34 @@ DTEND;VALUE=DATE:20260219
 SUMMARY:Цагаан сар
 DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
  ын тэргүүн цагаан барс сар\n17-р жарны 40 он
-  улаан морин жил
+  улаан морин жил\nБүх нийтээр амрах баяры
+ н өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2026-01-ts2@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260220
+SUMMARY:Шинийн 2
+DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн цагаан барс сар\n17-р жарны 40 он
+  улаан морин жил\nБүх нийтээр амрах баяры
+ н өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2026-01-ts3@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:Шинийн 3
+DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн цагаан барс сар\n17-р жарны 40 он
+  улаан морин жил\nБүх нийтээр амрах баяры
+ н өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2050,9 +2193,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260304
 DTEND;VALUE=DATE:20260305
 SUMMARY:9 ес эхэлнэ
-DESCRIPTION:Есөн есөд ердийн дулаан болно\nӨвл
- ийн есөн ес: 12-р сарын 22-оос хойш 81 хоноги
- йг есөн хоногоор тоолно.
+DESCRIPTION:Есөн есөд ердийн дулаан болно
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2122,10 +2263,10 @@ UID:mongol-mn-2026-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260601
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
+SUMMARY:Их дүйчин өдөр
 DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
  харагчин могой сар\n17-р жарны 40 он улаан м
- орин жил
+ орин жил\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2157,7 +2298,7 @@ DTEND;VALUE=DATE:20260716
 SUMMARY:Үндэсний их баяр наадам
 DESCRIPTION:Шинийн 1 · Зуны сүүл сар\nЗуны сүүл 
  хөхөгчин хонь сар\n17-р жарны 40 он улаан мо
- рин жил\nБүх нийтээр амрах баярын өдөр.
+ рин жил\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2236,11 +2377,11 @@ UID:mongol-mn-2026-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
+SUMMARY:Монгол бахархлын өдөр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн шарагчин гахай сар\n17-р жарны 40 он ула
- ан морин жил
+ ан морин жил\nИх Эзэн Чингис хааны төрсөн
+  өдөр\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2314,7 +2455,34 @@ DTEND;VALUE=DATE:20270208
 SUMMARY:Цагаан сар
 DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
  ын тэргүүн хар барс сар\n17-р жарны 41 он ул
- аагчин хонин жил
+ аагчин хонин жил\nБүх нийтээр амрах баяр
+ ын өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2027-01-ts2@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:Шинийн 2
+DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн хар барс сар\n17-р жарны 41 он ул
+ аагчин хонин жил\nБүх нийтээр амрах баяр
+ ын өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2027-01-ts3@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:Шинийн 3
+DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн хар барс сар\n17-р жарны 41 он ул
+ аагчин хонин жил\nБүх нийтээр амрах баяр
+ ын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2323,10 +2491,10 @@ UID:mongol-mn-2027-01-d15o@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-SUMMARY:Шинийн 14 (шинийн 15 тасарсан) · Хаврын 
- тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн хар барс сар\n17-р жа
- рны 41 он улаагчин хонин жил
+SUMMARY:Шинийн 14 · Хаврын тэргүүн сар
+DESCRIPTION:шинийн 15 тасарсан\nХаврын тэргүүн 
+ хар барс сар\n17-р жарны 41 он улаагчин хони
+ н жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2335,9 +2503,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
 SUMMARY:9 ес эхэлнэ
-DESCRIPTION:Есөн есөд ердийн дулаан болно\nӨвл
- ийн есөн ес: 12-р сарын 22-оос хойш 81 хоноги
- йг есөн хоногоор тоолно.
+DESCRIPTION:Есөн есөд ердийн дулаан болно
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2396,10 +2562,11 @@ UID:mongol-mn-2027-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
+SUMMARY:Их дүйчин өдөр
 DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
  хөхөгчин могой сар\n17-р жарны 41 он улаагч
- ин хонин жил
+ ин хонин жил\nБүх нийтээр амрах баярын өд
+ өр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2539,11 +2706,11 @@ UID:mongol-mn-2027-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20271129
 DTEND;VALUE=DATE:20271130
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
+SUMMARY:Монгол бахархлын өдөр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн цагаагчин гахай сар\n17-р жарны 41 он ул
- аагчин хонин жил
+ аагчин хонин жил\nИх Эзэн Чингис хааны тө
+ рсөн өдөр\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2619,7 +2786,34 @@ DTEND;VALUE=DATE:20280227
 SUMMARY:Цагаан сар
 DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
  ын тэргүүн хөх барс сар\n17-р жарны 42 он ша
- р бичин жил
+ р бичин жил\nБүх нийтээр амрах баярын өдө
+ р
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2028-01-ts2@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20280227
+DTEND;VALUE=DATE:20280228
+SUMMARY:Шинийн 2
+DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн хөх барс сар\n17-р жарны 42 он ша
+ р бичин жил\nБүх нийтээр амрах баярын өдө
+ р
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2028-01-ts3@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20280228
+DTEND;VALUE=DATE:20280229
+SUMMARY:Шинийн 3
+DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн хөх барс сар\n17-р жарны 42 он ша
+ р бичин жил\nБүх нийтээр амрах баярын өдө
+ р
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2629,9 +2823,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280303
 DTEND;VALUE=DATE:20280304
 SUMMARY:9 ес эхэлнэ
-DESCRIPTION:Есөн есөд ердийн дулаан болно\nӨвл
- ийн есөн ес: 12-р сарын 22-оос хойш 81 хоноги
- йг есөн хоногоор тоолно.
+DESCRIPTION:Есөн есөд ердийн дулаан болно
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2700,10 +2892,10 @@ UID:mongol-mn-2028-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280607
 DTEND;VALUE=DATE:20280608
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
+SUMMARY:Их дүйчин өдөр
 DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
  улаагчин могой сар\n17-р жарны 42 он шар бич
- ин жил
+ ин жил\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2813,11 +3005,11 @@ UID:mongol-mn-2028-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20281117
 DTEND;VALUE=DATE:20281118
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
+SUMMARY:Монгол бахархлын өдөр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн харагчин гахай сар\n17-р жарны 42 он шар
-  бичин жил
+  бичин жил\nИх Эзэн Чингис хааны төрсөн ө
+ дөр\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2894,7 +3086,34 @@ SUMMARY:Цагаан сар
 DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар · 7 ес 
  эхэлнэ · Долоон есөд довны толгой бараал
  на\nХаврын тэргүүн улаан барс сар\n17-р жар
- ны 43 он шарагчин тахиа жил
+ ны 43 он шарагчин тахиа жил\nБүх нийтээр а
+ мрах баярын өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2029-01-ts2@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20290215
+DTEND;VALUE=DATE:20290216
+SUMMARY:Шинийн 2
+DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн улаан барс сар\n17-р жарны 43 он 
+ шарагчин тахиа жил\nБүх нийтээр амрах ба
+ ярын өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2029-01-ts3@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20290216
+DTEND;VALUE=DATE:20290217
+SUMMARY:Шинийн 3
+DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн улаан барс сар\n17-р жарны 43 он 
+ шарагчин тахиа жил\nБүх нийтээр амрах ба
+ ярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2914,9 +3133,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290304
 DTEND;VALUE=DATE:20290305
 SUMMARY:9 ес эхэлнэ
-DESCRIPTION:Есөн есөд ердийн дулаан болно\nӨвл
- ийн есөн ес: 12-р сарын 22-оос хойш 81 хоноги
- йг есөн хоногоор тоолно.
+DESCRIPTION:Есөн есөд ердийн дулаан болно
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2975,10 +3192,11 @@ UID:mongol-mn-2029-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290527
 DTEND;VALUE=DATE:20290528
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
+SUMMARY:Их дүйчин өдөр
 DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
  шарагчин могой сар\n17-р жарны 43 он шарагч
- ин тахиа жил
+ ин тахиа жил\nБүх нийтээр амрах баярын өд
+ өр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3011,7 +3229,7 @@ SUMMARY:Үндэсний их баяр наадам
 DESCRIPTION:Шинийн 1 · Зуны сүүл сар\nЗуны сүүл 
  цагаагчин хонь сар\n17-р жарны 43 он шарагч
  ин тахиа жил\nБүх нийтээр амрах баярын өд
- өр.
+ өр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3090,11 +3308,11 @@ UID:mongol-mn-2029-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20291107
 DTEND;VALUE=DATE:20291108
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
+SUMMARY:Монгол бахархлын өдөр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн хөхөгчин гахай сар\n17-р жарны 43 он шар
- агчин тахиа жил
+ агчин тахиа жил\nИх Эзэн Чингис хааны төр
+ сөн өдөр\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3169,7 +3387,35 @@ DTEND;VALUE=DATE:20300204
 SUMMARY:Цагаан сар
 DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
  ын тэргүүн шар барс сар\n17-р жарны 44 он ца
- гаан нохой жил
+ гаан нохой жил\nБүх нийтээр амрах баярын 
+ өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2030-01-ts2@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20300204
+DTEND;VALUE=DATE:20300205
+SUMMARY:Шинийн 2
+DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн шар барс сар\n17-р жарны 44 он ца
+ гаан нохой жил\nБүх нийтээр амрах баярын 
+ өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2030-01-ts3@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20300205
+DTEND;VALUE=DATE:20300206
+SUMMARY:Шинийн 3
+DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар · 6 ес 
+ эхэлнэ · Зургаан есөд зурайсан зам гарна
+ \nХаврын тэргүүн шар барс сар\n17-р жарны 44 
+ он цагаан нохой жил\nБүх нийтээр амрах ба
+ ярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3189,9 +3435,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300304
 DTEND;VALUE=DATE:20300305
 SUMMARY:9 ес эхэлнэ
-DESCRIPTION:Есөн есөд ердийн дулаан болно\nӨвл
- ийн есөн ес: 12-р сарын 22-оос хойш 81 хоноги
- йг есөн хоногоор тоолно.
+DESCRIPTION:Есөн есөд ердийн дулаан болно
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3250,10 +3494,11 @@ UID:mongol-mn-2030-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300517
 DTEND;VALUE=DATE:20300518
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
+SUMMARY:Их дүйчин өдөр
 DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
  цагаагчин могой сар\n17-р жарны 44 он цагаа
- н нохой жил
+ н нохой жил\nБүх нийтээр амрах баярын өдө
+ р
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3295,7 +3540,7 @@ DTEND;VALUE=DATE:20300716
 SUMMARY:Үндэсний их баяр наадам
 DESCRIPTION:Шинийн 15 · Зуны дунд сар\nЗуны дунд 
  хар морь сар\n17-р жарны 44 он цагаан нохой 
- жил\nБүх нийтээр амрах баярын өдөр.
+ жил\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3394,14 +3639,13 @@ UID:mongol-mn-2030-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20301126
 DTEND;VALUE=DATE:20301127
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр) · Улс тунхагласан өд
- өр
+SUMMARY:Монгол бахархлын өдөр · Улс тунхагла
+ сан өдөр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн улаагчин гахай сар\n17-р жарны 44 он цаг
- аан нохой жил\nБүгд Найрамдах Улс тунхаг
- ласан өдөр.\nБүх нийтээр амрах баярын өдө
- р.
+ аан нохой жил\nИх Эзэн Чингис хааны төрсө
+ н өдөр\nБүх нийтээр амрах баярын өдөр\nБү
+ гд Найрамдах Улс тунхагласан өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3475,7 +3719,35 @@ DTEND;VALUE=DATE:20310223
 SUMMARY:Цагаан сар
 DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
  ын тэргүүн цагаан барс сар\n17-р жарны 45 он
-  цагаагчин гахай жил
+  цагаагчин гахай жил\nБүх нийтээр амрах б
+ аярын өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2031-01-ts2@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20310223
+DTEND;VALUE=DATE:20310224
+SUMMARY:Шинийн 2
+DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар · 8 ес 
+ эхэлнэ · Найман есөд нял шал болно\nХавры
+ н тэргүүн цагаан барс сар\n17-р жарны 45 он 
+ цагаагчин гахай жил\nБүх нийтээр амрах б
+ аярын өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2031-01-ts3@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20310224
+DTEND;VALUE=DATE:20310225
+SUMMARY:Шинийн 3
+DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн цагаан барс сар\n17-р жарны 45 он
+  цагаагчин гахай жил\nБүх нийтээр амрах б
+ аярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3485,9 +3757,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310304
 DTEND;VALUE=DATE:20310305
 SUMMARY:9 ес эхэлнэ
-DESCRIPTION:Есөн есөд ердийн дулаан болно\nӨвл
- ийн есөн ес: 12-р сарын 22-оос хойш 81 хоноги
- йг есөн хоногоор тоолно.
+DESCRIPTION:Есөн есөд ердийн дулаан болно
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3556,10 +3826,11 @@ UID:mongol-mn-2031-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310605
 DTEND;VALUE=DATE:20310606
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
+SUMMARY:Их дүйчин өдөр
 DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
  харагчин могой сар\n17-р жарны 45 он цагааг
- чин гахай жил
+ чин гахай жил\nБүх нийтээр амрах баярын ө
+ дөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3668,11 +3939,11 @@ UID:mongol-mn-2031-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20311115
 DTEND;VALUE=DATE:20311116
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
+SUMMARY:Монгол бахархлын өдөр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн шарагчин гахай сар\n17-р жарны 45 он цаг
- аагчин гахай жил
+ аагчин гахай жил\nИх Эзэн Чингис хааны тө
+ рсөн өдөр\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3748,7 +4019,21 @@ DTEND;VALUE=DATE:20320213
 SUMMARY:Цагаан сар
 DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
  ын тэргүүн хар барс сар\n17-р жарны 46 он ха
- р хулгана жил
+ р хулгана жил\nБүх нийтээр амрах баярын ө
+ дөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2032-01-ts2@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20320213
+DTEND;VALUE=DATE:20320214
+SUMMARY:Шинийн 2
+DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн хар барс сар\n17-р жарны 46 он ха
+ р хулгана жил\nБүх нийтээр амрах баярын ө
+ дөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3768,9 +4053,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320303
 DTEND;VALUE=DATE:20320304
 SUMMARY:9 ес эхэлнэ
-DESCRIPTION:Есөн есөд ердийн дулаан болно\nӨвл
- ийн есөн ес: 12-р сарын 22-оос хойш 81 хоноги
- йг есөн хоногоор тоолно.
+DESCRIPTION:Есөн есөд ердийн дулаан болно
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3829,10 +4112,10 @@ UID:mongol-mn-2032-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320525
 DTEND;VALUE=DATE:20320526
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
+SUMMARY:Их дүйчин өдөр
 DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
  хөхөгчин могой сар\n17-р жарны 46 он хар хул
- гана жил
+ гана жил\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3941,11 +4224,11 @@ UID:mongol-mn-2032-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20321104
 DTEND;VALUE=DATE:20321105
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
+SUMMARY:Монгол бахархлын өдөр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн цагаагчин гахай сар\n17-р жарны 46 он ха
- р хулгана жил
+ р хулгана жил\nИх Эзэн Чингис хааны төрсө
+ н өдөр\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4019,7 +4302,34 @@ DTEND;VALUE=DATE:20330201
 SUMMARY:Цагаан сар
 DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
  ын тэргүүн хөх барс сар\n17-р жарны 47 он ха
- рагчин үхэр жил
+ рагчин үхэр жил\nБүх нийтээр амрах баяры
+ н өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2033-01-ts2@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20330201
+DTEND;VALUE=DATE:20330202
+SUMMARY:Шинийн 2
+DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн хөх барс сар\n17-р жарны 47 он ха
+ рагчин үхэр жил\nБүх нийтээр амрах баяры
+ н өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2033-01-ts3@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20330202
+DTEND;VALUE=DATE:20330203
+SUMMARY:Шинийн 3
+DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн хөх барс сар\n17-р жарны 47 он ха
+ рагчин үхэр жил\nБүх нийтээр амрах баяры
+ н өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4051,9 +4361,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330304
 DTEND;VALUE=DATE:20330305
 SUMMARY:9 ес эхэлнэ
-DESCRIPTION:Есөн есөд ердийн дулаан болно\nӨвл
- ийн есөн ес: 12-р сарын 22-оос хойш 81 хоноги
- йг есөн хоногоор тоолно.
+DESCRIPTION:Есөн есөд ердийн дулаан болно
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4122,10 +4430,11 @@ UID:mongol-mn-2033-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330612
 DTEND;VALUE=DATE:20330613
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
+SUMMARY:Их дүйчин өдөр
 DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
  улаагчин могой сар\n17-р жарны 47 он харагч
- ин үхэр жил
+ ин үхэр жил\nБүх нийтээр амрах баярын өдө
+ р
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4147,7 +4456,7 @@ DTEND;VALUE=DATE:20330713
 SUMMARY:Үндэсний их баяр наадам
 DESCRIPTION:Шинийн 15 · Зуны дунд сар\nЗуны дунд 
  шар морь сар\n17-р жарны 47 он харагчин үхэр
-  жил\nБүх нийтээр амрах баярын өдөр.
+  жил\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4236,11 +4545,11 @@ UID:mongol-mn-2033-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20331122
 DTEND;VALUE=DATE:20331123
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
+SUMMARY:Монгол бахархлын өдөр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн харагчин гахай сар\n17-р жарны 47 он хар
- агчин үхэр жил
+ агчин үхэр жил\nИх Эзэн Чингис хааны төрс
+ өн өдөр\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4316,7 +4625,34 @@ DTEND;VALUE=DATE:20340220
 SUMMARY:Цагаан сар
 DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
  ын тэргүүн улаан барс сар\n17-р жарны 48 он 
- хөх бар жил
+ хөх бар жил\nБүх нийтээр амрах баярын өдө
+ р
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2034-01-ts2@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20340220
+DTEND;VALUE=DATE:20340221
+SUMMARY:Шинийн 2
+DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн улаан барс сар\n17-р жарны 48 он 
+ хөх бар жил\nБүх нийтээр амрах баярын өдө
+ р
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2034-01-ts3@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20340221
+DTEND;VALUE=DATE:20340222
+SUMMARY:Шинийн 3
+DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн улаан барс сар\n17-р жарны 48 он 
+ хөх бар жил\nБүх нийтээр амрах баярын өдө
+ р
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4387,11 +4723,10 @@ UID:mongol-mn-2034-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340601
 DTEND;VALUE=DATE:20340602
-SUMMARY:Бурхан багшийн Их дүйчин өдөр · Хүүх
- дийн баяр
+SUMMARY:Их дүйчин өдөр · Хүүхдийн баяр
 DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
  шарагчин могой сар\n17-р жарны 48 он хөх бар
-  жил\nБүх нийтээр амрах баярын өдөр.
+  жил\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4400,11 +4735,11 @@ UID:mongol-mn-2034-04-ikh_duichen-r@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340602
 DTEND;VALUE=DATE:20340603
-SUMMARY:Бурхан багшийн Их дүйчин өдөр (давха
- р)
+SUMMARY:Их дүйчин өдөр (давхар)
 DESCRIPTION:Шинийн 15 (давхар) · Зуны эхэн сар\nЗ
  уны эхэн шарагчин могой сар\n17-р жарны 48 о
- н хөх бар жил
+ н хөх бар жил\nБүх нийтээр амрах баярын ө
+ дөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4513,11 +4848,11 @@ UID:mongol-mn-2034-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20341111
 DTEND;VALUE=DATE:20341112
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
+SUMMARY:Монгол бахархлын өдөр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн хөхөгчин гахай сар\n17-р жарны 48 он хөх
-  бар жил
+  бар жил\nИх Эзэн Чингис хааны төрсөн өдө
+ р\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4591,7 +4926,34 @@ DTEND;VALUE=DATE:20350210
 SUMMARY:Цагаан сар
 DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
  ын тэргүүн шар барс сар\n17-р жарны 49 он хө
- хөгчин туулай жил
+ хөгчин туулай жил\nБүх нийтээр амрах бая
+ рын өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2035-01-ts2@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20350210
+DTEND;VALUE=DATE:20350211
+SUMMARY:Шинийн 2
+DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн шар барс сар\n17-р жарны 49 он хө
+ хөгчин туулай жил\nБүх нийтээр амрах бая
+ рын өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2035-01-ts3@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20350211
+DTEND;VALUE=DATE:20350212
+SUMMARY:Шинийн 3
+DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн шар барс сар\n17-р жарны 49 он хө
+ хөгчин туулай жил\nБүх нийтээр амрах бая
+ рын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4611,9 +4973,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350304
 DTEND;VALUE=DATE:20350305
 SUMMARY:9 ес эхэлнэ
-DESCRIPTION:Есөн есөд ердийн дулаан болно\nӨвл
- ийн есөн ес: 12-р сарын 22-оос хойш 81 хоноги
- йг есөн хоногоор тоолно.
+DESCRIPTION:Есөн есөд ердийн дулаан болно
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4672,10 +5032,11 @@ UID:mongol-mn-2035-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350522
 DTEND;VALUE=DATE:20350523
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
+SUMMARY:Их дүйчин өдөр
 DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
  цагаагчин могой сар\n17-р жарны 49 он хөхөг
- чин туулай жил
+ чин туулай жил\nБүх нийтээр амрах баярын 
+ өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4805,11 +5166,11 @@ UID:mongol-mn-2035-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20351130
 DTEND;VALUE=DATE:20351201
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
+SUMMARY:Монгол бахархлын өдөр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн улаагчин гахай сар\n17-р жарны 49 он хөх
- өгчин туулай жил
+ өгчин туулай жил\nИх Эзэн Чингис хааны тө
+ рсөн өдөр\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4818,10 +5179,10 @@ UID:mongol-mn-2035-10-d15o@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20351214
 DTEND;VALUE=DATE:20351215
-SUMMARY:Шинийн 14 (шинийн 15 тасарсан) · Өвлийн 
- эхэн сар
-DESCRIPTION:Өвлийн эхэн улаагчин гахай сар\n17-р
-  жарны 49 он хөхөгчин туулай жил
+SUMMARY:Шинийн 14 · Өвлийн эхэн сар
+DESCRIPTION:шинийн 15 тасарсан\nӨвлийн эхэн ула
+ агчин гахай сар\n17-р жарны 49 он хөхөгчин т
+ уулай жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4884,7 +5245,34 @@ DTEND;VALUE=DATE:20360229
 SUMMARY:Цагаан сар
 DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
  ын тэргүүн цагаан барс сар\n17-р жарны 50 он
-  улаан луу жил
+  улаан луу жил\nБүх нийтээр амрах баярын 
+ өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2036-01-ts2@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20360229
+DTEND;VALUE=DATE:20360301
+SUMMARY:Шинийн 2
+DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн цагаан барс сар\n17-р жарны 50 он
+  улаан луу жил\nБүх нийтээр амрах баярын 
+ өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2036-01-ts3@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20360301
+DTEND;VALUE=DATE:20360302
+SUMMARY:Шинийн 3
+DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн цагаан барс сар\n17-р жарны 50 он
+  улаан луу жил\nБүх нийтээр амрах баярын 
+ өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4894,9 +5282,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360303
 DTEND;VALUE=DATE:20360304
 SUMMARY:9 ес эхэлнэ
-DESCRIPTION:Есөн есөд ердийн дулаан болно\nӨвл
- ийн есөн ес: 12-р сарын 22-оос хойш 81 хоноги
- йг есөн хоногоор тоолно.
+DESCRIPTION:Есөн есөд ердийн дулаан болно
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4965,10 +5351,10 @@ UID:mongol-mn-2036-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360608
 DTEND;VALUE=DATE:20360609
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
+SUMMARY:Их дүйчин өдөр
 DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
  харагчин могой сар\n17-р жарны 50 он улаан л
- уу жил
+ уу жил\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5088,11 +5474,11 @@ UID:mongol-mn-2036-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20361118
 DTEND;VALUE=DATE:20361119
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
+SUMMARY:Монгол бахархлын өдөр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн шарагчин гахай сар\n17-р жарны 50 он ула
- ан луу жил
+ ан луу жил\nИх Эзэн Чингис хааны төрсөн ө
+ дөр\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5166,7 +5552,34 @@ DTEND;VALUE=DATE:20370217
 SUMMARY:Цагаан сар
 DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
  ын тэргүүн хар барс сар\n17-р жарны 51 он ул
- аагчин могой жил
+ аагчин могой жил\nБүх нийтээр амрах баяр
+ ын өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2037-01-ts2@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20370217
+DTEND;VALUE=DATE:20370218
+SUMMARY:Шинийн 2
+DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн хар барс сар\n17-р жарны 51 он ул
+ аагчин могой жил\nБүх нийтээр амрах баяр
+ ын өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2037-01-ts3@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20370218
+DTEND;VALUE=DATE:20370219
+SUMMARY:Шинийн 3
+DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн хар барс сар\n17-р жарны 51 он ул
+ аагчин могой жил\nБүх нийтээр амрах баяр
+ ын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5175,10 +5588,10 @@ UID:mongol-mn-2037-01-d15o@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370301
 DTEND;VALUE=DATE:20370302
-SUMMARY:Шинийн 14 (шинийн 15 тасарсан) · Хаврын 
- тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн хар барс сар\n17-р жа
- рны 51 он улаагчин могой жил
+SUMMARY:Шинийн 14 · Хаврын тэргүүн сар
+DESCRIPTION:шинийн 15 тасарсан\nХаврын тэргүүн 
+ хар барс сар\n17-р жарны 51 он улаагчин мого
+ й жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5187,9 +5600,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370304
 DTEND;VALUE=DATE:20370305
 SUMMARY:9 ес эхэлнэ
-DESCRIPTION:Есөн есөд ердийн дулаан болно\nӨвл
- ийн есөн ес: 12-р сарын 22-оос хойш 81 хоноги
- йг есөн хоногоор тоолно.
+DESCRIPTION:Есөн есөд ердийн дулаан болно
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5248,10 +5659,11 @@ UID:mongol-mn-2037-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370529
 DTEND;VALUE=DATE:20370530
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
+SUMMARY:Их дүйчин өдөр
 DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
  хөхөгчин могой сар\n17-р жарны 51 он улаагч
- ин могой жил
+ ин могой жил\nБүх нийтээр амрах баярын өд
+ өр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5284,7 +5696,7 @@ SUMMARY:Үндэсний их баяр наадам
 DESCRIPTION:Шинийн 1 · Зуны сүүл сар\nЗуны сүүл 
  улаагчин хонь сар\n17-р жарны 51 он улаагчи
  н могой жил\nБүх нийтээр амрах баярын өдө
- р.
+ р
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5374,11 +5786,11 @@ UID:mongol-mn-2037-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20371108
 DTEND;VALUE=DATE:20371109
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
+SUMMARY:Монгол бахархлын өдөр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн цагаагчин гахай сар\n17-р жарны 51 он ул
- аагчин могой жил
+ аагчин могой жил\nИх Эзэн Чингис хааны тө
+ рсөн өдөр\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5455,7 +5867,34 @@ SUMMARY:Цагаан сар
 DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар · 6 ес 
  эхэлнэ · Зургаан есөд зурайсан зам гарна
  \nХаврын тэргүүн хөх барс сар\n17-р жарны 52 
- он шар морин жил
+ он шар морин жил\nБүх нийтээр амрах баяры
+ н өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2038-01-ts2@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20380206
+DTEND;VALUE=DATE:20380207
+SUMMARY:Шинийн 2
+DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн хөх барс сар\n17-р жарны 52 он ша
+ р морин жил\nБүх нийтээр амрах баярын өдө
+ р
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2038-01-ts3@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20380207
+DTEND;VALUE=DATE:20380208
+SUMMARY:Шинийн 3
+DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн хөх барс сар\n17-р жарны 52 он ша
+ р морин жил\nБүх нийтээр амрах баярын өдө
+ р
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5475,9 +5914,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380304
 DTEND;VALUE=DATE:20380305
 SUMMARY:9 ес эхэлнэ
-DESCRIPTION:Есөн есөд ердийн дулаан болно\nӨвл
- ийн есөн ес: 12-р сарын 22-оос хойш 81 хоноги
- йг есөн хоногоор тоолно.
+DESCRIPTION:Есөн есөд ердийн дулаан болно
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5536,10 +5973,10 @@ UID:mongol-mn-2038-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380518
 DTEND;VALUE=DATE:20380519
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
+SUMMARY:Их дүйчин өдөр
 DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
  улаагчин могой сар\n17-р жарны 52 он шар мор
- ин жил
+ ин жил\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5669,11 +6106,11 @@ UID:mongol-mn-2038-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20381127
 DTEND;VALUE=DATE:20381128
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
+SUMMARY:Монгол бахархлын өдөр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн харагчин гахай сар\n17-р жарны 52 он шар
-  морин жил
+  морин жил\nИх Эзэн Чингис хааны төрсөн ө
+ дөр\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5748,7 +6185,34 @@ DTEND;VALUE=DATE:20390225
 SUMMARY:Цагаан сар
 DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
  ын тэргүүн улаан барс сар\n17-р жарны 53 он 
- шарагчин хонин жил
+ шарагчин хонин жил\nБүх нийтээр амрах ба
+ ярын өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2039-01-ts2@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20390225
+DTEND;VALUE=DATE:20390226
+SUMMARY:Шинийн 2
+DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн улаан барс сар\n17-р жарны 53 он 
+ шарагчин хонин жил\nБүх нийтээр амрах ба
+ ярын өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2039-01-ts3@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20390226
+DTEND;VALUE=DATE:20390227
+SUMMARY:Шинийн 3
+DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн улаан барс сар\n17-р жарны 53 он 
+ шарагчин хонин жил\nБүх нийтээр амрах ба
+ ярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5758,9 +6222,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390304
 DTEND;VALUE=DATE:20390305
 SUMMARY:9 ес эхэлнэ
-DESCRIPTION:Есөн есөд ердийн дулаан болно\nӨвл
- ийн есөн ес: 12-р сарын 22-оос хойш 81 хоноги
- йг есөн хоногоор тоолно.
+DESCRIPTION:Есөн есөд ердийн дулаан болно
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5829,10 +6291,11 @@ UID:mongol-mn-2039-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390606
 DTEND;VALUE=DATE:20390607
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
+SUMMARY:Их дүйчин өдөр
 DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
  шарагчин могой сар\n17-р жарны 53 он шарагч
- ин хонин жил
+ ин хонин жил\nБүх нийтээр амрах баярын өд
+ өр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5941,11 +6404,11 @@ UID:mongol-mn-2039-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20391117
 DTEND;VALUE=DATE:20391118
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
+SUMMARY:Монгол бахархлын өдөр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн хөхөгчин гахай сар\n17-р жарны 53 он шар
- агчин хонин жил
+ агчин хонин жил\nИх Эзэн Чингис хааны төр
+ сөн өдөр\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6020,7 +6483,35 @@ DTEND;VALUE=DATE:20400214
 SUMMARY:Цагаан сар
 DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
  ын тэргүүн шар барс сар\n17-р жарны 54 он ца
- гаан бичин жил
+ гаан бичин жил\nБүх нийтээр амрах баярын 
+ өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2040-01-ts2@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20400214
+DTEND;VALUE=DATE:20400215
+SUMMARY:Шинийн 2
+DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар · 7 ес 
+ эхэлнэ · Долоон есөд довны толгой бараал
+ на\nХаврын тэргүүн шар барс сар\n17-р жарны
+  54 он цагаан бичин жил\nБүх нийтээр амрах 
+ баярын өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2040-01-ts3@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20400215
+DTEND;VALUE=DATE:20400216
+SUMMARY:Шинийн 3
+DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн шар барс сар\n17-р жарны 54 он ца
+ гаан бичин жил\nБүх нийтээр амрах баярын 
+ өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6040,9 +6531,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400303
 DTEND;VALUE=DATE:20400304
 SUMMARY:9 ес эхэлнэ
-DESCRIPTION:Есөн есөд ердийн дулаан болно\nӨвл
- ийн есөн ес: 12-р сарын 22-оос хойш 81 хоноги
- йг есөн хоногоор тоолно.
+DESCRIPTION:Есөн есөд ердийн дулаан болно
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6102,10 +6591,11 @@ UID:mongol-mn-2040-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400526
 DTEND;VALUE=DATE:20400527
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
+SUMMARY:Их дүйчин өдөр
 DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
  цагаагчин могой сар\n17-р жарны 54 он цагаа
- н бичин жил
+ н бичин жил\nБүх нийтээр амрах баярын өдө
+ р
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6137,7 +6627,7 @@ DTEND;VALUE=DATE:20400711
 SUMMARY:Үндэсний их баяр наадам
 DESCRIPTION:Шинийн 1 · Зуны сүүл сар\nЗуны сүүл 
  харагчин хонь сар\n17-р жарны 54 он цагаан б
- ичин жил\nБүх нийтээр амрах баярын өдөр.
+ ичин жил\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6216,11 +6706,11 @@ UID:mongol-mn-2040-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20401105
 DTEND;VALUE=DATE:20401106
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
+SUMMARY:Монгол бахархлын өдөр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн улаагчин гахай сар\n17-р жарны 54 он цаг
- аан бичин жил
+ аан бичин жил\nИх Эзэн Чингис хааны төрсө
+ н өдөр\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6294,7 +6784,21 @@ DTEND;VALUE=DATE:20410203
 SUMMARY:Цагаан сар
 DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
  ын тэргүүн цагаан барс сар\n17-р жарны 55 он
-  цагаагчин тахиа жил
+  цагаагчин тахиа жил\nБүх нийтээр амрах б
+ аярын өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2041-01-ts2@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20410203
+DTEND;VALUE=DATE:20410204
+SUMMARY:Шинийн 2
+DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн цагаан барс сар\n17-р жарны 55 он
+  цагаагчин тахиа жил\nБүх нийтээр амрах б
+ аярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6324,9 +6828,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410304
 DTEND;VALUE=DATE:20410305
 SUMMARY:9 ес эхэлнэ
-DESCRIPTION:Есөн есөд ердийн дулаан болно\nӨвл
- ийн есөн ес: 12-р сарын 22-оос хойш 81 хоноги
- йг есөн хоногоор тоолно.
+DESCRIPTION:Есөн есөд ердийн дулаан болно
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6406,10 +6908,11 @@ UID:mongol-mn-2041-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410614
 DTEND;VALUE=DATE:20410615
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
+SUMMARY:Их дүйчин өдөр
 DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
  харагчин могой сар\n17-р жарны 55 он цагааг
- чин тахиа жил
+ чин тахиа жил\nБүх нийтээр амрах баярын ө
+ дөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6431,7 +6934,7 @@ DTEND;VALUE=DATE:20410714
 SUMMARY:Үндэсний их баяр наадам
 DESCRIPTION:Шинийн 15 · Зуны дунд сар\nЗуны дунд 
  хөх морь сар\n17-р жарны 55 он цагаагчин тах
- иа жил\nБүх нийтээр амрах баярын өдөр.
+ иа жил\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6530,11 +7033,11 @@ UID:mongol-mn-2041-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20411124
 DTEND;VALUE=DATE:20411125
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
+SUMMARY:Монгол бахархлын өдөр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн шарагчин гахай сар\n17-р жарны 55 он цаг
- аагчин тахиа жил
+ аагчин тахиа жил\nИх Эзэн Чингис хааны тө
+ рсөн өдөр\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6608,7 +7111,34 @@ DTEND;VALUE=DATE:20420222
 SUMMARY:Цагаан сар
 DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
  ын тэргүүн хар барс сар\n17-р жарны 56 он ха
- р нохой жил
+ р нохой жил\nБүх нийтээр амрах баярын өдө
+ р
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2042-01-ts2@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20420222
+DTEND;VALUE=DATE:20420223
+SUMMARY:Шинийн 2
+DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн хар барс сар\n17-р жарны 56 он ха
+ р нохой жил\nБүх нийтээр амрах баярын өдө
+ р
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2042-01-ts3@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20420223
+DTEND;VALUE=DATE:20420224
+SUMMARY:Шинийн 3
+DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар · 8 ес 
+ эхэлнэ · Найман есөд нял шал болно\nХавры
+ н тэргүүн хар барс сар\n17-р жарны 56 он хар 
+ нохой жил\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6618,9 +7148,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420304
 DTEND;VALUE=DATE:20420305
 SUMMARY:9 ес эхэлнэ
-DESCRIPTION:Есөн есөд ердийн дулаан болно\nӨвл
- ийн есөн ес: 12-р сарын 22-оос хойш 81 хоноги
- йг есөн хоногоор тоолно.
+DESCRIPTION:Есөн есөд ердийн дулаан болно
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6689,10 +7217,10 @@ UID:mongol-mn-2042-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420603
 DTEND;VALUE=DATE:20420604
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
+SUMMARY:Их дүйчин өдөр
 DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
  хөхөгчин могой сар\n17-р жарны 56 он хар нох
- ой жил
+ ой жил\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6811,11 +7339,11 @@ UID:mongol-mn-2042-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20421113
 DTEND;VALUE=DATE:20421114
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
+SUMMARY:Монгол бахархлын өдөр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн цагаагчин гахай сар\n17-р жарны 56 он ха
- р нохой жил
+ р нохой жил\nИх Эзэн Чингис хааны төрсөн 
+ өдөр\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6889,7 +7417,34 @@ DTEND;VALUE=DATE:20430211
 SUMMARY:Цагаан сар
 DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
  ын тэргүүн хөх барс сар\n17-р жарны 57 он ха
- рагчин гахай жил
+ рагчин гахай жил\nБүх нийтээр амрах баяр
+ ын өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2043-01-ts2@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20430211
+DTEND;VALUE=DATE:20430212
+SUMMARY:Шинийн 2
+DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн хөх барс сар\n17-р жарны 57 он ха
+ рагчин гахай жил\nБүх нийтээр амрах баяр
+ ын өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2043-01-ts3@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20430212
+DTEND;VALUE=DATE:20430213
+SUMMARY:Шинийн 3
+DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн хөх барс сар\n17-р жарны 57 он ха
+ рагчин гахай жил\nБүх нийтээр амрах баяр
+ ын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6911,9 +7466,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430304
 DTEND;VALUE=DATE:20430305
 SUMMARY:9 ес эхэлнэ
-DESCRIPTION:Есөн есөд ердийн дулаан болно\nӨвл
- ийн есөн ес: 12-р сарын 22-оос хойш 81 хоноги
- йг есөн хоногоор тоолно.
+DESCRIPTION:Есөн есөд ердийн дулаан болно
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6972,10 +7525,11 @@ UID:mongol-mn-2043-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430523
 DTEND;VALUE=DATE:20430524
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
+SUMMARY:Их дүйчин өдөр
 DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
  улаагчин могой сар\n17-р жарны 57 он харагч
- ин гахай жил
+ ин гахай жил\nБүх нийтээр амрах баярын өд
+ өр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7084,11 +7638,11 @@ UID:mongol-mn-2043-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20431102
 DTEND;VALUE=DATE:20431103
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
+SUMMARY:Монгол бахархлын өдөр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн харагчин гахай сар\n17-р жарны 57 он хар
- агчин гахай жил
+ агчин гахай жил\nИх Эзэн Чингис хааны төр
+ сөн өдөр\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7131,7 +7685,7 @@ SUMMARY:Шинэ жил
 DESCRIPTION:Шинийн 1 · Өвлийн сүүл (илүү) сар\nӨв
  лийн сүүл (илүү) хөхөгчин үхэр сар\n17-р жа
  рны 57 он харагчин гахай жил\nБүх нийтээр 
- амрах баярын өдөр.
+ амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7185,7 +7739,34 @@ DTEND;VALUE=DATE:20440301
 SUMMARY:Цагаан сар
 DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
  ын тэргүүн улаан барс сар\n17-р жарны 58 он 
- хөх хулгана жил
+ хөх хулгана жил\nБүх нийтээр амрах баяры
+ н өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2044-01-ts2@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20440301
+DTEND;VALUE=DATE:20440302
+SUMMARY:Шинийн 2
+DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн улаан барс сар\n17-р жарны 58 он 
+ хөх хулгана жил\nБүх нийтээр амрах баяры
+ н өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2044-01-ts3@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20440302
+DTEND;VALUE=DATE:20440303
+SUMMARY:Шинийн 3
+DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн улаан барс сар\n17-р жарны 58 он 
+ хөх хулгана жил\nБүх нийтээр амрах баяры
+ н өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7195,9 +7776,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440303
 DTEND;VALUE=DATE:20440304
 SUMMARY:9 ес эхэлнэ
-DESCRIPTION:Есөн есөд ердийн дулаан болно\nӨвл
- ийн есөн ес: 12-р сарын 22-оос хойш 81 хоноги
- йг есөн хоногоор тоолно.
+DESCRIPTION:Есөн есөд ердийн дулаан болно
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7266,10 +7845,10 @@ UID:mongol-mn-2044-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440610
 DTEND;VALUE=DATE:20440611
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
+SUMMARY:Их дүйчин өдөр
 DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
  шарагчин могой сар\n17-р жарны 58 он хөх хул
- гана жил
+ гана жил\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7291,7 +7870,7 @@ DTEND;VALUE=DATE:20440711
 SUMMARY:Үндэсний их баяр наадам
 DESCRIPTION:Шинийн 15 · Зуны дунд сар\nЗуны дунд 
  цагаан морь сар\n17-р жарны 58 он хөх хулган
- а жил\nБүх нийтээр амрах баярын өдөр.
+ а жил\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7381,11 +7960,11 @@ UID:mongol-mn-2044-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20441120
 DTEND;VALUE=DATE:20441121
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
+SUMMARY:Монгол бахархлын өдөр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн хөхөгчин гахай сар\n17-р жарны 58 он хөх
-  хулгана жил
+  хулгана жил\nИх Эзэн Чингис хааны төрсөн
+  өдөр\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7394,10 +7973,10 @@ UID:mongol-mn-2044-10-d15o@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20441204
 DTEND;VALUE=DATE:20441205
-SUMMARY:Шинийн 14 (шинийн 15 тасарсан) · Өвлийн 
- эхэн сар
-DESCRIPTION:Өвлийн эхэн хөхөгчин гахай сар\n17-р
-  жарны 58 он хөх хулгана жил
+SUMMARY:Шинийн 14 · Өвлийн эхэн сар
+DESCRIPTION:шинийн 15 тасарсан\nӨвлийн эхэн хөх
+ өгчин гахай сар\n17-р жарны 58 он хөх хулган
+ а жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -7460,7 +8039,34 @@ DTEND;VALUE=DATE:20450218
 SUMMARY:Цагаан сар
 DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
  ын тэргүүн шар барс сар\n17-р жарны 59 он хө
- хөгчин үхэр жил
+ хөгчин үхэр жил\nБүх нийтээр амрах баяры
+ н өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2045-01-ts2@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20450218
+DTEND;VALUE=DATE:20450219
+SUMMARY:Шинийн 2
+DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн шар барс сар\n17-р жарны 59 он хө
+ хөгчин үхэр жил\nБүх нийтээр амрах баяры
+ н өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2045-01-ts3@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20450219
+DTEND;VALUE=DATE:20450220
+SUMMARY:Шинийн 3
+DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн шар барс сар\n17-р жарны 59 он хө
+ хөгчин үхэр жил\nБүх нийтээр амрах баяры
+ н өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7480,9 +8086,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450304
 DTEND;VALUE=DATE:20450305
 SUMMARY:9 ес эхэлнэ
-DESCRIPTION:Есөн есөд ердийн дулаан болно\nӨвл
- ийн есөн ес: 12-р сарын 22-оос хойш 81 хоноги
- йг есөн хоногоор тоолно.
+DESCRIPTION:Есөн есөд ердийн дулаан болно
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7541,10 +8145,11 @@ UID:mongol-mn-2045-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450530
 DTEND;VALUE=DATE:20450531
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
+SUMMARY:Их дүйчин өдөр
 DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
  цагаагчин могой сар\n17-р жарны 59 он хөхөг
- чин үхэр жил
+ чин үхэр жил\nБүх нийтээр амрах баярын өд
+ өр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7577,7 +8182,6 @@ SUMMARY:Үндэсний их баяр наадам
 DESCRIPTION:Шинийн 1 · Зуны сүүл сар\nЗуны сүүл 
  харагчин хонь сар\n17-р жарны 59 он хөхөгчи
  н үхэр жил\nБүх нийтээр амрах баярын өдөр
- .
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7657,11 +8261,11 @@ UID:mongol-mn-2045-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20451109
 DTEND;VALUE=DATE:20451110
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
+SUMMARY:Монгол бахархлын өдөр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн улаагчин гахай сар\n17-р жарны 59 он хөх
- өгчин үхэр жил
+ өгчин үхэр жил\nИх Эзэн Чингис хааны төрс
+ өн өдөр\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7690,10 +8294,10 @@ UID:mongol-mn-2045-11-d15o@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20451223
 DTEND;VALUE=DATE:20451224
-SUMMARY:Шинийн 14 (шинийн 15 тасарсан) · Өвлийн 
- дунд сар
-DESCRIPTION:Өвлийн дунд шар хулгана сар\n17-р жа
- рны 59 он хөхөгчин үхэр жил
+SUMMARY:Шинийн 14 · Өвлийн дунд сар
+DESCRIPTION:шинийн 15 тасарсан\nӨвлийн дунд шар 
+ хулгана сар\n17-р жарны 59 он хөхөгчин үхэр 
+ жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -7737,7 +8341,47 @@ DTEND;VALUE=DATE:20460207
 SUMMARY:Цагаан сар
 DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
  ын тэргүүн цагаан барс сар\n17-р жарны 60 он
-  улаан бар жил
+  улаан бар жил\nБүх нийтээр амрах баярын 
+ өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2046-01-ts2@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20460207
+DTEND;VALUE=DATE:20460208
+SUMMARY:Шинийн 2
+DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн цагаан барс сар\n17-р жарны 60 он
+  улаан бар жил\nБүх нийтээр амрах баярын 
+ өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2046-01-ts3@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20460208
+DTEND;VALUE=DATE:20460209
+SUMMARY:Шинийн 3
+DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн цагаан барс сар\n17-р жарны 60 он
+  улаан бар жил\nБүх нийтээр амрах баярын 
+ өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2046-01-ts3r@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20460209
+DTEND;VALUE=DATE:20460210
+SUMMARY:Шинийн 3 (давхар)
+DESCRIPTION:Шинийн 3 (давхар) · Хаврын тэргүүн с
+ ар\nХаврын тэргүүн цагаан барс сар\n17-р жа
+ рны 60 он улаан бар жил\nБүх нийтээр амрах 
+ баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7746,10 +8390,10 @@ UID:mongol-mn-2046-01-d15o@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460220
 DTEND;VALUE=DATE:20460221
-SUMMARY:Шинийн 14 (шинийн 15 тасарсан) · Хаврын 
- тэргүүн сар
-DESCRIPTION:Хаврын тэргүүн цагаан барс сар\n17-р
-  жарны 60 он улаан бар жил
+SUMMARY:Шинийн 14 · Хаврын тэргүүн сар
+DESCRIPTION:шинийн 15 тасарсан\nХаврын тэргүүн 
+ цагаан барс сар\n17-р жарны 60 он улаан бар 
+ жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -7758,9 +8402,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460304
 DTEND;VALUE=DATE:20460305
 SUMMARY:9 ес эхэлнэ
-DESCRIPTION:Есөн есөд ердийн дулаан болно\nӨвл
- ийн есөн ес: 12-р сарын 22-оос хойш 81 хоноги
- йг есөн хоногоор тоолно.
+DESCRIPTION:Есөн есөд ердийн дулаан болно
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7773,7 +8415,7 @@ SUMMARY:Эмэгтэйчүүдийн баяр
 DESCRIPTION:Шинийн 1 · Хаврын дунд сар\nХаврын д
  унд цагаагчин туулай сар\n17-р жарны 60 он у
  лаан бар жил\nОлон улсын эмэгтэйчүүдийн 
- өдөр.\nБүх нийтээр амрах баярын өдөр.
+ өдөр\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7822,10 +8464,10 @@ UID:mongol-mn-2046-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460520
 DTEND;VALUE=DATE:20460521
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
+SUMMARY:Их дүйчин өдөр
 DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
  харагчин могой сар\n17-р жарны 60 он улаан б
- ар жил
+ ар жил\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7955,11 +8597,11 @@ UID:mongol-mn-2046-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20461128
 DTEND;VALUE=DATE:20461129
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
+SUMMARY:Монгол бахархлын өдөр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн шарагчин гахай сар\n17-р жарны 60 он ула
- ан бар жил
+ ан бар жил\nИх Эзэн Чингис хааны төрсөн ө
+ дөр\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8033,7 +8675,34 @@ DTEND;VALUE=DATE:20470226
 SUMMARY:Цагаан сар
 DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
  ын тэргүүн хар барс сар\n18-р жарны 1 он ула
- агчин туулай жил
+ агчин туулай жил\nБүх нийтээр амрах баяр
+ ын өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2047-01-ts2@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20470226
+DTEND;VALUE=DATE:20470227
+SUMMARY:Шинийн 2
+DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн хар барс сар\n18-р жарны 1 он ула
+ агчин туулай жил\nБүх нийтээр амрах баяр
+ ын өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2047-01-ts3@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20470227
+DTEND;VALUE=DATE:20470228
+SUMMARY:Шинийн 3
+DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн хар барс сар\n18-р жарны 1 он ула
+ агчин туулай жил\nБүх нийтээр амрах баяр
+ ын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8043,9 +8712,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470304
 DTEND;VALUE=DATE:20470305
 SUMMARY:9 ес эхэлнэ
-DESCRIPTION:Есөн есөд ердийн дулаан болно\nӨвл
- ийн есөн ес: 12-р сарын 22-оос хойш 81 хоноги
- йг есөн хоногоор тоолно.
+DESCRIPTION:Есөн есөд ердийн дулаан болно
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8114,10 +8781,11 @@ UID:mongol-mn-2047-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470608
 DTEND;VALUE=DATE:20470609
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
+SUMMARY:Их дүйчин өдөр
 DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
  хөхөгчин могой сар\n18-р жарны 1 он улаагчи
- н туулай жил
+ н туулай жил\nБүх нийтээр амрах баярын өд
+ өр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8226,11 +8894,12 @@ UID:mongol-mn-2047-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20471118
 DTEND;VALUE=DATE:20471119
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
+SUMMARY:Монгол бахархлын өдөр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн цагаагчин гахай сар\n18-р жарны 1 он ул
- аагчин туулай жил
+ аагчин туулай жил\nИх Эзэн Чингис хааны т
+ өрсөн өдөр\nБүх нийтээр амрах баярын өдө
+ р
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8263,7 +8932,7 @@ SUMMARY:Шинэ жил
 DESCRIPTION:Шинийн 15 · Өвлийн дунд сар\nӨвлийн 
  дунд хар хулгана сар\n18-р жарны 1 он улааг
  чин туулай жил\nБүх нийтээр амрах баярын 
- өдөр.
+ өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8308,7 +8977,32 @@ SUMMARY:Цагаан сар
 DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар · 7 ес 
  эхэлнэ · Долоон есөд довны толгой бараал
  на\nХаврын тэргүүн хөх барс сар\n18-р жарны
-  2 он шар луу жил
+  2 он шар луу жил\nБүх нийтээр амрах баяры
+ н өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2048-01-ts2@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20480215
+DTEND;VALUE=DATE:20480216
+SUMMARY:Шинийн 2
+DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн хөх барс сар\n18-р жарны 2 он шар
+  луу жил\nБүх нийтээр амрах баярын өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2048-01-ts3@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20480216
+DTEND;VALUE=DATE:20480217
+SUMMARY:Шинийн 3
+DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн хөх барс сар\n18-р жарны 2 он шар
+  луу жил\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8328,9 +9022,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480303
 DTEND;VALUE=DATE:20480304
 SUMMARY:9 ес эхэлнэ
-DESCRIPTION:Есөн есөд ердийн дулаан болно\nӨвл
- ийн есөн ес: 12-р сарын 22-оос хойш 81 хоноги
- йг есөн хоногоор тоолно.
+DESCRIPTION:Есөн есөд ердийн дулаан болно
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8389,10 +9081,10 @@ UID:mongol-mn-2048-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480527
 DTEND;VALUE=DATE:20480528
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
+SUMMARY:Их дүйчин өдөр
 DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
  улаагчин могой сар\n18-р жарны 2 он шар луу 
- жил
+ жил\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8424,7 +9116,7 @@ DTEND;VALUE=DATE:20480713
 SUMMARY:Үндэсний их баяр наадам
 DESCRIPTION:Шинийн 1 · Зуны сүүл сар\nЗуны сүүл 
  шарагчин хонь сар\n18-р жарны 2 он шар луу ж
- ил\nБүх нийтээр амрах баярын өдөр.
+ ил\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8503,11 +9195,11 @@ UID:mongol-mn-2048-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20481107
 DTEND;VALUE=DATE:20481108
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
+SUMMARY:Монгол бахархлын өдөр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн харагчин гахай сар\n18-р жарны 2 он шар 
- луу жил
+ луу жил\nИх Эзэн Чингис хааны төрсөн өдөр
+ \nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8584,7 +9276,35 @@ DTEND;VALUE=DATE:20490204
 SUMMARY:Цагаан сар
 DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
  ын тэргүүн улаан барс сар\n18-р жарны 3 он ш
- арагчин могой жил
+ арагчин могой жил\nБүх нийтээр амрах бая
+ рын өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2049-01-ts2@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20490204
+DTEND;VALUE=DATE:20490205
+SUMMARY:Шинийн 2
+DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн улаан барс сар\n18-р жарны 3 он ш
+ арагчин могой жил\nБүх нийтээр амрах бая
+ рын өдөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2049-01-ts3@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20490205
+DTEND;VALUE=DATE:20490206
+SUMMARY:Шинийн 3
+DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар · 6 ес 
+ эхэлнэ · Зургаан есөд зурайсан зам гарна
+ \nХаврын тэргүүн улаан барс сар\n18-р жарны
+  3 он шарагчин могой жил\nБүх нийтээр амра
+ х баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8655,10 +9375,11 @@ UID:mongol-mn-2049-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490517
 DTEND;VALUE=DATE:20490518
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
+SUMMARY:Их дүйчин өдөр
 DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
  шарагчин могой сар\n18-р жарны 3 он шарагчи
- н могой жил
+ н могой жил\nБүх нийтээр амрах баярын өдө
+ р
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8671,7 +9392,7 @@ SUMMARY:Хүүхдийн баяр
 DESCRIPTION:Шинийн 1 · Зуны дунд (илүү) сар\nЗуны
   дунд (илүү) цагаан морь сар\n18-р жарны 3 он
   шарагчин могой жил\nБүх нийтээр амрах ба
- ярын өдөр.
+ ярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8703,7 +9424,7 @@ DTEND;VALUE=DATE:20490716
 SUMMARY:Үндэсний их баяр наадам
 DESCRIPTION:Шинийн 15 · Зуны дунд сар\nЗуны дунд 
  цагаан морь сар\n18-р жарны 3 он шарагчин м
- огой жил\nБүх нийтээр амрах баярын өдөр.
+ огой жил\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8802,14 +9523,13 @@ UID:mongol-mn-2049-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20491126
 DTEND;VALUE=DATE:20491127
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр) · Улс тунхагласан өд
- өр
+SUMMARY:Монгол бахархлын өдөр · Улс тунхагла
+ сан өдөр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн хөхөгчин гахай сар\n18-р жарны 3 он шар
- агчин могой жил\nБүгд Найрамдах Улс тунх
- агласан өдөр.\nБүх нийтээр амрах баярын ө
- дөр.
+ агчин могой жил\nИх Эзэн Чингис хааны төр
+ сөн өдөр\nБүх нийтээр амрах баярын өдөр\n
+ Бүгд Найрамдах Улс тунхагласан өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8883,7 +9603,35 @@ DTEND;VALUE=DATE:20500223
 SUMMARY:Цагаан сар
 DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
  ын тэргүүн шар барс сар\n18-р жарны 4 он цаг
- аан морин жил
+ аан морин жил\nБүх нийтээр амрах баярын ө
+ дөр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2050-01-ts2@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20500223
+DTEND;VALUE=DATE:20500224
+SUMMARY:Шинийн 2
+DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар · 8 ес 
+ эхэлнэ · Найман есөд нял шал болно\nХавры
+ н тэргүүн шар барс сар\n18-р жарны 4 он цага
+ ан морин жил\nБүх нийтээр амрах баярын өд
+ өр
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-2050-01-ts3@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20500224
+DTEND;VALUE=DATE:20500225
+SUMMARY:Шинийн 3
+DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
+ ын тэргүүн шар барс сар\n18-р жарны 4 он цаг
+ аан морин жил\nБүх нийтээр амрах баярын ө
+ дөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8893,9 +9641,7 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500304
 DTEND;VALUE=DATE:20500305
 SUMMARY:9 ес эхэлнэ
-DESCRIPTION:Есөн есөд ердийн дулаан болно\nӨвл
- ийн есөн ес: 12-р сарын 22-оос хойш 81 хоноги
- йг есөн хоногоор тоолно.
+DESCRIPTION:Есөн есөд ердийн дулаан болно
 CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8908,7 +9654,7 @@ SUMMARY:Эмэгтэйчүүдийн баяр
 DESCRIPTION:Шинийн 15 · Хаврын тэргүүн сар\nХавр
  ын тэргүүн шар барс сар\n18-р жарны 4 он цаг
  аан морин жил\nОлон улсын эмэгтэйчүүдийн
-  өдөр.\nБүх нийтээр амрах баярын өдөр.
+  өдөр\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8968,10 +9714,10 @@ UID:mongol-mn-2050-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500605
 DTEND;VALUE=DATE:20500606
-SUMMARY:Бурхан багшийн Их дүйчин өдөр
+SUMMARY:Их дүйчин өдөр
 DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
  цагаагчин могой сар\n18-р жарны 4 он цагаан
-  морин жил
+  морин жил\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -9080,11 +9826,11 @@ UID:mongol-mn-2050-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20501115
 DTEND;VALUE=DATE:20501116
-SUMMARY:Их Эзэн Чингис хааны төрсөн өдөр (Мон
- гол бахархлын өдөр)
+SUMMARY:Монгол бахархлын өдөр
 DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
  хэн улаагчин гахай сар\n18-р жарны 4 он цаг
- аан морин жил
+ аан морин жил\nИх Эзэн Чингис хааны төрсө
+ н өдөр\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT

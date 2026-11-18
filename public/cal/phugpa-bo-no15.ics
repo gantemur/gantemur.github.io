@@ -1512,11 +1512,11 @@ UID:phugpa-bo-no15-2028-01-chotrul@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280310
 DTEND;VALUE=DATE:20280311
-SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན། (ཚེས་
- ༡༥ ཆད།)
-DESCRIPTION:ཚེས་༡༤ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- ཆུ་འབྲུག\nརབ་བྱུང་༡༧པའི་ལོ
- ་༤༢\, ས་སྤྲེའུ་ལོ།
+SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
+DESCRIPTION:ཚེས་༡༤ · ཟླ་བ་༡\nཚེས་༡༥ 
+ ཆད།\nཟླ་བ་༡\, ཆུ་འབྲུག\nརབ་བྱ
+ ུང་༡༧པའི་ལོ་༤༢\, ས་སྤྲེའུ་
+ ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3220,11 +3220,11 @@ UID:phugpa-bo-no15-2037-01-chotrul@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370301
 DTEND;VALUE=DATE:20370302
-SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན། (ཚེས་
- ༡༥ ཆད།)
-DESCRIPTION:ཚེས་༡༤ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- ལྕགས་འབྲུག\nརབ་བྱུང་༡༧པའི་
- ལོ་༥༡\, མེ་སྦྲུལ་ལོ།
+SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
+DESCRIPTION:ཚེས་༡༤ · ཟླ་བ་༡\nཚེས་༡༥ 
+ ཆད།\nཟླ་བ་༡\, ལྕགས་འབྲུག\nརབ་
+ བྱུང་༡༧པའི་ལོ་༥༡\, མེ་སྦྲུ
+ ལ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5102,11 +5102,11 @@ UID:phugpa-bo-no15-2047-01-chotrul@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470311
 DTEND;VALUE=DATE:20470312
-SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན། (ཚེས་
- ༡༥ ཆད།)
-DESCRIPTION:ཚེས་༡༤ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- ལྕགས་འབྲུག\nརབ་བྱུང་༡༨པའི་
- ལོ་༡\, མེ་ཡོས་ལོ།
+SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
+DESCRIPTION:ཚེས་༡༤ · ཟླ་བ་༡\nཚེས་༡༥ 
+ ཆད།\nཟླ་བ་༡\, ལྕགས་འབྲུག\nརབ་
+ བྱུང་༡༨པའི་ལོ་༡\, མེ་ཡོས་ལ
+ ོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT

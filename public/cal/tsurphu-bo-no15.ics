@@ -1363,11 +1363,10 @@ UID:tsurphu-bo-no15-2027-01-chotrul@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན། (ཚེས་
- ༡༥ ཆད།)
-DESCRIPTION:ཚེས་༡༤ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- ཆུ་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༤
- ༡\, མེ་ལུག་ལོ།
+SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
+DESCRIPTION:ཚེས་༡༤ · ཟླ་བ་༡\nཚེས་༡༥ 
+ ཆད།\nཟླ་བ་༡\, ཆུ་སྟག\nརབ་བྱུང
+ ་༡༧པའི་ལོ་༤༡\, མེ་ལུག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3176,11 +3175,11 @@ UID:tsurphu-bo-no15-2037-01-chotrul@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370301
 DTEND;VALUE=DATE:20370302
-SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན། (ཚེས་
- ༡༥ ཆད།)
-DESCRIPTION:ཚེས་༡༤ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- ཆུ་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༥
- ༡\, མེ་སྦྲུལ་ལོ།
+SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
+DESCRIPTION:ཚེས་༡༤ · ཟླ་བ་༡\nཚེས་༡༥ 
+ ཆད།\nཟླ་བ་༡\, ཆུ་སྟག\nརབ་བྱུང
+ ་༡༧པའི་ལོ་༥༡\, མེ་སྦྲུལ་ལོ
+ །
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4818,11 +4817,11 @@ UID:tsurphu-bo-no15-2046-01-chotrul@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460220
 DTEND;VALUE=DATE:20460221
-SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན། (ཚེས་
- ༡༥ ཆད།)
-DESCRIPTION:ཚེས་༡༤ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- ལྕགས་སྟག\nརབ་བྱུང་༡༧པའི་ལོ
- ་༦༠\, མེ་སྟག་ལོ།
+SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
+DESCRIPTION:ཚེས་༡༤ · ཟླ་བ་༡\nཚེས་༡༥ 
+ ཆད།\nཟླ་བ་༡\, ལྕགས་སྟག\nརབ་བྱ
+ ུང་༡༧པའི་ལོ་༦༠\, མེ་སྟག་ལོ
+ །
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
