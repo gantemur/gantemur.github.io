@@ -11,14 +11,14 @@ URL:https://gantemur.github.io/cal/
 REFRESH-INTERVAL;VALUE=DURATION:P7D
 X-PUBLISHED-TTL:P7D
 BEGIN:VEVENT
-UID:mongol-mn-no15-hol-0101@gantemur.github.io
+UID:mongol-mn-no15-2020-hol-0101@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200101
 DTEND;VALUE=DATE:20200102
-RRULE:FREQ=YEARLY;UNTIL=20501231
-EXDATE;VALUE=DATE:20440101
 SUMMARY:Шинэ жил
-DESCRIPTION:Бүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 6\nӨвлийн дунд улаан хулгана
+  сар\n17-р жарны 33 он шарагчин гахай жил\nБү
+ х нийтээр амрах баярын өдөр
 CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -164,15 +164,15 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-mn-no15-hol-0308@gantemur.github.io
+UID:mongol-mn-no15-2020-hol-0308@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200308
 DTEND;VALUE=DATE:20200309
-RRULE:FREQ=YEARLY;UNTIL=20501231
-EXDATE;VALUE=DATE:20460308
 SUMMARY:Эмэгтэйчүүдийн баяр
-DESCRIPTION:Олон улсын эмэгтэйчүүдийн өдөр\nБү
- х нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 14\nХаврын тэргүүн шар барс с
+ ар\n17-р жарны 34 он цагаан хулгана жил\nОло
+ н улсын эмэгтэйчүүдийн өдөр\nБүх нийтээр
+  амрах баярын өдөр
 CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -217,14 +217,14 @@ DESCRIPTION:Зуны эхэн цагаагчин могой сар\n17-р
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-mn-no15-hol-0601@gantemur.github.io
+UID:mongol-mn-no15-2020-hol-0601@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200601
 DTEND;VALUE=DATE:20200602
-RRULE:FREQ=YEARLY;UNTIL=20501231
-EXDATE;VALUE=DATE:20340601,20490601
 SUMMARY:Хүүхдийн баяр
-DESCRIPTION:Бүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 10\nЗуны эхэн цагаагчин мого
+ й сар\n17-р жарны 34 он цагаан хулгана жил\nБ
+ үх нийтээр амрах баярын өдөр
 CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -251,61 +251,62 @@ DESCRIPTION:Зуны дунд хар морь сар\n17-р жарны 34
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-mn-no15-hol-0711@gantemur.github.io
+UID:mongol-mn-no15-2020-hol-0711@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200711
 DTEND;VALUE=DATE:20200712
-RRULE:FREQ=YEARLY;UNTIL=20501231
-EXDATE;VALUE=DATE:20210711
 SUMMARY:Үндэсний их баяр наадам
-DESCRIPTION:Бүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 21\nЗуны дунд хар морь сар\n17-
+ р жарны 34 он цагаан хулгана жил\nБүх нийт
+ ээр амрах баярын өдөр
 CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-mn-no15-hol-0712@gantemur.github.io
+UID:mongol-mn-no15-2020-hol-0712@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200712
 DTEND;VALUE=DATE:20200713
-RRULE:FREQ=YEARLY;UNTIL=20501231
-EXDATE;VALUE=DATE:20290712,20480712
 SUMMARY:Үндэсний их баяр наадам
-DESCRIPTION:Бүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 22\nЗуны дунд хар морь сар\n17-
+ р жарны 34 он цагаан хулгана жил\nБүх нийт
+ ээр амрах баярын өдөр
 CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-mn-no15-hol-0713@gantemur.github.io
+UID:mongol-mn-no15-2020-hol-0713@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200713
 DTEND;VALUE=DATE:20200714
-RRULE:FREQ=YEARLY;UNTIL=20501231
 SUMMARY:Үндэсний их баяр наадам
-DESCRIPTION:Бүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 23\nЗуны дунд хар морь сар\n17-
+ р жарны 34 он цагаан хулгана жил\nБүх нийт
+ ээр амрах баярын өдөр
 CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-mn-no15-hol-0714@gantemur.github.io
+UID:mongol-mn-no15-2020-hol-0714@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200714
 DTEND;VALUE=DATE:20200715
-RRULE:FREQ=YEARLY;UNTIL=20501231
-EXDATE;VALUE=DATE:20370714
 SUMMARY:Үндэсний их баяр наадам
-DESCRIPTION:Бүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 24\nЗуны дунд хар морь сар\n17-
+ р жарны 34 он цагаан хулгана жил\nБүх нийт
+ ээр амрах баярын өдөр
 CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-mn-no15-hol-0715@gantemur.github.io
+UID:mongol-mn-no15-2020-hol-0715@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200715
 DTEND;VALUE=DATE:20200716
-RRULE:FREQ=YEARLY;UNTIL=20501231
-EXDATE;VALUE=DATE:20260715,20450715
 SUMMARY:Үндэсний их баяр наадам
-DESCRIPTION:Бүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 25\nЗуны дунд хар морь сар\n17-
+ р жарны 34 он цагаан хулгана жил\nБүх нийт
+ ээр амрах баярын өдөр
 CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -363,15 +364,15 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-mn-no15-hol-1126@gantemur.github.io
+UID:mongol-mn-no15-2020-hol-1126@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20201126
 DTEND;VALUE=DATE:20201127
-RRULE:FREQ=YEARLY;UNTIL=20501231
-EXDATE;VALUE=DATE:20301126,20491126
 SUMMARY:Улс тунхагласан өдөр
-DESCRIPTION:Бүгд Найрамдах Улс тунхагласан өд
- өр\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 12\nӨвлийн эхэн улаагчин гах
+ ай сар\n17-р жарны 34 он цагаан хулгана жил\n
+ Бүгд Найрамдах Улс тунхагласан өдөр\nБүх
+  нийтээр амрах баярын өдөр
 CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -398,15 +399,16 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-mn-no15-hol-1229@gantemur.github.io
+UID:mongol-mn-no15-2020-hol-1229@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20201229
 DTEND;VALUE=DATE:20201230
-RRULE:FREQ=YEARLY;UNTIL=20501231
 SUMMARY:Тусгаар тогтнолын өдөр
-DESCRIPTION:Үндэсний эрх чөлөө\, тусгаар тогтн
- олоо сэргээсний баярын өдөр\nБүх нийтээр
-  амрах баярын өдөр
+DESCRIPTION:Шинийн 15\nӨвлийн дунд шар хулгана с
+ ар\n17-р жарны 34 он цагаан хулгана жил\nҮнд
+ эсний эрх чөлөө\, тусгаар тогтнолоо сэрг
+ ээсний баярын өдөр\nБүх нийтээр амрах ба
+ ярын өдөр
 CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -420,6 +422,18 @@ EXDATE;VALUE=DATE:20241231
 SUMMARY:2 ес эхэлнэ
 DESCRIPTION:Хоёр есөд хорз архи хөлдөнө
 CATEGORIES:nine_nines
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2021-hol-0101@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20210101
+DTEND;VALUE=DATE:20210102
+SUMMARY:Шинэ жил
+DESCRIPTION:Шинийн 17\nӨвлийн дунд шар хулгана с
+ ар\n17-р жарны 34 он цагаан хулгана жил\nБүх 
+ нийтээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -491,6 +505,19 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2021-hol-0308@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20210308
+DTEND;VALUE=DATE:20210309
+SUMMARY:Эмэгтэйчүүдийн баяр
+DESCRIPTION:Шинийн 25\nХаврын тэргүүн цагаан ба
+ рс сар\n17-р жарны 35 он цагаагчин үхэр жил\n
+ Олон улсын эмэгтэйчүүдийн өдөр\nБүх нийт
+ ээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2021-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210314
@@ -533,6 +560,18 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2021-hol-0601@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20210601
+DTEND;VALUE=DATE:20210602
+SUMMARY:Хүүхдийн баяр
+DESCRIPTION:Шинийн 21\nЗуны эхэн харагчин могой 
+ сар\n17-р жарны 35 он цагаагчин үхэр жил\nБү
+ х нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2021-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210611
@@ -553,7 +592,7 @@ DESCRIPTION:Зуны сүүл хөхөгчин хонь сар\n17-р жа
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-mn-no15-hol-0711-2021@gantemur.github.io
+UID:mongol-mn-no15-2021-hol-0711@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210711
 DTEND;VALUE=DATE:20210712
@@ -561,7 +600,55 @@ SUMMARY:Үндэсний их баяр наадам
 DESCRIPTION:Шинийн 1 (давхар)\nЗуны сүүл хөхөгчи
  н хонь сар\n17-р жарны 35 он цагаагчин үхэр 
  жил\nБүх нийтээр амрах баярын өдөр
-CATEGORIES:festival,holiday
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2021-hol-0712@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20210712
+DTEND;VALUE=DATE:20210713
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 2\nЗуны сүүл хөхөгчин хонь с
+ ар\n17-р жарны 35 он цагаагчин үхэр жил\nБүх 
+ нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2021-hol-0713@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20210713
+DTEND;VALUE=DATE:20210714
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 3\nЗуны сүүл хөхөгчин хонь с
+ ар\n17-р жарны 35 он цагаагчин үхэр жил\nБүх 
+ нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2021-hol-0714@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20210714
+DTEND;VALUE=DATE:20210715
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 4\nЗуны сүүл хөхөгчин хонь с
+ ар\n17-р жарны 35 он цагаагчин үхэр жил\nБүх 
+ нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2021-hol-0715@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20210715
+DTEND;VALUE=DATE:20210716
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 5\nЗуны сүүл хөхөгчин хонь с
+ ар\n17-р жарны 35 он цагаагчин үхэр жил\nБүх 
+ нийтээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -609,6 +696,19 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2021-hol-1126@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20211126
+DTEND;VALUE=DATE:20211127
+SUMMARY:Улс тунхагласан өдөр
+DESCRIPTION:Шинийн 22\nӨвлийн эхэн шарагчин гах
+ ай сар\n17-р жарны 35 он цагаагчин үхэр жил\n
+ Бүгд Найрамдах Улс тунхагласан өдөр\nБүх
+  нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2021-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20211205
@@ -616,6 +716,32 @@ DTEND;VALUE=DATE:20211206
 SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд цагаан хулгана сар\n17-р
   жарны 35 он цагаагчин үхэр жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2021-hol-1229@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20211229
+DTEND;VALUE=DATE:20211230
+SUMMARY:Тусгаар тогтнолын өдөр
+DESCRIPTION:Шинийн 25\nӨвлийн дунд цагаан хулга
+ на сар\n17-р жарны 35 он цагаагчин үхэр жил\n
+ Үндэсний эрх чөлөө\, тусгаар тогтнолоо с
+ эргээсний баярын өдөр\nБүх нийтээр амрах
+  баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2022-hol-0101@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20220101
+DTEND;VALUE=DATE:20220102
+SUMMARY:Шинэ жил
+DESCRIPTION:Шинийн 29\nӨвлийн дунд цагаан хулга
+ на сар\n17-р жарны 35 он цагаагчин үхэр жил\n
+ Бүх нийтээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -684,6 +810,19 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2022-hol-0308@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20220308
+DTEND;VALUE=DATE:20220309
+SUMMARY:Эмэгтэйчүүдийн баяр
+DESCRIPTION:Шинийн 6\nХаврын дунд харагчин туул
+ ай сар\n17-р жарны 36 он хар бар жил\nОлон ул
+ сын эмэгтэйчүүдийн өдөр\nБүх нийтээр амр
+ ах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2022-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220402
@@ -714,6 +853,18 @@ DESCRIPTION:Зуны эхэн хөхөгчин могой сар\n17-р ж
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2022-hol-0601@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20220601
+DTEND;VALUE=DATE:20220602
+SUMMARY:Хүүхдийн баяр
+DESCRIPTION:Шинийн 2\nЗуны эхэн хөхөгчин могой 
+ сар\n17-р жарны 36 он хар бар жил\nБүх нийтээ
+ р амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2022-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220614
@@ -736,14 +887,74 @@ DESCRIPTION:Зуны дунд улаан морь сар\n17-р жарны
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-mn-no15-hol-0710@gantemur.github.io
+UID:mongol-mn-no15-2022-hol-0710@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220710
 DTEND;VALUE=DATE:20220711
-RRULE:FREQ=YEARLY;UNTIL=20501231
-EXDATE;VALUE=DATE:20400710
 SUMMARY:Үндэсний их баяр наадам
-DESCRIPTION:Бүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 11\nЗуны дунд улаан морь сар\n
+ 17-р жарны 36 он хар бар жил\nБүх нийтээр ам
+ рах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2022-hol-0711@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20220711
+DTEND;VALUE=DATE:20220712
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 12\nЗуны дунд улаан морь сар\n
+ 17-р жарны 36 он хар бар жил\nБүх нийтээр ам
+ рах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2022-hol-0712@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20220712
+DTEND;VALUE=DATE:20220713
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 13\nЗуны дунд улаан морь сар\n
+ 17-р жарны 36 он хар бар жил\nБүх нийтээр ам
+ рах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2022-hol-0713@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20220713
+DTEND;VALUE=DATE:20220714
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 15\nЗуны дунд улаан морь сар\n
+ 17-р жарны 36 он хар бар жил\nБүх нийтээр ам
+ рах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2022-hol-0714@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20220714
+DTEND;VALUE=DATE:20220715
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 16\nЗуны дунд улаан морь сар\n
+ 17-р жарны 36 он хар бар жил\nБүх нийтээр ам
+ рах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2022-hol-0715@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20220715
+DTEND;VALUE=DATE:20220716
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 17\nЗуны дунд улаан морь сар\n
+ 17-р жарны 36 он хар бар жил\nБүх нийтээр ам
+ рах баярын өдөр
 CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -801,6 +1012,19 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2022-hol-1126@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20221126
+DTEND;VALUE=DATE:20221127
+SUMMARY:Улс тунхагласан өдөр
+DESCRIPTION:Шинийн 3\nӨвлийн эхэн цагаагчин гах
+ ай сар\n17-р жарны 36 он хар бар жил\nБүгд На
+ йрамдах Улс тунхагласан өдөр\nБүх нийтээ
+ р амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2022-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20221224
@@ -808,6 +1032,32 @@ DTEND;VALUE=DATE:20221225
 SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд хар хулгана сар\n17-р жа
  рны 36 он хар бар жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2022-hol-1229@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20221229
+DTEND;VALUE=DATE:20221230
+SUMMARY:Тусгаар тогтнолын өдөр
+DESCRIPTION:Шинийн 7\nӨвлийн дунд хар хулгана с
+ ар\n17-р жарны 36 он хар бар жил\nҮндэсний эр
+ х чөлөө\, тусгаар тогтнолоо сэргээсний б
+ аярын өдөр\nБүх нийтээр амрах баярын өдө
+ р
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2023-hol-0101@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20230101
+DTEND;VALUE=DATE:20230102
+SUMMARY:Шинэ жил
+DESCRIPTION:Шинийн 10\nӨвлийн дунд хар хулгана с
+ ар\n17-р жарны 36 он хар бар жил\nБүх нийтээр
+  амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -879,6 +1129,19 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2023-hol-0308@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20230308
+DTEND;VALUE=DATE:20230309
+SUMMARY:Эмэгтэйчүүдийн баяр
+DESCRIPTION:Шинийн 16\nХаврын тэргүүн хөх барс с
+ ар\n17-р жарны 37 он харагчин туулай жил\nОл
+ он улсын эмэгтэйчүүдийн өдөр\nБүх нийтээ
+ р амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2023-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230322
@@ -909,6 +1172,18 @@ DESCRIPTION:Зуны эхэн улаагчин могой сар\n17-р ж
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2023-hol-0601@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20230601
+DTEND;VALUE=DATE:20230602
+SUMMARY:Хүүхдийн баяр
+DESCRIPTION:Шинийн 12\nЗуны эхэн улаагчин могой 
+ сар\n17-р жарны 37 он харагчин туулай жил\nБ
+ үх нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2023-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230604
@@ -928,6 +1203,78 @@ DTEND;VALUE=DATE:20230620
 SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд шар морь сар\n17-р жарны 37 
  он харагчин туулай жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2023-hol-0710@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20230710
+DTEND;VALUE=DATE:20230711
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 23\nЗуны дунд шар морь сар\n17-
+ р жарны 37 он харагчин туулай жил\nБүх ний
+ тээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2023-hol-0711@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20230711
+DTEND;VALUE=DATE:20230712
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 24\nЗуны дунд шар морь сар\n17-
+ р жарны 37 он харагчин туулай жил\nБүх ний
+ тээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2023-hol-0712@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20230712
+DTEND;VALUE=DATE:20230713
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 25\nЗуны дунд шар морь сар\n17-
+ р жарны 37 он харагчин туулай жил\nБүх ний
+ тээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2023-hol-0713@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20230713
+DTEND;VALUE=DATE:20230714
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 26\nЗуны дунд шар морь сар\n17-
+ р жарны 37 он харагчин туулай жил\nБүх ний
+ тээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2023-hol-0714@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20230714
+DTEND;VALUE=DATE:20230715
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 27\nЗуны дунд шар морь сар\n17-
+ р жарны 37 он харагчин туулай жил\nБүх ний
+ тээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2023-hol-0715@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20230715
+DTEND;VALUE=DATE:20230716
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 28\nЗуны дунд шар морь сар\n17-
+ р жарны 37 он харагчин туулай жил\nБүх ний
+ тээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -994,6 +1341,19 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2023-hol-1126@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20231126
+DTEND;VALUE=DATE:20231127
+SUMMARY:Улс тунхагласан өдөр
+DESCRIPTION:Шинийн 14\nӨвлийн эхэн харагчин гах
+ ай сар\n17-р жарны 37 он харагчин туулай жил
+ \nБүгд Найрамдах Улс тунхагласан өдөр\nБү
+ х нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2023-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20231213
@@ -1001,6 +1361,32 @@ DTEND;VALUE=DATE:20231214
 SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд хөх хулгана сар\n17-р жа
  рны 37 он харагчин туулай жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2023-hol-1229@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20231229
+DTEND;VALUE=DATE:20231230
+SUMMARY:Тусгаар тогтнолын өдөр
+DESCRIPTION:Шинийн 18\nӨвлийн дунд хөх хулгана с
+ ар\n17-р жарны 37 он харагчин туулай жил\nҮн
+ дэсний эрх чөлөө\, тусгаар тогтнолоо сэр
+ гээсний баярын өдөр\nБүх нийтээр амрах б
+ аярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2024-hol-0101@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20240101
+DTEND;VALUE=DATE:20240102
+SUMMARY:Шинэ жил
+DESCRIPTION:Шинийн 20\nӨвлийн дунд хөх хулгана с
+ ар\n17-р жарны 37 он харагчин туулай жил\nБү
+ х нийтээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1071,6 +1457,19 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2024-hol-0308@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20240308
+DTEND;VALUE=DATE:20240309
+SUMMARY:Эмэгтэйчүүдийн баяр
+DESCRIPTION:Шинийн 28\nХаврын тэргүүн улаан бар
+ с сар\n17-р жарны 38 он хөх луу жил\nОлон улс
+ ын эмэгтэйчүүдийн өдөр\nБүх нийтээр амра
+ х баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2024-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240311
@@ -1113,6 +1512,18 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2024-hol-0601@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20240601
+DTEND;VALUE=DATE:20240602
+SUMMARY:Хүүхдийн баяр
+DESCRIPTION:Шинийн 24\nЗуны эхэн шарагчин могой 
+ сар\n17-р жарны 38 он хөх луу жил\nБүх нийтээ
+ р амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2024-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240607
@@ -1130,6 +1541,78 @@ DTEND;VALUE=DATE:20240707
 SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл цагаагчин хонь сар\n17-р ж
  арны 38 он хөх луу жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2024-hol-0710@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20240710
+DTEND;VALUE=DATE:20240711
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 4\nЗуны сүүл цагаагчин хонь 
+ сар\n17-р жарны 38 он хөх луу жил\nБүх нийтээ
+ р амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2024-hol-0711@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20240711
+DTEND;VALUE=DATE:20240712
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 5\nЗуны сүүл цагаагчин хонь 
+ сар\n17-р жарны 38 он хөх луу жил\nБүх нийтээ
+ р амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2024-hol-0712@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20240712
+DTEND;VALUE=DATE:20240713
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 6\nЗуны сүүл цагаагчин хонь 
+ сар\n17-р жарны 38 он хөх луу жил\nБүх нийтээ
+ р амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2024-hol-0713@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20240713
+DTEND;VALUE=DATE:20240714
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 7\nЗуны сүүл цагаагчин хонь 
+ сар\n17-р жарны 38 он хөх луу жил\nБүх нийтээ
+ р амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2024-hol-0714@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20240714
+DTEND;VALUE=DATE:20240715
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 8\nЗуны сүүл цагаагчин хонь 
+ сар\n17-р жарны 38 он хөх луу жил\nБүх нийтээ
+ р амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2024-hol-0715@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20240715
+DTEND;VALUE=DATE:20240716
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 9\nЗуны сүүл цагаагчин хонь 
+ сар\n17-р жарны 38 он хөх луу жил\nБүх нийтээ
+ р амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1176,6 +1659,19 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2024-hol-1126@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20241126
+DTEND;VALUE=DATE:20241127
+SUMMARY:Улс тунхагласан өдөр
+DESCRIPTION:Шинийн 26\nӨвлийн эхэн хөхөгчин гах
+ ай сар\n17-р жарны 38 он хөх луу жил\nБүгд На
+ йрамдах Улс тунхагласан өдөр\nБүх нийтээ
+ р амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2024-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20241202
@@ -1183,6 +1679,20 @@ DTEND;VALUE=DATE:20241203
 SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд улаан хулгана сар\n17-р 
  жарны 38 он хөх луу жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2024-hol-1229@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20241229
+DTEND;VALUE=DATE:20241230
+SUMMARY:Тусгаар тогтнолын өдөр
+DESCRIPTION:Шинийн 29\nӨвлийн дунд улаан хулган
+ а сар\n17-р жарны 38 он хөх луу жил\nҮндэсний
+  эрх чөлөө\, тусгаар тогтнолоо сэргээсни
+ й баярын өдөр\nБүх нийтээр амрах баярын ө
+ дөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1195,6 +1705,18 @@ DESCRIPTION:Шинийн 1 · Өвлийн сүүл (илүү) сар · 2
  ес эхэлнэ · Хоёр есөд хорз архи хөлдөнө\n
  Өвлийн сүүл (илүү) улаагчин үхэр сар\n17-р 
  жарны 38 он хөх луу жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2025-hol-0101@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20250101
+DTEND;VALUE=DATE:20250102
+SUMMARY:Шинэ жил
+DESCRIPTION:Шинийн 2\nӨвлийн сүүл (илүү) улаагчи
+ н үхэр сар\n17-р жарны 38 он хөх луу жил\nБүх 
+ нийтээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1254,6 +1776,19 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2025-hol-0308@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20250308
+DTEND;VALUE=DATE:20250309
+SUMMARY:Эмэгтэйчүүдийн баяр
+DESCRIPTION:Шинийн 9\nХаврын тэргүүн шар барс с
+ ар\n17-р жарны 39 он хөхөгчин могой жил\nОло
+ н улсын эмэгтэйчүүдийн өдөр\nБүх нийтээр
+  амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2025-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250330
@@ -1284,6 +1819,18 @@ DESCRIPTION:Зуны эхэн цагаагчин могой сар\n17-р
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2025-hol-0601@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20250601
+DTEND;VALUE=DATE:20250602
+SUMMARY:Хүүхдийн баяр
+DESCRIPTION:Шинийн 6\nЗуны эхэн цагаагчин могой
+  сар\n17-р жарны 39 он хөхөгчин могой жил\nБү
+ х нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2025-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250611
@@ -1303,6 +1850,78 @@ DTEND;VALUE=DATE:20250627
 SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд хар морь сар\n17-р жарны 39 
  он хөхөгчин могой жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2025-hol-0710@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20250710
+DTEND;VALUE=DATE:20250711
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 15\nЗуны дунд хар морь сар\n17-
+ р жарны 39 он хөхөгчин могой жил\nБүх нийт
+ ээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2025-hol-0711@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20250711
+DTEND;VALUE=DATE:20250712
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 16\nЗуны дунд хар морь сар\n17-
+ р жарны 39 он хөхөгчин могой жил\nБүх нийт
+ ээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2025-hol-0712@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20250712
+DTEND;VALUE=DATE:20250713
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 17\nЗуны дунд хар морь сар\n17-
+ р жарны 39 он хөхөгчин могой жил\nБүх нийт
+ ээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2025-hol-0713@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20250713
+DTEND;VALUE=DATE:20250714
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 18\nЗуны дунд хар морь сар\n17-
+ р жарны 39 он хөхөгчин могой жил\nБүх нийт
+ ээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2025-hol-0714@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250715
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 19\nЗуны дунд хар морь сар\n17-
+ р жарны 39 он хөхөгчин могой жил\nБүх нийт
+ ээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2025-hol-0715@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20250715
+DTEND;VALUE=DATE:20250716
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 20\nЗуны дунд хар морь сар\n17-
+ р жарны 39 он хөхөгчин могой жил\nБүх нийт
+ ээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1359,6 +1978,19 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2025-hol-1126@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20251126
+DTEND;VALUE=DATE:20251127
+SUMMARY:Улс тунхагласан өдөр
+DESCRIPTION:Шинийн 6\nӨвлийн эхэн улаагчин гаха
+ й сар\n17-р жарны 39 он хөхөгчин могой жил\nБ
+ үгд Найрамдах Улс тунхагласан өдөр\nБүх 
+ нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2025-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20251220
@@ -1366,6 +1998,32 @@ DTEND;VALUE=DATE:20251221
 SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд шар хулгана сар\n17-р жа
  рны 39 он хөхөгчин могой жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2025-hol-1229@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20251229
+DTEND;VALUE=DATE:20251230
+SUMMARY:Тусгаар тогтнолын өдөр
+DESCRIPTION:Шинийн 10\nӨвлийн дунд шар хулгана с
+ ар\n17-р жарны 39 он хөхөгчин могой жил\nҮнд
+ эсний эрх чөлөө\, тусгаар тогтнолоо сэрг
+ ээсний баярын өдөр\nБүх нийтээр амрах ба
+ ярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2026-hol-0101@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:Шинэ жил
+DESCRIPTION:Шинийн 13\nӨвлийн дунд шар хулгана с
+ ар\n17-р жарны 39 он хөхөгчин могой жил\nБүх 
+ нийтээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1436,6 +2094,19 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2026-hol-0308@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:Эмэгтэйчүүдийн баяр
+DESCRIPTION:Шинийн 20\nХаврын тэргүүн цагаан ба
+ рс сар\n17-р жарны 40 он улаан морин жил\nОло
+ н улсын эмэгтэйчүүдийн өдөр\nБүх нийтээр
+  амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2026-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260320
@@ -1479,6 +2150,18 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2026-hol-0601@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:Хүүхдийн баяр
+DESCRIPTION:Шинийн 16\nЗуны эхэн харагчин могой 
+ сар\n17-р жарны 40 он улаан морин жил\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2026-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260616
@@ -1489,7 +2172,67 @@ DESCRIPTION:Зуны дунд хөх морь сар\n17-р жарны 40
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-mn-no15-hol-0715-2026@gantemur.github.io
+UID:mongol-mn-no15-2026-hol-0710@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 26\nЗуны дунд хөх морь сар\n17-
+ р жарны 40 он улаан морин жил\nБүх нийтээр 
+ амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2026-hol-0711@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 27\nЗуны дунд хөх морь сар\n17-
+ р жарны 40 он улаан морин жил\nБүх нийтээр 
+ амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2026-hol-0712@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 28\nЗуны дунд хөх морь сар\n17-
+ р жарны 40 он улаан морин жил\nБүх нийтээр 
+ амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2026-hol-0713@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 29\nЗуны дунд хөх морь сар\n17-
+ р жарны 40 он улаан морин жил\nБүх нийтээр 
+ амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2026-hol-0714@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 30\nЗуны дунд хөх морь сар\n17-
+ р жарны 40 он улаан морин жил\nБүх нийтээр 
+ амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2026-hol-0715@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260716
@@ -1497,7 +2240,7 @@ SUMMARY:Үндэсний их баяр наадам
 DESCRIPTION:Шинийн 1\nЗуны сүүл хөхөгчин хонь с
  ар\n17-р жарны 40 он улаан морин жил\nБүх ний
  тээр амрах баярын өдөр
-CATEGORIES:festival,holiday
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1544,6 +2287,19 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2026-hol-1126@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Улс тунхагласан өдөр
+DESCRIPTION:Шинийн 17\nӨвлийн эхэн шарагчин гах
+ ай сар\n17-р жарны 40 он улаан морин жил\nБүг
+ д Найрамдах Улс тунхагласан өдөр\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2026-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261209
@@ -1551,6 +2307,32 @@ DTEND;VALUE=DATE:20261210
 SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд цагаан хулгана сар\n17-р
   жарны 40 он улаан морин жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2026-hol-1229@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:Тусгаар тогтнолын өдөр
+DESCRIPTION:Шинийн 21\nӨвлийн дунд цагаан хулга
+ на сар\n17-р жарны 40 он улаан морин жил\nҮнд
+ эсний эрх чөлөө\, тусгаар тогтнолоо сэрг
+ ээсний баярын өдөр\nБүх нийтээр амрах ба
+ ярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2027-hol-0101@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Шинэ жил
+DESCRIPTION:Шинийн 24\nӨвлийн дунд цагаан хулга
+ на сар\n17-р жарны 40 он улаан морин жил\nБүх
+  нийтээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1621,6 +2403,19 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2027-hol-0308@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:Эмэгтэйчүүдийн баяр
+DESCRIPTION:Шинийн 30\nХаврын тэргүүн хар барс с
+ ар\n17-р жарны 41 он улаагчин хонин жил\nОло
+ н улсын эмэгтэйчүүдийн өдөр\nБүх нийтээр
+  амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2027-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270309
@@ -1663,6 +2458,18 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2027-hol-0601@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:Хүүхдийн баяр
+DESCRIPTION:Шинийн 26 (давхар)\nЗуны эхэн хөхөгч
+ ин могой сар\n17-р жарны 41 он улаагчин хони
+ н жил\nБүх нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2027-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270605
@@ -1680,6 +2487,78 @@ DTEND;VALUE=DATE:20270706
 SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл улаагчин хонь сар\n17-р жа
  рны 41 он улаагчин хонин жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2027-hol-0710@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 7\nЗуны сүүл улаагчин хонь с
+ ар\n17-р жарны 41 он улаагчин хонин жил\nБүх 
+ нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2027-hol-0711@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 8\nЗуны сүүл улаагчин хонь с
+ ар\n17-р жарны 41 он улаагчин хонин жил\nБүх 
+ нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2027-hol-0712@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270712
+DTEND;VALUE=DATE:20270713
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 9\nЗуны сүүл улаагчин хонь с
+ ар\n17-р жарны 41 он улаагчин хонин жил\nБүх 
+ нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2027-hol-0713@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270713
+DTEND;VALUE=DATE:20270714
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 10\nЗуны сүүл улаагчин хонь с
+ ар\n17-р жарны 41 он улаагчин хонин жил\nБүх 
+ нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2027-hol-0714@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270715
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 11\nЗуны сүүл улаагчин хонь с
+ ар\n17-р жарны 41 он улаагчин хонин жил\nБүх 
+ нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2027-hol-0715@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270716
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 12\nЗуны сүүл улаагчин хонь с
+ ар\n17-р жарны 41 он улаагчин хонин жил\nБүх 
+ нийтээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1724,6 +2603,19 @@ DESCRIPTION:Намрын сүүл цагаан нохой сар\n17-р ж
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2027-hol-1126@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20271126
+DTEND;VALUE=DATE:20271127
+SUMMARY:Улс тунхагласан өдөр
+DESCRIPTION:Шинийн 28\nНамрын сүүл цагаан нохой 
+ сар\n17-р жарны 41 он улаагчин хонин жил\nБү
+ гд Найрамдах Улс тунхагласан өдөр\nБүх н
+ ийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2027-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20271129
@@ -1744,6 +2636,32 @@ DTEND;VALUE=DATE:20271229
 SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд хар хулгана сар\n17-р жа
  рны 41 он улаагчин хонин жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2027-hol-1229@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20271229
+DTEND;VALUE=DATE:20271230
+SUMMARY:Тусгаар тогтнолын өдөр
+DESCRIPTION:Шинийн 2\nӨвлийн дунд хар хулгана с
+ ар\n17-р жарны 41 он улаагчин хонин жил\nҮнд
+ эсний эрх чөлөө\, тусгаар тогтнолоо сэрг
+ ээсний баярын өдөр\nБүх нийтээр амрах ба
+ ярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2028-hol-0101@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:Шинэ жил
+DESCRIPTION:Шинийн 5\nӨвлийн дунд хар хулгана с
+ ар\n17-р жарны 41 он улаагчин хонин жил\nБүх 
+ нийтээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1816,6 +2734,19 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2028-hol-0308@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20280308
+DTEND;VALUE=DATE:20280309
+SUMMARY:Эмэгтэйчүүдийн баяр
+DESCRIPTION:Шинийн 12\nХаврын тэргүүн хөх барс с
+ ар\n17-р жарны 42 он шар бичин жил\nОлон улсы
+ н эмэгтэйчүүдийн өдөр\nБүх нийтээр амрах
+  баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2028-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280327
@@ -1846,6 +2777,18 @@ DESCRIPTION:Зуны эхэн улаагчин могой сар\n17-р ж
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2028-hol-0601@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20280601
+DTEND;VALUE=DATE:20280602
+SUMMARY:Хүүхдийн баяр
+DESCRIPTION:Шинийн 9\nЗуны эхэн улаагчин могой 
+ сар\n17-р жарны 42 он шар бичин жил\nБүх нийт
+ ээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2028-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280607
@@ -1865,6 +2808,78 @@ DTEND;VALUE=DATE:20280624
 SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд шар морь сар\n17-р жарны 42 
  он шар бичин жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2028-hol-0710@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20280710
+DTEND;VALUE=DATE:20280711
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 19\nЗуны дунд шар морь сар\n17-
+ р жарны 42 он шар бичин жил\nБүх нийтээр ам
+ рах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2028-hol-0711@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20280711
+DTEND;VALUE=DATE:20280712
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 20\nЗуны дунд шар морь сар\n17-
+ р жарны 42 он шар бичин жил\nБүх нийтээр ам
+ рах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2028-hol-0712@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20280712
+DTEND;VALUE=DATE:20280713
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 20 (давхар)\nЗуны дунд шар мор
+ ь сар\n17-р жарны 42 он шар бичин жил\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2028-hol-0713@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20280713
+DTEND;VALUE=DATE:20280714
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 21\nЗуны дунд шар морь сар\n17-
+ р жарны 42 он шар бичин жил\nБүх нийтээр ам
+ рах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2028-hol-0714@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280715
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 22\nЗуны дунд шар морь сар\n17-
+ р жарны 42 он шар бичин жил\nБүх нийтээр ам
+ рах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2028-hol-0715@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 23\nЗуны дунд шар морь сар\n17-
+ р жарны 42 он шар бичин жил\nБүх нийтээр ам
+ рах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1921,6 +2936,19 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2028-hol-1126@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20281126
+DTEND;VALUE=DATE:20281127
+SUMMARY:Улс тунхагласан өдөр
+DESCRIPTION:Шинийн 10\nӨвлийн эхэн харагчин гах
+ ай сар\n17-р жарны 42 он шар бичин жил\nБүгд 
+ Найрамдах Улс тунхагласан өдөр\nБүх нийт
+ ээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2028-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20281216
@@ -1928,6 +2956,32 @@ DTEND;VALUE=DATE:20281217
 SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд хөх хулгана сар\n17-р жа
  рны 42 он шар бичин жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2028-hol-1229@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20281229
+DTEND;VALUE=DATE:20281230
+SUMMARY:Тусгаар тогтнолын өдөр
+DESCRIPTION:Шинийн 13\nӨвлийн дунд хөх хулгана с
+ ар\n17-р жарны 42 он шар бичин жил\nҮндэсний 
+ эрх чөлөө\, тусгаар тогтнолоо сэргээсний
+  баярын өдөр\nБүх нийтээр амрах баярын өд
+ өр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2029-hol-0101@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20290101
+DTEND;VALUE=DATE:20290102
+SUMMARY:Шинэ жил
+DESCRIPTION:Шинийн 16\nӨвлийн дунд хөх хулгана с
+ ар\n17-р жарны 42 он шар бичин жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1999,6 +3053,19 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2029-hol-0308@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20290308
+DTEND;VALUE=DATE:20290309
+SUMMARY:Эмэгтэйчүүдийн баяр
+DESCRIPTION:Шинийн 24\nХаврын тэргүүн улаан бар
+ с сар\n17-р жарны 43 он шарагчин тахиа жил\nО
+ лон улсын эмэгтэйчүүдийн өдөр\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2029-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290316
@@ -2041,6 +3108,18 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2029-hol-0601@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20290601
+DTEND;VALUE=DATE:20290602
+SUMMARY:Хүүхдийн баяр
+DESCRIPTION:Шинийн 20\nЗуны эхэн шарагчин могой 
+ сар\n17-р жарны 43 он шарагчин тахиа жил\nБү
+ х нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2029-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290613
@@ -2051,7 +3130,31 @@ DESCRIPTION:Зуны дунд цагаан морь сар\n17-р жарн
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-mn-no15-hol-0712-2029@gantemur.github.io
+UID:mongol-mn-no15-2029-hol-0710@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20290710
+DTEND;VALUE=DATE:20290711
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 29\nЗуны дунд цагаан морь сар
+ \n17-р жарны 43 он шарагчин тахиа жил\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2029-hol-0711@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20290711
+DTEND;VALUE=DATE:20290712
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 30\nЗуны дунд цагаан морь сар
+ \n17-р жарны 43 он шарагчин тахиа жил\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2029-hol-0712@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290712
 DTEND;VALUE=DATE:20290713
@@ -2059,7 +3162,43 @@ SUMMARY:Үндэсний их баяр наадам
 DESCRIPTION:Шинийн 1\nЗуны сүүл цагаагчин хонь 
  сар\n17-р жарны 43 он шарагчин тахиа жил\nБү
  х нийтээр амрах баярын өдөр
-CATEGORIES:festival,holiday
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2029-hol-0713@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20290713
+DTEND;VALUE=DATE:20290714
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 2\nЗуны сүүл цагаагчин хонь 
+ сар\n17-р жарны 43 он шарагчин тахиа жил\nБү
+ х нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2029-hol-0714@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20290714
+DTEND;VALUE=DATE:20290715
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 3\nЗуны сүүл цагаагчин хонь 
+ сар\n17-р жарны 43 он шарагчин тахиа жил\nБү
+ х нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2029-hol-0715@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20290715
+DTEND;VALUE=DATE:20290716
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 4\nЗуны сүүл цагаагчин хонь 
+ сар\n17-р жарны 43 он шарагчин тахиа жил\nБү
+ х нийтээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2106,6 +3245,19 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2029-hol-1126@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20291126
+DTEND;VALUE=DATE:20291127
+SUMMARY:Улс тунхагласан өдөр
+DESCRIPTION:Шинийн 20\nӨвлийн эхэн хөхөгчин гах
+ ай сар\n17-р жарны 43 он шарагчин тахиа жил\n
+ Бүгд Найрамдах Улс тунхагласан өдөр\nБүх
+  нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2029-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20291206
@@ -2113,6 +3265,32 @@ DTEND;VALUE=DATE:20291207
 SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд улаан хулгана сар\n17-р 
  жарны 43 он шарагчин тахиа жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2029-hol-1229@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20291229
+DTEND;VALUE=DATE:20291230
+SUMMARY:Тусгаар тогтнолын өдөр
+DESCRIPTION:Шинийн 24\nӨвлийн дунд улаан хулган
+ а сар\n17-р жарны 43 он шарагчин тахиа жил\nҮ
+ ндэсний эрх чөлөө\, тусгаар тогтнолоо сэ
+ ргээсний баярын өдөр\nБүх нийтээр амрах 
+ баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2030-hol-0101@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20300101
+DTEND;VALUE=DATE:20300102
+SUMMARY:Шинэ жил
+DESCRIPTION:Шинийн 27\nӨвлийн дунд улаан хулган
+ а сар\n17-р жарны 43 он шарагчин тахиа жил\nБ
+ үх нийтээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2195,6 +3373,19 @@ DESCRIPTION:Хаврын дунд шарагчин туулай сар\n17-
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2030-hol-0308@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20300308
+DTEND;VALUE=DATE:20300309
+SUMMARY:Эмэгтэйчүүдийн баяр
+DESCRIPTION:Шинийн 4\nХаврын дунд шарагчин туул
+ ай сар\n17-р жарны 44 он цагаан нохой жил\nОл
+ он улсын эмэгтэйчүүдийн өдөр\nБүх нийтээ
+ р амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2030-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300403
@@ -2227,6 +3418,18 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2030-hol-0601@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20300601
+DTEND;VALUE=DATE:20300602
+SUMMARY:Хүүхдийн баяр
+DESCRIPTION:Шинийн 30\nЗуны эхэн цагаагчин мого
+ й сар\n17-р жарны 44 он цагаан нохой жил\nБүх
+  нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2030-05L-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300602
@@ -2244,6 +3447,78 @@ DTEND;VALUE=DATE:20300702
 SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд хар морь сар\n17-р жарны 44 
  он цагаан нохой жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2030-hol-0710@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20300710
+DTEND;VALUE=DATE:20300711
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 10\nЗуны дунд хар морь сар\n17-
+ р жарны 44 он цагаан нохой жил\nБүх нийтээ
+ р амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2030-hol-0711@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20300711
+DTEND;VALUE=DATE:20300712
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 11\nЗуны дунд хар морь сар\n17-
+ р жарны 44 он цагаан нохой жил\nБүх нийтээ
+ р амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2030-hol-0712@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20300712
+DTEND;VALUE=DATE:20300713
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 12\nЗуны дунд хар морь сар\n17-
+ р жарны 44 он цагаан нохой жил\nБүх нийтээ
+ р амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2030-hol-0713@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20300713
+DTEND;VALUE=DATE:20300714
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 13\nЗуны дунд хар морь сар\n17-
+ р жарны 44 он цагаан нохой жил\nБүх нийтээ
+ р амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2030-hol-0714@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20300714
+DTEND;VALUE=DATE:20300715
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 14\nЗуны дунд хар морь сар\n17-
+ р жарны 44 он цагаан нохой жил\nБүх нийтээ
+ р амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2030-hol-0715@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20300715
+DTEND;VALUE=DATE:20300716
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 15\nЗуны дунд хар морь сар\n17-
+ р жарны 44 он цагаан нохой жил\nБүх нийтээ
+ р амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2309,6 +3584,32 @@ DTEND;VALUE=DATE:20301226
 SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд шар хулгана сар\n17-р жа
  рны 44 он цагаан нохой жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2030-hol-1229@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20301229
+DTEND;VALUE=DATE:20301230
+SUMMARY:Тусгаар тогтнолын өдөр
+DESCRIPTION:Шинийн 5\nӨвлийн дунд шар хулгана с
+ ар\n17-р жарны 44 он цагаан нохой жил\nҮндэс
+ ний эрх чөлөө\, тусгаар тогтнолоо сэргээ
+ сний баярын өдөр\nБүх нийтээр амрах баяр
+ ын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2031-hol-0101@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20310101
+DTEND;VALUE=DATE:20310102
+SUMMARY:Шинэ жил
+DESCRIPTION:Шинийн 8\nӨвлийн дунд шар хулгана с
+ ар\n17-р жарны 44 он цагаан нохой жил\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2380,6 +3681,19 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2031-hol-0308@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20310308
+DTEND;VALUE=DATE:20310309
+SUMMARY:Эмэгтэйчүүдийн баяр
+DESCRIPTION:Шинийн 14 (давхар)\nХаврын тэргүүн ц
+ агаан барс сар\n17-р жарны 45 он цагаагчин г
+ ахай жил\nОлон улсын эмэгтэйчүүдийн өдөр
+ \nБүх нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2031-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310324
@@ -2410,6 +3724,18 @@ DESCRIPTION:Зуны эхэн харагчин могой сар\n17-р ж
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2031-hol-0601@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20310601
+DTEND;VALUE=DATE:20310602
+SUMMARY:Хүүхдийн баяр
+DESCRIPTION:Шинийн 11\nЗуны эхэн харагчин могой 
+ сар\n17-р жарны 45 он цагаагчин гахай жил\nБ
+ үх нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2031-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310605
@@ -2429,6 +3755,78 @@ DTEND;VALUE=DATE:20310621
 SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд хөх морь сар\n17-р жарны 45 
  он цагаагчин гахай жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2031-hol-0710@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20310710
+DTEND;VALUE=DATE:20310711
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 21\nЗуны дунд хөх морь сар\n17-
+ р жарны 45 он цагаагчин гахай жил\nБүх ний
+ тээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2031-hol-0711@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20310711
+DTEND;VALUE=DATE:20310712
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 22\nЗуны дунд хөх морь сар\n17-
+ р жарны 45 он цагаагчин гахай жил\nБүх ний
+ тээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2031-hol-0712@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20310712
+DTEND;VALUE=DATE:20310713
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 23\nЗуны дунд хөх морь сар\n17-
+ р жарны 45 он цагаагчин гахай жил\nБүх ний
+ тээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2031-hol-0713@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20310713
+DTEND;VALUE=DATE:20310714
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 24\nЗуны дунд хөх морь сар\n17-
+ р жарны 45 он цагаагчин гахай жил\nБүх ний
+ тээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2031-hol-0714@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20310714
+DTEND;VALUE=DATE:20310715
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 25\nЗуны дунд хөх морь сар\n17-
+ р жарны 45 он цагаагчин гахай жил\nБүх ний
+ тээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2031-hol-0715@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20310715
+DTEND;VALUE=DATE:20310716
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 26\nЗуны дунд хөх морь сар\n17-
+ р жарны 45 он цагаагчин гахай жил\nБүх ний
+ тээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2485,6 +3883,19 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2031-hol-1126@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20311126
+DTEND;VALUE=DATE:20311127
+SUMMARY:Улс тунхагласан өдөр
+DESCRIPTION:Шинийн 13\nӨвлийн эхэн шарагчин гах
+ ай сар\n17-р жарны 45 он цагаагчин гахай жил
+ \nБүгд Найрамдах Улс тунхагласан өдөр\nБү
+ х нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2031-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20311215
@@ -2492,6 +3903,32 @@ DTEND;VALUE=DATE:20311216
 SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд цагаан хулгана сар\n17-р
   жарны 45 он цагаагчин гахай жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2031-hol-1229@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20311229
+DTEND;VALUE=DATE:20311230
+SUMMARY:Тусгаар тогтнолын өдөр
+DESCRIPTION:Шинийн 16\nӨвлийн дунд цагаан хулга
+ на сар\n17-р жарны 45 он цагаагчин гахай жил
+ \nҮндэсний эрх чөлөө\, тусгаар тогтнолоо 
+ сэргээсний баярын өдөр\nБүх нийтээр амра
+ х баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2032-hol-0101@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20320101
+DTEND;VALUE=DATE:20320102
+SUMMARY:Шинэ жил
+DESCRIPTION:Шинийн 19\nӨвлийн дунд цагаан хулга
+ на сар\n17-р жарны 45 он цагаагчин гахай жил
+ \nБүх нийтээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2550,6 +3987,19 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2032-hol-0308@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20320308
+DTEND;VALUE=DATE:20320309
+SUMMARY:Эмэгтэйчүүдийн баяр
+DESCRIPTION:Шинийн 26\nХаврын тэргүүн хар барс с
+ ар\n17-р жарны 46 он хар хулгана жил\nОлон ул
+ сын эмэгтэйчүүдийн өдөр\nБүх нийтээр амр
+ ах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2032-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320312
@@ -2592,6 +4042,18 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2032-hol-0601@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20320601
+DTEND;VALUE=DATE:20320602
+SUMMARY:Хүүхдийн баяр
+DESCRIPTION:Шинийн 23\nЗуны эхэн хөхөгчин могой 
+ сар\n17-р жарны 46 он хар хулгана жил\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2032-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320609
@@ -2609,6 +4071,78 @@ DTEND;VALUE=DATE:20320709
 SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл улаагчин хонь сар\n17-р жа
  рны 46 он хар хулгана жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2032-hol-0710@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20320710
+DTEND;VALUE=DATE:20320711
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 3\nЗуны сүүл улаагчин хонь с
+ ар\n17-р жарны 46 он хар хулгана жил\nБүх ний
+ тээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2032-hol-0711@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20320711
+DTEND;VALUE=DATE:20320712
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 4\nЗуны сүүл улаагчин хонь с
+ ар\n17-р жарны 46 он хар хулгана жил\nБүх ний
+ тээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2032-hol-0712@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20320712
+DTEND;VALUE=DATE:20320713
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 5\nЗуны сүүл улаагчин хонь с
+ ар\n17-р жарны 46 он хар хулгана жил\nБүх ний
+ тээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2032-hol-0713@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20320713
+DTEND;VALUE=DATE:20320714
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 6\nЗуны сүүл улаагчин хонь с
+ ар\n17-р жарны 46 он хар хулгана жил\nБүх ний
+ тээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2032-hol-0714@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20320714
+DTEND;VALUE=DATE:20320715
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 7\nЗуны сүүл улаагчин хонь с
+ ар\n17-р жарны 46 он хар хулгана жил\nБүх ний
+ тээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2032-hol-0715@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20320715
+DTEND;VALUE=DATE:20320716
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 7 (давхар)\nЗуны сүүл улаагчи
+ н хонь сар\n17-р жарны 46 он хар хулгана жил\
+ nБүх нийтээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2655,6 +4189,19 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2032-hol-1126@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20321126
+DTEND;VALUE=DATE:20321127
+SUMMARY:Улс тунхагласан өдөр
+DESCRIPTION:Шинийн 24\nӨвлийн эхэн цагаагчин га
+ хай сар\n17-р жарны 46 он хар хулгана жил\nБү
+ гд Найрамдах Улс тунхагласан өдөр\nБүх н
+ ийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2032-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20321203
@@ -2662,6 +4209,32 @@ DTEND;VALUE=DATE:20321204
 SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд хар хулгана сар\n17-р жа
  рны 46 он хар хулгана жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2032-hol-1229@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20321229
+DTEND;VALUE=DATE:20321230
+SUMMARY:Тусгаар тогтнолын өдөр
+DESCRIPTION:Шинийн 27\nӨвлийн дунд хар хулгана с
+ ар\n17-р жарны 46 он хар хулгана жил\nҮндэсн
+ ий эрх чөлөө\, тусгаар тогтнолоо сэргээс
+ ний баярын өдөр\nБүх нийтээр амрах баяры
+ н өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2033-hol-0101@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20330101
+DTEND;VALUE=DATE:20330102
+SUMMARY:Шинэ жил
+DESCRIPTION:Шинийн 30\nӨвлийн дунд хар хулгана с
+ ар\n17-р жарны 46 он хар хулгана жил\nБүх ний
+ тээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2742,6 +4315,19 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2033-hol-0308@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20330308
+DTEND;VALUE=DATE:20330309
+SUMMARY:Эмэгтэйчүүдийн баяр
+DESCRIPTION:Шинийн 8\nХаврын дунд (илүү) хөхөгчи
+ н туулай сар\n17-р жарны 47 он харагчин үхэр
+  жил\nОлон улсын эмэгтэйчүүдийн өдөр\nБүх
+  нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2033-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330331
@@ -2772,6 +4358,18 @@ DESCRIPTION:Зуны эхэн улаагчин могой сар\n17-р ж
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2033-hol-0601@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20330601
+DTEND;VALUE=DATE:20330602
+SUMMARY:Хүүхдийн баяр
+DESCRIPTION:Шинийн 4\nЗуны эхэн улаагчин могой 
+ сар\n17-р жарны 47 он харагчин үхэр жил\nБүх 
+ нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2033-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330612
@@ -2791,6 +4389,78 @@ DTEND;VALUE=DATE:20330628
 SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд шар морь сар\n17-р жарны 47 
  он харагчин үхэр жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2033-hol-0710@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20330710
+DTEND;VALUE=DATE:20330711
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 13\nЗуны дунд шар морь сар\n17-
+ р жарны 47 он харагчин үхэр жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2033-hol-0711@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20330711
+DTEND;VALUE=DATE:20330712
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 14\nЗуны дунд шар морь сар\n17-
+ р жарны 47 он харагчин үхэр жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2033-hol-0712@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20330712
+DTEND;VALUE=DATE:20330713
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 15\nЗуны дунд шар морь сар\n17-
+ р жарны 47 он харагчин үхэр жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2033-hol-0713@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20330713
+DTEND;VALUE=DATE:20330714
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 16\nЗуны дунд шар морь сар\n17-
+ р жарны 47 он харагчин үхэр жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2033-hol-0714@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20330714
+DTEND;VALUE=DATE:20330715
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 17\nЗуны дунд шар морь сар\n17-
+ р жарны 47 он харагчин үхэр жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2033-hol-0715@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20330715
+DTEND;VALUE=DATE:20330716
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 18\nЗуны дунд шар морь сар\n17-
+ р жарны 47 он харагчин үхэр жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2847,6 +4517,19 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2033-hol-1126@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20331126
+DTEND;VALUE=DATE:20331127
+SUMMARY:Улс тунхагласан өдөр
+DESCRIPTION:Шинийн 4\nӨвлийн эхэн харагчин гаха
+ й сар\n17-р жарны 47 он харагчин үхэр жил\nБү
+ гд Найрамдах Улс тунхагласан өдөр\nБүх н
+ ийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2033-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20331222
@@ -2856,6 +4539,32 @@ DESCRIPTION:Шинийн 1 · Өвлийн дунд сар · 1 ес эхэ
  лнэ · Нэг есөд нэрмэл архи хөлдөнө\nӨвлий
  н дунд хөх хулгана сар\n17-р жарны 47 он хар
  агчин үхэр жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2033-hol-1229@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20331229
+DTEND;VALUE=DATE:20331230
+SUMMARY:Тусгаар тогтнолын өдөр
+DESCRIPTION:Шинийн 8\nӨвлийн дунд хөх хулгана с
+ ар\n17-р жарны 47 он харагчин үхэр жил\nҮндэ
+ сний эрх чөлөө\, тусгаар тогтнолоо сэргэ
+ эсний баярын өдөр\nБүх нийтээр амрах бая
+ рын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2034-hol-0101@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20340101
+DTEND;VALUE=DATE:20340102
+SUMMARY:Шинэ жил
+DESCRIPTION:Шинийн 11\nӨвлийн дунд хөх хулгана с
+ ар\n17-р жарны 47 он харагчин үхэр жил\nБүх н
+ ийтээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2926,6 +4635,19 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2034-hol-0308@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20340308
+DTEND;VALUE=DATE:20340309
+SUMMARY:Эмэгтэйчүүдийн баяр
+DESCRIPTION:Шинийн 18\nХаврын тэргүүн улаан бар
+ с сар\n17-р жарны 48 он хөх бар жил\nОлон улс
+ ын эмэгтэйчүүдийн өдөр\nБүх нийтээр амра
+ х баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2034-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340321
@@ -2990,6 +4712,78 @@ DESCRIPTION:Зуны дунд цагаан морь сар\n17-р жарн
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2034-hol-0710@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20340710
+DTEND;VALUE=DATE:20340711
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 24\nЗуны дунд цагаан морь сар
+ \n17-р жарны 48 он хөх бар жил\nБүх нийтээр а
+ мрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2034-hol-0711@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20340711
+DTEND;VALUE=DATE:20340712
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 25\nЗуны дунд цагаан морь сар
+ \n17-р жарны 48 он хөх бар жил\nБүх нийтээр а
+ мрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2034-hol-0712@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20340712
+DTEND;VALUE=DATE:20340713
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 26\nЗуны дунд цагаан морь сар
+ \n17-р жарны 48 он хөх бар жил\nБүх нийтээр а
+ мрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2034-hol-0713@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20340713
+DTEND;VALUE=DATE:20340714
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 27\nЗуны дунд цагаан морь сар
+ \n17-р жарны 48 он хөх бар жил\nБүх нийтээр а
+ мрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2034-hol-0714@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20340714
+DTEND;VALUE=DATE:20340715
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 29\nЗуны дунд цагаан морь сар
+ \n17-р жарны 48 он хөх бар жил\nБүх нийтээр а
+ мрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2034-hol-0715@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20340715
+DTEND;VALUE=DATE:20340716
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 30\nЗуны дунд цагаан морь сар
+ \n17-р жарны 48 он хөх бар жил\nБүх нийтээр а
+ мрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2034-06-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340716
@@ -3043,6 +4837,19 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2034-hol-1126@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20341126
+DTEND;VALUE=DATE:20341127
+SUMMARY:Улс тунхагласан өдөр
+DESCRIPTION:Шинийн 16\nӨвлийн эхэн хөхөгчин гах
+ ай сар\n17-р жарны 48 он хөх бар жил\nБүгд На
+ йрамдах Улс тунхагласан өдөр\nБүх нийтээ
+ р амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2034-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20341211
@@ -3050,6 +4857,32 @@ DTEND;VALUE=DATE:20341212
 SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд улаан хулгана сар\n17-р 
  жарны 48 он хөх бар жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2034-hol-1229@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20341229
+DTEND;VALUE=DATE:20341230
+SUMMARY:Тусгаар тогтнолын өдөр
+DESCRIPTION:Шинийн 20\nӨвлийн дунд улаан хулган
+ а сар\n17-р жарны 48 он хөх бар жил\nҮндэсний
+  эрх чөлөө\, тусгаар тогтнолоо сэргээсни
+ й баярын өдөр\nБүх нийтээр амрах баярын ө
+ дөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2035-hol-0101@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20350101
+DTEND;VALUE=DATE:20350102
+SUMMARY:Шинэ жил
+DESCRIPTION:Шинийн 23\nӨвлийн дунд улаан хулган
+ а сар\n17-р жарны 48 он хөх бар жил\nБүх нийт
+ ээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3120,6 +4953,19 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2035-hol-0308@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20350308
+DTEND;VALUE=DATE:20350309
+SUMMARY:Эмэгтэйчүүдийн баяр
+DESCRIPTION:Шинийн 29\nХаврын тэргүүн шар барс с
+ ар\n17-р жарны 49 он хөхөгчин туулай жил\nОл
+ он улсын эмэгтэйчүүдийн өдөр\nБүх нийтээ
+ р амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2035-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350310
@@ -3162,6 +5008,18 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2035-hol-0601@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20350601
+DTEND;VALUE=DATE:20350602
+SUMMARY:Хүүхдийн баяр
+DESCRIPTION:Шинийн 25\nЗуны эхэн цагаагчин мого
+ й сар\n17-р жарны 49 он хөхөгчин туулай жил\n
+ Бүх нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2035-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350607
@@ -3179,6 +5037,78 @@ DTEND;VALUE=DATE:20350707
 SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл харагчин хонь сар\n17-р жа
  рны 49 он хөхөгчин туулай жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2035-hol-0710@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20350710
+DTEND;VALUE=DATE:20350711
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 5\nЗуны сүүл харагчин хонь с
+ ар\n17-р жарны 49 он хөхөгчин туулай жил\nБү
+ х нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2035-hol-0711@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20350711
+DTEND;VALUE=DATE:20350712
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 7\nЗуны сүүл харагчин хонь с
+ ар\n17-р жарны 49 он хөхөгчин туулай жил\nБү
+ х нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2035-hol-0712@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20350712
+DTEND;VALUE=DATE:20350713
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 8\nЗуны сүүл харагчин хонь с
+ ар\n17-р жарны 49 он хөхөгчин туулай жил\nБү
+ х нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2035-hol-0713@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20350713
+DTEND;VALUE=DATE:20350714
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 9\nЗуны сүүл харагчин хонь с
+ ар\n17-р жарны 49 он хөхөгчин туулай жил\nБү
+ х нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2035-hol-0714@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20350714
+DTEND;VALUE=DATE:20350715
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 9 (давхар)\nЗуны сүүл харагчи
+ н хонь сар\n17-р жарны 49 он хөхөгчин туулай
+  жил\nБүх нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2035-hol-0715@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20350715
+DTEND;VALUE=DATE:20350716
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 10\nЗуны сүүл харагчин хонь с
+ ар\n17-р жарны 49 он хөхөгчин туулай жил\nБү
+ х нийтээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3223,6 +5153,19 @@ DESCRIPTION:Өвлийн эхэн (илүү) улаагчин гахай с
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2035-hol-1126@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20351126
+DTEND;VALUE=DATE:20351127
+SUMMARY:Улс тунхагласан өдөр
+DESCRIPTION:Шинийн 27\nӨвлийн эхэн (илүү) улаагч
+ ин гахай сар\n17-р жарны 49 он хөхөгчин туул
+ ай жил\nБүгд Найрамдах Улс тунхагласан ө
+ дөр\nБүх нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2035-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20351130
@@ -3236,6 +5179,20 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2035-hol-1229@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20351229
+DTEND;VALUE=DATE:20351230
+SUMMARY:Тусгаар тогтнолын өдөр
+DESCRIPTION:Шинийн 30\nӨвлийн эхэн улаагчин гах
+ ай сар\n17-р жарны 49 он хөхөгчин туулай жил
+ \nҮндэсний эрх чөлөө\, тусгаар тогтнолоо 
+ сэргээсний баярын өдөр\nБүх нийтээр амра
+ х баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2035-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20351230
@@ -3243,6 +5200,18 @@ DTEND;VALUE=DATE:20351231
 SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд шар хулгана сар\n17-р жа
  рны 49 он хөхөгчин туулай жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2036-hol-0101@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20360101
+DTEND;VALUE=DATE:20360102
+SUMMARY:Шинэ жил
+DESCRIPTION:Шинийн 3\nӨвлийн дунд шар хулгана с
+ ар\n17-р жарны 49 он хөхөгчин туулай жил\nБү
+ х нийтээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3314,6 +5283,19 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2036-hol-0308@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20360308
+DTEND;VALUE=DATE:20360309
+SUMMARY:Эмэгтэйчүүдийн баяр
+DESCRIPTION:Шинийн 11\nХаврын тэргүүн цагаан ба
+ рс сар\n17-р жарны 50 он улаан луу жил\nОлон 
+ улсын эмэгтэйчүүдийн өдөр\nБүх нийтээр а
+ мрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2036-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360328
@@ -3344,6 +5326,18 @@ DESCRIPTION:Зуны эхэн харагчин могой сар\n17-р ж
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2036-hol-0601@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20360601
+DTEND;VALUE=DATE:20360602
+SUMMARY:Хүүхдийн баяр
+DESCRIPTION:Шинийн 7\nЗуны эхэн харагчин могой 
+ сар\n17-р жарны 50 он улаан луу жил\nБүх нийт
+ ээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2036-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360608
@@ -3363,6 +5357,78 @@ DTEND;VALUE=DATE:20360626
 SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд хөх морь сар\n17-р жарны 50 
  он улаан луу жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2036-hol-0710@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20360710
+DTEND;VALUE=DATE:20360711
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 17\nЗуны дунд хөх морь сар\n17-
+ р жарны 50 он улаан луу жил\nБүх нийтээр ам
+ рах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2036-hol-0711@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20360711
+DTEND;VALUE=DATE:20360712
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 18\nЗуны дунд хөх морь сар\n17-
+ р жарны 50 он улаан луу жил\nБүх нийтээр ам
+ рах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2036-hol-0712@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20360712
+DTEND;VALUE=DATE:20360713
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 19\nЗуны дунд хөх морь сар\n17-
+ р жарны 50 он улаан луу жил\nБүх нийтээр ам
+ рах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2036-hol-0713@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20360713
+DTEND;VALUE=DATE:20360714
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 20\nЗуны дунд хөх морь сар\n17-
+ р жарны 50 он улаан луу жил\nБүх нийтээр ам
+ рах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2036-hol-0714@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20360714
+DTEND;VALUE=DATE:20360715
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 21\nЗуны дунд хөх морь сар\n17-
+ р жарны 50 он улаан луу жил\nБүх нийтээр ам
+ рах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2036-hol-0715@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20360715
+DTEND;VALUE=DATE:20360716
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 22\nЗуны дунд хөх морь сар\n17-
+ р жарны 50 он улаан луу жил\nБүх нийтээр ам
+ рах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3420,6 +5486,19 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2036-hol-1126@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20361126
+DTEND;VALUE=DATE:20361127
+SUMMARY:Улс тунхагласан өдөр
+DESCRIPTION:Шинийн 8\nӨвлийн эхэн шарагчин гаха
+ й сар\n17-р жарны 50 он улаан луу жил\nБүгд Н
+ айрамдах Улс тунхагласан өдөр\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2036-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20361218
@@ -3427,6 +5506,32 @@ DTEND;VALUE=DATE:20361219
 SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд цагаан хулгана сар\n17-р
   жарны 50 он улаан луу жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2036-hol-1229@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20361229
+DTEND;VALUE=DATE:20361230
+SUMMARY:Тусгаар тогтнолын өдөр
+DESCRIPTION:Шинийн 11\nӨвлийн дунд цагаан хулга
+ на сар\n17-р жарны 50 он улаан луу жил\nҮндэс
+ ний эрх чөлөө\, тусгаар тогтнолоо сэргээ
+ сний баярын өдөр\nБүх нийтээр амрах баяр
+ ын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2037-hol-0101@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20370101
+DTEND;VALUE=DATE:20370102
+SUMMARY:Шинэ жил
+DESCRIPTION:Шинийн 14\nӨвлийн дунд цагаан хулга
+ на сар\n17-р жарны 50 он улаан луу жил\nБүх н
+ ийтээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3498,6 +5603,19 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2037-hol-0308@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20370308
+DTEND;VALUE=DATE:20370309
+SUMMARY:Эмэгтэйчүүдийн баяр
+DESCRIPTION:Шинийн 22\nХаврын тэргүүн хар барс с
+ ар\n17-р жарны 51 он улаагчин могой жил\nОло
+ н улсын эмэгтэйчүүдийн өдөр\nБүх нийтээр
+  амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2037-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370317
@@ -3540,6 +5658,18 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2037-hol-0601@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20370601
+DTEND;VALUE=DATE:20370602
+SUMMARY:Хүүхдийн баяр
+DESCRIPTION:Шинийн 18\nЗуны эхэн хөхөгчин могой 
+ сар\n17-р жарны 51 он улаагчин могой жил\nБү
+ х нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2037-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370614
@@ -3550,7 +5680,55 @@ DESCRIPTION:Зуны дунд улаан морь сар\n17-р жарны
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-mn-no15-hol-0714-2037@gantemur.github.io
+UID:mongol-mn-no15-2037-hol-0710@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20370710
+DTEND;VALUE=DATE:20370711
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 27\nЗуны дунд улаан морь сар\n
+ 17-р жарны 51 он улаагчин могой жил\nБүх ний
+ тээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2037-hol-0711@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20370711
+DTEND;VALUE=DATE:20370712
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 28\nЗуны дунд улаан морь сар\n
+ 17-р жарны 51 он улаагчин могой жил\nБүх ний
+ тээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2037-hol-0712@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20370712
+DTEND;VALUE=DATE:20370713
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 29\nЗуны дунд улаан морь сар\n
+ 17-р жарны 51 он улаагчин могой жил\nБүх ний
+ тээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2037-hol-0713@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20370713
+DTEND;VALUE=DATE:20370714
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 30\nЗуны дунд улаан морь сар\n
+ 17-р жарны 51 он улаагчин могой жил\nБүх ний
+ тээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2037-hol-0714@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370714
 DTEND;VALUE=DATE:20370715
@@ -3558,7 +5736,19 @@ SUMMARY:Үндэсний их баяр наадам
 DESCRIPTION:Шинийн 1\nЗуны сүүл улаагчин хонь с
  ар\n17-р жарны 51 он улаагчин могой жил\nБүх 
  нийтээр амрах баярын өдөр
-CATEGORIES:festival,holiday
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2037-hol-0715@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20370715
+DTEND;VALUE=DATE:20370716
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 3\nЗуны сүүл улаагчин хонь с
+ ар\n17-р жарны 51 он улаагчин могой жил\nБүх 
+ нийтээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3606,6 +5796,19 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2037-hol-1126@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20371126
+DTEND;VALUE=DATE:20371127
+SUMMARY:Улс тунхагласан өдөр
+DESCRIPTION:Шинийн 19\nӨвлийн эхэн цагаагчин га
+ хай сар\n17-р жарны 51 он улаагчин могой жил
+ \nБүгд Найрамдах Улс тунхагласан өдөр\nБү
+ х нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2037-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20371207
@@ -3613,6 +5816,32 @@ DTEND;VALUE=DATE:20371208
 SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд хар хулгана сар\n17-р жа
  рны 51 он улаагчин могой жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2037-hol-1229@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20371229
+DTEND;VALUE=DATE:20371230
+SUMMARY:Тусгаар тогтнолын өдөр
+DESCRIPTION:Шинийн 22\nӨвлийн дунд хар хулгана с
+ ар\n17-р жарны 51 он улаагчин могой жил\nҮнд
+ эсний эрх чөлөө\, тусгаар тогтнолоо сэрг
+ ээсний баярын өдөр\nБүх нийтээр амрах ба
+ ярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2038-hol-0101@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20380101
+DTEND;VALUE=DATE:20380102
+SUMMARY:Шинэ жил
+DESCRIPTION:Шинийн 26\nӨвлийн дунд хар хулгана с
+ ар\n17-р жарны 51 он улаагчин могой жил\nБүх 
+ нийтээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3694,6 +5923,19 @@ DESCRIPTION:Хаврын дунд хөхөгчин туулай сар\n17-
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2038-hol-0308@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20380308
+DTEND;VALUE=DATE:20380309
+SUMMARY:Эмэгтэйчүүдийн баяр
+DESCRIPTION:Шинийн 3\nХаврын дунд хөхөгчин туул
+ ай сар\n17-р жарны 52 он шар морин жил\nОлон 
+ улсын эмэгтэйчүүдийн өдөр\nБүх нийтээр а
+ мрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2038-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380405
@@ -3726,6 +5968,18 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2038-hol-0601@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20380601
+DTEND;VALUE=DATE:20380602
+SUMMARY:Хүүхдийн баяр
+DESCRIPTION:Шинийн 29\nЗуны эхэн улаагчин могой 
+ сар\n17-р жарны 52 он шар морин жил\nБүх нийт
+ ээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2038-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380603
@@ -3743,6 +5997,78 @@ DTEND;VALUE=DATE:20380704
 SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл шарагчин хонь сар\n17-р жа
  рны 52 он шар морин жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2038-hol-0710@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20380710
+DTEND;VALUE=DATE:20380711
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 8\nЗуны сүүл шарагчин хонь с
+ ар\n17-р жарны 52 он шар морин жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2038-hol-0711@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20380711
+DTEND;VALUE=DATE:20380712
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 9\nЗуны сүүл шарагчин хонь с
+ ар\n17-р жарны 52 он шар морин жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2038-hol-0712@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20380712
+DTEND;VALUE=DATE:20380713
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 11\nЗуны сүүл шарагчин хонь с
+ ар\n17-р жарны 52 он шар морин жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2038-hol-0713@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20380713
+DTEND;VALUE=DATE:20380714
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 12\nЗуны сүүл шарагчин хонь с
+ ар\n17-р жарны 52 он шар морин жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2038-hol-0714@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20380714
+DTEND;VALUE=DATE:20380715
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 13\nЗуны сүүл шарагчин хонь с
+ ар\n17-р жарны 52 он шар морин жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2038-hol-0715@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20380715
+DTEND;VALUE=DATE:20380716
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 14\nЗуны сүүл шарагчин хонь с
+ ар\n17-р жарны 52 он шар морин жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3787,6 +6113,19 @@ DESCRIPTION:Намрын сүүл хар нохой сар\n17-р жарн
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2038-hol-1126@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20381126
+DTEND;VALUE=DATE:20381127
+SUMMARY:Улс тунхагласан өдөр
+DESCRIPTION:Шинийн 30\nНамрын сүүл хар нохой сар
+ \n17-р жарны 52 он шар морин жил\nБүгд Найрам
+ дах Улс тунхагласан өдөр\nБүх нийтээр ам
+ рах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2038-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20381127
@@ -3807,6 +6146,32 @@ DTEND;VALUE=DATE:20381227
 SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд хөх хулгана сар\n17-р жа
  рны 52 он шар морин жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2038-hol-1229@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20381229
+DTEND;VALUE=DATE:20381230
+SUMMARY:Тусгаар тогтнолын өдөр
+DESCRIPTION:Шинийн 4\nӨвлийн дунд хөх хулгана с
+ ар\n17-р жарны 52 он шар морин жил\nҮндэсний 
+ эрх чөлөө\, тусгаар тогтнолоо сэргээсний
+  баярын өдөр\nБүх нийтээр амрах баярын өд
+ өр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2039-hol-0101@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20390101
+DTEND;VALUE=DATE:20390102
+SUMMARY:Шинэ жил
+DESCRIPTION:Шинийн 7\nӨвлийн дунд хөх хулгана с
+ ар\n17-р жарны 52 он шар морин жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3878,6 +6243,19 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2039-hol-0308@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20390308
+DTEND;VALUE=DATE:20390309
+SUMMARY:Эмэгтэйчүүдийн баяр
+DESCRIPTION:Шинийн 13\nХаврын тэргүүн улаан бар
+ с сар\n17-р жарны 53 он шарагчин хонин жил\nО
+ лон улсын эмэгтэйчүүдийн өдөр\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2039-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390325
@@ -3908,6 +6286,18 @@ DESCRIPTION:Зуны эхэн шарагчин могой сар\n17-р ж
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2039-hol-0601@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20390601
+DTEND;VALUE=DATE:20390602
+SUMMARY:Хүүхдийн баяр
+DESCRIPTION:Шинийн 9\nЗуны эхэн шарагчин могой 
+ сар\n17-р жарны 53 он шарагчин хонин жил\nБү
+ х нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2039-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390606
@@ -3927,6 +6317,78 @@ DTEND;VALUE=DATE:20390623
 SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд цагаан морь сар\n17-р жарн
  ы 53 он шарагчин хонин жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2039-hol-0710@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20390710
+DTEND;VALUE=DATE:20390711
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 20\nЗуны дунд цагаан морь сар
+ \n17-р жарны 53 он шарагчин хонин жил\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2039-hol-0711@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20390711
+DTEND;VALUE=DATE:20390712
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 21\nЗуны дунд цагаан морь сар
+ \n17-р жарны 53 он шарагчин хонин жил\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2039-hol-0712@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20390712
+DTEND;VALUE=DATE:20390713
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 22\nЗуны дунд цагаан морь сар
+ \n17-р жарны 53 он шарагчин хонин жил\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2039-hol-0713@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20390713
+DTEND;VALUE=DATE:20390714
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 23\nЗуны дунд цагаан морь сар
+ \n17-р жарны 53 он шарагчин хонин жил\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2039-hol-0714@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20390714
+DTEND;VALUE=DATE:20390715
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 24\nЗуны дунд цагаан морь сар
+ \n17-р жарны 53 он шарагчин хонин жил\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2039-hol-0715@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20390715
+DTEND;VALUE=DATE:20390716
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 25\nЗуны дунд цагаан морь сар
+ \n17-р жарны 53 он шарагчин хонин жил\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3983,6 +6445,19 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2039-hol-1126@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20391126
+DTEND;VALUE=DATE:20391127
+SUMMARY:Улс тунхагласан өдөр
+DESCRIPTION:Шинийн 11\nӨвлийн эхэн хөхөгчин гах
+ ай сар\n17-р жарны 53 он шарагчин хонин жил\n
+ Бүгд Найрамдах Улс тунхагласан өдөр\nБүх
+  нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2039-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20391216
@@ -3990,6 +6465,32 @@ DTEND;VALUE=DATE:20391217
 SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд улаан хулгана сар\n17-р 
  жарны 53 он шарагчин хонин жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2039-hol-1229@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20391229
+DTEND;VALUE=DATE:20391230
+SUMMARY:Тусгаар тогтнолын өдөр
+DESCRIPTION:Шинийн 14\nӨвлийн дунд улаан хулган
+ а сар\n17-р жарны 53 он шарагчин хонин жил\nҮ
+ ндэсний эрх чөлөө\, тусгаар тогтнолоо сэ
+ ргээсний баярын өдөр\nБүх нийтээр амрах 
+ баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2040-hol-0101@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20400101
+DTEND;VALUE=DATE:20400102
+SUMMARY:Шинэ жил
+DESCRIPTION:Шинийн 17\nӨвлийн дунд улаан хулган
+ а сар\n17-р жарны 53 он шарагчин хонин жил\nБ
+ үх нийтээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4062,6 +6563,19 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2040-hol-0308@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20400308
+DTEND;VALUE=DATE:20400309
+SUMMARY:Эмэгтэйчүүдийн баяр
+DESCRIPTION:Шинийн 25\nХаврын тэргүүн шар барс с
+ ар\n17-р жарны 54 он цагаан бичин жил\nОлон у
+ лсын эмэгтэйчүүдийн өдөр\nБүх нийтээр ам
+ рах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2040-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400314
@@ -4105,6 +6619,18 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2040-hol-0601@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20400601
+DTEND;VALUE=DATE:20400602
+SUMMARY:Хүүхдийн баяр
+DESCRIPTION:Шинийн 22\nЗуны эхэн цагаагчин мого
+ й сар\n17-р жарны 54 он цагаан бичин жил\nБүх
+  нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2040-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400610
@@ -4115,7 +6641,7 @@ DESCRIPTION:Зуны дунд хар морь сар\n17-р жарны 54
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-mn-no15-hol-0710-2040@gantemur.github.io
+UID:mongol-mn-no15-2040-hol-0710@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400710
 DTEND;VALUE=DATE:20400711
@@ -4123,7 +6649,67 @@ SUMMARY:Үндэсний их баяр наадам
 DESCRIPTION:Шинийн 1\nЗуны сүүл харагчин хонь с
  ар\n17-р жарны 54 он цагаан бичин жил\nБүх ни
  йтээр амрах баярын өдөр
-CATEGORIES:festival,holiday
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2040-hol-0711@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20400711
+DTEND;VALUE=DATE:20400712
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 2\nЗуны сүүл харагчин хонь с
+ ар\n17-р жарны 54 он цагаан бичин жил\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2040-hol-0712@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20400712
+DTEND;VALUE=DATE:20400713
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 3\nЗуны сүүл харагчин хонь с
+ ар\n17-р жарны 54 он цагаан бичин жил\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2040-hol-0713@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20400713
+DTEND;VALUE=DATE:20400714
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 4\nЗуны сүүл харагчин хонь с
+ ар\n17-р жарны 54 он цагаан бичин жил\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2040-hol-0714@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20400714
+DTEND;VALUE=DATE:20400715
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 5\nЗуны сүүл харагчин хонь с
+ ар\n17-р жарны 54 он цагаан бичин жил\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2040-hol-0715@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20400715
+DTEND;VALUE=DATE:20400716
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 6\nЗуны сүүл харагчин хонь с
+ ар\n17-р жарны 54 он цагаан бичин жил\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4170,6 +6756,19 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2040-hol-1126@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20401126
+DTEND;VALUE=DATE:20401127
+SUMMARY:Улс тунхагласан өдөр
+DESCRIPTION:Шинийн 22 (давхар)\nӨвлийн эхэн улаа
+ гчин гахай сар\n17-р жарны 54 он цагаан бичи
+ н жил\nБүгд Найрамдах Улс тунхагласан өд
+ өр\nБүх нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2040-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20401205
@@ -4177,6 +6776,32 @@ DTEND;VALUE=DATE:20401206
 SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд шар хулгана сар\n17-р жа
  рны 54 он цагаан бичин жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2040-hol-1229@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20401229
+DTEND;VALUE=DATE:20401230
+SUMMARY:Тусгаар тогтнолын өдөр
+DESCRIPTION:Шинийн 26\nӨвлийн дунд шар хулгана с
+ ар\n17-р жарны 54 он цагаан бичин жил\nҮндэс
+ ний эрх чөлөө\, тусгаар тогтнолоо сэргээ
+ сний баярын өдөр\nБүх нийтээр амрах баяр
+ ын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2041-hol-0101@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20410101
+DTEND;VALUE=DATE:20410102
+SUMMARY:Шинэ жил
+DESCRIPTION:Шинийн 29\nӨвлийн дунд шар хулгана с
+ ар\n17-р жарны 54 он цагаан бичин жил\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4245,6 +6870,19 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2041-hol-0308@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20410308
+DTEND;VALUE=DATE:20410309
+SUMMARY:Эмэгтэйчүүдийн баяр
+DESCRIPTION:Шинийн 6\nХаврын дунд цагаагчин туу
+ лай сар\n17-р жарны 55 он цагаагчин тахиа жи
+ л\nОлон улсын эмэгтэйчүүдийн өдөр\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2041-03L-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410402
@@ -4276,6 +6914,18 @@ DESCRIPTION:Зуны эхэн харагчин могой сар\n17-р ж
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2041-hol-0601@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20410601
+DTEND;VALUE=DATE:20410602
+SUMMARY:Хүүхдийн баяр
+DESCRIPTION:Шинийн 3\nЗуны эхэн харагчин могой 
+ сар\n17-р жарны 55 он цагаагчин тахиа жил\nБ
+ үх нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2041-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410614
@@ -4295,6 +6945,78 @@ DTEND;VALUE=DATE:20410630
 SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд хөх морь сар\n17-р жарны 55 
  он цагаагчин тахиа жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2041-hol-0710@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20410710
+DTEND;VALUE=DATE:20410711
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 12\nЗуны дунд хөх морь сар\n17-
+ р жарны 55 он цагаагчин тахиа жил\nБүх ний
+ тээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2041-hol-0711@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20410711
+DTEND;VALUE=DATE:20410712
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 13\nЗуны дунд хөх морь сар\n17-
+ р жарны 55 он цагаагчин тахиа жил\nБүх ний
+ тээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2041-hol-0712@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20410712
+DTEND;VALUE=DATE:20410713
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 14\nЗуны дунд хөх морь сар\n17-
+ р жарны 55 он цагаагчин тахиа жил\nБүх ний
+ тээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2041-hol-0713@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20410713
+DTEND;VALUE=DATE:20410714
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 15\nЗуны дунд хөх морь сар\n17-
+ р жарны 55 он цагаагчин тахиа жил\nБүх ний
+ тээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2041-hol-0714@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20410714
+DTEND;VALUE=DATE:20410715
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 16\nЗуны дунд хөх морь сар\n17-
+ р жарны 55 он цагаагчин тахиа жил\nБүх ний
+ тээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2041-hol-0715@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20410715
+DTEND;VALUE=DATE:20410716
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 17\nЗуны дунд хөх морь сар\n17-
+ р жарны 55 он цагаагчин тахиа жил\nБүх ний
+ тээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4361,6 +7083,19 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2041-hol-1126@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20411126
+DTEND;VALUE=DATE:20411127
+SUMMARY:Улс тунхагласан өдөр
+DESCRIPTION:Шинийн 3\nӨвлийн эхэн шарагчин гаха
+ й сар\n17-р жарны 55 он цагаагчин тахиа жил\n
+ Бүгд Найрамдах Улс тунхагласан өдөр\nБүх
+  нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2041-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20411224
@@ -4368,6 +7103,32 @@ DTEND;VALUE=DATE:20411225
 SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд цагаан хулгана сар\n17-р
   жарны 55 он цагаагчин тахиа жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2041-hol-1229@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20411229
+DTEND;VALUE=DATE:20411230
+SUMMARY:Тусгаар тогтнолын өдөр
+DESCRIPTION:Шинийн 7\nӨвлийн дунд цагаан хулган
+ а сар\n17-р жарны 55 он цагаагчин тахиа жил\n
+ Үндэсний эрх чөлөө\, тусгаар тогтнолоо с
+ эргээсний баярын өдөр\nБүх нийтээр амрах
+  баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2042-hol-0101@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20420101
+DTEND;VALUE=DATE:20420102
+SUMMARY:Шинэ жил
+DESCRIPTION:Шинийн 10\nӨвлийн дунд цагаан хулга
+ на сар\n17-р жарны 55 он цагаагчин тахиа жил
+ \nБүх нийтээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4439,6 +7200,19 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2042-hol-0308@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20420308
+DTEND;VALUE=DATE:20420309
+SUMMARY:Эмэгтэйчүүдийн баяр
+DESCRIPTION:Шинийн 17\nХаврын тэргүүн хар барс с
+ ар\n17-р жарны 56 он хар нохой жил\nОлон улсы
+ н эмэгтэйчүүдийн өдөр\nБүх нийтээр амрах
+  баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2042-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420322
@@ -4469,6 +7243,18 @@ DESCRIPTION:Зуны эхэн хөхөгчин могой сар\n17-р ж
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2042-hol-0601@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20420601
+DTEND;VALUE=DATE:20420602
+SUMMARY:Хүүхдийн баяр
+DESCRIPTION:Шинийн 13\nЗуны эхэн хөхөгчин могой 
+ сар\n17-р жарны 56 он хар нохой жил\nБүх нийт
+ ээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2042-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420603
@@ -4488,6 +7274,78 @@ DTEND;VALUE=DATE:20420619
 SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд улаан морь сар\n17-р жарны 
  56 он хар нохой жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2042-hol-0710@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20420710
+DTEND;VALUE=DATE:20420711
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 23\nЗуны дунд улаан морь сар\n
+ 17-р жарны 56 он хар нохой жил\nБүх нийтээр 
+ амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2042-hol-0711@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20420711
+DTEND;VALUE=DATE:20420712
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 24\nЗуны дунд улаан морь сар\n
+ 17-р жарны 56 он хар нохой жил\nБүх нийтээр 
+ амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2042-hol-0712@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20420712
+DTEND;VALUE=DATE:20420713
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 25\nЗуны дунд улаан морь сар\n
+ 17-р жарны 56 он хар нохой жил\nБүх нийтээр 
+ амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2042-hol-0713@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20420713
+DTEND;VALUE=DATE:20420714
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 26\nЗуны дунд улаан морь сар\n
+ 17-р жарны 56 он хар нохой жил\nБүх нийтээр 
+ амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2042-hol-0714@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20420714
+DTEND;VALUE=DATE:20420715
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 27\nЗуны дунд улаан морь сар\n
+ 17-р жарны 56 он хар нохой жил\nБүх нийтээр 
+ амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2042-hol-0715@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20420715
+DTEND;VALUE=DATE:20420716
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 28\nЗуны дунд улаан морь сар\n
+ 17-р жарны 56 он хар нохой жил\nБүх нийтээр 
+ амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4554,6 +7412,19 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2042-hol-1126@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20421126
+DTEND;VALUE=DATE:20421127
+SUMMARY:Улс тунхагласан өдөр
+DESCRIPTION:Шинийн 14\nӨвлийн эхэн цагаагчин га
+ хай сар\n17-р жарны 56 он хар нохой жил\nБүгд
+  Найрамдах Улс тунхагласан өдөр\nБүх ний
+ тээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2042-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20421213
@@ -4561,6 +7432,32 @@ DTEND;VALUE=DATE:20421214
 SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд хар хулгана сар\n17-р жа
  рны 56 он хар нохой жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2042-hol-1229@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20421229
+DTEND;VALUE=DATE:20421230
+SUMMARY:Тусгаар тогтнолын өдөр
+DESCRIPTION:Шинийн 18\nӨвлийн дунд хар хулгана с
+ ар\n17-р жарны 56 он хар нохой жил\nҮндэсний 
+ эрх чөлөө\, тусгаар тогтнолоо сэргээсний
+  баярын өдөр\nБүх нийтээр амрах баярын өд
+ өр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2043-hol-0101@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20430101
+DTEND;VALUE=DATE:20430102
+SUMMARY:Шинэ жил
+DESCRIPTION:Шинийн 21\nӨвлийн дунд хар хулгана с
+ ар\n17-р жарны 56 он хар нохой жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4631,6 +7528,19 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2043-hol-0308@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20430308
+DTEND;VALUE=DATE:20430309
+SUMMARY:Эмэгтэйчүүдийн баяр
+DESCRIPTION:Шинийн 27\nХаврын тэргүүн хөх барс с
+ ар\n17-р жарны 57 он харагчин гахай жил\nОло
+ н улсын эмэгтэйчүүдийн өдөр\nБүх нийтээр
+  амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2043-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430312
@@ -4673,6 +7583,18 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2043-hol-0601@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20430601
+DTEND;VALUE=DATE:20430602
+SUMMARY:Хүүхдийн баяр
+DESCRIPTION:Шинийн 23\nЗуны эхэн улаагчин могой 
+ сар\n17-р жарны 57 он харагчин гахай жил\nБү
+ х нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2043-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430608
@@ -4690,6 +7612,78 @@ DTEND;VALUE=DATE:20430708
 SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл шарагчин хонь сар\n17-р жа
  рны 57 он харагчин гахай жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2043-hol-0710@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20430710
+DTEND;VALUE=DATE:20430711
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 4\nЗуны сүүл шарагчин хонь с
+ ар\n17-р жарны 57 он харагчин гахай жил\nБүх 
+ нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2043-hol-0711@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20430711
+DTEND;VALUE=DATE:20430712
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 5\nЗуны сүүл шарагчин хонь с
+ ар\n17-р жарны 57 он харагчин гахай жил\nБүх 
+ нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2043-hol-0712@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20430712
+DTEND;VALUE=DATE:20430713
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 6\nЗуны сүүл шарагчин хонь с
+ ар\n17-р жарны 57 он харагчин гахай жил\nБүх 
+ нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2043-hol-0713@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20430713
+DTEND;VALUE=DATE:20430714
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 7\nЗуны сүүл шарагчин хонь с
+ ар\n17-р жарны 57 он харагчин гахай жил\nБүх 
+ нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2043-hol-0714@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20430714
+DTEND;VALUE=DATE:20430715
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 8\nЗуны сүүл шарагчин хонь с
+ ар\n17-р жарны 57 он харагчин гахай жил\nБүх 
+ нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2043-hol-0715@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20430715
+DTEND;VALUE=DATE:20430716
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 9\nЗуны сүүл шарагчин хонь с
+ ар\n17-р жарны 57 он харагчин гахай жил\nБүх 
+ нийтээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4736,6 +7730,19 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2043-hol-1126@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20431126
+DTEND;VALUE=DATE:20431127
+SUMMARY:Улс тунхагласан өдөр
+DESCRIPTION:Шинийн 25\nӨвлийн эхэн харагчин гах
+ ай сар\n17-р жарны 57 он харагчин гахай жил\n
+ Бүгд Найрамдах Улс тунхагласан өдөр\nБүх
+  нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2043-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20431202
@@ -4746,7 +7753,21 @@ DESCRIPTION:Өвлийн дунд хөх хулгана сар\n17-р жа
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-mn-no15-hol-0101-2044@gantemur.github.io
+UID:mongol-mn-no15-2043-hol-1229@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20431229
+DTEND;VALUE=DATE:20431230
+SUMMARY:Тусгаар тогтнолын өдөр
+DESCRIPTION:Шинийн 28 (давхар)\nӨвлийн дунд хөх х
+ улгана сар\n17-р жарны 57 он харагчин гахай 
+ жил\nҮндэсний эрх чөлөө\, тусгаар тогтнол
+ оо сэргээсний баярын өдөр\nБүх нийтээр а
+ мрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2044-hol-0101@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440101
 DTEND;VALUE=DATE:20440102
@@ -4754,7 +7775,7 @@ SUMMARY:Шинэ жил
 DESCRIPTION:Шинийн 1\nӨвлийн сүүл (илүү) хөхөгчи
  н үхэр сар\n17-р жарны 57 он харагчин гахай 
  жил\nБүх нийтээр амрах баярын өдөр
-CATEGORIES:festival,holiday
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4825,6 +7846,19 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2044-hol-0308@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20440308
+DTEND;VALUE=DATE:20440309
+SUMMARY:Эмэгтэйчүүдийн баяр
+DESCRIPTION:Шинийн 9\nХаврын тэргүүн улаан барс
+  сар\n17-р жарны 58 он хөх хулгана жил\nОлон 
+ улсын эмэгтэйчүүдийн өдөр\nБүх нийтээр а
+ мрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2044-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440330
@@ -4855,6 +7889,18 @@ DESCRIPTION:Зуны эхэн шарагчин могой сар\n17-р ж
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2044-hol-0601@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20440601
+DTEND;VALUE=DATE:20440602
+SUMMARY:Хүүхдийн баяр
+DESCRIPTION:Шинийн 6\nЗуны эхэн шарагчин могой 
+ сар\n17-р жарны 58 он хөх хулгана жил\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2044-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440610
@@ -4874,6 +7920,78 @@ DTEND;VALUE=DATE:20440627
 SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд цагаан морь сар\n17-р жарн
  ы 58 он хөх хулгана жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2044-hol-0710@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20440710
+DTEND;VALUE=DATE:20440711
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 15\nЗуны дунд цагаан морь сар
+ \n17-р жарны 58 он хөх хулгана жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2044-hol-0711@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20440711
+DTEND;VALUE=DATE:20440712
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 16\nЗуны дунд цагаан морь сар
+ \n17-р жарны 58 он хөх хулгана жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2044-hol-0712@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20440712
+DTEND;VALUE=DATE:20440713
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 17\nЗуны дунд цагаан морь сар
+ \n17-р жарны 58 он хөх хулгана жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2044-hol-0713@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20440713
+DTEND;VALUE=DATE:20440714
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 18\nЗуны дунд цагаан морь сар
+ \n17-р жарны 58 он хөх хулгана жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2044-hol-0714@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20440714
+DTEND;VALUE=DATE:20440715
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 19\nЗуны дунд цагаан морь сар
+ \n17-р жарны 58 он хөх хулгана жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2044-hol-0715@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20440715
+DTEND;VALUE=DATE:20440716
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 20\nЗуны дунд цагаан морь сар
+ \n17-р жарны 58 он хөх хулгана жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4930,6 +8048,19 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2044-hol-1126@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20441126
+DTEND;VALUE=DATE:20441127
+SUMMARY:Улс тунхагласан өдөр
+DESCRIPTION:Шинийн 7\nӨвлийн эхэн хөхөгчин гаха
+ й сар\n17-р жарны 58 он хөх хулгана жил\nБүгд
+  Найрамдах Улс тунхагласан өдөр\nБүх ний
+ тээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2044-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20441220
@@ -4937,6 +8068,32 @@ DTEND;VALUE=DATE:20441221
 SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд улаан хулгана сар\n17-р 
  жарны 58 он хөх хулгана жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2044-hol-1229@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20441229
+DTEND;VALUE=DATE:20441230
+SUMMARY:Тусгаар тогтнолын өдөр
+DESCRIPTION:Шинийн 10\nӨвлийн дунд улаан хулган
+ а сар\n17-р жарны 58 он хөх хулгана жил\nҮндэ
+ сний эрх чөлөө\, тусгаар тогтнолоо сэргэ
+ эсний баярын өдөр\nБүх нийтээр амрах бая
+ рын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2045-hol-0101@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20450101
+DTEND;VALUE=DATE:20450102
+SUMMARY:Шинэ жил
+DESCRIPTION:Шинийн 13\nӨвлийн дунд улаан хулган
+ а сар\n17-р жарны 58 он хөх хулгана жил\nБүх 
+ нийтээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5007,6 +8164,19 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2045-hol-0308@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20450308
+DTEND;VALUE=DATE:20450309
+SUMMARY:Эмэгтэйчүүдийн баяр
+DESCRIPTION:Шинийн 20\nХаврын тэргүүн шар барс с
+ ар\n17-р жарны 59 он хөхөгчин үхэр жил\nОлон 
+ улсын эмэгтэйчүүдийн өдөр\nБүх нийтээр а
+ мрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2045-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450319
@@ -5049,6 +8219,18 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2045-hol-0601@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20450601
+DTEND;VALUE=DATE:20450602
+SUMMARY:Хүүхдийн баяр
+DESCRIPTION:Шинийн 17\nЗуны эхэн цагаагчин мого
+ й сар\n17-р жарны 59 он хөхөгчин үхэр жил\nБү
+ х нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2045-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450616
@@ -5059,7 +8241,67 @@ DESCRIPTION:Зуны дунд хар морь сар\n17-р жарны 59
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-mn-no15-hol-0715-2045@gantemur.github.io
+UID:mongol-mn-no15-2045-hol-0710@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20450710
+DTEND;VALUE=DATE:20450711
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 26\nЗуны дунд хар морь сар\n17-
+ р жарны 59 он хөхөгчин үхэр жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2045-hol-0711@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20450711
+DTEND;VALUE=DATE:20450712
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 27\nЗуны дунд хар морь сар\n17-
+ р жарны 59 он хөхөгчин үхэр жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2045-hol-0712@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20450712
+DTEND;VALUE=DATE:20450713
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 28\nЗуны дунд хар морь сар\n17-
+ р жарны 59 он хөхөгчин үхэр жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2045-hol-0713@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20450713
+DTEND;VALUE=DATE:20450714
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 29\nЗуны дунд хар морь сар\n17-
+ р жарны 59 он хөхөгчин үхэр жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2045-hol-0714@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20450714
+DTEND;VALUE=DATE:20450715
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 30\nЗуны дунд хар морь сар\n17-
+ р жарны 59 он хөхөгчин үхэр жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2045-hol-0715@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450715
 DTEND;VALUE=DATE:20450716
@@ -5067,7 +8309,7 @@ SUMMARY:Үндэсний их баяр наадам
 DESCRIPTION:Шинийн 1\nЗуны сүүл харагчин хонь с
  ар\n17-р жарны 59 он хөхөгчин үхэр жил\nБүх н
  ийтээр амрах баярын өдөр
-CATEGORIES:festival,holiday
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5115,6 +8357,19 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2045-hol-1126@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20451126
+DTEND;VALUE=DATE:20451127
+SUMMARY:Улс тунхагласан өдөр
+DESCRIPTION:Шинийн 17\nӨвлийн эхэн улаагчин гах
+ ай сар\n17-р жарны 59 он хөхөгчин үхэр жил\nБ
+ үгд Найрамдах Улс тунхагласан өдөр\nБүх 
+ нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2045-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20451209
@@ -5122,6 +8377,32 @@ DTEND;VALUE=DATE:20451210
 SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд шар хулгана сар\n17-р жа
  рны 59 он хөхөгчин үхэр жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2045-hol-1229@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20451229
+DTEND;VALUE=DATE:20451230
+SUMMARY:Тусгаар тогтнолын өдөр
+DESCRIPTION:Шинийн 21\nӨвлийн дунд шар хулгана с
+ ар\n17-р жарны 59 он хөхөгчин үхэр жил\nҮндэ
+ сний эрх чөлөө\, тусгаар тогтнолоо сэргэ
+ эсний баярын өдөр\nБүх нийтээр амрах бая
+ рын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2046-hol-0101@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20460101
+DTEND;VALUE=DATE:20460102
+SUMMARY:Шинэ жил
+DESCRIPTION:Шинийн 24\nӨвлийн дунд шар хулгана с
+ ар\n17-р жарны 59 он хөхөгчин үхэр жил\nБүх н
+ ийтээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5206,7 +8487,7 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-mn-no15-hol-0308-2046@gantemur.github.io
+UID:mongol-mn-no15-2046-hol-0308@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460308
 DTEND;VALUE=DATE:20460309
@@ -5215,7 +8496,7 @@ DESCRIPTION:Шинийн 1\nХаврын дунд цагаагчин туу
  лай сар\n17-р жарны 60 он улаан бар жил\nОлон
   улсын эмэгтэйчүүдийн өдөр\nБүх нийтээр 
  амрах баярын өдөр
-CATEGORIES:festival,holiday
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5251,6 +8532,18 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2046-hol-0601@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20460601
+DTEND;VALUE=DATE:20460602
+SUMMARY:Хүүхдийн баяр
+DESCRIPTION:Шинийн 27\nЗуны эхэн харагчин могой 
+ сар\n17-р жарны 60 он улаан бар жил\nБүх нийт
+ ээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2046-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460605
@@ -5268,6 +8561,78 @@ DTEND;VALUE=DATE:20460706
 SUMMARY:Шинийн 1 · Зуны сүүл сар
 DESCRIPTION:Зуны сүүл хөхөгчин хонь сар\n17-р жа
  рны 60 он улаан бар жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2046-hol-0710@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20460710
+DTEND;VALUE=DATE:20460711
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 7\nЗуны сүүл хөхөгчин хонь с
+ ар\n17-р жарны 60 он улаан бар жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2046-hol-0711@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20460711
+DTEND;VALUE=DATE:20460712
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 8\nЗуны сүүл хөхөгчин хонь с
+ ар\n17-р жарны 60 он улаан бар жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2046-hol-0712@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20460712
+DTEND;VALUE=DATE:20460713
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 9\nЗуны сүүл хөхөгчин хонь с
+ ар\n17-р жарны 60 он улаан бар жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2046-hol-0713@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20460713
+DTEND;VALUE=DATE:20460714
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 10\nЗуны сүүл хөхөгчин хонь с
+ ар\n17-р жарны 60 он улаан бар жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2046-hol-0714@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20460714
+DTEND;VALUE=DATE:20460715
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 11\nЗуны сүүл хөхөгчин хонь с
+ ар\n17-р жарны 60 он улаан бар жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2046-hol-0715@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20460715
+DTEND;VALUE=DATE:20460716
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 12\nЗуны сүүл хөхөгчин хонь с
+ ар\n17-р жарны 60 он улаан бар жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5312,6 +8677,19 @@ DESCRIPTION:Намрын сүүл шар нохой сар\n17-р жарн
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2046-hol-1126@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20461126
+DTEND;VALUE=DATE:20461127
+SUMMARY:Улс тунхагласан өдөр
+DESCRIPTION:Шинийн 28\nНамрын сүүл шар нохой сар
+ \n17-р жарны 60 он улаан бар жил\nБүгд Найрам
+ дах Улс тунхагласан өдөр\nБүх нийтээр ам
+ рах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2046-10-chinggis@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20461128
@@ -5332,6 +8710,32 @@ DTEND;VALUE=DATE:20461229
 SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд цагаан хулгана сар\n17-р
   жарны 60 он улаан бар жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2046-hol-1229@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20461229
+DTEND;VALUE=DATE:20461230
+SUMMARY:Тусгаар тогтнолын өдөр
+DESCRIPTION:Шинийн 2\nӨвлийн дунд цагаан хулган
+ а сар\n17-р жарны 60 он улаан бар жил\nҮндэсн
+ ий эрх чөлөө\, тусгаар тогтнолоо сэргээс
+ ний баярын өдөр\nБүх нийтээр амрах баяры
+ н өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2047-hol-0101@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20470101
+DTEND;VALUE=DATE:20470102
+SUMMARY:Шинэ жил
+DESCRIPTION:Шинийн 5\nӨвлийн дунд цагаан хулган
+ а сар\n17-р жарны 60 он улаан бар жил\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5402,6 +8806,19 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2047-hol-0308@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20470308
+DTEND;VALUE=DATE:20470309
+SUMMARY:Эмэгтэйчүүдийн баяр
+DESCRIPTION:Шинийн 11\nХаврын тэргүүн хар барс с
+ ар\n18-р жарны 1 он улаагчин туулай жил\nОло
+ н улсын эмэгтэйчүүдийн өдөр\nБүх нийтээр
+  амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2047-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470327
@@ -5432,6 +8849,18 @@ DESCRIPTION:Зуны эхэн хөхөгчин могой сар\n18-р ж
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2047-hol-0601@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20470601
+DTEND;VALUE=DATE:20470602
+SUMMARY:Хүүхдийн баяр
+DESCRIPTION:Шинийн 8\nЗуны эхэн хөхөгчин могой 
+ сар\n18-р жарны 1 он улаагчин туулай жил\nБү
+ х нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2047-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470608
@@ -5451,6 +8880,78 @@ DTEND;VALUE=DATE:20470625
 SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд улаан морь сар\n18-р жарны 
  1 он улаагчин туулай жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2047-hol-0710@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20470710
+DTEND;VALUE=DATE:20470711
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 18\nЗуны дунд улаан морь сар\n
+ 18-р жарны 1 он улаагчин туулай жил\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2047-hol-0711@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20470711
+DTEND;VALUE=DATE:20470712
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 19\nЗуны дунд улаан морь сар\n
+ 18-р жарны 1 он улаагчин туулай жил\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2047-hol-0712@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20470712
+DTEND;VALUE=DATE:20470713
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 20\nЗуны дунд улаан морь сар\n
+ 18-р жарны 1 он улаагчин туулай жил\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2047-hol-0713@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20470713
+DTEND;VALUE=DATE:20470714
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 21\nЗуны дунд улаан морь сар\n
+ 18-р жарны 1 он улаагчин туулай жил\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2047-hol-0714@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20470714
+DTEND;VALUE=DATE:20470715
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 22\nЗуны дунд улаан морь сар\n
+ 18-р жарны 1 он улаагчин туулай жил\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2047-hol-0715@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20470715
+DTEND;VALUE=DATE:20470716
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 23\nЗуны дунд улаан морь сар\n
+ 18-р жарны 1 он улаагчин туулай жил\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5507,6 +9008,19 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2047-hol-1126@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20471126
+DTEND;VALUE=DATE:20471127
+SUMMARY:Улс тунхагласан өдөр
+DESCRIPTION:Шинийн 10\nӨвлийн эхэн цагаагчин га
+ хай сар\n18-р жарны 1 он улаагчин туулай жи
+ л\nБүгд Найрамдах Улс тунхагласан өдөр\nБ
+ үх нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2047-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20471217
@@ -5514,6 +9028,32 @@ DTEND;VALUE=DATE:20471218
 SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд хар хулгана сар\n18-р жа
  рны 1 он улаагчин туулай жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2047-hol-1229@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20471229
+DTEND;VALUE=DATE:20471230
+SUMMARY:Тусгаар тогтнолын өдөр
+DESCRIPTION:Шинийн 13\nӨвлийн дунд хар хулгана с
+ ар\n18-р жарны 1 он улаагчин туулай жил\nҮнд
+ эсний эрх чөлөө\, тусгаар тогтнолоо сэрг
+ ээсний баярын өдөр\nБүх нийтээр амрах ба
+ ярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2048-hol-0101@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20480101
+DTEND;VALUE=DATE:20480102
+SUMMARY:Шинэ жил
+DESCRIPTION:Шинийн 15\nӨвлийн дунд хар хулгана с
+ ар\n18-р жарны 1 он улаагчин туулай жил\nБүх
+  нийтээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5585,6 +9125,19 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2048-hol-0308@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20480308
+DTEND;VALUE=DATE:20480309
+SUMMARY:Эмэгтэйчүүдийн баяр
+DESCRIPTION:Шинийн 24\nХаврын тэргүүн хөх барс с
+ ар\n18-р жарны 2 он шар луу жил\nОлон улсын э
+ мэгтэйчүүдийн өдөр\nБүх нийтээр амрах ба
+ ярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2048-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480315
@@ -5627,6 +9180,18 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2048-hol-0601@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20480601
+DTEND;VALUE=DATE:20480602
+SUMMARY:Хүүхдийн баяр
+DESCRIPTION:Шинийн 20\nЗуны эхэн улаагчин могой 
+ сар\n18-р жарны 2 он шар луу жил\nБүх нийтээ
+ р амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2048-05-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480612
@@ -5637,7 +9202,31 @@ DESCRIPTION:Зуны дунд шар морь сар\n18-р жарны 2 о
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-mn-no15-hol-0712-2048@gantemur.github.io
+UID:mongol-mn-no15-2048-hol-0710@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20480710
+DTEND;VALUE=DATE:20480711
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 29 (давхар)\nЗуны дунд шар мор
+ ь сар\n18-р жарны 2 он шар луу жил\nБүх нийтэ
+ эр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2048-hol-0711@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20480711
+DTEND;VALUE=DATE:20480712
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 30\nЗуны дунд шар морь сар\n18-
+ р жарны 2 он шар луу жил\nБүх нийтээр амра
+ х баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2048-hol-0712@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480712
 DTEND;VALUE=DATE:20480713
@@ -5645,7 +9234,43 @@ SUMMARY:Үндэсний их баяр наадам
 DESCRIPTION:Шинийн 1\nЗуны сүүл шарагчин хонь с
  ар\n18-р жарны 2 он шар луу жил\nБүх нийтээр 
  амрах баярын өдөр
-CATEGORIES:festival,holiday
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2048-hol-0713@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20480713
+DTEND;VALUE=DATE:20480714
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 2\nЗуны сүүл шарагчин хонь с
+ ар\n18-р жарны 2 он шар луу жил\nБүх нийтээр 
+ амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2048-hol-0714@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20480714
+DTEND;VALUE=DATE:20480715
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 3\nЗуны сүүл шарагчин хонь с
+ ар\n18-р жарны 2 он шар луу жил\nБүх нийтээр 
+ амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2048-hol-0715@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20480715
+DTEND;VALUE=DATE:20480716
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 4\nЗуны сүүл шарагчин хонь с
+ ар\n18-р жарны 2 он шар луу жил\nБүх нийтээр 
+ амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5692,6 +9317,19 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2048-hol-1126@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20481126
+DTEND;VALUE=DATE:20481127
+SUMMARY:Улс тунхагласан өдөр
+DESCRIPTION:Шинийн 21\nӨвлийн эхэн харагчин гах
+ ай сар\n18-р жарны 2 он шар луу жил\nБүгд Най
+ рамдах Улс тунхагласан өдөр\nБүх нийтээр
+  амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2048-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20481206
@@ -5699,6 +9337,32 @@ DTEND;VALUE=DATE:20481207
 SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд хөх хулгана сар\n18-р жа
  рны 2 он шар луу жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2048-hol-1229@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20481229
+DTEND;VALUE=DATE:20481230
+SUMMARY:Тусгаар тогтнолын өдөр
+DESCRIPTION:Шинийн 24\nӨвлийн дунд хөх хулгана с
+ ар\n18-р жарны 2 он шар луу жил\nҮндэсний эр
+ х чөлөө\, тусгаар тогтнолоо сэргээсний б
+ аярын өдөр\nБүх нийтээр амрах баярын өдө
+ р
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2049-hol-0101@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20490101
+DTEND;VALUE=DATE:20490102
+SUMMARY:Шинэ жил
+DESCRIPTION:Шинийн 27\nӨвлийн дунд хөх хулгана с
+ ар\n18-р жарны 2 он шар луу жил\nБүх нийтээр 
+ амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5772,6 +9436,19 @@ DESCRIPTION:Шинийн 1 · Хаврын дунд сар · 9 ес эхэ
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2049-hol-0308@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20490308
+DTEND;VALUE=DATE:20490309
+SUMMARY:Эмэгтэйчүүдийн баяр
+DESCRIPTION:Шинийн 5\nХаврын дунд улаагчин туул
+ ай сар\n18-р жарны 3 он шарагчин могой жил\n
+ Олон улсын эмэгтэйчүүдийн өдөр\nБүх нийт
+ ээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2049-03-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490403
@@ -5804,7 +9481,7 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:mongol-mn-no15-hol-0601-2049@gantemur.github.io
+UID:mongol-mn-no15-2049-hol-0601@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490601
 DTEND;VALUE=DATE:20490602
@@ -5812,7 +9489,7 @@ SUMMARY:Хүүхдийн баяр
 DESCRIPTION:Шинийн 1\nЗуны дунд (илүү) цагаан мо
  рь сар\n18-р жарны 3 он шарагчин могой жил\n
  Бүх нийтээр амрах баярын өдөр
-CATEGORIES:festival,holiday
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5823,6 +9500,78 @@ DTEND;VALUE=DATE:20490702
 SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд цагаан морь сар\n18-р жарн
  ы 3 он шарагчин могой жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2049-hol-0710@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20490710
+DTEND;VALUE=DATE:20490711
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 10\nЗуны дунд цагаан морь сар
+ \n18-р жарны 3 он шарагчин могой жил\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2049-hol-0711@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20490711
+DTEND;VALUE=DATE:20490712
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 11\nЗуны дунд цагаан морь сар
+ \n18-р жарны 3 он шарагчин могой жил\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2049-hol-0712@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20490712
+DTEND;VALUE=DATE:20490713
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 12\nЗуны дунд цагаан морь сар
+ \n18-р жарны 3 он шарагчин могой жил\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2049-hol-0713@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20490713
+DTEND;VALUE=DATE:20490714
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 13\nЗуны дунд цагаан морь сар
+ \n18-р жарны 3 он шарагчин могой жил\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2049-hol-0714@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20490714
+DTEND;VALUE=DATE:20490715
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 14\nЗуны дунд цагаан морь сар
+ \n18-р жарны 3 он шарагчин могой жил\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2049-hol-0715@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20490715
+DTEND;VALUE=DATE:20490716
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 15\nЗуны дунд цагаан морь сар
+ \n18-р жарны 3 он шарагчин могой жил\nБүх ни
+ йтээр амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5901,6 +9650,32 @@ DESCRIPTION:Өвлийн дунд улаан хулгана сар\n18-р
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2049-hol-1229@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20491229
+DTEND;VALUE=DATE:20491230
+SUMMARY:Тусгаар тогтнолын өдөр
+DESCRIPTION:Шинийн 5\nӨвлийн дунд улаан хулгана
+  сар\n18-р жарны 3 он шарагчин могой жил\nҮн
+ дэсний эрх чөлөө\, тусгаар тогтнолоо сэр
+ гээсний баярын өдөр\nБүх нийтээр амрах б
+ аярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2050-hol-0101@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20500101
+DTEND;VALUE=DATE:20500102
+SUMMARY:Шинэ жил
+DESCRIPTION:Шинийн 9\nӨвлийн дунд улаан хулгана
+  сар\n18-р жарны 3 он шарагчин могой жил\nБү
+ х нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2049-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500124
@@ -5969,6 +9744,19 @@ CATEGORIES:nine_nines
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2050-hol-0308@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20500308
+DTEND;VALUE=DATE:20500309
+SUMMARY:Эмэгтэйчүүдийн баяр
+DESCRIPTION:Шинийн 15\nХаврын тэргүүн шар барс с
+ ар\n18-р жарны 4 он цагаан морин жил\nОлон у
+ лсын эмэгтэйчүүдийн өдөр\nБүх нийтээр ам
+ рах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2050-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500324
@@ -6000,6 +9788,18 @@ DESCRIPTION:Зуны эхэн цагаагчин могой сар\n18-р
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2050-hol-0601@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20500601
+DTEND;VALUE=DATE:20500602
+SUMMARY:Хүүхдийн баяр
+DESCRIPTION:Шинийн 11\nЗуны эхэн цагаагчин мого
+ й сар\n18-р жарны 4 он цагаан морин жил\nБүх 
+ нийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2050-04-ikh_duichen@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500605
@@ -6019,6 +9819,78 @@ DTEND;VALUE=DATE:20500621
 SUMMARY:Шинийн 1 · Зуны дунд сар
 DESCRIPTION:Зуны дунд хар морь сар\n18-р жарны 4 о
  н цагаан морин жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2050-hol-0710@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20500710
+DTEND;VALUE=DATE:20500711
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 21\nЗуны дунд хар морь сар\n18-
+ р жарны 4 он цагаан морин жил\nБүх нийтээр
+  амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2050-hol-0711@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20500711
+DTEND;VALUE=DATE:20500712
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 22\nЗуны дунд хар морь сар\n18-
+ р жарны 4 он цагаан морин жил\nБүх нийтээр
+  амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2050-hol-0712@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20500712
+DTEND;VALUE=DATE:20500713
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 23\nЗуны дунд хар морь сар\n18-
+ р жарны 4 он цагаан морин жил\nБүх нийтээр
+  амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2050-hol-0713@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20500713
+DTEND;VALUE=DATE:20500714
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 25\nЗуны дунд хар морь сар\n18-
+ р жарны 4 он цагаан морин жил\nБүх нийтээр
+  амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2050-hol-0714@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20500714
+DTEND;VALUE=DATE:20500715
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 26\nЗуны дунд хар морь сар\n18-
+ р жарны 4 он цагаан морин жил\nБүх нийтээр
+  амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2050-hol-0715@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20500715
+DTEND;VALUE=DATE:20500716
+SUMMARY:Үндэсний их баяр наадам
+DESCRIPTION:Шинийн 27\nЗуны дунд хар морь сар\n18-
+ р жарны 4 он цагаан морин жил\nБүх нийтээр
+  амрах баярын өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6075,6 +9947,19 @@ CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mongol-mn-no15-2050-hol-1126@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20501126
+DTEND;VALUE=DATE:20501127
+SUMMARY:Улс тунхагласан өдөр
+DESCRIPTION:Шинийн 13\nӨвлийн эхэн улаагчин гах
+ ай сар\n18-р жарны 4 он цагаан морин жил\nБү
+ гд Найрамдах Улс тунхагласан өдөр\nБүх н
+ ийтээр амрах баярын өдөр
+CATEGORIES:holiday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mongol-mn-no15-2050-11-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20501215
@@ -6082,6 +9967,20 @@ DTEND;VALUE=DATE:20501216
 SUMMARY:Шинийн 1 · Өвлийн дунд сар
 DESCRIPTION:Өвлийн дунд шар хулгана сар\n18-р жа
  рны 4 он цагаан морин жил
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mongol-mn-no15-2050-hol-1229@gantemur.github.io
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20501229
+DTEND;VALUE=DATE:20501230
+SUMMARY:Тусгаар тогтнолын өдөр
+DESCRIPTION:Шинийн 16\nӨвлийн дунд шар хулгана с
+ ар\n18-р жарны 4 он цагаан морин жил\nҮндэсн
+ ий эрх чөлөө\, тусгаар тогтнолоо сэргээс
+ ний баярын өдөр\nБүх нийтээр амрах баяры
+ н өдөр
+CATEGORIES:holiday
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
