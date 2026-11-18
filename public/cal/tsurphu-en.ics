@@ -45,8 +45,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200224
 DTEND;VALUE=DATE:20200225
 SUMMARY:Losar (Tibetan New Year)
-DESCRIPTION:Lunar day 1 · Lunar Month 1\nLunar Month 1\, Earth Tiger\nRabj
- ung 17\, Year 34\, Iron Mouse
+DESCRIPTION:Lunar day 1\nLunar Month 1\, Earth Tiger\nRabjung 17\, Year 34\
+ , Iron Mouse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -56,8 +56,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200309
 DTEND;VALUE=DATE:20200310
 SUMMARY:Chotrul Düchen (Day of Miracles)
-DESCRIPTION:Lunar day 15 · Lunar Month 1\nLunar Month 1\, Earth Tiger\nRab
- jung 17\, Year 34\, Iron Mouse
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Earth Tiger\nRabjung 17\, Year 34
+ \, Iron Mouse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -121,8 +121,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200605
 DTEND;VALUE=DATE:20200606
 SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15 · Lunar Month 4\nLunar Month 4\, Iron Snake\nRabj
- ung 17\, Year 34\, Iron Mouse
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Iron Snake\nRabjung 17\, Year 34\
+ , Iron Mouse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -159,8 +159,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200724
 DTEND;VALUE=DATE:20200725
 SUMMARY:Chökhor Düchen (First Turning of the Wheel)
-DESCRIPTION:Lunar day 4 · Lunar Month 6\nLunar Month 6\, Water Sheep\nRabj
- ung 17\, Year 34\, Iron Mouse
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Water Sheep\nRabjung 17\, Year 34\
+ , Iron Mouse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -233,8 +233,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20201107
 DTEND;VALUE=DATE:20201108
 SUMMARY:Lhabab Düchen (Descent from the god realm)
-DESCRIPTION:Lunar day 22 · Lunar Month 9\nLunar Month 9\, Fire Dog\nRabjun
- g 17\, Year 34\, Iron Mouse
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Fire Dog\nRabjung 17\, Year 34\, 
+ Iron Mouse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -298,8 +298,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210212
 DTEND;VALUE=DATE:20210213
 SUMMARY:Losar (Tibetan New Year)
-DESCRIPTION:Lunar day 1 · Lunar Month 1\nLunar Month 1\, Iron Tiger\nRabju
- ng 17\, Year 35\, Iron Ox
+DESCRIPTION:Lunar day 1\nLunar Month 1\, Iron Tiger\nRabjung 17\, Year 35\,
+  Iron Ox
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -309,8 +309,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210227
 DTEND;VALUE=DATE:20210228
 SUMMARY:Chotrul Düchen (Day of Miracles)
-DESCRIPTION:Lunar day 15 · Lunar Month 1\nLunar Month 1\, Iron Tiger\nRabj
- ung 17\, Year 35\, Iron Ox
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Iron Tiger\nRabjung 17\, Year 35\
+ , Iron Ox
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -365,8 +365,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210526
 DTEND;VALUE=DATE:20210527
 SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15 · Lunar Month 4\nLunar Month 4\, Water Snake\nRab
- jung 17\, Year 35\, Iron Ox
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Water Snake\nRabjung 17\, Year 35
+ \, Iron Ox
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -412,8 +412,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210714
 DTEND;VALUE=DATE:20210715
 SUMMARY:Chökhor Düchen (First Turning of the Wheel)
-DESCRIPTION:Lunar day 4 · Lunar Month 6\nLunar Month 6\, Wood Sheep\nRabju
- ng 17\, Year 35\, Iron Ox
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Wood Sheep\nRabjung 17\, Year 35\,
+  Iron Ox
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -449,8 +449,9 @@ UID:tsurphu-en-2021-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210908
 DTEND;VALUE=DATE:20210909
-SUMMARY:Lunar day 2 · Lunar Month 8 (lunar day 1 omitted)
-DESCRIPTION:Lunar Month 8\, Fire Bird\nRabjung 17\, Year 35\, Iron Ox
+SUMMARY:Lunar day 2 · Lunar Month 8
+DESCRIPTION:lunar day 1 omitted\nLunar Month 8\, Fire Bird\nRabjung 17\, Ye
+ ar 35\, Iron Ox
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -486,8 +487,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20211027
 DTEND;VALUE=DATE:20211028
 SUMMARY:Lhabab Düchen (Descent from the god realm)
-DESCRIPTION:Lunar day 22 · Lunar Month 9\nLunar Month 9\, Earth Dog\nRabju
- ng 17\, Year 35\, Iron Ox
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Earth Dog\nRabjung 17\, Year 35\,
+  Iron Ox
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -497,8 +498,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20211028
 DTEND;VALUE=DATE:20211029
 SUMMARY:Lhabab Düchen (Descent from the god realm) (repeated)
-DESCRIPTION:Lunar day 22 (repeated) · Lunar Month 9\nLunar Month 9\, Earth
-  Dog\nRabjung 17\, Year 35\, Iron Ox
+DESCRIPTION:Lunar day 22 (repeated)\nLunar Month 9\, Earth Dog\nRabjung 17\
+ , Year 35\, Iron Ox
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -571,8 +572,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220202
 DTEND;VALUE=DATE:20220203
 SUMMARY:Losar (Tibetan New Year)
-DESCRIPTION:Lunar day 1 · Lunar Month 1\nLunar Month 1\, Water Tiger\nRabj
- ung 17\, Year 36\, Water Tiger
+DESCRIPTION:Lunar day 1\nLunar Month 1\, Water Tiger\nRabjung 17\, Year 36\
+ , Water Tiger
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -582,8 +583,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220216
 DTEND;VALUE=DATE:20220217
 SUMMARY:Chotrul Düchen (Day of Miracles)
-DESCRIPTION:Lunar day 15 · Lunar Month 1\nLunar Month 1\, Water Tiger\nRab
- jung 17\, Year 36\, Water Tiger
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Water Tiger\nRabjung 17\, Year 36
+ \, Water Tiger
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -660,8 +661,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220614
 DTEND;VALUE=DATE:20220615
 SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15 · Lunar Month 4\nLunar Month 4\, Wood Snake\nRabj
- ung 17\, Year 36\, Water Tiger
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Wood Snake\nRabjung 17\, Year 36\
+ , Water Tiger
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -698,8 +699,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220801
 DTEND;VALUE=DATE:20220802
 SUMMARY:Chökhor Düchen (First Turning of the Wheel)
-DESCRIPTION:Lunar day 4 · Lunar Month 6\nLunar Month 6\, Fire Sheep\nRabju
- ng 17\, Year 36\, Water Tiger
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Fire Sheep\nRabjung 17\, Year 36\,
+  Water Tiger
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -774,8 +775,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20221115
 DTEND;VALUE=DATE:20221116
 SUMMARY:Lhabab Düchen (Descent from the god realm)
-DESCRIPTION:Lunar day 22 · Lunar Month 9\nLunar Month 9\, Iron Dog\nRabjun
- g 17\, Year 36\, Water Tiger
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Iron Dog\nRabjung 17\, Year 36\, 
+ Water Tiger
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -850,8 +851,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230221
 DTEND;VALUE=DATE:20230222
 SUMMARY:Losar (Tibetan New Year)
-DESCRIPTION:Lunar day 1 · Lunar Month 1\nLunar Month 1\, Wood Tiger\nRabju
- ng 17\, Year 37\, Water Rabbit
+DESCRIPTION:Lunar day 1\nLunar Month 1\, Wood Tiger\nRabjung 17\, Year 37\,
+  Water Rabbit
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -861,8 +862,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230307
 DTEND;VALUE=DATE:20230308
 SUMMARY:Chotrul Düchen (Day of Miracles)
-DESCRIPTION:Lunar day 15 · Lunar Month 1\nLunar Month 1\, Wood Tiger\nRabj
- ung 17\, Year 37\, Water Rabbit
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Wood Tiger\nRabjung 17\, Year 37\
+ , Water Rabbit
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -921,8 +922,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230604
 DTEND;VALUE=DATE:20230605
 SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15 · Lunar Month 4\nLunar Month 4\, Fire Snake\nRabj
- ung 17\, Year 37\, Water Rabbit
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Fire Snake\nRabjung 17\, Year 37\
+ , Water Rabbit
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -962,8 +963,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230721
 DTEND;VALUE=DATE:20230722
 SUMMARY:Chökhor Düchen (First Turning of the Wheel)
-DESCRIPTION:Lunar day 4 · Lunar Month 6\nLunar Month 6\, Earth Sheep\nRabj
- ung 17\, Year 37\, Water Rabbit
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Earth Sheep\nRabjung 17\, Year 37\
+ , Water Rabbit
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -973,8 +974,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230722
 DTEND;VALUE=DATE:20230723
 SUMMARY:Chökhor Düchen (First Turning of the Wheel) (repeated)
-DESCRIPTION:Lunar day 4 (repeated) · Lunar Month 6\nLunar Month 6\, Earth 
- Sheep\nRabjung 17\, Year 37\, Water Rabbit
+DESCRIPTION:Lunar day 4 (repeated)\nLunar Month 6\, Earth Sheep\nRabjung 17
+ \, Year 37\, Water Rabbit
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1059,8 +1060,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20231104
 DTEND;VALUE=DATE:20231105
 SUMMARY:Lhabab Düchen (Descent from the god realm)
-DESCRIPTION:Lunar day 22 · Lunar Month 9\nLunar Month 9\, Water Dog\nRabju
- ng 17\, Year 37\, Water Rabbit
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Water Dog\nRabjung 17\, Year 37\,
+  Water Rabbit
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1126,8 +1127,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240210
 DTEND;VALUE=DATE:20240211
 SUMMARY:Losar (Tibetan New Year)
-DESCRIPTION:Lunar day 1 · Lunar Month 1\nLunar Month 1\, Fire Tiger\nRabju
- ng 17\, Year 38\, Wood Dragon
+DESCRIPTION:Lunar day 1\nLunar Month 1\, Fire Tiger\nRabjung 17\, Year 38\,
+  Wood Dragon
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1137,8 +1138,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240224
 DTEND;VALUE=DATE:20240225
 SUMMARY:Chotrul Düchen (Day of Miracles)
-DESCRIPTION:Lunar day 15 · Lunar Month 1\nLunar Month 1\, Fire Tiger\nRabj
- ung 17\, Year 38\, Wood Dragon
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Fire Tiger\nRabjung 17\, Year 38\
+ , Wood Dragon
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1195,8 +1196,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240523
 DTEND;VALUE=DATE:20240524
 SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15 · Lunar Month 4\nLunar Month 4\, Earth Snake\nRab
- jung 17\, Year 38\, Wood Dragon
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Earth Snake\nRabjung 17\, Year 38
+ \, Wood Dragon
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1233,8 +1234,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240710
 DTEND;VALUE=DATE:20240711
 SUMMARY:Chökhor Düchen (First Turning of the Wheel)
-DESCRIPTION:Lunar day 4 · Lunar Month 6\nLunar Month 6\, Iron Sheep\nRabju
- ng 17\, Year 38\, Wood Dragon
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Iron Sheep\nRabjung 17\, Year 38\,
+  Wood Dragon
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1309,8 +1310,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20241023
 DTEND;VALUE=DATE:20241024
 SUMMARY:Lhabab Düchen (Descent from the god realm)
-DESCRIPTION:Lunar day 22 · Lunar Month 9\nLunar Month 9\, Wood Dog\nRabjun
- g 17\, Year 38\, Wood Dragon
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Wood Dog\nRabjung 17\, Year 38\, 
+ Wood Dragon
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1394,8 +1395,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250301
 DTEND;VALUE=DATE:20250302
 SUMMARY:Losar (Tibetan New Year)
-DESCRIPTION:Lunar day 2 · Lunar Month 1 (lunar day 1 omitted)\nLunar Month
-  1\, Earth Tiger\nRabjung 17\, Year 39\, Wood Snake
+DESCRIPTION:Lunar day 2\nlunar day 1 omitted\nLunar Month 1\, Earth Tiger\n
+ Rabjung 17\, Year 39\, Wood Snake
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1405,8 +1406,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250314
 DTEND;VALUE=DATE:20250315
 SUMMARY:Chotrul Düchen (Day of Miracles)
-DESCRIPTION:Lunar day 15 · Lunar Month 1\nLunar Month 1\, Earth Tiger\nRab
- jung 17\, Year 39\, Wood Snake
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Earth Tiger\nRabjung 17\, Year 39
+ \, Wood Snake
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1461,8 +1462,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250611
 DTEND;VALUE=DATE:20250612
 SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15 · Lunar Month 4\nLunar Month 4\, Iron Snake\nRabj
- ung 17\, Year 39\, Wood Snake
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Iron Snake\nRabjung 17\, Year 39\
+ , Wood Snake
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1499,8 +1500,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250728
 DTEND;VALUE=DATE:20250729
 SUMMARY:Chökhor Düchen (First Turning of the Wheel)
-DESCRIPTION:Lunar day 4 · Lunar Month 6\nLunar Month 6\, Water Sheep\nRabj
- ung 17\, Year 39\, Wood Snake
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Water Sheep\nRabjung 17\, Year 39\
+ , Wood Snake
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1573,8 +1574,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20251111
 DTEND;VALUE=DATE:20251112
 SUMMARY:Lhabab Düchen (Descent from the god realm)
-DESCRIPTION:Lunar day 22 · Lunar Month 9\nLunar Month 9\, Fire Dog\nRabjun
- g 17\, Year 39\, Wood Snake
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Fire Dog\nRabjung 17\, Year 39\, 
+ Wood Snake
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1638,8 +1639,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260218
 DTEND;VALUE=DATE:20260219
 SUMMARY:Losar (Tibetan New Year)
-DESCRIPTION:Lunar day 1 · Lunar Month 1\nLunar Month 1\, Iron Tiger\nRabju
- ng 17\, Year 40\, Fire Horse
+DESCRIPTION:Lunar day 1\nLunar Month 1\, Iron Tiger\nRabjung 17\, Year 40\,
+  Fire Horse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1649,8 +1650,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260303
 DTEND;VALUE=DATE:20260304
 SUMMARY:Chotrul Düchen (Day of Miracles)
-DESCRIPTION:Lunar day 15 · Lunar Month 1\nLunar Month 1\, Iron Tiger\nRabj
- ung 17\, Year 40\, Fire Horse
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Iron Tiger\nRabjung 17\, Year 40\
+ , Fire Horse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1659,8 +1660,9 @@ UID:tsurphu-en-2026-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
-SUMMARY:Lunar day 2 · Lunar Month 2 (lunar day 1 omitted)
-DESCRIPTION:Lunar Month 2\, Iron Rabbit\nRabjung 17\, Year 40\, Fire Horse
+SUMMARY:Lunar day 2 · Lunar Month 2
+DESCRIPTION:lunar day 1 omitted\nLunar Month 2\, Iron Rabbit\nRabjung 17\, 
+ Year 40\, Fire Horse
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1714,8 +1716,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260601
 SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15 · Lunar Month 4\nLunar Month 4\, Water Snake\nRab
- jung 17\, Year 40\, Fire Horse
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Water Snake\nRabjung 17\, Year 40
+ \, Fire Horse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1752,8 +1754,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260719
 SUMMARY:Chökhor Düchen (First Turning of the Wheel)
-DESCRIPTION:Lunar day 4 · Lunar Month 6\nLunar Month 6\, Wood Sheep\nRabju
- ng 17\, Year 40\, Fire Horse
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Wood Sheep\nRabjung 17\, Year 40\,
+  Fire Horse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1826,8 +1828,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Lhabab Düchen (Descent from the god realm)
-DESCRIPTION:Lunar day 22 · Lunar Month 9\nLunar Month 9\, Earth Dog\nRabju
- ng 17\, Year 40\, Fire Horse
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Earth Dog\nRabjung 17\, Year 40\,
+  Fire Horse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1892,8 +1894,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:Losar (Tibetan New Year)
-DESCRIPTION:Lunar day 1 · Lunar Month 1\nLunar Month 1\, Water Tiger\nRabj
- ung 17\, Year 41\, Fire Sheep
+DESCRIPTION:Lunar day 1\nLunar Month 1\, Water Tiger\nRabjung 17\, Year 41\
+ , Fire Sheep
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1903,8 +1905,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:Chotrul Düchen (Day of Miracles)
-DESCRIPTION:Lunar day 14 · Lunar Month 1\nlunar day 15 omitted\nLunar Mont
- h 1\, Water Tiger\nRabjung 17\, Year 41\, Fire Sheep
+DESCRIPTION:Lunar day 14\nlunar day 15 omitted\nLunar Month 1\, Water Tiger
+ \nRabjung 17\, Year 41\, Fire Sheep
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1959,8 +1961,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
 SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15 · Lunar Month 4\nLunar Month 4\, Wood Snake\nRabj
- ung 17\, Year 41\, Fire Sheep
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Wood Snake\nRabjung 17\, Year 41\
+ , Fire Sheep
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2006,8 +2008,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270707
 DTEND;VALUE=DATE:20270708
 SUMMARY:Chökhor Düchen (First Turning of the Wheel)
-DESCRIPTION:Lunar day 4 · Lunar Month 6\nLunar Month 6\, Fire Sheep\nRabju
- ng 17\, Year 41\, Fire Sheep
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Fire Sheep\nRabjung 17\, Year 41\,
+  Fire Sheep
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2061,9 +2063,9 @@ UID:tsurphu-en-2027-09L-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20271001
 DTEND;VALUE=DATE:20271002
-SUMMARY:Lunar day 2 · Lunar Month 9 (Leap) (lunar day 1 omitted)
-DESCRIPTION:Lunar Month 9 (Leap)\, Iron Dog\nRabjung 17\, Year 41\, Fire Sh
- eep
+SUMMARY:Lunar day 2 · Lunar Month 9 (Leap)
+DESCRIPTION:lunar day 1 omitted\nLunar Month 9 (Leap)\, Iron Dog\nRabjung 1
+ 7\, Year 41\, Fire Sheep
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2100,8 +2102,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20271120
 DTEND;VALUE=DATE:20271121
 SUMMARY:Lhabab Düchen (Descent from the god realm)
-DESCRIPTION:Lunar day 22 · Lunar Month 9\nLunar Month 9\, Iron Dog\nRabjun
- g 17\, Year 41\, Fire Sheep
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Iron Dog\nRabjung 17\, Year 41\, 
+ Fire Sheep
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2165,8 +2167,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280226
 DTEND;VALUE=DATE:20280227
 SUMMARY:Losar (Tibetan New Year)
-DESCRIPTION:Lunar day 1 · Lunar Month 1\nLunar Month 1\, Wood Tiger\nRabju
- ng 17\, Year 42\, Earth Monkey
+DESCRIPTION:Lunar day 1\nLunar Month 1\, Wood Tiger\nRabjung 17\, Year 42\,
+  Earth Monkey
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2176,8 +2178,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280311
 DTEND;VALUE=DATE:20280312
 SUMMARY:Chotrul Düchen (Day of Miracles)
-DESCRIPTION:Lunar day 15 · Lunar Month 1\nLunar Month 1\, Wood Tiger\nRabj
- ung 17\, Year 42\, Earth Monkey
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Wood Tiger\nRabjung 17\, Year 42\
+ , Earth Monkey
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2236,8 +2238,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280607
 DTEND;VALUE=DATE:20280608
 SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15 · Lunar Month 4\nLunar Month 4\, Fire Snake\nRabj
- ung 17\, Year 42\, Earth Monkey
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Fire Snake\nRabjung 17\, Year 42\
+ , Earth Monkey
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2277,8 +2279,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280725
 DTEND;VALUE=DATE:20280726
 SUMMARY:Chökhor Düchen (First Turning of the Wheel)
-DESCRIPTION:Lunar day 4 · Lunar Month 6\nLunar Month 6\, Earth Sheep\nRabj
- ung 17\, Year 42\, Earth Monkey
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Earth Sheep\nRabjung 17\, Year 42\
+ , Earth Monkey
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2335,8 +2337,9 @@ UID:tsurphu-en-2028-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20281019
 DTEND;VALUE=DATE:20281020
-SUMMARY:Lunar day 2 · Lunar Month 9 (lunar day 1 omitted)
-DESCRIPTION:Lunar Month 9\, Water Dog\nRabjung 17\, Year 42\, Earth Monkey
+SUMMARY:Lunar day 2 · Lunar Month 9
+DESCRIPTION:lunar day 1 omitted\nLunar Month 9\, Water Dog\nRabjung 17\, Ye
+ ar 42\, Earth Monkey
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2354,8 +2357,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20281109
 DTEND;VALUE=DATE:20281110
 SUMMARY:Lhabab Düchen (Descent from the god realm)
-DESCRIPTION:Lunar day 22 · Lunar Month 9\nLunar Month 9\, Water Dog\nRabju
- ng 17\, Year 42\, Earth Monkey
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Water Dog\nRabjung 17\, Year 42\,
+  Earth Monkey
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2421,8 +2424,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290214
 DTEND;VALUE=DATE:20290215
 SUMMARY:Losar (Tibetan New Year)
-DESCRIPTION:Lunar day 1 · Lunar Month 1\nLunar Month 1\, Fire Tiger\nRabju
- ng 17\, Year 43\, Earth Bird
+DESCRIPTION:Lunar day 1\nLunar Month 1\, Fire Tiger\nRabjung 17\, Year 43\,
+  Earth Bird
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2432,8 +2435,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290228
 DTEND;VALUE=DATE:20290301
 SUMMARY:Chotrul Düchen (Day of Miracles)
-DESCRIPTION:Lunar day 15 · Lunar Month 1\nLunar Month 1\, Fire Tiger\nRabj
- ung 17\, Year 43\, Earth Bird
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Fire Tiger\nRabjung 17\, Year 43\
+ , Earth Bird
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2488,8 +2491,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290527
 DTEND;VALUE=DATE:20290528
 SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15 · Lunar Month 4\nLunar Month 4\, Earth Snake\nRab
- jung 17\, Year 43\, Earth Bird
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Earth Snake\nRabjung 17\, Year 43
+ \, Earth Bird
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2526,8 +2529,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290715
 DTEND;VALUE=DATE:20290716
 SUMMARY:Chökhor Düchen (First Turning of the Wheel)
-DESCRIPTION:Lunar day 4 · Lunar Month 6\nLunar Month 6\, Iron Sheep\nRabju
- ng 17\, Year 43\, Earth Bird
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Iron Sheep\nRabjung 17\, Year 43\,
+  Earth Bird
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2600,8 +2603,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20291029
 DTEND;VALUE=DATE:20291030
 SUMMARY:Lhabab Düchen (Descent from the god realm)
-DESCRIPTION:Lunar day 22 · Lunar Month 9\nLunar Month 9\, Wood Dog\nRabjun
- g 17\, Year 43\, Earth Bird
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Wood Dog\nRabjung 17\, Year 43\, 
+ Earth Bird
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2655,8 +2658,9 @@ UID:tsurphu-en-2029-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300105
 DTEND;VALUE=DATE:20300106
-SUMMARY:Lunar day 2 · Lunar Month 12 (lunar day 1 omitted)
-DESCRIPTION:Lunar Month 12\, Fire Ox\nRabjung 17\, Year 43\, Earth Bird
+SUMMARY:Lunar day 2 · Lunar Month 12
+DESCRIPTION:lunar day 1 omitted\nLunar Month 12\, Fire Ox\nRabjung 17\, Yea
+ r 43\, Earth Bird
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2674,8 +2678,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300203
 DTEND;VALUE=DATE:20300204
 SUMMARY:Losar (Tibetan New Year)
-DESCRIPTION:Lunar day 1 · Lunar Month 1\nLunar Month 1\, Earth Tiger\nRabj
- ung 17\, Year 44\, Iron Dog
+DESCRIPTION:Lunar day 1\nLunar Month 1\, Earth Tiger\nRabjung 17\, Year 44\
+ , Iron Dog
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2685,8 +2689,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300218
 DTEND;VALUE=DATE:20300219
 SUMMARY:Chotrul Düchen (Day of Miracles)
-DESCRIPTION:Lunar day 15 · Lunar Month 1\nLunar Month 1\, Earth Tiger\nRab
- jung 17\, Year 44\, Iron Dog
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Earth Tiger\nRabjung 17\, Year 44
+ \, Iron Dog
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2741,8 +2745,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300517
 DTEND;VALUE=DATE:20300518
 SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15 · Lunar Month 4\nLunar Month 4\, Iron Snake\nRabj
- ung 17\, Year 44\, Iron Dog
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Iron Snake\nRabjung 17\, Year 44\
+ , Iron Dog
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2799,8 +2803,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300803
 DTEND;VALUE=DATE:20300804
 SUMMARY:Chökhor Düchen (First Turning of the Wheel)
-DESCRIPTION:Lunar day 4 · Lunar Month 6\nLunar Month 6\, Water Sheep\nRabj
- ung 17\, Year 44\, Iron Dog
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Water Sheep\nRabjung 17\, Year 44\
+ , Iron Dog
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2882,8 +2886,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20301117
 DTEND;VALUE=DATE:20301118
 SUMMARY:Lhabab Düchen (Descent from the god realm)
-DESCRIPTION:Lunar day 22 · Lunar Month 9\nLunar Month 9\, Fire Dog\nRabjun
- g 17\, Year 44\, Iron Dog
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Fire Dog\nRabjung 17\, Year 44\, 
+ Iron Dog
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2947,8 +2951,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310222
 DTEND;VALUE=DATE:20310223
 SUMMARY:Losar (Tibetan New Year)
-DESCRIPTION:Lunar day 1 · Lunar Month 1\nLunar Month 1\, Iron Tiger\nRabju
- ng 17\, Year 45\, Iron Pig
+DESCRIPTION:Lunar day 1\nLunar Month 1\, Iron Tiger\nRabjung 17\, Year 45\,
+  Iron Pig
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2958,8 +2962,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310309
 DTEND;VALUE=DATE:20310310
 SUMMARY:Chotrul Düchen (Day of Miracles)
-DESCRIPTION:Lunar day 15 · Lunar Month 1\nLunar Month 1\, Iron Tiger\nRabj
- ung 17\, Year 45\, Iron Pig
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Iron Tiger\nRabjung 17\, Year 45\
+ , Iron Pig
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3014,8 +3018,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310605
 DTEND;VALUE=DATE:20310606
 SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15 · Lunar Month 4\nLunar Month 4\, Water Snake\nRab
- jung 17\, Year 45\, Iron Pig
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Water Snake\nRabjung 17\, Year 45
+ \, Iron Pig
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3052,8 +3056,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310723
 DTEND;VALUE=DATE:20310724
 SUMMARY:Chökhor Düchen (First Turning of the Wheel)
-DESCRIPTION:Lunar day 4 · Lunar Month 6\nLunar Month 6\, Wood Sheep\nRabju
- ng 17\, Year 45\, Iron Pig
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Wood Sheep\nRabjung 17\, Year 45\,
+  Iron Pig
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3126,8 +3130,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20311106
 DTEND;VALUE=DATE:20311107
 SUMMARY:Lhabab Düchen (Descent from the god realm)
-DESCRIPTION:Lunar day 22 · Lunar Month 9\nLunar Month 9\, Earth Dog\nRabju
- ng 17\, Year 45\, Iron Pig
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Earth Dog\nRabjung 17\, Year 45\,
+  Iron Pig
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3191,8 +3195,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320212
 DTEND;VALUE=DATE:20320213
 SUMMARY:Losar (Tibetan New Year)
-DESCRIPTION:Lunar day 1 · Lunar Month 1\nLunar Month 1\, Water Tiger\nRabj
- ung 17\, Year 46\, Water Mouse
+DESCRIPTION:Lunar day 1\nLunar Month 1\, Water Tiger\nRabjung 17\, Year 46\
+ , Water Mouse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3202,8 +3206,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320226
 DTEND;VALUE=DATE:20320227
 SUMMARY:Chotrul Düchen (Day of Miracles)
-DESCRIPTION:Lunar day 15 · Lunar Month 1\nLunar Month 1\, Water Tiger\nRab
- jung 17\, Year 46\, Water Mouse
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Water Tiger\nRabjung 17\, Year 46
+ \, Water Mouse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3260,8 +3264,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320525
 DTEND;VALUE=DATE:20320526
 SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15 · Lunar Month 4\nLunar Month 4\, Wood Snake\nRabj
- ung 17\, Year 46\, Water Mouse
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Wood Snake\nRabjung 17\, Year 46\
+ , Water Mouse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3298,8 +3302,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320711
 DTEND;VALUE=DATE:20320712
 SUMMARY:Chökhor Düchen (First Turning of the Wheel)
-DESCRIPTION:Lunar day 4 · Lunar Month 6\nLunar Month 6\, Fire Sheep\nRabju
- ng 17\, Year 46\, Water Mouse
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Fire Sheep\nRabjung 17\, Year 46\,
+  Water Mouse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3374,8 +3378,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20321025
 DTEND;VALUE=DATE:20321026
 SUMMARY:Lhabab Düchen (Descent from the god realm)
-DESCRIPTION:Lunar day 22 · Lunar Month 9\nLunar Month 9\, Iron Dog\nRabjun
- g 17\, Year 46\, Water Mouse
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Iron Dog\nRabjung 17\, Year 46\, 
+ Water Mouse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3441,8 +3445,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330131
 DTEND;VALUE=DATE:20330201
 SUMMARY:Losar (Tibetan New Year)
-DESCRIPTION:Lunar day 1 · Lunar Month 1\nLunar Month 1\, Wood Tiger\nRabju
- ng 17\, Year 47\, Water Ox
+DESCRIPTION:Lunar day 1\nLunar Month 1\, Wood Tiger\nRabjung 17\, Year 47\,
+  Water Ox
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3452,8 +3456,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330214
 DTEND;VALUE=DATE:20330215
 SUMMARY:Chotrul Düchen (Day of Miracles)
-DESCRIPTION:Lunar day 15 · Lunar Month 1\nLunar Month 1\, Wood Tiger\nRabj
- ung 17\, Year 47\, Water Ox
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Wood Tiger\nRabjung 17\, Year 47\
+ , Water Ox
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3528,8 +3532,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330612
 DTEND;VALUE=DATE:20330613
 SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15 · Lunar Month 4\nLunar Month 4\, Fire Snake\nRabj
- ung 17\, Year 47\, Water Ox
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Fire Snake\nRabjung 17\, Year 47\
+ , Water Ox
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3566,8 +3570,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330730
 DTEND;VALUE=DATE:20330731
 SUMMARY:Chökhor Düchen (First Turning of the Wheel)
-DESCRIPTION:Lunar day 4 · Lunar Month 6\nLunar Month 6\, Earth Sheep\nRabj
- ung 17\, Year 47\, Water Ox
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Earth Sheep\nRabjung 17\, Year 47\
+ , Water Ox
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3640,8 +3644,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20331113
 DTEND;VALUE=DATE:20331114
 SUMMARY:Lhabab Düchen (Descent from the god realm)
-DESCRIPTION:Lunar day 22 · Lunar Month 9\nLunar Month 9\, Water Dog\nRabju
- ng 17\, Year 47\, Water Ox
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Water Dog\nRabjung 17\, Year 47\,
+  Water Ox
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3705,8 +3709,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340219
 DTEND;VALUE=DATE:20340220
 SUMMARY:Losar (Tibetan New Year)
-DESCRIPTION:Lunar day 1 · Lunar Month 1\nLunar Month 1\, Fire Tiger\nRabju
- ng 17\, Year 48\, Wood Tiger
+DESCRIPTION:Lunar day 1\nLunar Month 1\, Fire Tiger\nRabjung 17\, Year 48\,
+  Wood Tiger
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3716,8 +3720,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340304
 DTEND;VALUE=DATE:20340305
 SUMMARY:Chotrul Düchen (Day of Miracles)
-DESCRIPTION:Lunar day 15 · Lunar Month 1\nLunar Month 1\, Fire Tiger\nRabj
- ung 17\, Year 48\, Wood Tiger
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Fire Tiger\nRabjung 17\, Year 48\
+ , Wood Tiger
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3772,8 +3776,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340602
 DTEND;VALUE=DATE:20340603
 SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15 · Lunar Month 4\nLunar Month 4\, Earth Snake\nRab
- jung 17\, Year 48\, Wood Tiger
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Earth Snake\nRabjung 17\, Year 48
+ \, Wood Tiger
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3810,8 +3814,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340719
 DTEND;VALUE=DATE:20340720
 SUMMARY:Chökhor Düchen (First Turning of the Wheel)
-DESCRIPTION:Lunar day 4 · Lunar Month 6\nLunar Month 6\, Iron Sheep\nRabju
- ng 17\, Year 48\, Wood Tiger
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Iron Sheep\nRabjung 17\, Year 48\,
+  Wood Tiger
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3884,8 +3888,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20341102
 DTEND;VALUE=DATE:20341103
 SUMMARY:Lhabab Düchen (Descent from the god realm)
-DESCRIPTION:Lunar day 22 · Lunar Month 9\nLunar Month 9\, Wood Dog\nRabjun
- g 17\, Year 48\, Wood Tiger
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Wood Dog\nRabjung 17\, Year 48\, 
+ Wood Tiger
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3949,8 +3953,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350209
 DTEND;VALUE=DATE:20350210
 SUMMARY:Losar (Tibetan New Year)
-DESCRIPTION:Lunar day 1 · Lunar Month 1\nLunar Month 1\, Earth Tiger\nRabj
- ung 17\, Year 49\, Wood Rabbit
+DESCRIPTION:Lunar day 1\nLunar Month 1\, Earth Tiger\nRabjung 17\, Year 49\
+ , Wood Rabbit
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3960,8 +3964,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350222
 DTEND;VALUE=DATE:20350223
 SUMMARY:Chotrul Düchen (Day of Miracles)
-DESCRIPTION:Lunar day 15 · Lunar Month 1\nLunar Month 1\, Earth Tiger\nRab
- jung 17\, Year 49\, Wood Rabbit
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Earth Tiger\nRabjung 17\, Year 49
+ \, Wood Rabbit
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4018,8 +4022,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350522
 DTEND;VALUE=DATE:20350523
 SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15 · Lunar Month 4\nLunar Month 4\, Iron Snake\nRabj
- ung 17\, Year 49\, Wood Rabbit
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Iron Snake\nRabjung 17\, Year 49\
+ , Wood Rabbit
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4056,8 +4060,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350709
 DTEND;VALUE=DATE:20350710
 SUMMARY:Chökhor Düchen (First Turning of the Wheel)
-DESCRIPTION:Lunar day 4 · Lunar Month 6\nLunar Month 6\, Water Sheep\nRabj
- ung 17\, Year 49\, Wood Rabbit
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Water Sheep\nRabjung 17\, Year 49\
+ , Wood Rabbit
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4130,8 +4134,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20351023
 DTEND;VALUE=DATE:20351024
 SUMMARY:Lhabab Düchen (Descent from the god realm)
-DESCRIPTION:Lunar day 22 · Lunar Month 9\nLunar Month 9\, Fire Dog\nRabjun
- g 17\, Year 49\, Wood Rabbit
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Fire Dog\nRabjung 17\, Year 49\, 
+ Wood Rabbit
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4218,8 +4222,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360228
 DTEND;VALUE=DATE:20360229
 SUMMARY:Losar (Tibetan New Year)
-DESCRIPTION:Lunar day 1 · Lunar Month 1\nLunar Month 1\, Iron Tiger\nRabju
- ng 17\, Year 50\, Fire Dragon
+DESCRIPTION:Lunar day 1\nLunar Month 1\, Iron Tiger\nRabjung 17\, Year 50\,
+  Fire Dragon
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4229,8 +4233,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360312
 DTEND;VALUE=DATE:20360313
 SUMMARY:Chotrul Düchen (Day of Miracles)
-DESCRIPTION:Lunar day 15 · Lunar Month 1\nLunar Month 1\, Iron Tiger\nRabj
- ung 17\, Year 50\, Fire Dragon
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Iron Tiger\nRabjung 17\, Year 50\
+ , Fire Dragon
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4287,8 +4291,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360608
 DTEND;VALUE=DATE:20360609
 SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15 · Lunar Month 4\nLunar Month 4\, Water Snake\nRab
- jung 17\, Year 50\, Fire Dragon
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Water Snake\nRabjung 17\, Year 50
+ \, Fire Dragon
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4325,8 +4329,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360727
 DTEND;VALUE=DATE:20360728
 SUMMARY:Chökhor Düchen (First Turning of the Wheel)
-DESCRIPTION:Lunar day 4 · Lunar Month 6\nLunar Month 6\, Wood Sheep\nRabju
- ng 17\, Year 50\, Fire Dragon
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Wood Sheep\nRabjung 17\, Year 50\,
+  Fire Dragon
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4371,8 +4375,9 @@ UID:tsurphu-en-2036-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360921
 DTEND;VALUE=DATE:20360922
-SUMMARY:Lunar day 2 · Lunar Month 8 (lunar day 1 omitted)
-DESCRIPTION:Lunar Month 8\, Fire Bird\nRabjung 17\, Year 50\, Fire Dragon
+SUMMARY:Lunar day 2 · Lunar Month 8
+DESCRIPTION:lunar day 1 omitted\nLunar Month 8\, Fire Bird\nRabjung 17\, Ye
+ ar 50\, Fire Dragon
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4408,8 +4413,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20361110
 DTEND;VALUE=DATE:20361111
 SUMMARY:Lhabab Düchen (Descent from the god realm)
-DESCRIPTION:Lunar day 22 · Lunar Month 9\nLunar Month 9\, Earth Dog\nRabju
- ng 17\, Year 50\, Fire Dragon
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Earth Dog\nRabjung 17\, Year 50\,
+  Fire Dragon
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4473,8 +4478,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370216
 DTEND;VALUE=DATE:20370217
 SUMMARY:Losar (Tibetan New Year)
-DESCRIPTION:Lunar day 1 · Lunar Month 1\nLunar Month 1\, Water Tiger\nRabj
- ung 17\, Year 51\, Fire Snake
+DESCRIPTION:Lunar day 1\nLunar Month 1\, Water Tiger\nRabjung 17\, Year 51\
+ , Fire Snake
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4484,8 +4489,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370301
 DTEND;VALUE=DATE:20370302
 SUMMARY:Chotrul Düchen (Day of Miracles)
-DESCRIPTION:Lunar day 14 · Lunar Month 1\nlunar day 15 omitted\nLunar Mont
- h 1\, Water Tiger\nRabjung 17\, Year 51\, Fire Snake
+DESCRIPTION:Lunar day 14\nlunar day 15 omitted\nLunar Month 1\, Water Tiger
+ \nRabjung 17\, Year 51\, Fire Snake
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4540,8 +4545,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370529
 DTEND;VALUE=DATE:20370530
 SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15 · Lunar Month 4\nLunar Month 4\, Wood Snake\nRabj
- ung 17\, Year 51\, Fire Snake
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Wood Snake\nRabjung 17\, Year 51\
+ , Fire Snake
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4578,8 +4583,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370716
 DTEND;VALUE=DATE:20370717
 SUMMARY:Chökhor Düchen (First Turning of the Wheel)
-DESCRIPTION:Lunar day 4 · Lunar Month 6\nLunar Month 6\, Fire Sheep\nRabju
- ng 17\, Year 51\, Fire Snake
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Fire Sheep\nRabjung 17\, Year 51\,
+  Fire Snake
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4633,8 +4638,9 @@ UID:tsurphu-en-2037-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20371010
 DTEND;VALUE=DATE:20371011
-SUMMARY:Lunar day 2 · Lunar Month 9 (lunar day 1 omitted)
-DESCRIPTION:Lunar Month 9\, Iron Dog\nRabjung 17\, Year 51\, Fire Snake
+SUMMARY:Lunar day 2 · Lunar Month 9
+DESCRIPTION:lunar day 1 omitted\nLunar Month 9\, Iron Dog\nRabjung 17\, Yea
+ r 51\, Fire Snake
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4661,8 +4667,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20371031
 DTEND;VALUE=DATE:20371101
 SUMMARY:Lhabab Düchen (Descent from the god realm)
-DESCRIPTION:Lunar day 22 · Lunar Month 9\nLunar Month 9\, Iron Dog\nRabjun
- g 17\, Year 51\, Fire Snake
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Iron Dog\nRabjung 17\, Year 51\, 
+ Fire Snake
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4726,8 +4732,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380205
 DTEND;VALUE=DATE:20380206
 SUMMARY:Losar (Tibetan New Year)
-DESCRIPTION:Lunar day 1 · Lunar Month 1\nLunar Month 1\, Wood Tiger\nRabju
- ng 17\, Year 52\, Earth Horse
+DESCRIPTION:Lunar day 1\nLunar Month 1\, Wood Tiger\nRabjung 17\, Year 52\,
+  Earth Horse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4737,8 +4743,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380219
 DTEND;VALUE=DATE:20380220
 SUMMARY:Chotrul Düchen (Day of Miracles)
-DESCRIPTION:Lunar day 15 · Lunar Month 1\nLunar Month 1\, Wood Tiger\nRabj
- ung 17\, Year 52\, Earth Horse
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Wood Tiger\nRabjung 17\, Year 52\
+ , Earth Horse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4793,8 +4799,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380518
 DTEND;VALUE=DATE:20380519
 SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15 · Lunar Month 4\nLunar Month 4\, Fire Snake\nRabj
- ung 17\, Year 52\, Earth Horse
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Fire Snake\nRabjung 17\, Year 52\
+ , Earth Horse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4840,8 +4846,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380706
 DTEND;VALUE=DATE:20380707
 SUMMARY:Chökhor Düchen (First Turning of the Wheel)
-DESCRIPTION:Lunar day 4 · Lunar Month 6\nLunar Month 6\, Earth Sheep\nRabj
- ung 17\, Year 52\, Earth Horse
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Earth Sheep\nRabjung 17\, Year 52\
+ , Earth Horse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4859,9 +4865,9 @@ UID:tsurphu-en-2038-07L-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380802
 DTEND;VALUE=DATE:20380803
-SUMMARY:Lunar day 2 · Lunar Month 7 (Leap) (lunar day 1 omitted)
-DESCRIPTION:Lunar Month 7 (Leap)\, Iron Monkey\nRabjung 17\, Year 52\, Eart
- h Horse
+SUMMARY:Lunar day 2 · Lunar Month 7 (Leap)
+DESCRIPTION:lunar day 1 omitted\nLunar Month 7 (Leap)\, Iron Monkey\nRabjun
+ g 17\, Year 52\, Earth Horse
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4934,8 +4940,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20381119
 DTEND;VALUE=DATE:20381120
 SUMMARY:Lhabab Düchen (Descent from the god realm)
-DESCRIPTION:Lunar day 22 · Lunar Month 9\nLunar Month 9\, Water Dog\nRabju
- ng 17\, Year 52\, Earth Horse
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Water Dog\nRabjung 17\, Year 52\,
+  Earth Horse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4999,8 +5005,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390224
 DTEND;VALUE=DATE:20390225
 SUMMARY:Losar (Tibetan New Year)
-DESCRIPTION:Lunar day 1 · Lunar Month 1\nLunar Month 1\, Fire Tiger\nRabju
- ng 17\, Year 53\, Earth Sheep
+DESCRIPTION:Lunar day 1\nLunar Month 1\, Fire Tiger\nRabjung 17\, Year 53\,
+  Earth Sheep
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5010,8 +5016,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390310
 DTEND;VALUE=DATE:20390311
 SUMMARY:Chotrul Düchen (Day of Miracles)
-DESCRIPTION:Lunar day 15 · Lunar Month 1\nLunar Month 1\, Fire Tiger\nRabj
- ung 17\, Year 53\, Earth Sheep
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Fire Tiger\nRabjung 17\, Year 53\
+ , Earth Sheep
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5068,8 +5074,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390606
 DTEND;VALUE=DATE:20390607
 SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15 · Lunar Month 4\nLunar Month 4\, Earth Snake\nRab
- jung 17\, Year 53\, Earth Sheep
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Earth Snake\nRabjung 17\, Year 53
+ \, Earth Sheep
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5106,8 +5112,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390725
 DTEND;VALUE=DATE:20390726
 SUMMARY:Chökhor Düchen (First Turning of the Wheel)
-DESCRIPTION:Lunar day 4 · Lunar Month 6\nLunar Month 6\, Iron Sheep\nRabju
- ng 17\, Year 53\, Earth Sheep
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Iron Sheep\nRabjung 17\, Year 53\,
+  Earth Sheep
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5182,8 +5188,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20391108
 DTEND;VALUE=DATE:20391109
 SUMMARY:Lhabab Düchen (Descent from the god realm)
-DESCRIPTION:Lunar day 22 · Lunar Month 9\nLunar Month 9\, Wood Dog\nRabjun
- g 17\, Year 53\, Earth Sheep
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Wood Dog\nRabjung 17\, Year 53\, 
+ Earth Sheep
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5228,8 +5234,9 @@ UID:tsurphu-en-2039-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400115
 DTEND;VALUE=DATE:20400116
-SUMMARY:Lunar day 2 · Lunar Month 12 (lunar day 1 omitted)
-DESCRIPTION:Lunar Month 12\, Fire Ox\nRabjung 17\, Year 53\, Earth Sheep
+SUMMARY:Lunar day 2 · Lunar Month 12
+DESCRIPTION:lunar day 1 omitted\nLunar Month 12\, Fire Ox\nRabjung 17\, Yea
+ r 53\, Earth Sheep
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5247,8 +5254,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400213
 DTEND;VALUE=DATE:20400214
 SUMMARY:Losar (Tibetan New Year)
-DESCRIPTION:Lunar day 1 · Lunar Month 1\nLunar Month 1\, Earth Tiger\nRabj
- ung 17\, Year 54\, Iron Monkey
+DESCRIPTION:Lunar day 1\nLunar Month 1\, Earth Tiger\nRabjung 17\, Year 54\
+ , Iron Monkey
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5258,8 +5265,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400227
 DTEND;VALUE=DATE:20400228
 SUMMARY:Chotrul Düchen (Day of Miracles)
-DESCRIPTION:Lunar day 15 · Lunar Month 1\nLunar Month 1\, Earth Tiger\nRab
- jung 17\, Year 54\, Iron Monkey
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Earth Tiger\nRabjung 17\, Year 54
+ \, Iron Monkey
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5268,9 +5275,9 @@ UID:tsurphu-en-2040-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400314
 DTEND;VALUE=DATE:20400315
-SUMMARY:Lunar day 2 · Lunar Month 2 (lunar day 1 omitted)
-DESCRIPTION:Lunar Month 2\, Earth Rabbit\nRabjung 17\, Year 54\, Iron Monke
- y
+SUMMARY:Lunar day 2 · Lunar Month 2
+DESCRIPTION:lunar day 1 omitted\nLunar Month 2\, Earth Rabbit\nRabjung 17\,
+  Year 54\, Iron Monkey
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5316,8 +5323,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400526
 DTEND;VALUE=DATE:20400527
 SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15 · Lunar Month 4\nLunar Month 4\, Iron Snake\nRabj
- ung 17\, Year 54\, Iron Monkey
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Iron Snake\nRabjung 17\, Year 54\
+ , Iron Monkey
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5354,8 +5361,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400713
 DTEND;VALUE=DATE:20400714
 SUMMARY:Chökhor Düchen (First Turning of the Wheel)
-DESCRIPTION:Lunar day 4 · Lunar Month 6\nLunar Month 6\, Water Sheep\nRabj
- ung 17\, Year 54\, Iron Monkey
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Water Sheep\nRabjung 17\, Year 54\
+ , Iron Monkey
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5428,8 +5435,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20401027
 DTEND;VALUE=DATE:20401028
 SUMMARY:Lhabab Düchen (Descent from the god realm)
-DESCRIPTION:Lunar day 22 · Lunar Month 9\nLunar Month 9\, Fire Dog\nRabjun
- g 17\, Year 54\, Iron Monkey
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Fire Dog\nRabjung 17\, Year 54\, 
+ Iron Monkey
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5495,8 +5502,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410202
 DTEND;VALUE=DATE:20410203
 SUMMARY:Losar (Tibetan New Year)
-DESCRIPTION:Lunar day 1 · Lunar Month 1\nLunar Month 1\, Iron Tiger\nRabju
- ng 17\, Year 55\, Iron Bird
+DESCRIPTION:Lunar day 1\nLunar Month 1\, Iron Tiger\nRabjung 17\, Year 55\,
+  Iron Bird
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5506,8 +5513,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410215
 DTEND;VALUE=DATE:20410216
 SUMMARY:Chotrul Düchen (Day of Miracles)
-DESCRIPTION:Lunar day 15 · Lunar Month 1\nLunar Month 1\, Iron Tiger\nRabj
- ung 17\, Year 55\, Iron Bird
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Iron Tiger\nRabjung 17\, Year 55\
+ , Iron Bird
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5534,9 +5541,9 @@ UID:tsurphu-en-2041-03L-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410402
 DTEND;VALUE=DATE:20410403
-SUMMARY:Lunar day 2 · Lunar Month 3 (Leap) (lunar day 1 omitted)
-DESCRIPTION:Lunar Month 3 (Leap)\, Water Dragon\nRabjung 17\, Year 55\, Iro
- n Bird
+SUMMARY:Lunar day 2 · Lunar Month 3 (Leap)
+DESCRIPTION:lunar day 1 omitted\nLunar Month 3 (Leap)\, Water Dragon\nRabju
+ ng 17\, Year 55\, Iron Bird
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5591,8 +5598,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410614
 DTEND;VALUE=DATE:20410615
 SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15 · Lunar Month 4\nLunar Month 4\, Water Snake\nRab
- jung 17\, Year 55\, Iron Bird
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Water Snake\nRabjung 17\, Year 55
+ \, Iron Bird
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5629,8 +5636,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410801
 DTEND;VALUE=DATE:20410802
 SUMMARY:Chökhor Düchen (First Turning of the Wheel)
-DESCRIPTION:Lunar day 4 · Lunar Month 6\nLunar Month 6\, Wood Sheep\nRabju
- ng 17\, Year 55\, Iron Bird
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Wood Sheep\nRabjung 17\, Year 55\,
+  Iron Bird
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5703,8 +5710,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20411115
 DTEND;VALUE=DATE:20411116
 SUMMARY:Lhabab Düchen (Descent from the god realm)
-DESCRIPTION:Lunar day 22 · Lunar Month 9\nLunar Month 9\, Earth Dog\nRabju
- ng 17\, Year 55\, Iron Bird
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Earth Dog\nRabjung 17\, Year 55\,
+  Iron Bird
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5768,8 +5775,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420221
 DTEND;VALUE=DATE:20420222
 SUMMARY:Losar (Tibetan New Year)
-DESCRIPTION:Lunar day 1 · Lunar Month 1\nLunar Month 1\, Water Tiger\nRabj
- ung 17\, Year 56\, Water Dog
+DESCRIPTION:Lunar day 1\nLunar Month 1\, Water Tiger\nRabjung 17\, Year 56\
+ , Water Dog
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5779,8 +5786,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420306
 DTEND;VALUE=DATE:20420307
 SUMMARY:Chotrul Düchen (Day of Miracles)
-DESCRIPTION:Lunar day 15 · Lunar Month 1\nLunar Month 1\, Water Tiger\nRab
- jung 17\, Year 56\, Water Dog
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Water Tiger\nRabjung 17\, Year 56
+ \, Water Dog
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5835,8 +5842,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420603
 DTEND;VALUE=DATE:20420604
 SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15 · Lunar Month 4\nLunar Month 4\, Wood Snake\nRabj
- ung 17\, Year 56\, Water Dog
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Wood Snake\nRabjung 17\, Year 56\
+ , Water Dog
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5873,8 +5880,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420721
 DTEND;VALUE=DATE:20420722
 SUMMARY:Chökhor Düchen (First Turning of the Wheel)
-DESCRIPTION:Lunar day 4 · Lunar Month 6\nLunar Month 6\, Fire Sheep\nRabju
- ng 17\, Year 56\, Water Dog
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Fire Sheep\nRabjung 17\, Year 56\,
+  Water Dog
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5956,8 +5963,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20421104
 DTEND;VALUE=DATE:20421105
 SUMMARY:Lhabab Düchen (Descent from the god realm)
-DESCRIPTION:Lunar day 22 · Lunar Month 9\nLunar Month 9\, Iron Dog\nRabjun
- g 17\, Year 56\, Water Dog
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Iron Dog\nRabjung 17\, Year 56\, 
+ Water Dog
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6021,8 +6028,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430210
 DTEND;VALUE=DATE:20430211
 SUMMARY:Losar (Tibetan New Year)
-DESCRIPTION:Lunar day 1 · Lunar Month 1\nLunar Month 1\, Wood Tiger\nRabju
- ng 17\, Year 57\, Water Pig
+DESCRIPTION:Lunar day 1\nLunar Month 1\, Wood Tiger\nRabjung 17\, Year 57\,
+  Water Pig
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6032,8 +6039,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430223
 DTEND;VALUE=DATE:20430224
 SUMMARY:Chotrul Düchen (Day of Miracles)
-DESCRIPTION:Lunar day 15 · Lunar Month 1\nLunar Month 1\, Wood Tiger\nRabj
- ung 17\, Year 57\, Water Pig
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Wood Tiger\nRabjung 17\, Year 57\
+ , Water Pig
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6088,8 +6095,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430523
 DTEND;VALUE=DATE:20430524
 SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15 · Lunar Month 4\nLunar Month 4\, Fire Snake\nRabj
- ung 17\, Year 57\, Water Pig
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Fire Snake\nRabjung 17\, Year 57\
+ , Water Pig
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6126,8 +6133,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430710
 DTEND;VALUE=DATE:20430711
 SUMMARY:Chökhor Düchen (First Turning of the Wheel)
-DESCRIPTION:Lunar day 4 · Lunar Month 6\nLunar Month 6\, Earth Sheep\nRabj
- ung 17\, Year 57\, Water Pig
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Earth Sheep\nRabjung 17\, Year 57\
+ , Water Pig
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6200,8 +6207,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20431024
 DTEND;VALUE=DATE:20431025
 SUMMARY:Lhabab Düchen (Descent from the god realm)
-DESCRIPTION:Lunar day 22 · Lunar Month 9\nLunar Month 9\, Water Dog\nRabju
- ng 17\, Year 57\, Water Pig
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Water Dog\nRabjung 17\, Year 57\,
+  Water Pig
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6285,8 +6292,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440229
 DTEND;VALUE=DATE:20440301
 SUMMARY:Losar (Tibetan New Year)
-DESCRIPTION:Lunar day 1 · Lunar Month 1\nLunar Month 1\, Fire Tiger\nRabju
- ng 17\, Year 58\, Wood Mouse
+DESCRIPTION:Lunar day 1\nLunar Month 1\, Fire Tiger\nRabjung 17\, Year 58\,
+  Wood Mouse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6296,8 +6303,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440313
 DTEND;VALUE=DATE:20440314
 SUMMARY:Chotrul Düchen (Day of Miracles)
-DESCRIPTION:Lunar day 15 · Lunar Month 1\nLunar Month 1\, Fire Tiger\nRabj
- ung 17\, Year 58\, Wood Mouse
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Fire Tiger\nRabjung 17\, Year 58\
+ , Wood Mouse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6352,8 +6359,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440610
 DTEND;VALUE=DATE:20440611
 SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15 · Lunar Month 4\nLunar Month 4\, Earth Snake\nRab
- jung 17\, Year 58\, Wood Mouse
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Earth Snake\nRabjung 17\, Year 58
+ \, Wood Mouse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6390,8 +6397,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440728
 DTEND;VALUE=DATE:20440729
 SUMMARY:Chökhor Düchen (First Turning of the Wheel)
-DESCRIPTION:Lunar day 4 · Lunar Month 6\nLunar Month 6\, Iron Sheep\nRabju
- ng 17\, Year 58\, Wood Mouse
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Iron Sheep\nRabjung 17\, Year 58\,
+  Wood Mouse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6409,8 +6416,9 @@ UID:tsurphu-en-2044-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440824
 DTEND;VALUE=DATE:20440825
-SUMMARY:Lunar day 2 · Lunar Month 7 (lunar day 1 omitted)
-DESCRIPTION:Lunar Month 7\, Water Monkey\nRabjung 17\, Year 58\, Wood Mouse
+SUMMARY:Lunar day 2 · Lunar Month 7
+DESCRIPTION:lunar day 1 omitted\nLunar Month 7\, Water Monkey\nRabjung 17\,
+  Year 58\, Wood Mouse
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6464,8 +6472,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20441111
 DTEND;VALUE=DATE:20441112
 SUMMARY:Lhabab Düchen (Descent from the god realm)
-DESCRIPTION:Lunar day 22 · Lunar Month 9\nLunar Month 9\, Wood Dog\nRabjun
- g 17\, Year 58\, Wood Mouse
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Wood Dog\nRabjung 17\, Year 58\, 
+ Wood Mouse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6529,8 +6537,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450217
 DTEND;VALUE=DATE:20450218
 SUMMARY:Losar (Tibetan New Year)
-DESCRIPTION:Lunar day 1 · Lunar Month 1\nLunar Month 1\, Earth Tiger\nRabj
- ung 17\, Year 59\, Wood Ox
+DESCRIPTION:Lunar day 1\nLunar Month 1\, Earth Tiger\nRabjung 17\, Year 59\
+ , Wood Ox
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6540,8 +6548,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450303
 DTEND;VALUE=DATE:20450304
 SUMMARY:Chotrul Düchen (Day of Miracles)
-DESCRIPTION:Lunar day 15 · Lunar Month 1\nLunar Month 1\, Earth Tiger\nRab
- jung 17\, Year 59\, Wood Ox
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Earth Tiger\nRabjung 17\, Year 59
+ \, Wood Ox
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6596,8 +6604,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450530
 DTEND;VALUE=DATE:20450531
 SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15 · Lunar Month 4\nLunar Month 4\, Iron Snake\nRabj
- ung 17\, Year 59\, Wood Ox
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Iron Snake\nRabjung 17\, Year 59\
+ , Wood Ox
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6634,8 +6642,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450718
 DTEND;VALUE=DATE:20450719
 SUMMARY:Chökhor Düchen (First Turning of the Wheel)
-DESCRIPTION:Lunar day 4 · Lunar Month 6\nLunar Month 6\, Water Sheep\nRabj
- ung 17\, Year 59\, Wood Ox
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Water Sheep\nRabjung 17\, Year 59\
+ , Wood Ox
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6671,8 +6679,9 @@ UID:tsurphu-en-2045-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450912
 DTEND;VALUE=DATE:20450913
-SUMMARY:Lunar day 2 · Lunar Month 8 (lunar day 1 omitted)
-DESCRIPTION:Lunar Month 8\, Wood Bird\nRabjung 17\, Year 59\, Wood Ox
+SUMMARY:Lunar day 2 · Lunar Month 8
+DESCRIPTION:lunar day 1 omitted\nLunar Month 8\, Wood Bird\nRabjung 17\, Ye
+ ar 59\, Wood Ox
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6708,8 +6717,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20451101
 DTEND;VALUE=DATE:20451102
 SUMMARY:Lhabab Düchen (Descent from the god realm)
-DESCRIPTION:Lunar day 22 · Lunar Month 9\nLunar Month 9\, Fire Dog\nRabjun
- g 17\, Year 59\, Wood Ox
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Fire Dog\nRabjung 17\, Year 59\, 
+ Wood Ox
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6773,8 +6782,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460206
 DTEND;VALUE=DATE:20460207
 SUMMARY:Losar (Tibetan New Year)
-DESCRIPTION:Lunar day 1 · Lunar Month 1\nLunar Month 1\, Iron Tiger\nRabju
- ng 17\, Year 60\, Fire Tiger
+DESCRIPTION:Lunar day 1\nLunar Month 1\, Iron Tiger\nRabjung 17\, Year 60\,
+  Fire Tiger
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6784,8 +6793,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460220
 DTEND;VALUE=DATE:20460221
 SUMMARY:Chotrul Düchen (Day of Miracles)
-DESCRIPTION:Lunar day 14 · Lunar Month 1\nlunar day 15 omitted\nLunar Mont
- h 1\, Iron Tiger\nRabjung 17\, Year 60\, Fire Tiger
+DESCRIPTION:Lunar day 14\nlunar day 15 omitted\nLunar Month 1\, Iron Tiger\
+ nRabjung 17\, Year 60\, Fire Tiger
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6840,8 +6849,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460520
 DTEND;VALUE=DATE:20460521
 SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15 · Lunar Month 4\nLunar Month 4\, Water Snake\nRab
- jung 17\, Year 60\, Fire Tiger
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Water Snake\nRabjung 17\, Year 60
+ \, Fire Tiger
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6878,8 +6887,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460707
 DTEND;VALUE=DATE:20460708
 SUMMARY:Chökhor Düchen (First Turning of the Wheel)
-DESCRIPTION:Lunar day 4 · Lunar Month 6\nLunar Month 6\, Wood Sheep\nRabju
- ng 17\, Year 60\, Fire Tiger
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Wood Sheep\nRabjung 17\, Year 60\,
+  Fire Tiger
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6935,8 +6944,9 @@ UID:tsurphu-en-2046-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20461001
 DTEND;VALUE=DATE:20461002
-SUMMARY:Lunar day 2 · Lunar Month 8 (lunar day 1 omitted)
-DESCRIPTION:Lunar Month 8\, Fire Bird\nRabjung 17\, Year 60\, Fire Tiger
+SUMMARY:Lunar day 2 · Lunar Month 8
+DESCRIPTION:lunar day 1 omitted\nLunar Month 8\, Fire Bird\nRabjung 17\, Ye
+ ar 60\, Fire Tiger
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6972,8 +6982,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20461120
 DTEND;VALUE=DATE:20461121
 SUMMARY:Lhabab Düchen (Descent from the god realm)
-DESCRIPTION:Lunar day 22 · Lunar Month 9\nLunar Month 9\, Earth Dog\nRabju
- ng 17\, Year 60\, Fire Tiger
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Earth Dog\nRabjung 17\, Year 60\,
+  Fire Tiger
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7037,8 +7047,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470225
 DTEND;VALUE=DATE:20470226
 SUMMARY:Losar (Tibetan New Year)
-DESCRIPTION:Lunar day 1 · Lunar Month 1\nLunar Month 1\, Water Tiger\nRabj
- ung 18\, Year 1\, Fire Rabbit
+DESCRIPTION:Lunar day 1\nLunar Month 1\, Water Tiger\nRabjung 18\, Year 1\,
+  Fire Rabbit
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7048,8 +7058,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470312
 DTEND;VALUE=DATE:20470313
 SUMMARY:Chotrul Düchen (Day of Miracles)
-DESCRIPTION:Lunar day 15 · Lunar Month 1\nLunar Month 1\, Water Tiger\nRab
- jung 18\, Year 1\, Fire Rabbit
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Water Tiger\nRabjung 18\, Year 1\
+ , Fire Rabbit
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7104,8 +7114,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470608
 DTEND;VALUE=DATE:20470609
 SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15 · Lunar Month 4\nLunar Month 4\, Wood Snake\nRabj
- ung 18\, Year 1\, Fire Rabbit
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Wood Snake\nRabjung 18\, Year 1\,
+  Fire Rabbit
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7142,8 +7152,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470726
 DTEND;VALUE=DATE:20470727
 SUMMARY:Chökhor Düchen (First Turning of the Wheel)
-DESCRIPTION:Lunar day 4 · Lunar Month 6\nLunar Month 6\, Fire Sheep\nRabju
- ng 18\, Year 1\, Fire Rabbit
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Fire Sheep\nRabjung 18\, Year 1\, 
+ Fire Rabbit
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7216,8 +7226,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20471109
 DTEND;VALUE=DATE:20471110
 SUMMARY:Lhabab Düchen (Descent from the god realm)
-DESCRIPTION:Lunar day 22 · Lunar Month 9\nLunar Month 9\, Iron Dog\nRabjun
- g 18\, Year 1\, Fire Rabbit
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Iron Dog\nRabjung 18\, Year 1\, F
+ ire Rabbit
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7281,8 +7291,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480214
 DTEND;VALUE=DATE:20480215
 SUMMARY:Losar (Tibetan New Year)
-DESCRIPTION:Lunar day 1 · Lunar Month 1\nLunar Month 1\, Wood Tiger\nRabju
- ng 18\, Year 2\, Earth Dragon
+DESCRIPTION:Lunar day 1\nLunar Month 1\, Wood Tiger\nRabjung 18\, Year 2\, 
+ Earth Dragon
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7292,8 +7302,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480229
 DTEND;VALUE=DATE:20480301
 SUMMARY:Chotrul Düchen (Day of Miracles)
-DESCRIPTION:Lunar day 15 · Lunar Month 1\nLunar Month 1\, Wood Tiger\nRabj
- ung 18\, Year 2\, Earth Dragon
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Wood Tiger\nRabjung 18\, Year 2\,
+  Earth Dragon
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7348,8 +7358,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480527
 DTEND;VALUE=DATE:20480528
 SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15 · Lunar Month 4\nLunar Month 4\, Fire Snake\nRabj
- ung 18\, Year 2\, Earth Dragon
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Fire Snake\nRabjung 18\, Year 2\,
+  Earth Dragon
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7386,8 +7396,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480715
 DTEND;VALUE=DATE:20480716
 SUMMARY:Chökhor Düchen (First Turning of the Wheel)
-DESCRIPTION:Lunar day 4 · Lunar Month 6\nLunar Month 6\, Earth Sheep\nRabj
- ung 18\, Year 2\, Earth Dragon
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Earth Sheep\nRabjung 18\, Year 2\,
+  Earth Dragon
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7460,8 +7470,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20481029
 DTEND;VALUE=DATE:20481030
 SUMMARY:Lhabab Düchen (Descent from the god realm)
-DESCRIPTION:Lunar day 22 · Lunar Month 9\nLunar Month 9\, Water Dog\nRabju
- ng 18\, Year 2\, Earth Dragon
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Water Dog\nRabjung 18\, Year 2\, 
+ Earth Dragon
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7506,8 +7516,9 @@ UID:tsurphu-en-2048-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490105
 DTEND;VALUE=DATE:20490106
-SUMMARY:Lunar day 2 · Lunar Month 12 (lunar day 1 omitted)
-DESCRIPTION:Lunar Month 12\, Wood Ox\nRabjung 18\, Year 2\, Earth Dragon
+SUMMARY:Lunar day 2 · Lunar Month 12
+DESCRIPTION:lunar day 1 omitted\nLunar Month 12\, Wood Ox\nRabjung 18\, Yea
+ r 2\, Earth Dragon
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -7525,8 +7536,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490203
 DTEND;VALUE=DATE:20490204
 SUMMARY:Losar (Tibetan New Year)
-DESCRIPTION:Lunar day 1 · Lunar Month 1\nLunar Month 1\, Fire Tiger\nRabju
- ng 18\, Year 3\, Earth Snake
+DESCRIPTION:Lunar day 1\nLunar Month 1\, Fire Tiger\nRabjung 18\, Year 3\, 
+ Earth Snake
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7536,8 +7547,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490217
 DTEND;VALUE=DATE:20490218
 SUMMARY:Chotrul Düchen (Day of Miracles)
-DESCRIPTION:Lunar day 15 · Lunar Month 1\nLunar Month 1\, Fire Tiger\nRabj
- ung 18\, Year 3\, Earth Snake
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Fire Tiger\nRabjung 18\, Year 3\,
+  Earth Snake
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7592,8 +7603,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490517
 DTEND;VALUE=DATE:20490518
 SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15 · Lunar Month 4\nLunar Month 4\, Earth Snake\nRab
- jung 18\, Year 3\, Earth Snake
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Earth Snake\nRabjung 18\, Year 3\
+ , Earth Snake
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7650,8 +7661,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490802
 DTEND;VALUE=DATE:20490803
 SUMMARY:Chökhor Düchen (First Turning of the Wheel)
-DESCRIPTION:Lunar day 4 · Lunar Month 6\nLunar Month 6\, Iron Sheep\nRabju
- ng 18\, Year 3\, Earth Snake
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Iron Sheep\nRabjung 18\, Year 3\, 
+ Earth Snake
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7661,8 +7672,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490803
 DTEND;VALUE=DATE:20490804
 SUMMARY:Chökhor Düchen (First Turning of the Wheel) (repeated)
-DESCRIPTION:Lunar day 4 (repeated) · Lunar Month 6\nLunar Month 6\, Iron S
- heep\nRabjung 18\, Year 3\, Earth Snake
+DESCRIPTION:Lunar day 4 (repeated)\nLunar Month 6\, Iron Sheep\nRabjung 18\
+ , Year 3\, Earth Snake
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7744,8 +7755,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20491116
 DTEND;VALUE=DATE:20491117
 SUMMARY:Lhabab Düchen (Descent from the god realm)
-DESCRIPTION:Lunar day 22 · Lunar Month 9\nLunar Month 9\, Wood Dog\nRabjun
- g 18\, Year 3\, Earth Snake
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Wood Dog\nRabjung 18\, Year 3\, E
+ arth Snake
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7809,8 +7820,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500222
 DTEND;VALUE=DATE:20500223
 SUMMARY:Losar (Tibetan New Year)
-DESCRIPTION:Lunar day 1 · Lunar Month 1\nLunar Month 1\, Earth Tiger\nRabj
- ung 18\, Year 4\, Iron Horse
+DESCRIPTION:Lunar day 1\nLunar Month 1\, Earth Tiger\nRabjung 18\, Year 4\,
+  Iron Horse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7820,8 +7831,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500308
 DTEND;VALUE=DATE:20500309
 SUMMARY:Chotrul Düchen (Day of Miracles)
-DESCRIPTION:Lunar day 15 · Lunar Month 1\nLunar Month 1\, Earth Tiger\nRab
- jung 18\, Year 4\, Iron Horse
+DESCRIPTION:Lunar day 15\nLunar Month 1\, Earth Tiger\nRabjung 18\, Year 4\
+ , Iron Horse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7830,8 +7841,9 @@ UID:tsurphu-en-2050-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500324
 DTEND;VALUE=DATE:20500325
-SUMMARY:Lunar day 2 · Lunar Month 2 (lunar day 1 omitted)
-DESCRIPTION:Lunar Month 2\, Earth Rabbit\nRabjung 18\, Year 4\, Iron Horse
+SUMMARY:Lunar day 2 · Lunar Month 2
+DESCRIPTION:lunar day 1 omitted\nLunar Month 2\, Earth Rabbit\nRabjung 18\,
+  Year 4\, Iron Horse
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -7876,8 +7888,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500605
 DTEND;VALUE=DATE:20500606
 SUMMARY:Saga Dawa Düchen: Buddha's birth\, enlightenment and parinirvana
-DESCRIPTION:Lunar day 15 · Lunar Month 4\nLunar Month 4\, Iron Snake\nRabj
- ung 18\, Year 4\, Iron Horse
+DESCRIPTION:Lunar day 15\nLunar Month 4\, Iron Snake\nRabjung 18\, Year 4\,
+  Iron Horse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7914,8 +7926,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500723
 DTEND;VALUE=DATE:20500724
 SUMMARY:Chökhor Düchen (First Turning of the Wheel)
-DESCRIPTION:Lunar day 4 · Lunar Month 6\nLunar Month 6\, Water Sheep\nRabj
- ung 18\, Year 4\, Iron Horse
+DESCRIPTION:Lunar day 4\nLunar Month 6\, Water Sheep\nRabjung 18\, Year 4\,
+  Iron Horse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7988,8 +8000,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20501105
 DTEND;VALUE=DATE:20501106
 SUMMARY:Lhabab Düchen (Descent from the god realm)
-DESCRIPTION:Lunar day 22 · Lunar Month 9\nLunar Month 9\, Fire Dog\nRabjun
- g 18\, Year 4\, Iron Horse
+DESCRIPTION:Lunar day 22\nLunar Month 9\, Fire Dog\nRabjung 18\, Year 4\, I
+ ron Horse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT

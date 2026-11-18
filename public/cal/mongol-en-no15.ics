@@ -100,9 +100,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200223
 DTEND;VALUE=DATE:20200224
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 · Last winter month · 8th nine begins · It turn
- s slushy\nLast winter month\, Red Ox month\nCycle 17\, Year 33\, Yellow Pi
- g
+DESCRIPTION:Lunar day 30 · 8th nine begins · It turns slushy\nLast winter
+  month\, Red Ox month\nCycle 17\, Year 33\, Yellow Pig
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -124,8 +123,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200224
 DTEND;VALUE=DATE:20200225
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month\nFirst spring month\, Yellow 
- Tiger month\nCycle 17\, Year 34\, White Mouse\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst spring month\, Yellow Tiger month\nCycle 17\
+ , Year 34\, White Mouse\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -135,8 +134,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200225
 DTEND;VALUE=DATE:20200226
 SUMMARY:Lunar day 2
-DESCRIPTION:Lunar day 2 · First spring month\nFirst spring month\, Yellow 
- Tiger month\nCycle 17\, Year 34\, White Mouse\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 2\nFirst spring month\, Yellow Tiger month\nCycle 17\
+ , Year 34\, White Mouse\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -146,8 +145,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200226
 DTEND;VALUE=DATE:20200227
 SUMMARY:Lunar day 3
-DESCRIPTION:Lunar day 3 · First spring month\nFirst spring month\, Yellow 
- Tiger month\nCycle 17\, Year 34\, White Mouse\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 3\nFirst spring month\, Yellow Tiger month\nCycle 17\
+ , Year 34\, White Mouse\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -231,9 +230,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200605
 DTEND;VALUE=DATE:20200606
 SUMMARY:Ikh Düichen
-DESCRIPTION:Lunar day 15 · First summer month\nFirst summer month\, White 
- Snake month\nCycle 17\, Year 34\, White Mouse\nBuddha's birth\, enlightenm
- ent and parinirvana\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 15\nFirst summer month\, White Snake month\nCycle 17\
+ , Year 34\, White Mouse\nBuddha's birth\, enlightenment and parinirvana\nP
+ ublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -352,9 +351,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20201116
 DTEND;VALUE=DATE:20201117
 SUMMARY:Mongolian Pride Day
-DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, Red Pig
-  month\nCycle 17\, Year 34\, White Mouse\nBirthday of Chinggis Khaan\nPubl
- ic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst winter month\, Red Pig month\nCycle 17\, Yea
+ r 34\, White Mouse\nBirthday of Chinggis Khaan\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -432,8 +430,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210211
 DTEND;VALUE=DATE:20210212
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 · Last winter month\nLast winter month\, Yellow O
- x month\nCycle 17\, Year 34\, White Mouse
+DESCRIPTION:Lunar day 30\nLast winter month\, Yellow Ox month\nCycle 17\, Y
+ ear 34\, White Mouse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -443,8 +441,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210212
 DTEND;VALUE=DATE:20210213
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month\nFirst spring month\, White T
- iger month\nCycle 17\, Year 35\, White Ox\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst spring month\, White Tiger month\nCycle 17\,
+  Year 35\, White Ox\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -454,8 +452,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210213
 DTEND;VALUE=DATE:20210214
 SUMMARY:Lunar day 2
-DESCRIPTION:Lunar day 2 · First spring month\nFirst spring month\, White T
- iger month\nCycle 17\, Year 35\, White Ox\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 2\nFirst spring month\, White Tiger month\nCycle 17\,
+  Year 35\, White Ox\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -465,9 +463,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210214
 DTEND;VALUE=DATE:20210215
 SUMMARY:Lunar day 3
-DESCRIPTION:Lunar day 3 · First spring month · 7th nine begins · Hilltop
- s turn bare\nFirst spring month\, White Tiger month\nCycle 17\, Year 35\, 
- White Ox\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 3 · 7th nine begins · Hilltops turn bare\nFirst spr
+ ing month\, White Tiger month\nCycle 17\, Year 35\, White Ox\nPublic holid
+ ay in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -517,9 +515,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210526
 DTEND;VALUE=DATE:20210527
 SUMMARY:Ikh Düichen
-DESCRIPTION:Lunar day 15 · First summer month\nFirst summer month\, Black 
- Snake month\nCycle 17\, Year 35\, White Ox\nBuddha's birth\, enlightenment
-  and parinirvana\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 15\nFirst summer month\, Black Snake month\nCycle 17\
+ , Year 35\, White Ox\nBuddha's birth\, enlightenment and parinirvana\nPubl
+ ic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -549,9 +547,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210711
 DTEND;VALUE=DATE:20210712
 SUMMARY:Naadam (National Festival)
-DESCRIPTION:Lunar day 1 (repeated) · Last summer month\nLast summer month\
- , Blue Sheep month\nCycle 17\, Year 35\, White Ox\nPublic holiday in Mongo
- lia
+DESCRIPTION:Lunar day 1 (repeated)\nLast summer month\, Blue Sheep month\nC
+ ycle 17\, Year 35\, White Ox\nPublic holiday in Mongolia
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -570,9 +567,9 @@ UID:mongol-en-no15-2021-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210908
 DTEND;VALUE=DATE:20210909
-SUMMARY:Lunar day 2 · Middle autumn month (lunar day 1 omitted)
-DESCRIPTION:Middle autumn month\, Red Bird month\nCycle 17\, Year 35\, Whit
- e Ox
+SUMMARY:Lunar day 2 · Middle autumn month
+DESCRIPTION:lunar day 1 omitted\nMiddle autumn month\, Red Bird month\nCycl
+ e 17\, Year 35\, White Ox
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -591,9 +588,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20211105
 DTEND;VALUE=DATE:20211106
 SUMMARY:Mongolian Pride Day
-DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, Yellow 
- Pig month\nCycle 17\, Year 35\, White Ox\nBirthday of Chinggis Khaan\nPubl
- ic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst winter month\, Yellow Pig month\nCycle 17\, 
+ Year 35\, White Ox\nBirthday of Chinggis Khaan\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -623,8 +619,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220201
 DTEND;VALUE=DATE:20220202
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 · Last winter month\nLast winter month\, White Ox
-  month\nCycle 17\, Year 35\, White Ox
+DESCRIPTION:Lunar day 30\nLast winter month\, White Ox month\nCycle 17\, Ye
+ ar 35\, White Ox
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -634,8 +630,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220202
 DTEND;VALUE=DATE:20220203
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month\nFirst spring month\, Black T
- iger month\nCycle 17\, Year 36\, Black Tiger\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst spring month\, Black Tiger month\nCycle 17\,
+  Year 36\, Black Tiger\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -645,8 +641,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220203
 DTEND;VALUE=DATE:20220204
 SUMMARY:Lunar day 2
-DESCRIPTION:Lunar day 2 · First spring month\nFirst spring month\, Black T
- iger month\nCycle 17\, Year 36\, Black Tiger\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 2\nFirst spring month\, Black Tiger month\nCycle 17\,
+  Year 36\, Black Tiger\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -706,9 +702,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220614
 DTEND;VALUE=DATE:20220615
 SUMMARY:Ikh Düichen
-DESCRIPTION:Lunar day 15 · First summer month\nFirst summer month\, Blue S
- nake month\nCycle 17\, Year 36\, Black Tiger\nBuddha's birth\, enlightenme
- nt and parinirvana\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 15\nFirst summer month\, Blue Snake month\nCycle 17\,
+  Year 36\, Black Tiger\nBuddha's birth\, enlightenment and parinirvana\nPu
+ blic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -780,9 +776,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20221124
 DTEND;VALUE=DATE:20221125
 SUMMARY:Mongolian Pride Day
-DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, White P
- ig month\nCycle 17\, Year 36\, Black Tiger\nBirthday of Chinggis Khaan\nPu
- blic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst winter month\, White Pig month\nCycle 17\, Y
+ ear 36\, Black Tiger\nBirthday of Chinggis Khaan\nPublic holiday in Mongol
+ ia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -812,8 +808,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230220
 DTEND;VALUE=DATE:20230221
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 · Last winter month\nLast winter month\, Black Ox
-  month\nCycle 17\, Year 36\, Black Tiger
+DESCRIPTION:Lunar day 30\nLast winter month\, Black Ox month\nCycle 17\, Ye
+ ar 36\, Black Tiger
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -823,8 +819,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230221
 DTEND;VALUE=DATE:20230222
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month\nFirst spring month\, Blue Ti
- ger month\nCycle 17\, Year 37\, Black Rabbit\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst spring month\, Blue Tiger month\nCycle 17\, 
+ Year 37\, Black Rabbit\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -834,8 +830,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230222
 DTEND;VALUE=DATE:20230223
 SUMMARY:Lunar day 2
-DESCRIPTION:Lunar day 2 · First spring month\nFirst spring month\, Blue Ti
- ger month\nCycle 17\, Year 37\, Black Rabbit\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 2\nFirst spring month\, Blue Tiger month\nCycle 17\, 
+ Year 37\, Black Rabbit\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -845,9 +841,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230223
 DTEND;VALUE=DATE:20230224
 SUMMARY:Lunar day 3
-DESCRIPTION:Lunar day 3 · First spring month · 8th nine begins · It turn
- s slushy\nFirst spring month\, Blue Tiger month\nCycle 17\, Year 37\, Blac
- k Rabbit\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 3 · 8th nine begins · It turns slushy\nFirst spring
+  month\, Blue Tiger month\nCycle 17\, Year 37\, Black Rabbit\nPublic holid
+ ay in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -897,9 +893,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230604
 DTEND;VALUE=DATE:20230605
 SUMMARY:Ikh Düichen
-DESCRIPTION:Lunar day 15 · First summer month\nFirst summer month\, Red Sn
- ake month\nCycle 17\, Year 37\, Black Rabbit\nBuddha's birth\, enlightenme
- nt and parinirvana\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 15\nFirst summer month\, Red Snake month\nCycle 17\, 
+ Year 37\, Black Rabbit\nBuddha's birth\, enlightenment and parinirvana\nPu
+ blic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -969,9 +965,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20231114
 DTEND;VALUE=DATE:20231115
 SUMMARY:Mongolian Pride Day
-DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, Black P
- ig month\nCycle 17\, Year 37\, Black Rabbit\nBirthday of Chinggis Khaan\nP
- ublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst winter month\, Black Pig month\nCycle 17\, Y
+ ear 37\, Black Rabbit\nBirthday of Chinggis Khaan\nPublic holiday in Mongo
+ lia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1001,8 +997,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240209
 DTEND;VALUE=DATE:20240210
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 29 · Last winter month\nLast winter month\, Blue Ox 
- month\nCycle 17\, Year 37\, Black Rabbit
+DESCRIPTION:Lunar day 29\nLast winter month\, Blue Ox month\nCycle 17\, Yea
+ r 37\, Black Rabbit
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1012,8 +1008,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240210
 DTEND;VALUE=DATE:20240211
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month\nFirst spring month\, Red Tig
- er month\nCycle 17\, Year 38\, Blue Dragon\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst spring month\, Red Tiger month\nCycle 17\, Y
+ ear 38\, Blue Dragon\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1023,8 +1019,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240211
 DTEND;VALUE=DATE:20240212
 SUMMARY:Lunar day 2
-DESCRIPTION:Lunar day 2 · First spring month\nFirst spring month\, Red Tig
- er month\nCycle 17\, Year 38\, Blue Dragon\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 2\nFirst spring month\, Red Tiger month\nCycle 17\, Y
+ ear 38\, Blue Dragon\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1034,8 +1030,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240212
 DTEND;VALUE=DATE:20240213
 SUMMARY:Lunar day 3
-DESCRIPTION:Lunar day 3 · First spring month\nFirst spring month\, Red Tig
- er month\nCycle 17\, Year 38\, Blue Dragon\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 3\nFirst spring month\, Red Tiger month\nCycle 17\, Y
+ ear 38\, Blue Dragon\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1085,9 +1081,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240523
 DTEND;VALUE=DATE:20240524
 SUMMARY:Ikh Düichen
-DESCRIPTION:Lunar day 15 · First summer month\nFirst summer month\, Yellow
-  Snake month\nCycle 17\, Year 38\, Blue Dragon\nBuddha's birth\, enlighten
- ment and parinirvana\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 15\nFirst summer month\, Yellow Snake month\nCycle 17
+ \, Year 38\, Blue Dragon\nBuddha's birth\, enlightenment and parinirvana\n
+ Public holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1147,9 +1143,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20241102
 DTEND;VALUE=DATE:20241103
 SUMMARY:Mongolian Pride Day
-DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, Blue Pi
- g month\nCycle 17\, Year 38\, Blue Dragon\nBirthday of Chinggis Khaan\nPub
- lic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst winter month\, Blue Pig month\nCycle 17\, Ye
+ ar 38\, Blue Dragon\nBirthday of Chinggis Khaan\nPublic holiday in Mongoli
+ a
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1190,8 +1186,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250228
 DTEND;VALUE=DATE:20250301
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 · Last winter month\nLast winter month\, Red Ox m
- onth\nCycle 17\, Year 38\, Blue Dragon
+DESCRIPTION:Lunar day 30\nLast winter month\, Red Ox month\nCycle 17\, Year
+  38\, Blue Dragon
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1201,9 +1197,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250301
 DTEND;VALUE=DATE:20250302
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 2 · First spring month (lunar day 1 omitted)\nFirst 
- spring month\, Yellow Tiger month\nCycle 17\, Year 39\, Blue Snake\nPublic
-  holiday in Mongolia
+DESCRIPTION:Lunar day 2\nlunar day 1 omitted\nFirst spring month\, Yellow T
+ iger month\nCycle 17\, Year 39\, Blue Snake\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1213,8 +1208,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250302
 DTEND;VALUE=DATE:20250303
 SUMMARY:Lunar day 3
-DESCRIPTION:Lunar day 3 · First spring month\nFirst spring month\, Yellow 
- Tiger month\nCycle 17\, Year 39\, Blue Snake\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 3\nFirst spring month\, Yellow Tiger month\nCycle 17\
+ , Year 39\, Blue Snake\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1264,9 +1259,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250611
 DTEND;VALUE=DATE:20250612
 SUMMARY:Ikh Düichen
-DESCRIPTION:Lunar day 15 · First summer month\nFirst summer month\, White 
- Snake month\nCycle 17\, Year 39\, Blue Snake\nBuddha's birth\, enlightenme
- nt and parinirvana\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 15\nFirst summer month\, White Snake month\nCycle 17\
+ , Year 39\, Blue Snake\nBuddha's birth\, enlightenment and parinirvana\nPu
+ blic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1326,9 +1321,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20251121
 DTEND;VALUE=DATE:20251122
 SUMMARY:Mongolian Pride Day
-DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, Red Pig
-  month\nCycle 17\, Year 39\, Blue Snake\nBirthday of Chinggis Khaan\nPubli
- c holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst winter month\, Red Pig month\nCycle 17\, Yea
+ r 39\, Blue Snake\nBirthday of Chinggis Khaan\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1358,8 +1352,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260217
 DTEND;VALUE=DATE:20260218
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 · Last winter month\nLast winter month\, Yellow O
- x month\nCycle 17\, Year 39\, Blue Snake
+DESCRIPTION:Lunar day 30\nLast winter month\, Yellow Ox month\nCycle 17\, Y
+ ear 39\, Blue Snake
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1369,8 +1363,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260218
 DTEND;VALUE=DATE:20260219
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month\nFirst spring month\, White T
- iger month\nCycle 17\, Year 40\, Red Horse\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst spring month\, White Tiger month\nCycle 17\,
+  Year 40\, Red Horse\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1380,8 +1374,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260219
 DTEND;VALUE=DATE:20260220
 SUMMARY:Lunar day 2
-DESCRIPTION:Lunar day 2 · First spring month\nFirst spring month\, White T
- iger month\nCycle 17\, Year 40\, Red Horse\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 2\nFirst spring month\, White Tiger month\nCycle 17\,
+  Year 40\, Red Horse\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1391,8 +1385,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260220
 DTEND;VALUE=DATE:20260221
 SUMMARY:Lunar day 3
-DESCRIPTION:Lunar day 3 · First spring month\nFirst spring month\, White T
- iger month\nCycle 17\, Year 40\, Red Horse\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 3\nFirst spring month\, White Tiger month\nCycle 17\,
+  Year 40\, Red Horse\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1411,9 +1405,9 @@ UID:mongol-en-no15-2026-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
-SUMMARY:Lunar day 2 · Middle spring month (lunar day 1 omitted)
-DESCRIPTION:Middle spring month\, White Rabbit month\nCycle 17\, Year 40\, 
- Red Horse
+SUMMARY:Lunar day 2 · Middle spring month
+DESCRIPTION:lunar day 1 omitted\nMiddle spring month\, White Rabbit month\n
+ Cycle 17\, Year 40\, Red Horse
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1442,9 +1436,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260601
 SUMMARY:Ikh Düichen
-DESCRIPTION:Lunar day 15 · First summer month\nFirst summer month\, Black 
- Snake month\nCycle 17\, Year 40\, Red Horse\nBuddha's birth\, enlightenmen
- t and parinirvana\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 15\nFirst summer month\, Black Snake month\nCycle 17\
+ , Year 40\, Red Horse\nBuddha's birth\, enlightenment and parinirvana\nPub
+ lic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1464,8 +1458,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260716
 SUMMARY:Naadam (National Festival)
-DESCRIPTION:Lunar day 1 · Last summer month\nLast summer month\, Blue Shee
- p month\nCycle 17\, Year 40\, Red Horse\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nLast summer month\, Blue Sheep month\nCycle 17\, Y
+ ear 40\, Red Horse\nPublic holiday in Mongolia
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1505,9 +1499,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Mongolian Pride Day
-DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, Yellow 
- Pig month\nCycle 17\, Year 40\, Red Horse\nBirthday of Chinggis Khaan\nPub
- lic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst winter month\, Yellow Pig month\nCycle 17\, 
+ Year 40\, Red Horse\nBirthday of Chinggis Khaan\nPublic holiday in Mongoli
+ a
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1537,8 +1531,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 · Last winter month\nLast winter month\, White Ox
-  month\nCycle 17\, Year 40\, Red Horse
+DESCRIPTION:Lunar day 30\nLast winter month\, White Ox month\nCycle 17\, Ye
+ ar 40\, Red Horse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1548,8 +1542,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month\nFirst spring month\, Black T
- iger month\nCycle 17\, Year 41\, Red Sheep\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst spring month\, Black Tiger month\nCycle 17\,
+  Year 41\, Red Sheep\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1559,8 +1553,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270209
 SUMMARY:Lunar day 2
-DESCRIPTION:Lunar day 2 · First spring month\nFirst spring month\, Black T
- iger month\nCycle 17\, Year 41\, Red Sheep\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 2\nFirst spring month\, Black Tiger month\nCycle 17\,
+  Year 41\, Red Sheep\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1570,8 +1564,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
 SUMMARY:Lunar day 3
-DESCRIPTION:Lunar day 3 · First spring month\nFirst spring month\, Black T
- iger month\nCycle 17\, Year 41\, Red Sheep\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 3\nFirst spring month\, Black Tiger month\nCycle 17\,
+  Year 41\, Red Sheep\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1621,9 +1615,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
 SUMMARY:Ikh Düichen
-DESCRIPTION:Lunar day 15 · First summer month\nFirst summer month\, Blue S
- nake month\nCycle 17\, Year 41\, Red Sheep\nBuddha's birth\, enlightenment
-  and parinirvana\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 15\nFirst summer month\, Blue Snake month\nCycle 17\,
+  Year 41\, Red Sheep\nBuddha's birth\, enlightenment and parinirvana\nPubl
+ ic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1672,9 +1666,9 @@ UID:mongol-en-no15-2027-09L-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20271001
 DTEND;VALUE=DATE:20271002
-SUMMARY:Lunar day 2 · Last autumn month (Leap) (lunar day 1 omitted)
-DESCRIPTION:Last autumn month (Leap)\, White Dog month\nCycle 17\, Year 41\
- , Red Sheep
+SUMMARY:Lunar day 2 · Last autumn month (Leap)
+DESCRIPTION:lunar day 1 omitted\nLast autumn month (Leap)\, White Dog month
+ \nCycle 17\, Year 41\, Red Sheep
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1693,9 +1687,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20271129
 DTEND;VALUE=DATE:20271130
 SUMMARY:Mongolian Pride Day
-DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, White P
- ig month\nCycle 17\, Year 41\, Red Sheep\nBirthday of Chinggis Khaan\nPubl
- ic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst winter month\, White Pig month\nCycle 17\, Y
+ ear 41\, Red Sheep\nBirthday of Chinggis Khaan\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1726,8 +1719,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280225
 DTEND;VALUE=DATE:20280226
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 · Last winter month\nLast winter month\, Black Ox
-  month\nCycle 17\, Year 41\, Red Sheep
+DESCRIPTION:Lunar day 30\nLast winter month\, Black Ox month\nCycle 17\, Ye
+ ar 41\, Red Sheep
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1737,8 +1730,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280226
 DTEND;VALUE=DATE:20280227
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month\nFirst spring month\, Blue Ti
- ger month\nCycle 17\, Year 42\, Yellow Monkey\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst spring month\, Blue Tiger month\nCycle 17\, 
+ Year 42\, Yellow Monkey\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1748,8 +1741,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280227
 DTEND;VALUE=DATE:20280228
 SUMMARY:Lunar day 2
-DESCRIPTION:Lunar day 2 · First spring month\nFirst spring month\, Blue Ti
- ger month\nCycle 17\, Year 42\, Yellow Monkey\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 2\nFirst spring month\, Blue Tiger month\nCycle 17\, 
+ Year 42\, Yellow Monkey\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1759,8 +1752,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280228
 DTEND;VALUE=DATE:20280229
 SUMMARY:Lunar day 3
-DESCRIPTION:Lunar day 3 · First spring month\nFirst spring month\, Blue Ti
- ger month\nCycle 17\, Year 42\, Yellow Monkey\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 3\nFirst spring month\, Blue Tiger month\nCycle 17\, 
+ Year 42\, Yellow Monkey\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1810,9 +1803,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280607
 DTEND;VALUE=DATE:20280608
 SUMMARY:Ikh Düichen
-DESCRIPTION:Lunar day 15 · First summer month\nFirst summer month\, Red Sn
- ake month\nCycle 17\, Year 42\, Yellow Monkey\nBuddha's birth\, enlightenm
- ent and parinirvana\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 15\nFirst summer month\, Red Snake month\nCycle 17\, 
+ Year 42\, Yellow Monkey\nBuddha's birth\, enlightenment and parinirvana\nP
+ ublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1861,9 +1854,9 @@ UID:mongol-en-no15-2028-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20281019
 DTEND;VALUE=DATE:20281020
-SUMMARY:Lunar day 2 · Last autumn month (lunar day 1 omitted)
-DESCRIPTION:Last autumn month\, Black Dog month\nCycle 17\, Year 42\, Yello
- w Monkey
+SUMMARY:Lunar day 2 · Last autumn month
+DESCRIPTION:lunar day 1 omitted\nLast autumn month\, Black Dog month\nCycle
+  17\, Year 42\, Yellow Monkey
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1872,9 +1865,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20281117
 DTEND;VALUE=DATE:20281118
 SUMMARY:Mongolian Pride Day
-DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, Black P
- ig month\nCycle 17\, Year 42\, Yellow Monkey\nBirthday of Chinggis Khaan\n
- Public holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst winter month\, Black Pig month\nCycle 17\, Y
+ ear 42\, Yellow Monkey\nBirthday of Chinggis Khaan\nPublic holiday in Mong
+ olia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1904,8 +1897,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290213
 DTEND;VALUE=DATE:20290214
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 · Last winter month\nLast winter month\, Blue Ox 
- month\nCycle 17\, Year 42\, Yellow Monkey
+DESCRIPTION:Lunar day 30\nLast winter month\, Blue Ox month\nCycle 17\, Yea
+ r 42\, Yellow Monkey
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1915,9 +1908,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290214
 DTEND;VALUE=DATE:20290215
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month · 7th nine begins · Hilltop
- s turn bare\nFirst spring month\, Red Tiger month\nCycle 17\, Year 43\, Ye
- llow Bird\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1 · 7th nine begins · Hilltops turn bare\nFirst spr
+ ing month\, Red Tiger month\nCycle 17\, Year 43\, Yellow Bird\nPublic holi
+ day in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1927,8 +1920,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290215
 DTEND;VALUE=DATE:20290216
 SUMMARY:Lunar day 2
-DESCRIPTION:Lunar day 2 · First spring month\nFirst spring month\, Red Tig
- er month\nCycle 17\, Year 43\, Yellow Bird\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 2\nFirst spring month\, Red Tiger month\nCycle 17\, Y
+ ear 43\, Yellow Bird\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1938,8 +1931,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290216
 DTEND;VALUE=DATE:20290217
 SUMMARY:Lunar day 3
-DESCRIPTION:Lunar day 3 · First spring month\nFirst spring month\, Red Tig
- er month\nCycle 17\, Year 43\, Yellow Bird\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 3\nFirst spring month\, Red Tiger month\nCycle 17\, Y
+ ear 43\, Yellow Bird\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1989,9 +1982,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290527
 DTEND;VALUE=DATE:20290528
 SUMMARY:Ikh Düichen
-DESCRIPTION:Lunar day 15 · First summer month\nFirst summer month\, Yellow
-  Snake month\nCycle 17\, Year 43\, Yellow Bird\nBuddha's birth\, enlighten
- ment and parinirvana\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 15\nFirst summer month\, Yellow Snake month\nCycle 17
+ \, Year 43\, Yellow Bird\nBuddha's birth\, enlightenment and parinirvana\n
+ Public holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2011,8 +2004,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290712
 DTEND;VALUE=DATE:20290713
 SUMMARY:Naadam (National Festival)
-DESCRIPTION:Lunar day 1 · Last summer month\nLast summer month\, White She
- ep month\nCycle 17\, Year 43\, Yellow Bird\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nLast summer month\, White Sheep month\nCycle 17\, 
+ Year 43\, Yellow Bird\nPublic holiday in Mongolia
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2052,9 +2045,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20291107
 DTEND;VALUE=DATE:20291108
 SUMMARY:Mongolian Pride Day
-DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, Blue Pi
- g month\nCycle 17\, Year 43\, Yellow Bird\nBirthday of Chinggis Khaan\nPub
- lic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst winter month\, Blue Pig month\nCycle 17\, Ye
+ ar 43\, Yellow Bird\nBirthday of Chinggis Khaan\nPublic holiday in Mongoli
+ a
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2073,9 +2066,9 @@ UID:mongol-en-no15-2029-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300105
 DTEND;VALUE=DATE:20300106
-SUMMARY:Lunar day 2 · Last winter month (lunar day 1 omitted)
-DESCRIPTION:Last winter month\, Red Ox month\nCycle 17\, Year 43\, Yellow B
- ird
+SUMMARY:Lunar day 2 · Last winter month
+DESCRIPTION:lunar day 1 omitted\nLast winter month\, Red Ox month\nCycle 17
+ \, Year 43\, Yellow Bird
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2084,8 +2077,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300202
 DTEND;VALUE=DATE:20300203
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 · Last winter month\nLast winter month\, Red Ox m
- onth\nCycle 17\, Year 43\, Yellow Bird
+DESCRIPTION:Lunar day 30\nLast winter month\, Red Ox month\nCycle 17\, Year
+  43\, Yellow Bird
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2095,8 +2088,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300203
 DTEND;VALUE=DATE:20300204
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month\nFirst spring month\, Yellow 
- Tiger month\nCycle 17\, Year 44\, White Dog\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst spring month\, Yellow Tiger month\nCycle 17\
+ , Year 44\, White Dog\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2106,8 +2099,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300204
 DTEND;VALUE=DATE:20300205
 SUMMARY:Lunar day 2
-DESCRIPTION:Lunar day 2 · First spring month\nFirst spring month\, Yellow 
- Tiger month\nCycle 17\, Year 44\, White Dog\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 2\nFirst spring month\, Yellow Tiger month\nCycle 17\
+ , Year 44\, White Dog\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2117,9 +2110,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300205
 DTEND;VALUE=DATE:20300206
 SUMMARY:Lunar day 3
-DESCRIPTION:Lunar day 3 · First spring month · 6th nine begins · Paths s
- tart to show\nFirst spring month\, Yellow Tiger month\nCycle 17\, Year 44\
- , White Dog\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 3 · 6th nine begins · Paths start to show\nFirst sp
+ ring month\, Yellow Tiger month\nCycle 17\, Year 44\, White Dog\nPublic ho
+ liday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2169,9 +2162,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300517
 DTEND;VALUE=DATE:20300518
 SUMMARY:Ikh Düichen
-DESCRIPTION:Lunar day 15 · First summer month\nFirst summer month\, White 
- Snake month\nCycle 17\, Year 44\, White Dog\nBuddha's birth\, enlightenmen
- t and parinirvana\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 15\nFirst summer month\, White Snake month\nCycle 17\
+ , Year 44\, White Dog\nBuddha's birth\, enlightenment and parinirvana\nPub
+ lic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2241,9 +2234,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20301126
 DTEND;VALUE=DATE:20301127
 SUMMARY:Mongolian Pride Day · Republic Day
-DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, Red Pig
-  month\nCycle 17\, Year 44\, White Dog\nBirthday of Chinggis Khaan\nPublic
-  holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst winter month\, Red Pig month\nCycle 17\, Yea
+ r 44\, White Dog\nBirthday of Chinggis Khaan\nPublic holiday in Mongolia
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2273,8 +2265,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310221
 DTEND;VALUE=DATE:20310222
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 · Last winter month\nLast winter month\, Yellow O
- x month\nCycle 17\, Year 44\, White Dog
+DESCRIPTION:Lunar day 30\nLast winter month\, Yellow Ox month\nCycle 17\, Y
+ ear 44\, White Dog
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2284,8 +2276,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310222
 DTEND;VALUE=DATE:20310223
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month\nFirst spring month\, White T
- iger month\nCycle 17\, Year 45\, White Pig\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst spring month\, White Tiger month\nCycle 17\,
+  Year 45\, White Pig\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2295,9 +2287,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310223
 DTEND;VALUE=DATE:20310224
 SUMMARY:Lunar day 2
-DESCRIPTION:Lunar day 2 · First spring month · 8th nine begins · It turn
- s slushy\nFirst spring month\, White Tiger month\nCycle 17\, Year 45\, Whi
- te Pig\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 2 · 8th nine begins · It turns slushy\nFirst spring
+  month\, White Tiger month\nCycle 17\, Year 45\, White Pig\nPublic holiday
+  in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2307,8 +2299,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310224
 DTEND;VALUE=DATE:20310225
 SUMMARY:Lunar day 3
-DESCRIPTION:Lunar day 3 · First spring month\nFirst spring month\, White T
- iger month\nCycle 17\, Year 45\, White Pig\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 3\nFirst spring month\, White Tiger month\nCycle 17\,
+  Year 45\, White Pig\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2358,9 +2350,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310605
 DTEND;VALUE=DATE:20310606
 SUMMARY:Ikh Düichen
-DESCRIPTION:Lunar day 15 · First summer month\nFirst summer month\, Black 
- Snake month\nCycle 17\, Year 45\, White Pig\nBuddha's birth\, enlightenmen
- t and parinirvana\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 15\nFirst summer month\, Black Snake month\nCycle 17\
+ , Year 45\, White Pig\nBuddha's birth\, enlightenment and parinirvana\nPub
+ lic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2420,9 +2412,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20311115
 DTEND;VALUE=DATE:20311116
 SUMMARY:Mongolian Pride Day
-DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, Yellow 
- Pig month\nCycle 17\, Year 45\, White Pig\nBirthday of Chinggis Khaan\nPub
- lic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst winter month\, Yellow Pig month\nCycle 17\, 
+ Year 45\, White Pig\nBirthday of Chinggis Khaan\nPublic holiday in Mongoli
+ a
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2452,8 +2444,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320211
 DTEND;VALUE=DATE:20320212
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 · Last winter month\nLast winter month\, White Ox
-  month\nCycle 17\, Year 45\, White Pig
+DESCRIPTION:Lunar day 30\nLast winter month\, White Ox month\nCycle 17\, Ye
+ ar 45\, White Pig
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2463,8 +2455,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320212
 DTEND;VALUE=DATE:20320213
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month\nFirst spring month\, Black T
- iger month\nCycle 17\, Year 46\, Black Mouse\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst spring month\, Black Tiger month\nCycle 17\,
+  Year 46\, Black Mouse\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2474,8 +2466,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320213
 DTEND;VALUE=DATE:20320214
 SUMMARY:Lunar day 2
-DESCRIPTION:Lunar day 2 · First spring month\nFirst spring month\, Black T
- iger month\nCycle 17\, Year 46\, Black Mouse\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 2\nFirst spring month\, Black Tiger month\nCycle 17\,
+  Year 46\, Black Mouse\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2525,9 +2517,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320525
 DTEND;VALUE=DATE:20320526
 SUMMARY:Ikh Düichen
-DESCRIPTION:Lunar day 15 · First summer month\nFirst summer month\, Blue S
- nake month\nCycle 17\, Year 46\, Black Mouse\nBuddha's birth\, enlightenme
- nt and parinirvana\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 15\nFirst summer month\, Blue Snake month\nCycle 17\,
+  Year 46\, Black Mouse\nBuddha's birth\, enlightenment and parinirvana\nPu
+ blic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2587,9 +2579,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20321104
 DTEND;VALUE=DATE:20321105
 SUMMARY:Mongolian Pride Day
-DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, White P
- ig month\nCycle 17\, Year 46\, Black Mouse\nBirthday of Chinggis Khaan\nPu
- blic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst winter month\, White Pig month\nCycle 17\, Y
+ ear 46\, Black Mouse\nBirthday of Chinggis Khaan\nPublic holiday in Mongol
+ ia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2619,8 +2611,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330130
 DTEND;VALUE=DATE:20330131
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 · Last winter month\nLast winter month\, Black Ox
-  month\nCycle 17\, Year 46\, Black Mouse
+DESCRIPTION:Lunar day 30\nLast winter month\, Black Ox month\nCycle 17\, Ye
+ ar 46\, Black Mouse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2630,8 +2622,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330131
 DTEND;VALUE=DATE:20330201
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month\nFirst spring month\, Blue Ti
- ger month\nCycle 17\, Year 47\, Black Ox\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst spring month\, Blue Tiger month\nCycle 17\, 
+ Year 47\, Black Ox\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2641,8 +2633,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330201
 DTEND;VALUE=DATE:20330202
 SUMMARY:Lunar day 2
-DESCRIPTION:Lunar day 2 · First spring month\nFirst spring month\, Blue Ti
- ger month\nCycle 17\, Year 47\, Black Ox\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 2\nFirst spring month\, Blue Tiger month\nCycle 17\, 
+ Year 47\, Black Ox\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2652,8 +2644,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330202
 DTEND;VALUE=DATE:20330203
 SUMMARY:Lunar day 3
-DESCRIPTION:Lunar day 3 · First spring month\nFirst spring month\, Blue Ti
- ger month\nCycle 17\, Year 47\, Black Ox\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 3\nFirst spring month\, Blue Tiger month\nCycle 17\, 
+ Year 47\, Black Ox\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2713,9 +2705,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330612
 DTEND;VALUE=DATE:20330613
 SUMMARY:Ikh Düichen
-DESCRIPTION:Lunar day 15 · First summer month\nFirst summer month\, Red Sn
- ake month\nCycle 17\, Year 47\, Black Ox\nBuddha's birth\, enlightenment a
- nd parinirvana\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 15\nFirst summer month\, Red Snake month\nCycle 17\, 
+ Year 47\, Black Ox\nBuddha's birth\, enlightenment and parinirvana\nPublic
+  holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2775,9 +2767,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20331122
 DTEND;VALUE=DATE:20331123
 SUMMARY:Mongolian Pride Day
-DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, Black P
- ig month\nCycle 17\, Year 47\, Black Ox\nBirthday of Chinggis Khaan\nPubli
- c holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst winter month\, Black Pig month\nCycle 17\, Y
+ ear 47\, Black Ox\nBirthday of Chinggis Khaan\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2808,8 +2799,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340218
 DTEND;VALUE=DATE:20340219
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 · Last winter month\nLast winter month\, Blue Ox 
- month\nCycle 17\, Year 47\, Black Ox
+DESCRIPTION:Lunar day 30\nLast winter month\, Blue Ox month\nCycle 17\, Yea
+ r 47\, Black Ox
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2819,8 +2810,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340219
 DTEND;VALUE=DATE:20340220
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month\nFirst spring month\, Red Tig
- er month\nCycle 17\, Year 48\, Blue Tiger\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst spring month\, Red Tiger month\nCycle 17\, Y
+ ear 48\, Blue Tiger\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2830,8 +2821,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340220
 DTEND;VALUE=DATE:20340221
 SUMMARY:Lunar day 2
-DESCRIPTION:Lunar day 2 · First spring month\nFirst spring month\, Red Tig
- er month\nCycle 17\, Year 48\, Blue Tiger\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 2\nFirst spring month\, Red Tiger month\nCycle 17\, Y
+ ear 48\, Blue Tiger\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2841,8 +2832,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340221
 DTEND;VALUE=DATE:20340222
 SUMMARY:Lunar day 3
-DESCRIPTION:Lunar day 3 · First spring month\nFirst spring month\, Red Tig
- er month\nCycle 17\, Year 48\, Blue Tiger\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 3\nFirst spring month\, Red Tiger month\nCycle 17\, Y
+ ear 48\, Blue Tiger\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2892,9 +2883,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340601
 DTEND;VALUE=DATE:20340602
 SUMMARY:Ikh Düichen · Children's Day
-DESCRIPTION:Lunar day 15 · First summer month\nFirst summer month\, Yellow
-  Snake month\nCycle 17\, Year 48\, Blue Tiger\nBuddha's birth\, enlightenm
- ent and parinirvana\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 15\nFirst summer month\, Yellow Snake month\nCycle 17
+ \, Year 48\, Blue Tiger\nBuddha's birth\, enlightenment and parinirvana\nP
+ ublic holiday in Mongolia
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2904,9 +2895,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340602
 DTEND;VALUE=DATE:20340603
 SUMMARY:Ikh Düichen (repeated)
-DESCRIPTION:Lunar day 15 (repeated) · First summer month\nFirst summer mon
- th\, Yellow Snake month\nCycle 17\, Year 48\, Blue Tiger\nBuddha's birth\,
-  enlightenment and parinirvana\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 15 (repeated)\nFirst summer month\, Yellow Snake mont
+ h\nCycle 17\, Year 48\, Blue Tiger\nBuddha's birth\, enlightenment and par
+ inirvana\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2966,9 +2957,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20341111
 DTEND;VALUE=DATE:20341112
 SUMMARY:Mongolian Pride Day
-DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, Blue Pi
- g month\nCycle 17\, Year 48\, Blue Tiger\nBirthday of Chinggis Khaan\nPubl
- ic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst winter month\, Blue Pig month\nCycle 17\, Ye
+ ar 48\, Blue Tiger\nBirthday of Chinggis Khaan\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2998,8 +2988,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350208
 DTEND;VALUE=DATE:20350209
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 · Last winter month\nLast winter month\, Red Ox m
- onth\nCycle 17\, Year 48\, Blue Tiger
+DESCRIPTION:Lunar day 30\nLast winter month\, Red Ox month\nCycle 17\, Year
+  48\, Blue Tiger
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3009,8 +2999,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350209
 DTEND;VALUE=DATE:20350210
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month\nFirst spring month\, Yellow 
- Tiger month\nCycle 17\, Year 49\, Blue Rabbit\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst spring month\, Yellow Tiger month\nCycle 17\
+ , Year 49\, Blue Rabbit\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3020,8 +3010,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350210
 DTEND;VALUE=DATE:20350211
 SUMMARY:Lunar day 2
-DESCRIPTION:Lunar day 2 · First spring month\nFirst spring month\, Yellow 
- Tiger month\nCycle 17\, Year 49\, Blue Rabbit\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 2\nFirst spring month\, Yellow Tiger month\nCycle 17\
+ , Year 49\, Blue Rabbit\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3031,8 +3021,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350211
 DTEND;VALUE=DATE:20350212
 SUMMARY:Lunar day 3
-DESCRIPTION:Lunar day 3 · First spring month\nFirst spring month\, Yellow 
- Tiger month\nCycle 17\, Year 49\, Blue Rabbit\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 3\nFirst spring month\, Yellow Tiger month\nCycle 17\
+ , Year 49\, Blue Rabbit\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3082,9 +3072,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350522
 DTEND;VALUE=DATE:20350523
 SUMMARY:Ikh Düichen
-DESCRIPTION:Lunar day 15 · First summer month\nFirst summer month\, White 
- Snake month\nCycle 17\, Year 49\, Blue Rabbit\nBuddha's birth\, enlightenm
- ent and parinirvana\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 15\nFirst summer month\, White Snake month\nCycle 17\
+ , Year 49\, Blue Rabbit\nBuddha's birth\, enlightenment and parinirvana\nP
+ ublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3123,9 +3113,9 @@ UID:mongol-en-no15-2035-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350903
 DTEND;VALUE=DATE:20350904
-SUMMARY:Lunar day 2 · Middle autumn month (lunar day 1 omitted)
-DESCRIPTION:Middle autumn month\, Blue Bird month\nCycle 17\, Year 49\, Blu
- e Rabbit
+SUMMARY:Lunar day 2 · Middle autumn month
+DESCRIPTION:lunar day 1 omitted\nMiddle autumn month\, Blue Bird month\nCyc
+ le 17\, Year 49\, Blue Rabbit
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3154,9 +3144,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20351130
 DTEND;VALUE=DATE:20351201
 SUMMARY:Mongolian Pride Day
-DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, Red Pig
-  month\nCycle 17\, Year 49\, Blue Rabbit\nBirthday of Chinggis Khaan\nPubl
- ic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst winter month\, Red Pig month\nCycle 17\, Yea
+ r 49\, Blue Rabbit\nBirthday of Chinggis Khaan\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3186,8 +3175,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360227
 DTEND;VALUE=DATE:20360228
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 (repeated) · Last winter month\nLast winter month
- \, Yellow Ox month\nCycle 17\, Year 49\, Blue Rabbit
+DESCRIPTION:Lunar day 30 (repeated)\nLast winter month\, Yellow Ox month\nC
+ ycle 17\, Year 49\, Blue Rabbit
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3197,8 +3186,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360228
 DTEND;VALUE=DATE:20360229
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month\nFirst spring month\, White T
- iger month\nCycle 17\, Year 50\, Red Dragon\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst spring month\, White Tiger month\nCycle 17\,
+  Year 50\, Red Dragon\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3208,8 +3197,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360229
 DTEND;VALUE=DATE:20360301
 SUMMARY:Lunar day 2
-DESCRIPTION:Lunar day 2 · First spring month\nFirst spring month\, White T
- iger month\nCycle 17\, Year 50\, Red Dragon\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 2\nFirst spring month\, White Tiger month\nCycle 17\,
+  Year 50\, Red Dragon\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3219,8 +3208,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360301
 DTEND;VALUE=DATE:20360302
 SUMMARY:Lunar day 3
-DESCRIPTION:Lunar day 3 · First spring month\nFirst spring month\, White T
- iger month\nCycle 17\, Year 50\, Red Dragon\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 3\nFirst spring month\, White Tiger month\nCycle 17\,
+  Year 50\, Red Dragon\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3270,9 +3259,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360608
 DTEND;VALUE=DATE:20360609
 SUMMARY:Ikh Düichen
-DESCRIPTION:Lunar day 15 · First summer month\nFirst summer month\, Black 
- Snake month\nCycle 17\, Year 50\, Red Dragon\nBuddha's birth\, enlightenme
- nt and parinirvana\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 15\nFirst summer month\, Black Snake month\nCycle 17\
+ , Year 50\, Red Dragon\nBuddha's birth\, enlightenment and parinirvana\nPu
+ blic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3311,9 +3300,9 @@ UID:mongol-en-no15-2036-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360921
 DTEND;VALUE=DATE:20360922
-SUMMARY:Lunar day 2 · Middle autumn month (lunar day 1 omitted)
-DESCRIPTION:Middle autumn month\, Red Bird month\nCycle 17\, Year 50\, Red 
- Dragon
+SUMMARY:Lunar day 2 · Middle autumn month
+DESCRIPTION:lunar day 1 omitted\nMiddle autumn month\, Red Bird month\nCycl
+ e 17\, Year 50\, Red Dragon
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3332,9 +3321,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20361118
 DTEND;VALUE=DATE:20361119
 SUMMARY:Mongolian Pride Day
-DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, Yellow 
- Pig month\nCycle 17\, Year 50\, Red Dragon\nBirthday of Chinggis Khaan\nPu
- blic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst winter month\, Yellow Pig month\nCycle 17\, 
+ Year 50\, Red Dragon\nBirthday of Chinggis Khaan\nPublic holiday in Mongol
+ ia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3364,8 +3353,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370215
 DTEND;VALUE=DATE:20370216
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 (repeated) · Last winter month\nLast winter month
- \, White Ox month\nCycle 17\, Year 50\, Red Dragon
+DESCRIPTION:Lunar day 30 (repeated)\nLast winter month\, White Ox month\nCy
+ cle 17\, Year 50\, Red Dragon
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3375,8 +3364,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370216
 DTEND;VALUE=DATE:20370217
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month\nFirst spring month\, Black T
- iger month\nCycle 17\, Year 51\, Red Snake\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst spring month\, Black Tiger month\nCycle 17\,
+  Year 51\, Red Snake\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3386,8 +3375,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370217
 DTEND;VALUE=DATE:20370218
 SUMMARY:Lunar day 2
-DESCRIPTION:Lunar day 2 · First spring month\nFirst spring month\, Black T
- iger month\nCycle 17\, Year 51\, Red Snake\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 2\nFirst spring month\, Black Tiger month\nCycle 17\,
+  Year 51\, Red Snake\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3397,8 +3386,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370218
 DTEND;VALUE=DATE:20370219
 SUMMARY:Lunar day 3
-DESCRIPTION:Lunar day 3 · First spring month\nFirst spring month\, Black T
- iger month\nCycle 17\, Year 51\, Red Snake\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 3\nFirst spring month\, Black Tiger month\nCycle 17\,
+  Year 51\, Red Snake\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3448,9 +3437,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370529
 DTEND;VALUE=DATE:20370530
 SUMMARY:Ikh Düichen
-DESCRIPTION:Lunar day 15 · First summer month\nFirst summer month\, Blue S
- nake month\nCycle 17\, Year 51\, Red Snake\nBuddha's birth\, enlightenment
-  and parinirvana\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 15\nFirst summer month\, Blue Snake month\nCycle 17\,
+  Year 51\, Red Snake\nBuddha's birth\, enlightenment and parinirvana\nPubl
+ ic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3470,8 +3459,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370714
 DTEND;VALUE=DATE:20370715
 SUMMARY:Naadam (National Festival)
-DESCRIPTION:Lunar day 1 · Last summer month\nLast summer month\, Red Sheep
-  month\nCycle 17\, Year 51\, Red Snake\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nLast summer month\, Red Sheep month\nCycle 17\, Ye
+ ar 51\, Red Snake\nPublic holiday in Mongolia
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3500,9 +3489,9 @@ UID:mongol-en-no15-2037-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20371010
 DTEND;VALUE=DATE:20371011
-SUMMARY:Lunar day 2 · Last autumn month (lunar day 1 omitted)
-DESCRIPTION:Last autumn month\, White Dog month\nCycle 17\, Year 51\, Red S
- nake
+SUMMARY:Lunar day 2 · Last autumn month
+DESCRIPTION:lunar day 1 omitted\nLast autumn month\, White Dog month\nCycle
+  17\, Year 51\, Red Snake
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3511,9 +3500,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20371108
 DTEND;VALUE=DATE:20371109
 SUMMARY:Mongolian Pride Day
-DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, White P
- ig month\nCycle 17\, Year 51\, Red Snake\nBirthday of Chinggis Khaan\nPubl
- ic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst winter month\, White Pig month\nCycle 17\, Y
+ ear 51\, Red Snake\nBirthday of Chinggis Khaan\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3543,8 +3531,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380204
 DTEND;VALUE=DATE:20380205
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 · Last winter month\nLast winter month\, Black Ox
-  month\nCycle 17\, Year 51\, Red Snake
+DESCRIPTION:Lunar day 30\nLast winter month\, Black Ox month\nCycle 17\, Ye
+ ar 51\, Red Snake
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3554,9 +3542,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380205
 DTEND;VALUE=DATE:20380206
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month · 6th nine begins · Paths s
- tart to show\nFirst spring month\, Blue Tiger month\nCycle 17\, Year 52\, 
- Yellow Horse\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1 · 6th nine begins · Paths start to show\nFirst sp
+ ring month\, Blue Tiger month\nCycle 17\, Year 52\, Yellow Horse\nPublic h
+ oliday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3566,8 +3554,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380206
 DTEND;VALUE=DATE:20380207
 SUMMARY:Lunar day 2
-DESCRIPTION:Lunar day 2 · First spring month\nFirst spring month\, Blue Ti
- ger month\nCycle 17\, Year 52\, Yellow Horse\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 2\nFirst spring month\, Blue Tiger month\nCycle 17\, 
+ Year 52\, Yellow Horse\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3577,8 +3565,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380207
 DTEND;VALUE=DATE:20380208
 SUMMARY:Lunar day 3
-DESCRIPTION:Lunar day 3 · First spring month\nFirst spring month\, Blue Ti
- ger month\nCycle 17\, Year 52\, Yellow Horse\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 3\nFirst spring month\, Blue Tiger month\nCycle 17\, 
+ Year 52\, Yellow Horse\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3628,9 +3616,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380518
 DTEND;VALUE=DATE:20380519
 SUMMARY:Ikh Düichen
-DESCRIPTION:Lunar day 15 · First summer month\nFirst summer month\, Red Sn
- ake month\nCycle 17\, Year 52\, Yellow Horse\nBuddha's birth\, enlightenme
- nt and parinirvana\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 15\nFirst summer month\, Red Snake month\nCycle 17\, 
+ Year 52\, Yellow Horse\nBuddha's birth\, enlightenment and parinirvana\nPu
+ blic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3659,9 +3647,9 @@ UID:mongol-en-no15-2038-07L-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380802
 DTEND;VALUE=DATE:20380803
-SUMMARY:Lunar day 2 · First autumn month (Leap) (lunar day 1 omitted)
-DESCRIPTION:First autumn month (Leap)\, White Monkey month\nCycle 17\, Year
-  52\, Yellow Horse
+SUMMARY:Lunar day 2 · First autumn month (Leap)
+DESCRIPTION:lunar day 1 omitted\nFirst autumn month (Leap)\, White Monkey m
+ onth\nCycle 17\, Year 52\, Yellow Horse
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3700,9 +3688,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20381127
 DTEND;VALUE=DATE:20381128
 SUMMARY:Mongolian Pride Day
-DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, Black P
- ig month\nCycle 17\, Year 52\, Yellow Horse\nBirthday of Chinggis Khaan\nP
- ublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst winter month\, Black Pig month\nCycle 17\, Y
+ ear 52\, Yellow Horse\nBirthday of Chinggis Khaan\nPublic holiday in Mongo
+ lia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3732,9 +3720,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390223
 DTEND;VALUE=DATE:20390224
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 · Last winter month · 8th nine begins · It turn
- s slushy\nLast winter month\, Blue Ox month\nCycle 17\, Year 52\, Yellow H
- orse
+DESCRIPTION:Lunar day 30 · 8th nine begins · It turns slushy\nLast winter
+  month\, Blue Ox month\nCycle 17\, Year 52\, Yellow Horse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3744,8 +3731,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390224
 DTEND;VALUE=DATE:20390225
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month\nFirst spring month\, Red Tig
- er month\nCycle 17\, Year 53\, Yellow Sheep\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst spring month\, Red Tiger month\nCycle 17\, Y
+ ear 53\, Yellow Sheep\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3755,8 +3742,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390225
 DTEND;VALUE=DATE:20390226
 SUMMARY:Lunar day 2
-DESCRIPTION:Lunar day 2 · First spring month\nFirst spring month\, Red Tig
- er month\nCycle 17\, Year 53\, Yellow Sheep\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 2\nFirst spring month\, Red Tiger month\nCycle 17\, Y
+ ear 53\, Yellow Sheep\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3766,8 +3753,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390226
 DTEND;VALUE=DATE:20390227
 SUMMARY:Lunar day 3
-DESCRIPTION:Lunar day 3 · First spring month\nFirst spring month\, Red Tig
- er month\nCycle 17\, Year 53\, Yellow Sheep\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 3\nFirst spring month\, Red Tiger month\nCycle 17\, Y
+ ear 53\, Yellow Sheep\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3817,9 +3804,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390606
 DTEND;VALUE=DATE:20390607
 SUMMARY:Ikh Düichen
-DESCRIPTION:Lunar day 15 · First summer month\nFirst summer month\, Yellow
-  Snake month\nCycle 17\, Year 53\, Yellow Sheep\nBuddha's birth\, enlighte
- nment and parinirvana\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 15\nFirst summer month\, Yellow Snake month\nCycle 17
+ \, Year 53\, Yellow Sheep\nBuddha's birth\, enlightenment and parinirvana\
+ nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3879,9 +3866,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20391117
 DTEND;VALUE=DATE:20391118
 SUMMARY:Mongolian Pride Day
-DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, Blue Pi
- g month\nCycle 17\, Year 53\, Yellow Sheep\nBirthday of Chinggis Khaan\nPu
- blic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst winter month\, Blue Pig month\nCycle 17\, Ye
+ ar 53\, Yellow Sheep\nBirthday of Chinggis Khaan\nPublic holiday in Mongol
+ ia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3900,9 +3887,9 @@ UID:mongol-en-no15-2039-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400115
 DTEND;VALUE=DATE:20400116
-SUMMARY:Lunar day 2 · Last winter month (lunar day 1 omitted)
-DESCRIPTION:Last winter month\, Red Ox month\nCycle 17\, Year 53\, Yellow S
- heep
+SUMMARY:Lunar day 2 · Last winter month
+DESCRIPTION:lunar day 1 omitted\nLast winter month\, Red Ox month\nCycle 17
+ \, Year 53\, Yellow Sheep
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3911,8 +3898,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400212
 DTEND;VALUE=DATE:20400213
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 · Last winter month\nLast winter month\, Red Ox m
- onth\nCycle 17\, Year 53\, Yellow Sheep
+DESCRIPTION:Lunar day 30\nLast winter month\, Red Ox month\nCycle 17\, Year
+  53\, Yellow Sheep
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3922,8 +3909,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400213
 DTEND;VALUE=DATE:20400214
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month\nFirst spring month\, Yellow 
- Tiger month\nCycle 17\, Year 54\, White Monkey\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst spring month\, Yellow Tiger month\nCycle 17\
+ , Year 54\, White Monkey\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3933,9 +3920,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400214
 DTEND;VALUE=DATE:20400215
 SUMMARY:Lunar day 2
-DESCRIPTION:Lunar day 2 · First spring month · 7th nine begins · Hilltop
- s turn bare\nFirst spring month\, Yellow Tiger month\nCycle 17\, Year 54\,
-  White Monkey\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 2 · 7th nine begins · Hilltops turn bare\nFirst spr
+ ing month\, Yellow Tiger month\nCycle 17\, Year 54\, White Monkey\nPublic 
+ holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3945,8 +3932,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400215
 DTEND;VALUE=DATE:20400216
 SUMMARY:Lunar day 3
-DESCRIPTION:Lunar day 3 · First spring month\nFirst spring month\, Yellow 
- Tiger month\nCycle 17\, Year 54\, White Monkey\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 3\nFirst spring month\, Yellow Tiger month\nCycle 17\
+ , Year 54\, White Monkey\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3965,9 +3952,9 @@ UID:mongol-en-no15-2040-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400314
 DTEND;VALUE=DATE:20400315
-SUMMARY:Lunar day 2 · Middle spring month (lunar day 1 omitted)
-DESCRIPTION:Middle spring month\, Yellow Rabbit month\nCycle 17\, Year 54\,
-  White Monkey
+SUMMARY:Lunar day 2 · Middle spring month
+DESCRIPTION:lunar day 1 omitted\nMiddle spring month\, Yellow Rabbit month\
+ nCycle 17\, Year 54\, White Monkey
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3996,9 +3983,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400526
 DTEND;VALUE=DATE:20400527
 SUMMARY:Ikh Düichen
-DESCRIPTION:Lunar day 15 · First summer month\nFirst summer month\, White 
- Snake month\nCycle 17\, Year 54\, White Monkey\nBuddha's birth\, enlighten
- ment and parinirvana\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 15\nFirst summer month\, White Snake month\nCycle 17\
+ , Year 54\, White Monkey\nBuddha's birth\, enlightenment and parinirvana\n
+ Public holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4018,8 +4005,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400710
 DTEND;VALUE=DATE:20400711
 SUMMARY:Naadam (National Festival)
-DESCRIPTION:Lunar day 1 · Last summer month\nLast summer month\, Black She
- ep month\nCycle 17\, Year 54\, White Monkey\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nLast summer month\, Black Sheep month\nCycle 17\, 
+ Year 54\, White Monkey\nPublic holiday in Mongolia
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4059,9 +4046,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20401105
 DTEND;VALUE=DATE:20401106
 SUMMARY:Mongolian Pride Day
-DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, Red Pig
-  month\nCycle 17\, Year 54\, White Monkey\nBirthday of Chinggis Khaan\nPub
- lic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst winter month\, Red Pig month\nCycle 17\, Yea
+ r 54\, White Monkey\nBirthday of Chinggis Khaan\nPublic holiday in Mongoli
+ a
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4091,8 +4078,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410201
 DTEND;VALUE=DATE:20410202
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 · Last winter month\nLast winter month\, Yellow O
- x month\nCycle 17\, Year 54\, White Monkey
+DESCRIPTION:Lunar day 30\nLast winter month\, Yellow Ox month\nCycle 17\, Y
+ ear 54\, White Monkey
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4102,8 +4089,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410202
 DTEND;VALUE=DATE:20410203
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month\nFirst spring month\, White T
- iger month\nCycle 17\, Year 55\, White Bird\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst spring month\, White Tiger month\nCycle 17\,
+  Year 55\, White Bird\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4113,8 +4100,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410203
 DTEND;VALUE=DATE:20410204
 SUMMARY:Lunar day 2
-DESCRIPTION:Lunar day 2 · First spring month\nFirst spring month\, White T
- iger month\nCycle 17\, Year 55\, White Bird\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 2\nFirst spring month\, White Tiger month\nCycle 17\,
+  Year 55\, White Bird\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4143,9 +4130,9 @@ UID:mongol-en-no15-2041-03L-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410402
 DTEND;VALUE=DATE:20410403
-SUMMARY:Lunar day 2 · Last spring month (Leap) (lunar day 1 omitted)
-DESCRIPTION:Last spring month (Leap)\, Black Dragon month\nCycle 17\, Year 
- 55\, White Bird
+SUMMARY:Lunar day 2 · Last spring month (Leap)
+DESCRIPTION:lunar day 1 omitted\nLast spring month (Leap)\, Black Dragon mo
+ nth\nCycle 17\, Year 55\, White Bird
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4174,9 +4161,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410614
 DTEND;VALUE=DATE:20410615
 SUMMARY:Ikh Düichen
-DESCRIPTION:Lunar day 15 · First summer month\nFirst summer month\, Black 
- Snake month\nCycle 17\, Year 55\, White Bird\nBuddha's birth\, enlightenme
- nt and parinirvana\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 15\nFirst summer month\, Black Snake month\nCycle 17\
+ , Year 55\, White Bird\nBuddha's birth\, enlightenment and parinirvana\nPu
+ blic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4246,9 +4233,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20411124
 DTEND;VALUE=DATE:20411125
 SUMMARY:Mongolian Pride Day
-DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, Yellow 
- Pig month\nCycle 17\, Year 55\, White Bird\nBirthday of Chinggis Khaan\nPu
- blic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst winter month\, Yellow Pig month\nCycle 17\, 
+ Year 55\, White Bird\nBirthday of Chinggis Khaan\nPublic holiday in Mongol
+ ia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4278,8 +4265,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420220
 DTEND;VALUE=DATE:20420221
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 · Last winter month\nLast winter month\, White Ox
-  month\nCycle 17\, Year 55\, White Bird
+DESCRIPTION:Lunar day 30\nLast winter month\, White Ox month\nCycle 17\, Ye
+ ar 55\, White Bird
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4289,8 +4276,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420221
 DTEND;VALUE=DATE:20420222
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month\nFirst spring month\, Black T
- iger month\nCycle 17\, Year 56\, Black Dog\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst spring month\, Black Tiger month\nCycle 17\,
+  Year 56\, Black Dog\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4300,8 +4287,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420222
 DTEND;VALUE=DATE:20420223
 SUMMARY:Lunar day 2
-DESCRIPTION:Lunar day 2 · First spring month\nFirst spring month\, Black T
- iger month\nCycle 17\, Year 56\, Black Dog\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 2\nFirst spring month\, Black Tiger month\nCycle 17\,
+  Year 56\, Black Dog\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4311,9 +4298,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420223
 DTEND;VALUE=DATE:20420224
 SUMMARY:Lunar day 3
-DESCRIPTION:Lunar day 3 · First spring month · 8th nine begins · It turn
- s slushy\nFirst spring month\, Black Tiger month\nCycle 17\, Year 56\, Bla
- ck Dog\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 3 · 8th nine begins · It turns slushy\nFirst spring
+  month\, Black Tiger month\nCycle 17\, Year 56\, Black Dog\nPublic holiday
+  in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4363,9 +4350,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420603
 DTEND;VALUE=DATE:20420604
 SUMMARY:Ikh Düichen
-DESCRIPTION:Lunar day 15 · First summer month\nFirst summer month\, Blue S
- nake month\nCycle 17\, Year 56\, Black Dog\nBuddha's birth\, enlightenment
-  and parinirvana\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 15\nFirst summer month\, Blue Snake month\nCycle 17\,
+  Year 56\, Black Dog\nBuddha's birth\, enlightenment and parinirvana\nPubl
+ ic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4435,9 +4422,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20421113
 DTEND;VALUE=DATE:20421114
 SUMMARY:Mongolian Pride Day
-DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, White P
- ig month\nCycle 17\, Year 56\, Black Dog\nBirthday of Chinggis Khaan\nPubl
- ic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst winter month\, White Pig month\nCycle 17\, Y
+ ear 56\, Black Dog\nBirthday of Chinggis Khaan\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4467,8 +4453,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430209
 DTEND;VALUE=DATE:20430210
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 · Last winter month\nLast winter month\, Black Ox
-  month\nCycle 17\, Year 56\, Black Dog
+DESCRIPTION:Lunar day 30\nLast winter month\, Black Ox month\nCycle 17\, Ye
+ ar 56\, Black Dog
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4478,8 +4464,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430210
 DTEND;VALUE=DATE:20430211
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month\nFirst spring month\, Blue Ti
- ger month\nCycle 17\, Year 57\, Black Pig\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst spring month\, Blue Tiger month\nCycle 17\, 
+ Year 57\, Black Pig\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4489,8 +4475,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430211
 DTEND;VALUE=DATE:20430212
 SUMMARY:Lunar day 2
-DESCRIPTION:Lunar day 2 · First spring month\nFirst spring month\, Blue Ti
- ger month\nCycle 17\, Year 57\, Black Pig\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 2\nFirst spring month\, Blue Tiger month\nCycle 17\, 
+ Year 57\, Black Pig\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4500,8 +4486,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430212
 DTEND;VALUE=DATE:20430213
 SUMMARY:Lunar day 3
-DESCRIPTION:Lunar day 3 · First spring month\nFirst spring month\, Blue Ti
- ger month\nCycle 17\, Year 57\, Black Pig\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 3\nFirst spring month\, Blue Tiger month\nCycle 17\, 
+ Year 57\, Black Pig\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4551,9 +4537,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430523
 DTEND;VALUE=DATE:20430524
 SUMMARY:Ikh Düichen
-DESCRIPTION:Lunar day 15 · First summer month\nFirst summer month\, Red Sn
- ake month\nCycle 17\, Year 57\, Black Pig\nBuddha's birth\, enlightenment 
- and parinirvana\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 15\nFirst summer month\, Red Snake month\nCycle 17\, 
+ Year 57\, Black Pig\nBuddha's birth\, enlightenment and parinirvana\nPubli
+ c holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4613,9 +4599,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20431102
 DTEND;VALUE=DATE:20431103
 SUMMARY:Mongolian Pride Day
-DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, Black P
- ig month\nCycle 17\, Year 57\, Black Pig\nBirthday of Chinggis Khaan\nPubl
- ic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst winter month\, Black Pig month\nCycle 17\, Y
+ ear 57\, Black Pig\nBirthday of Chinggis Khaan\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4635,9 +4620,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440101
 DTEND;VALUE=DATE:20440102
 SUMMARY:New Year's Day
-DESCRIPTION:Lunar day 1 · Last winter month (Leap)\nLast winter month (Lea
- p)\, Blue Ox month\nCycle 17\, Year 57\, Black Pig\nPublic holiday in Mong
- olia
+DESCRIPTION:Lunar day 1\nLast winter month (Leap)\, Blue Ox month\nCycle 17
+ \, Year 57\, Black Pig\nPublic holiday in Mongolia
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4657,8 +4641,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440228
 DTEND;VALUE=DATE:20440229
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 · Last winter month\nLast winter month\, Blue Ox 
- month\nCycle 17\, Year 57\, Black Pig
+DESCRIPTION:Lunar day 30\nLast winter month\, Blue Ox month\nCycle 17\, Yea
+ r 57\, Black Pig
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4668,8 +4652,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440229
 DTEND;VALUE=DATE:20440301
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month\nFirst spring month\, Red Tig
- er month\nCycle 17\, Year 58\, Blue Mouse\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst spring month\, Red Tiger month\nCycle 17\, Y
+ ear 58\, Blue Mouse\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4679,8 +4663,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440301
 DTEND;VALUE=DATE:20440302
 SUMMARY:Lunar day 2
-DESCRIPTION:Lunar day 2 · First spring month\nFirst spring month\, Red Tig
- er month\nCycle 17\, Year 58\, Blue Mouse\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 2\nFirst spring month\, Red Tiger month\nCycle 17\, Y
+ ear 58\, Blue Mouse\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4690,8 +4674,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440302
 DTEND;VALUE=DATE:20440303
 SUMMARY:Lunar day 3
-DESCRIPTION:Lunar day 3 · First spring month\nFirst spring month\, Red Tig
- er month\nCycle 17\, Year 58\, Blue Mouse\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 3\nFirst spring month\, Red Tiger month\nCycle 17\, Y
+ ear 58\, Blue Mouse\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4741,9 +4725,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440610
 DTEND;VALUE=DATE:20440611
 SUMMARY:Ikh Düichen
-DESCRIPTION:Lunar day 15 · First summer month\nFirst summer month\, Yellow
-  Snake month\nCycle 17\, Year 58\, Blue Mouse\nBuddha's birth\, enlightenm
- ent and parinirvana\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 15\nFirst summer month\, Yellow Snake month\nCycle 17
+ \, Year 58\, Blue Mouse\nBuddha's birth\, enlightenment and parinirvana\nP
+ ublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4772,9 +4756,9 @@ UID:mongol-en-no15-2044-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440824
 DTEND;VALUE=DATE:20440825
-SUMMARY:Lunar day 2 · First autumn month (lunar day 1 omitted)
-DESCRIPTION:First autumn month\, Black Monkey month\nCycle 17\, Year 58\, B
- lue Mouse
+SUMMARY:Lunar day 2 · First autumn month
+DESCRIPTION:lunar day 1 omitted\nFirst autumn month\, Black Monkey month\nC
+ ycle 17\, Year 58\, Blue Mouse
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4803,9 +4787,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20441120
 DTEND;VALUE=DATE:20441121
 SUMMARY:Mongolian Pride Day
-DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, Blue Pi
- g month\nCycle 17\, Year 58\, Blue Mouse\nBirthday of Chinggis Khaan\nPubl
- ic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst winter month\, Blue Pig month\nCycle 17\, Ye
+ ar 58\, Blue Mouse\nBirthday of Chinggis Khaan\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4835,8 +4818,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450216
 DTEND;VALUE=DATE:20450217
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 · Last winter month\nLast winter month\, Red Ox m
- onth\nCycle 17\, Year 58\, Blue Mouse
+DESCRIPTION:Lunar day 30\nLast winter month\, Red Ox month\nCycle 17\, Year
+  58\, Blue Mouse
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4846,8 +4829,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450217
 DTEND;VALUE=DATE:20450218
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month\nFirst spring month\, Yellow 
- Tiger month\nCycle 17\, Year 59\, Blue Ox\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst spring month\, Yellow Tiger month\nCycle 17\
+ , Year 59\, Blue Ox\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4857,8 +4840,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450218
 DTEND;VALUE=DATE:20450219
 SUMMARY:Lunar day 2
-DESCRIPTION:Lunar day 2 · First spring month\nFirst spring month\, Yellow 
- Tiger month\nCycle 17\, Year 59\, Blue Ox\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 2\nFirst spring month\, Yellow Tiger month\nCycle 17\
+ , Year 59\, Blue Ox\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4868,8 +4851,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450219
 DTEND;VALUE=DATE:20450220
 SUMMARY:Lunar day 3
-DESCRIPTION:Lunar day 3 · First spring month\nFirst spring month\, Yellow 
- Tiger month\nCycle 17\, Year 59\, Blue Ox\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 3\nFirst spring month\, Yellow Tiger month\nCycle 17\
+ , Year 59\, Blue Ox\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4919,9 +4902,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450530
 DTEND;VALUE=DATE:20450531
 SUMMARY:Ikh Düichen
-DESCRIPTION:Lunar day 15 · First summer month\nFirst summer month\, White 
- Snake month\nCycle 17\, Year 59\, Blue Ox\nBuddha's birth\, enlightenment 
- and parinirvana\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 15\nFirst summer month\, White Snake month\nCycle 17\
+ , Year 59\, Blue Ox\nBuddha's birth\, enlightenment and parinirvana\nPubli
+ c holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4941,8 +4924,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450715
 DTEND;VALUE=DATE:20450716
 SUMMARY:Naadam (National Festival)
-DESCRIPTION:Lunar day 1 · Last summer month\nLast summer month\, Black She
- ep month\nCycle 17\, Year 59\, Blue Ox\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nLast summer month\, Black Sheep month\nCycle 17\, 
+ Year 59\, Blue Ox\nPublic holiday in Mongolia
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4961,9 +4944,9 @@ UID:mongol-en-no15-2045-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450912
 DTEND;VALUE=DATE:20450913
-SUMMARY:Lunar day 2 · Middle autumn month (lunar day 1 omitted)
-DESCRIPTION:Middle autumn month\, Blue Bird month\nCycle 17\, Year 59\, Blu
- e Ox
+SUMMARY:Lunar day 2 · Middle autumn month
+DESCRIPTION:lunar day 1 omitted\nMiddle autumn month\, Blue Bird month\nCyc
+ le 17\, Year 59\, Blue Ox
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4981,9 +4964,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20451109
 DTEND;VALUE=DATE:20451110
 SUMMARY:Mongolian Pride Day
-DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, Red Pig
-  month\nCycle 17\, Year 59\, Blue Ox\nBirthday of Chinggis Khaan\nPublic h
- oliday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst winter month\, Red Pig month\nCycle 17\, Yea
+ r 59\, Blue Ox\nBirthday of Chinggis Khaan\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5013,9 +4995,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460205
 DTEND;VALUE=DATE:20460206
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 · Last winter month · 6th nine begins · Paths s
- tart to show\nLast winter month\, Yellow Ox month\nCycle 17\, Year 59\, Bl
- ue Ox
+DESCRIPTION:Lunar day 30 · 6th nine begins · Paths start to show\nLast wi
+ nter month\, Yellow Ox month\nCycle 17\, Year 59\, Blue Ox
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5025,8 +5006,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460206
 DTEND;VALUE=DATE:20460207
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month\nFirst spring month\, White T
- iger month\nCycle 17\, Year 60\, Red Tiger\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst spring month\, White Tiger month\nCycle 17\,
+  Year 60\, Red Tiger\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5036,8 +5017,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460207
 DTEND;VALUE=DATE:20460208
 SUMMARY:Lunar day 2
-DESCRIPTION:Lunar day 2 · First spring month\nFirst spring month\, White T
- iger month\nCycle 17\, Year 60\, Red Tiger\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 2\nFirst spring month\, White Tiger month\nCycle 17\,
+  Year 60\, Red Tiger\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5047,8 +5028,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460208
 DTEND;VALUE=DATE:20460209
 SUMMARY:Lunar day 3
-DESCRIPTION:Lunar day 3 · First spring month\nFirst spring month\, White T
- iger month\nCycle 17\, Year 60\, Red Tiger\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 3\nFirst spring month\, White Tiger month\nCycle 17\,
+  Year 60\, Red Tiger\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5058,9 +5039,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460209
 DTEND;VALUE=DATE:20460210
 SUMMARY:Lunar day 3 (repeated)
-DESCRIPTION:Lunar day 3 (repeated) · First spring month\nFirst spring mont
- h\, White Tiger month\nCycle 17\, Year 60\, Red Tiger\nPublic holiday in M
- ongolia
+DESCRIPTION:Lunar day 3 (repeated)\nFirst spring month\, White Tiger month\
+ nCycle 17\, Year 60\, Red Tiger\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5080,8 +5060,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460308
 DTEND;VALUE=DATE:20460309
 SUMMARY:International Women's Day
-DESCRIPTION:Lunar day 1 · Middle spring month\nMiddle spring month\, White
-  Rabbit month\nCycle 17\, Year 60\, Red Tiger\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nMiddle spring month\, White Rabbit month\nCycle 17
+ \, Year 60\, Red Tiger\nPublic holiday in Mongolia
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5111,9 +5091,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460520
 DTEND;VALUE=DATE:20460521
 SUMMARY:Ikh Düichen
-DESCRIPTION:Lunar day 15 · First summer month\nFirst summer month\, Black 
- Snake month\nCycle 17\, Year 60\, Red Tiger\nBuddha's birth\, enlightenmen
- t and parinirvana\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 15\nFirst summer month\, Black Snake month\nCycle 17\
+ , Year 60\, Red Tiger\nBuddha's birth\, enlightenment and parinirvana\nPub
+ lic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5162,9 +5142,9 @@ UID:mongol-en-no15-2046-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20461001
 DTEND;VALUE=DATE:20461002
-SUMMARY:Lunar day 2 · Middle autumn month (lunar day 1 omitted)
-DESCRIPTION:Middle autumn month\, Red Bird month\nCycle 17\, Year 60\, Red 
- Tiger
+SUMMARY:Lunar day 2 · Middle autumn month
+DESCRIPTION:lunar day 1 omitted\nMiddle autumn month\, Red Bird month\nCycl
+ e 17\, Year 60\, Red Tiger
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5183,9 +5163,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20461128
 DTEND;VALUE=DATE:20461129
 SUMMARY:Mongolian Pride Day
-DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, Yellow 
- Pig month\nCycle 17\, Year 60\, Red Tiger\nBirthday of Chinggis Khaan\nPub
- lic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst winter month\, Yellow Pig month\nCycle 17\, 
+ Year 60\, Red Tiger\nBirthday of Chinggis Khaan\nPublic holiday in Mongoli
+ a
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5215,8 +5195,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470224
 DTEND;VALUE=DATE:20470225
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 · Last winter month\nLast winter month\, White Ox
-  month\nCycle 17\, Year 60\, Red Tiger
+DESCRIPTION:Lunar day 30\nLast winter month\, White Ox month\nCycle 17\, Ye
+ ar 60\, Red Tiger
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5226,8 +5206,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470225
 DTEND;VALUE=DATE:20470226
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month\nFirst spring month\, Black T
- iger month\nCycle 18\, Year 1\, Red Rabbit\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst spring month\, Black Tiger month\nCycle 18\,
+  Year 1\, Red Rabbit\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5237,8 +5217,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470226
 DTEND;VALUE=DATE:20470227
 SUMMARY:Lunar day 2
-DESCRIPTION:Lunar day 2 · First spring month\nFirst spring month\, Black T
- iger month\nCycle 18\, Year 1\, Red Rabbit\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 2\nFirst spring month\, Black Tiger month\nCycle 18\,
+  Year 1\, Red Rabbit\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5248,8 +5228,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470227
 DTEND;VALUE=DATE:20470228
 SUMMARY:Lunar day 3
-DESCRIPTION:Lunar day 3 · First spring month\nFirst spring month\, Black T
- iger month\nCycle 18\, Year 1\, Red Rabbit\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 3\nFirst spring month\, Black Tiger month\nCycle 18\,
+  Year 1\, Red Rabbit\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5299,9 +5279,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470608
 DTEND;VALUE=DATE:20470609
 SUMMARY:Ikh Düichen
-DESCRIPTION:Lunar day 15 · First summer month\nFirst summer month\, Blue S
- nake month\nCycle 18\, Year 1\, Red Rabbit\nBuddha's birth\, enlightenment
-  and parinirvana\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 15\nFirst summer month\, Blue Snake month\nCycle 18\,
+  Year 1\, Red Rabbit\nBuddha's birth\, enlightenment and parinirvana\nPubl
+ ic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5361,9 +5341,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20471118
 DTEND;VALUE=DATE:20471119
 SUMMARY:Mongolian Pride Day
-DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, White P
- ig month\nCycle 18\, Year 1\, Red Rabbit\nBirthday of Chinggis Khaan\nPubl
- ic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst winter month\, White Pig month\nCycle 18\, Y
+ ear 1\, Red Rabbit\nBirthday of Chinggis Khaan\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5393,8 +5372,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480213
 DTEND;VALUE=DATE:20480214
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 · Last winter month\nLast winter month\, Black Ox
-  month\nCycle 18\, Year 1\, Red Rabbit
+DESCRIPTION:Lunar day 30\nLast winter month\, Black Ox month\nCycle 18\, Ye
+ ar 1\, Red Rabbit
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5404,9 +5383,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480214
 DTEND;VALUE=DATE:20480215
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month · 7th nine begins · Hilltop
- s turn bare\nFirst spring month\, Blue Tiger month\nCycle 18\, Year 2\, Ye
- llow Dragon\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1 · 7th nine begins · Hilltops turn bare\nFirst spr
+ ing month\, Blue Tiger month\nCycle 18\, Year 2\, Yellow Dragon\nPublic ho
+ liday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5416,8 +5395,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480215
 DTEND;VALUE=DATE:20480216
 SUMMARY:Lunar day 2
-DESCRIPTION:Lunar day 2 · First spring month\nFirst spring month\, Blue Ti
- ger month\nCycle 18\, Year 2\, Yellow Dragon\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 2\nFirst spring month\, Blue Tiger month\nCycle 18\, 
+ Year 2\, Yellow Dragon\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5427,8 +5406,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480216
 DTEND;VALUE=DATE:20480217
 SUMMARY:Lunar day 3
-DESCRIPTION:Lunar day 3 · First spring month\nFirst spring month\, Blue Ti
- ger month\nCycle 18\, Year 2\, Yellow Dragon\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 3\nFirst spring month\, Blue Tiger month\nCycle 18\, 
+ Year 2\, Yellow Dragon\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5478,9 +5457,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480527
 DTEND;VALUE=DATE:20480528
 SUMMARY:Ikh Düichen
-DESCRIPTION:Lunar day 15 · First summer month\nFirst summer month\, Red Sn
- ake month\nCycle 18\, Year 2\, Yellow Dragon\nBuddha's birth\, enlightenme
- nt and parinirvana\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 15\nFirst summer month\, Red Snake month\nCycle 18\, 
+ Year 2\, Yellow Dragon\nBuddha's birth\, enlightenment and parinirvana\nPu
+ blic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5500,8 +5479,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480712
 DTEND;VALUE=DATE:20480713
 SUMMARY:Naadam (National Festival)
-DESCRIPTION:Lunar day 1 · Last summer month\nLast summer month\, Yellow Sh
- eep month\nCycle 18\, Year 2\, Yellow Dragon\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nLast summer month\, Yellow Sheep month\nCycle 18\,
+  Year 2\, Yellow Dragon\nPublic holiday in Mongolia
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5541,9 +5520,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20481107
 DTEND;VALUE=DATE:20481108
 SUMMARY:Mongolian Pride Day
-DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, Black P
- ig month\nCycle 18\, Year 2\, Yellow Dragon\nBirthday of Chinggis Khaan\nP
- ublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst winter month\, Black Pig month\nCycle 18\, Y
+ ear 2\, Yellow Dragon\nBirthday of Chinggis Khaan\nPublic holiday in Mongo
+ lia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5562,9 +5541,9 @@ UID:mongol-en-no15-2048-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490105
 DTEND;VALUE=DATE:20490106
-SUMMARY:Lunar day 2 · Last winter month (lunar day 1 omitted)
-DESCRIPTION:Last winter month\, Blue Ox month\nCycle 18\, Year 2\, Yellow D
- ragon
+SUMMARY:Lunar day 2 · Last winter month
+DESCRIPTION:lunar day 1 omitted\nLast winter month\, Blue Ox month\nCycle 1
+ 8\, Year 2\, Yellow Dragon
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5573,8 +5552,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490202
 DTEND;VALUE=DATE:20490203
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 · Last winter month\nLast winter month\, Blue Ox 
- month\nCycle 18\, Year 2\, Yellow Dragon
+DESCRIPTION:Lunar day 30\nLast winter month\, Blue Ox month\nCycle 18\, Yea
+ r 2\, Yellow Dragon
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5584,8 +5563,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490203
 DTEND;VALUE=DATE:20490204
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month\nFirst spring month\, Red Tig
- er month\nCycle 18\, Year 3\, Yellow Snake\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst spring month\, Red Tiger month\nCycle 18\, Y
+ ear 3\, Yellow Snake\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5595,8 +5574,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490204
 DTEND;VALUE=DATE:20490205
 SUMMARY:Lunar day 2
-DESCRIPTION:Lunar day 2 · First spring month\nFirst spring month\, Red Tig
- er month\nCycle 18\, Year 3\, Yellow Snake\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 2\nFirst spring month\, Red Tiger month\nCycle 18\, Y
+ ear 3\, Yellow Snake\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5606,9 +5585,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490205
 DTEND;VALUE=DATE:20490206
 SUMMARY:Lunar day 3
-DESCRIPTION:Lunar day 3 · First spring month · 6th nine begins · Paths s
- tart to show\nFirst spring month\, Red Tiger month\nCycle 18\, Year 3\, Ye
- llow Snake\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 3 · 6th nine begins · Paths start to show\nFirst sp
+ ring month\, Red Tiger month\nCycle 18\, Year 3\, Yellow Snake\nPublic hol
+ iday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5649,9 +5628,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490517
 DTEND;VALUE=DATE:20490518
 SUMMARY:Ikh Düichen
-DESCRIPTION:Lunar day 15 · First summer month\nFirst summer month\, Yellow
-  Snake month\nCycle 18\, Year 3\, Yellow Snake\nBuddha's birth\, enlighten
- ment and parinirvana\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 15\nFirst summer month\, Yellow Snake month\nCycle 18
+ \, Year 3\, Yellow Snake\nBuddha's birth\, enlightenment and parinirvana\n
+ Public holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5661,9 +5640,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490601
 DTEND;VALUE=DATE:20490602
 SUMMARY:Children's Day
-DESCRIPTION:Lunar day 1 · Middle summer month (Leap)\nMiddle summer month 
- (Leap)\, White Horse month\nCycle 18\, Year 3\, Yellow Snake\nPublic holid
- ay in Mongolia
+DESCRIPTION:Lunar day 1\nMiddle summer month (Leap)\, White Horse month\nCy
+ cle 18\, Year 3\, Yellow Snake\nPublic holiday in Mongolia
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5733,9 +5711,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20491126
 DTEND;VALUE=DATE:20491127
 SUMMARY:Mongolian Pride Day · Republic Day
-DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, Blue Pi
- g month\nCycle 18\, Year 3\, Yellow Snake\nBirthday of Chinggis Khaan\nPub
- lic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst winter month\, Blue Pig month\nCycle 18\, Ye
+ ar 3\, Yellow Snake\nBirthday of Chinggis Khaan\nPublic holiday in Mongoli
+ a
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5765,8 +5743,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500221
 DTEND;VALUE=DATE:20500222
 SUMMARY:Bituun (Lunar New Year's Eve)
-DESCRIPTION:Lunar day 30 · Last winter month\nLast winter month\, Red Ox m
- onth\nCycle 18\, Year 3\, Yellow Snake
+DESCRIPTION:Lunar day 30\nLast winter month\, Red Ox month\nCycle 18\, Year
+  3\, Yellow Snake
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5776,8 +5754,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500222
 DTEND;VALUE=DATE:20500223
 SUMMARY:Tsagaan Sar (Lunar New Year)
-DESCRIPTION:Lunar day 1 · First spring month\nFirst spring month\, Yellow 
- Tiger month\nCycle 18\, Year 4\, White Horse\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst spring month\, Yellow Tiger month\nCycle 18\
+ , Year 4\, White Horse\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5787,9 +5765,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500223
 DTEND;VALUE=DATE:20500224
 SUMMARY:Lunar day 2
-DESCRIPTION:Lunar day 2 · First spring month · 8th nine begins · It turn
- s slushy\nFirst spring month\, Yellow Tiger month\nCycle 18\, Year 4\, Whi
- te Horse\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 2 · 8th nine begins · It turns slushy\nFirst spring
+  month\, Yellow Tiger month\nCycle 18\, Year 4\, White Horse\nPublic holid
+ ay in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5799,8 +5777,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500224
 DTEND;VALUE=DATE:20500225
 SUMMARY:Lunar day 3
-DESCRIPTION:Lunar day 3 · First spring month\nFirst spring month\, Yellow 
- Tiger month\nCycle 18\, Year 4\, White Horse\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 3\nFirst spring month\, Yellow Tiger month\nCycle 18\
+ , Year 4\, White Horse\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5819,9 +5797,9 @@ UID:mongol-en-no15-2050-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500324
 DTEND;VALUE=DATE:20500325
-SUMMARY:Lunar day 2 · Middle spring month (lunar day 1 omitted)
-DESCRIPTION:Middle spring month\, Yellow Rabbit month\nCycle 18\, Year 4\, 
- White Horse
+SUMMARY:Lunar day 2 · Middle spring month
+DESCRIPTION:lunar day 1 omitted\nMiddle spring month\, Yellow Rabbit month\
+ nCycle 18\, Year 4\, White Horse
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5850,9 +5828,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500605
 DTEND;VALUE=DATE:20500606
 SUMMARY:Ikh Düichen
-DESCRIPTION:Lunar day 15 · First summer month\nFirst summer month\, White 
- Snake month\nCycle 18\, Year 4\, White Horse\nBuddha's birth\, enlightenme
- nt and parinirvana\nPublic holiday in Mongolia
+DESCRIPTION:Lunar day 15\nFirst summer month\, White Snake month\nCycle 18\
+ , Year 4\, White Horse\nBuddha's birth\, enlightenment and parinirvana\nPu
+ blic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5912,9 +5890,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20501115
 DTEND;VALUE=DATE:20501116
 SUMMARY:Mongolian Pride Day
-DESCRIPTION:Lunar day 1 · First winter month\nFirst winter month\, Red Pig
-  month\nCycle 18\, Year 4\, White Horse\nBirthday of Chinggis Khaan\nPubli
- c holiday in Mongolia
+DESCRIPTION:Lunar day 1\nFirst winter month\, Red Pig month\nCycle 18\, Yea
+ r 4\, White Horse\nBirthday of Chinggis Khaan\nPublic holiday in Mongolia
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT

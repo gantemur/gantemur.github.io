@@ -120,10 +120,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200223
 DTEND;VALUE=DATE:20200224
 SUMMARY:Битүүн
-DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар · 8 ес эх
- элнэ · Найман есөд нял шал болно\nӨвлийн 
- сүүл улаагчин үхэр сар\n17-р жарны 33 он шар
- агчин гахай жил
+DESCRIPTION:Шинийн 30 · 8 ес эхэлнэ · Найман есөд
+  нял шал болно\nӨвлийн сүүл улаагчин үхэр
+  сар\n17-р жарны 33 он шарагчин гахай жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -146,10 +145,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200224
 DTEND;VALUE=DATE:20200225
 SUMMARY:Цагаан сар
-DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн шар барс сар\n17-р жарны 34 он ца
- гаан хулгана жил\nБүх нийтээр амрах баяр
- ын өдөр
+DESCRIPTION:Шинийн 1\nХаврын тэргүүн шар барс с
+ ар\n17-р жарны 34 он цагаан хулгана жил\nБүх 
+ нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -159,10 +157,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200225
 DTEND;VALUE=DATE:20200226
 SUMMARY:Шинийн 2
-DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн шар барс сар\n17-р жарны 34 он ца
- гаан хулгана жил\nБүх нийтээр амрах баяр
- ын өдөр
+DESCRIPTION:Шинийн 2\nХаврын тэргүүн шар барс с
+ ар\n17-р жарны 34 он цагаан хулгана жил\nБүх 
+ нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -172,10 +169,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200226
 DTEND;VALUE=DATE:20200227
 SUMMARY:Шинийн 3
-DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн шар барс сар\n17-р жарны 34 он ца
- гаан хулгана жил\nБүх нийтээр амрах баяр
- ын өдөр
+DESCRIPTION:Шинийн 3\nХаврын тэргүүн шар барс с
+ ар\n17-р жарны 34 он цагаан хулгана жил\nБүх 
+ нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -290,10 +286,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200605
 DTEND;VALUE=DATE:20200606
 SUMMARY:Их дүйчин өдөр
-DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
- цагаагчин могой сар\n17-р жарны 34 он цагаа
- н хулгана жил\nБүх нийтээр амрах баярын ө
- дөр
+DESCRIPTION:Шинийн 15\nЗуны эхэн цагаагчин мого
+ й сар\n17-р жарны 34 он цагаан хулгана жил\nБ
+ үх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -463,10 +458,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20201116
 DTEND;VALUE=DATE:20201117
 SUMMARY:Монгол бахархлын өдөр
-DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
- хэн улаагчин гахай сар\n17-р жарны 34 он цаг
- аан хулгана жил\nИх Эзэн Чингис хааны төр
- сөн өдөр\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nӨвлийн эхэн улаагчин гаха
+ й сар\n17-р жарны 34 он цагаан хулгана жил\nИ
+ х Эзэн Чингис хааны төрсөн өдөр\nБүх нийт
+ ээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -521,11 +516,11 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20201229
 DTEND;VALUE=DATE:20201230
 SUMMARY:Тусгаар тогтнолын өдөр
-DESCRIPTION:Шинийн 15 · Өвлийн дунд сар\nӨвлийн 
- дунд шар хулгана сар\n17-р жарны 34 он цагаа
- н хулгана жил\nҮндэсний эрх чөлөө\, тусга
- ар тогтнолоо сэргээсний баярын өдөр\nБүх
-  нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 15\nӨвлийн дунд шар хулгана с
+ ар\n17-р жарны 34 он цагаан хулгана жил\nҮнд
+ эсний эрх чөлөө\, тусгаар тогтнолоо сэрг
+ ээсний баярын өдөр\nБүх нийтээр амрах ба
+ ярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -567,9 +562,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210211
 DTEND;VALUE=DATE:20210212
 SUMMARY:Битүүн
-DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
- сүүл шарагчин үхэр сар\n17-р жарны 34 он цаг
- аан хулгана жил
+DESCRIPTION:Шинийн 30\nӨвлийн сүүл шарагчин үхэ
+ р сар\n17-р жарны 34 он цагаан хулгана жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -579,10 +573,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210212
 DTEND;VALUE=DATE:20210213
 SUMMARY:Цагаан сар
-DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн цагаан барс сар\n17-р жарны 35 он
-  цагаагчин үхэр жил\nБүх нийтээр амрах ба
- ярын өдөр
+DESCRIPTION:Шинийн 1\nХаврын тэргүүн цагаан бар
+ с сар\n17-р жарны 35 он цагаагчин үхэр жил\nБ
+ үх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -592,10 +585,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210213
 DTEND;VALUE=DATE:20210214
 SUMMARY:Шинийн 2
-DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн цагаан барс сар\n17-р жарны 35 он
-  цагаагчин үхэр жил\nБүх нийтээр амрах ба
- ярын өдөр
+DESCRIPTION:Шинийн 2\nХаврын тэргүүн цагаан бар
+ с сар\n17-р жарны 35 он цагаагчин үхэр жил\nБ
+ үх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -605,11 +597,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210214
 DTEND;VALUE=DATE:20210215
 SUMMARY:Шинийн 3
-DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар · 7 ес 
- эхэлнэ · Долоон есөд довны толгой бараал
- на\nХаврын тэргүүн цагаан барс сар\n17-р жа
- рны 35 он цагаагчин үхэр жил\nБүх нийтээр 
- амрах баярын өдөр
+DESCRIPTION:Шинийн 3 · 7 ес эхэлнэ · Долоон есөд 
+ довны толгой бараална\nХаврын тэргүүн ца
+ гаан барс сар\n17-р жарны 35 он цагаагчин үх
+ эр жил\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -689,10 +680,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210526
 DTEND;VALUE=DATE:20210527
 SUMMARY:Их дүйчин өдөр
-DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
- харагчин могой сар\n17-р жарны 35 он цагааг
- чин үхэр жил\nБүх нийтээр амрах баярын өд
- өр
+DESCRIPTION:Шинийн 15\nЗуны эхэн харагчин могой 
+ сар\n17-р жарны 35 он цагаагчин үхэр жил\nБү
+ х нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -732,10 +722,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210711
 DTEND;VALUE=DATE:20210712
 SUMMARY:Үндэсний их баяр наадам
-DESCRIPTION:Шинийн 1 (давхар) · Зуны сүүл сар\nЗу
- ны сүүл хөхөгчин хонь сар\n17-р жарны 35 он 
- цагаагчин үхэр жил\nБүх нийтээр амрах ба
- ярын өдөр
+DESCRIPTION:Шинийн 1 (давхар)\nЗуны сүүл хөхөгчи
+ н хонь сар\n17-р жарны 35 он цагаагчин үхэр 
+ жил\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -774,10 +763,10 @@ UID:mongol-mn-2021-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210908
 DTEND;VALUE=DATE:20210909
-SUMMARY:Шинийн 2 · Намрын дунд сар (шинийн 1 та
- сарсан)
-DESCRIPTION:Намрын дунд улаагчин тахиа сар\n17-р
-  жарны 35 он цагаагчин үхэр жил
+SUMMARY:Шинийн 2 · Намрын дунд сар
+DESCRIPTION:шинийн 1 тасарсан\nНамрын дунд улаа
+ гчин тахиа сар\n17-р жарны 35 он цагаагчин ү
+ хэр жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -816,10 +805,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20211105
 DTEND;VALUE=DATE:20211106
 SUMMARY:Монгол бахархлын өдөр
-DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
- хэн шарагчин гахай сар\n17-р жарны 35 он цаг
- аагчин үхэр жил\nИх Эзэн Чингис хааны төр
- сөн өдөр\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nӨвлийн эхэн шарагчин гаха
+ й сар\n17-р жарны 35 он цагаагчин үхэр жил\nИ
+ х Эзэн Чингис хааны төрсөн өдөр\nБүх нийт
+ ээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -892,9 +881,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220201
 DTEND;VALUE=DATE:20220202
 SUMMARY:Битүүн
-DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
- сүүл цагаагчин үхэр сар\n17-р жарны 35 он ца
- гаагчин үхэр жил
+DESCRIPTION:Шинийн 30\nӨвлийн сүүл цагаагчин үх
+ эр сар\n17-р жарны 35 он цагаагчин үхэр жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -904,9 +892,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220202
 DTEND;VALUE=DATE:20220203
 SUMMARY:Цагаан сар
-DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн хар барс сар\n17-р жарны 36 он ха
- р бар жил\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nХаврын тэргүүн хар барс с
+ ар\n17-р жарны 36 он хар бар жил\nБүх нийтээр
+  амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -916,9 +904,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220203
 DTEND;VALUE=DATE:20220204
 SUMMARY:Шинийн 2
-DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн хар барс сар\n17-р жарны 36 он ха
- р бар жил\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 2\nХаврын тэргүүн хар барс с
+ ар\n17-р жарны 36 он хар бар жил\nБүх нийтээр
+  амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1018,9 +1006,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220614
 DTEND;VALUE=DATE:20220615
 SUMMARY:Их дүйчин өдөр
-DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
- хөхөгчин могой сар\n17-р жарны 36 он хар бар
-  жил\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 15\nЗуны эхэн хөхөгчин могой 
+ сар\n17-р жарны 36 он хар бар жил\nБүх нийтээ
+ р амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1052,9 +1040,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220713
 DTEND;VALUE=DATE:20220714
 SUMMARY:Үндэсний их баяр наадам
-DESCRIPTION:Шинийн 15 · Зуны дунд сар\nЗуны дунд 
- улаан морь сар\n17-р жарны 36 он хар бар жил\
- nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 15\nЗуны дунд улаан морь сар\n
+ 17-р жарны 36 он хар бар жил\nБүх нийтээр ам
+ рах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1144,10 +1132,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20221124
 DTEND;VALUE=DATE:20221125
 SUMMARY:Монгол бахархлын өдөр
-DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
- хэн цагаагчин гахай сар\n17-р жарны 36 он ха
- р бар жил\nИх Эзэн Чингис хааны төрсөн өд
- өр\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nӨвлийн эхэн цагаагчин гах
+ ай сар\n17-р жарны 36 он хар бар жил\nИх Эзэн 
+ Чингис хааны төрсөн өдөр\nБүх нийтээр ам
+ рах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1219,9 +1207,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230220
 DTEND;VALUE=DATE:20230221
 SUMMARY:Битүүн
-DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
- сүүл харагчин үхэр сар\n17-р жарны 36 он хар
-  бар жил
+DESCRIPTION:Шинийн 30\nӨвлийн сүүл харагчин үхэ
+ р сар\n17-р жарны 36 он хар бар жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1231,10 +1218,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230221
 DTEND;VALUE=DATE:20230222
 SUMMARY:Цагаан сар
-DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн хөх барс сар\n17-р жарны 37 он ха
- рагчин туулай жил\nБүх нийтээр амрах бая
- рын өдөр
+DESCRIPTION:Шинийн 1\nХаврын тэргүүн хөх барс с
+ ар\n17-р жарны 37 он харагчин туулай жил\nБү
+ х нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1244,10 +1230,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230222
 DTEND;VALUE=DATE:20230223
 SUMMARY:Шинийн 2
-DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн хөх барс сар\n17-р жарны 37 он ха
- рагчин туулай жил\nБүх нийтээр амрах бая
- рын өдөр
+DESCRIPTION:Шинийн 2\nХаврын тэргүүн хөх барс с
+ ар\n17-р жарны 37 он харагчин туулай жил\nБү
+ х нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1257,11 +1242,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230223
 DTEND;VALUE=DATE:20230224
 SUMMARY:Шинийн 3
-DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар · 8 ес 
- эхэлнэ · Найман есөд нял шал болно\nХавры
- н тэргүүн хөх барс сар\n17-р жарны 37 он хар
- агчин туулай жил\nБүх нийтээр амрах баяр
- ын өдөр
+DESCRIPTION:Шинийн 3 · 8 ес эхэлнэ · Найман есөд 
+ нял шал болно\nХаврын тэргүүн хөх барс са
+ р\n17-р жарны 37 он харагчин туулай жил\nБүх 
+ нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1341,10 +1325,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230604
 DTEND;VALUE=DATE:20230605
 SUMMARY:Их дүйчин өдөр
-DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
- улаагчин могой сар\n17-р жарны 37 он харагч
- ин туулай жил\nБүх нийтээр амрах баярын ө
- дөр
+DESCRIPTION:Шинийн 15\nЗуны эхэн улаагчин могой 
+ сар\n17-р жарны 37 он харагчин туулай жил\nБ
+ үх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1464,10 +1447,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20231114
 DTEND;VALUE=DATE:20231115
 SUMMARY:Монгол бахархлын өдөр
-DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
- хэн харагчин гахай сар\n17-р жарны 37 он хар
- агчин туулай жил\nИх Эзэн Чингис хааны тө
- рсөн өдөр\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nӨвлийн эхэн харагчин гаха
+ й сар\n17-р жарны 37 он харагчин туулай жил\n
+ Их Эзэн Чингис хааны төрсөн өдөр\nБүх ний
+ тээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1527,9 +1510,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240209
 DTEND;VALUE=DATE:20240210
 SUMMARY:Битүүн
-DESCRIPTION:Шинийн 29 · Өвлийн сүүл сар\nӨвлийн 
- сүүл хөхөгчин үхэр сар\n17-р жарны 37 он хар
- агчин туулай жил
+DESCRIPTION:Шинийн 29\nӨвлийн сүүл хөхөгчин үхэ
+ р сар\n17-р жарны 37 он харагчин туулай жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1539,10 +1521,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240210
 DTEND;VALUE=DATE:20240211
 SUMMARY:Цагаан сар
-DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн улаан барс сар\n17-р жарны 38 он 
- хөх луу жил\nБүх нийтээр амрах баярын өдө
- р
+DESCRIPTION:Шинийн 1\nХаврын тэргүүн улаан барс
+  сар\n17-р жарны 38 он хөх луу жил\nБүх нийтэ
+ эр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1552,10 +1533,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240211
 DTEND;VALUE=DATE:20240212
 SUMMARY:Шинийн 2
-DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн улаан барс сар\n17-р жарны 38 он 
- хөх луу жил\nБүх нийтээр амрах баярын өдө
- р
+DESCRIPTION:Шинийн 2\nХаврын тэргүүн улаан барс
+  сар\n17-р жарны 38 он хөх луу жил\nБүх нийтэ
+ эр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1565,10 +1545,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240212
 DTEND;VALUE=DATE:20240213
 SUMMARY:Шинийн 3
-DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн улаан барс сар\n17-р жарны 38 он 
- хөх луу жил\nБүх нийтээр амрах баярын өдө
- р
+DESCRIPTION:Шинийн 3\nХаврын тэргүүн улаан барс
+  сар\n17-р жарны 38 он хөх луу жил\nБүх нийтэ
+ эр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1648,9 +1627,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240523
 DTEND;VALUE=DATE:20240524
 SUMMARY:Их дүйчин өдөр
-DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
- шарагчин могой сар\n17-р жарны 38 он хөх луу
-  жил\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 15\nЗуны эхэн шарагчин могой 
+ сар\n17-р жарны 38 он хөх луу жил\nБүх нийтээ
+ р амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1760,10 +1739,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20241102
 DTEND;VALUE=DATE:20241103
 SUMMARY:Монгол бахархлын өдөр
-DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
- хэн хөхөгчин гахай сар\n17-р жарны 38 он хөх
-  луу жил\nИх Эзэн Чингис хааны төрсөн өдө
- р\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nӨвлийн эхэн хөхөгчин гаха
+ й сар\n17-р жарны 38 он хөх луу жил\nИх Эзэн Ч
+ ингис хааны төрсөн өдөр\nБүх нийтээр амр
+ ах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1845,9 +1824,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250228
 DTEND;VALUE=DATE:20250301
 SUMMARY:Битүүн
-DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
- сүүл улаагчин үхэр сар\n17-р жарны 38 он хөх
-  луу жил
+DESCRIPTION:Шинийн 30\nӨвлийн сүүл улаагчин үхэ
+ р сар\n17-р жарны 38 он хөх луу жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1857,10 +1835,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250301
 DTEND;VALUE=DATE:20250302
 SUMMARY:Цагаан сар
-DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар (шини
- йн 1 тасарсан)\nХаврын тэргүүн шар барс са
- р\n17-р жарны 39 он хөхөгчин могой жил\nБүх н
- ийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 2\nшинийн 1 тасарсан\nХаврын 
+ тэргүүн шар барс сар\n17-р жарны 39 он хөхөг
+ чин могой жил\nБүх нийтээр амрах баярын ө
+ дөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1870,10 +1848,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250302
 DTEND;VALUE=DATE:20250303
 SUMMARY:Шинийн 3
-DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн шар барс сар\n17-р жарны 39 он хө
- хөгчин могой жил\nБүх нийтээр амрах баяр
- ын өдөр
+DESCRIPTION:Шинийн 3\nХаврын тэргүүн шар барс с
+ ар\n17-р жарны 39 он хөхөгчин могой жил\nБүх 
+ нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1953,10 +1930,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250611
 DTEND;VALUE=DATE:20250612
 SUMMARY:Их дүйчин өдөр
-DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
- цагаагчин могой сар\n17-р жарны 39 он хөхөг
- чин могой жил\nБүх нийтээр амрах баярын ө
- дөр
+DESCRIPTION:Шинийн 15\nЗуны эхэн цагаагчин мого
+ й сар\n17-р жарны 39 он хөхөгчин могой жил\nБ
+ үх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1976,9 +1952,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250710
 DTEND;VALUE=DATE:20250711
 SUMMARY:Үндэсний их баяр наадам
-DESCRIPTION:Шинийн 15 · Зуны дунд сар\nЗуны дунд 
- хар морь сар\n17-р жарны 39 он хөхөгчин мого
- й жил\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 15\nЗуны дунд хар морь сар\n17-
+ р жарны 39 он хөхөгчин могой жил\nБүх нийт
+ ээр амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2068,10 +2044,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20251121
 DTEND;VALUE=DATE:20251122
 SUMMARY:Монгол бахархлын өдөр
-DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
- хэн улаагчин гахай сар\n17-р жарны 39 он хөх
- өгчин могой жил\nИх Эзэн Чингис хааны төр
- сөн өдөр\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nӨвлийн эхэн улаагчин гаха
+ й сар\n17-р жарны 39 он хөхөгчин могой жил\nИ
+ х Эзэн Чингис хааны төрсөн өдөр\nБүх нийт
+ ээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2132,9 +2108,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260217
 DTEND;VALUE=DATE:20260218
 SUMMARY:Битүүн
-DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
- сүүл шарагчин үхэр сар\n17-р жарны 39 он хөх
- өгчин могой жил
+DESCRIPTION:Шинийн 30\nӨвлийн сүүл шарагчин үхэ
+ р сар\n17-р жарны 39 он хөхөгчин могой жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2144,10 +2119,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260218
 DTEND;VALUE=DATE:20260219
 SUMMARY:Цагаан сар
-DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн цагаан барс сар\n17-р жарны 40 он
-  улаан морин жил\nБүх нийтээр амрах баяры
- н өдөр
+DESCRIPTION:Шинийн 1\nХаврын тэргүүн цагаан бар
+ с сар\n17-р жарны 40 он улаан морин жил\nБүх 
+ нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2157,10 +2131,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260219
 DTEND;VALUE=DATE:20260220
 SUMMARY:Шинийн 2
-DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн цагаан барс сар\n17-р жарны 40 он
-  улаан морин жил\nБүх нийтээр амрах баяры
- н өдөр
+DESCRIPTION:Шинийн 2\nХаврын тэргүүн цагаан бар
+ с сар\n17-р жарны 40 он улаан морин жил\nБүх 
+ нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2170,10 +2143,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260220
 DTEND;VALUE=DATE:20260221
 SUMMARY:Шинийн 3
-DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн цагаан барс сар\n17-р жарны 40 он
-  улаан морин жил\nБүх нийтээр амрах баяры
- н өдөр
+DESCRIPTION:Шинийн 3\nХаврын тэргүүн цагаан бар
+ с сар\n17-р жарны 40 он улаан морин жил\nБүх 
+ нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2202,10 +2174,10 @@ UID:mongol-mn-2026-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
-SUMMARY:Шинийн 2 · Хаврын дунд сар (шинийн 1 та
- сарсан)
-DESCRIPTION:Хаврын дунд цагаагчин туулай сар\n1
- 7-р жарны 40 он улаан морин жил
+SUMMARY:Шинийн 2 · Хаврын дунд сар
+DESCRIPTION:шинийн 1 тасарсан\nХаврын дунд цага
+ агчин туулай сар\n17-р жарны 40 он улаан мор
+ ин жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2264,9 +2236,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260601
 SUMMARY:Их дүйчин өдөр
-DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
- харагчин могой сар\n17-р жарны 40 он улаан м
- орин жил\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 15\nЗуны эхэн харагчин могой 
+ сар\n17-р жарны 40 он улаан морин жил\nБүх ни
+ йтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2296,9 +2268,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260716
 SUMMARY:Үндэсний их баяр наадам
-DESCRIPTION:Шинийн 1 · Зуны сүүл сар\nЗуны сүүл 
- хөхөгчин хонь сар\n17-р жарны 40 он улаан мо
- рин жил\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nЗуны сүүл хөхөгчин хонь с
+ ар\n17-р жарны 40 он улаан морин жил\nБүх ний
+ тээр амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2378,10 +2350,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Монгол бахархлын өдөр
-DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
- хэн шарагчин гахай сар\n17-р жарны 40 он ула
- ан морин жил\nИх Эзэн Чингис хааны төрсөн
-  өдөр\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nӨвлийн эхэн шарагчин гаха
+ й сар\n17-р жарны 40 он улаан морин жил\nИх Э
+ зэн Чингис хааны төрсөн өдөр\nБүх нийтээ
+ р амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2441,9 +2413,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Битүүн
-DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
- сүүл цагаагчин үхэр сар\n17-р жарны 40 он ул
- аан морин жил
+DESCRIPTION:Шинийн 30\nӨвлийн сүүл цагаагчин үх
+ эр сар\n17-р жарны 40 он улаан морин жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2453,10 +2424,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:Цагаан сар
-DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн хар барс сар\n17-р жарны 41 он ул
- аагчин хонин жил\nБүх нийтээр амрах баяр
- ын өдөр
+DESCRIPTION:Шинийн 1\nХаврын тэргүүн хар барс с
+ ар\n17-р жарны 41 он улаагчин хонин жил\nБүх 
+ нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2466,10 +2436,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270209
 SUMMARY:Шинийн 2
-DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн хар барс сар\n17-р жарны 41 он ул
- аагчин хонин жил\nБүх нийтээр амрах баяр
- ын өдөр
+DESCRIPTION:Шинийн 2\nХаврын тэргүүн хар барс с
+ ар\n17-р жарны 41 он улаагчин хонин жил\nБүх 
+ нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2479,10 +2448,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
 SUMMARY:Шинийн 3
-DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн хар барс сар\n17-р жарны 41 он ул
- аагчин хонин жил\nБүх нийтээр амрах баяр
- ын өдөр
+DESCRIPTION:Шинийн 3\nХаврын тэргүүн хар барс с
+ ар\n17-р жарны 41 он улаагчин хонин жил\nБүх 
+ нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2563,10 +2531,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
 SUMMARY:Их дүйчин өдөр
-DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
- хөхөгчин могой сар\n17-р жарны 41 он улаагч
- ин хонин жил\nБүх нийтээр амрах баярын өд
- өр
+DESCRIPTION:Шинийн 15\nЗуны эхэн хөхөгчин могой 
+ сар\n17-р жарны 41 он улаагчин хонин жил\nБү
+ х нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2665,10 +2632,10 @@ UID:mongol-mn-2027-09L-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20271001
 DTEND;VALUE=DATE:20271002
-SUMMARY:Шинийн 2 · Намрын сүүл (илүү) сар (шини
- йн 1 тасарсан)
-DESCRIPTION:Намрын сүүл (илүү) цагаан нохой сар
- \n17-р жарны 41 он улаагчин хонин жил
+SUMMARY:Шинийн 2 · Намрын сүүл (илүү) сар
+DESCRIPTION:шинийн 1 тасарсан\nНамрын сүүл (илү
+ ү) цагаан нохой сар\n17-р жарны 41 он улаагч
+ ин хонин жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2707,10 +2674,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20271129
 DTEND;VALUE=DATE:20271130
 SUMMARY:Монгол бахархлын өдөр
-DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
- хэн цагаагчин гахай сар\n17-р жарны 41 он ул
- аагчин хонин жил\nИх Эзэн Чингис хааны тө
- рсөн өдөр\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nӨвлийн эхэн цагаагчин гах
+ ай сар\n17-р жарны 41 он улаагчин хонин жил\n
+ Их Эзэн Чингис хааны төрсөн өдөр\nБүх ний
+ тээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2772,9 +2739,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280225
 DTEND;VALUE=DATE:20280226
 SUMMARY:Битүүн
-DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
- сүүл харагчин үхэр сар\n17-р жарны 41 он ула
- агчин хонин жил
+DESCRIPTION:Шинийн 30\nӨвлийн сүүл харагчин үхэ
+ р сар\n17-р жарны 41 он улаагчин хонин жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2784,10 +2750,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280226
 DTEND;VALUE=DATE:20280227
 SUMMARY:Цагаан сар
-DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн хөх барс сар\n17-р жарны 42 он ша
- р бичин жил\nБүх нийтээр амрах баярын өдө
- р
+DESCRIPTION:Шинийн 1\nХаврын тэргүүн хөх барс с
+ ар\n17-р жарны 42 он шар бичин жил\nБүх нийтэ
+ эр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2797,10 +2762,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280227
 DTEND;VALUE=DATE:20280228
 SUMMARY:Шинийн 2
-DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн хөх барс сар\n17-р жарны 42 он ша
- р бичин жил\nБүх нийтээр амрах баярын өдө
- р
+DESCRIPTION:Шинийн 2\nХаврын тэргүүн хөх барс с
+ ар\n17-р жарны 42 он шар бичин жил\nБүх нийтэ
+ эр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2810,10 +2774,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280228
 DTEND;VALUE=DATE:20280229
 SUMMARY:Шинийн 3
-DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн хөх барс сар\n17-р жарны 42 он ша
- р бичин жил\nБүх нийтээр амрах баярын өдө
- р
+DESCRIPTION:Шинийн 3\nХаврын тэргүүн хөх барс с
+ ар\n17-р жарны 42 он шар бичин жил\nБүх нийтэ
+ эр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2893,9 +2856,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280607
 DTEND;VALUE=DATE:20280608
 SUMMARY:Их дүйчин өдөр
-DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
- улаагчин могой сар\n17-р жарны 42 он шар бич
- ин жил\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 15\nЗуны эхэн улаагчин могой 
+ сар\n17-р жарны 42 он шар бичин жил\nБүх нийт
+ ээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2984,10 +2947,9 @@ UID:mongol-mn-2028-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20281019
 DTEND;VALUE=DATE:20281020
-SUMMARY:Шинийн 2 · Намрын сүүл сар (шинийн 1 та
- сарсан)
-DESCRIPTION:Намрын сүүл хар нохой сар\n17-р жарн
- ы 42 он шар бичин жил
+SUMMARY:Шинийн 2 · Намрын сүүл сар
+DESCRIPTION:шинийн 1 тасарсан\nНамрын сүүл хар 
+ нохой сар\n17-р жарны 42 он шар бичин жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3006,10 +2968,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20281117
 DTEND;VALUE=DATE:20281118
 SUMMARY:Монгол бахархлын өдөр
-DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
- хэн харагчин гахай сар\n17-р жарны 42 он шар
-  бичин жил\nИх Эзэн Чингис хааны төрсөн ө
- дөр\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nӨвлийн эхэн харагчин гаха
+ й сар\n17-р жарны 42 он шар бичин жил\nИх Эзэ
+ н Чингис хааны төрсөн өдөр\nБүх нийтээр а
+ мрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3071,9 +3033,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290213
 DTEND;VALUE=DATE:20290214
 SUMMARY:Битүүн
-DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
- сүүл хөхөгчин үхэр сар\n17-р жарны 42 он шар
-  бичин жил
+DESCRIPTION:Шинийн 30\nӨвлийн сүүл хөхөгчин үхэ
+ р сар\n17-р жарны 42 он шар бичин жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3083,11 +3044,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290214
 DTEND;VALUE=DATE:20290215
 SUMMARY:Цагаан сар
-DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар · 7 ес 
- эхэлнэ · Долоон есөд довны толгой бараал
- на\nХаврын тэргүүн улаан барс сар\n17-р жар
- ны 43 он шарагчин тахиа жил\nБүх нийтээр а
- мрах баярын өдөр
+DESCRIPTION:Шинийн 1 · 7 ес эхэлнэ · Долоон есөд 
+ довны толгой бараална\nХаврын тэргүүн ул
+ аан барс сар\n17-р жарны 43 он шарагчин тахи
+ а жил\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3097,10 +3057,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290215
 DTEND;VALUE=DATE:20290216
 SUMMARY:Шинийн 2
-DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн улаан барс сар\n17-р жарны 43 он 
- шарагчин тахиа жил\nБүх нийтээр амрах ба
- ярын өдөр
+DESCRIPTION:Шинийн 2\nХаврын тэргүүн улаан барс
+  сар\n17-р жарны 43 он шарагчин тахиа жил\nБү
+ х нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3110,10 +3069,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290216
 DTEND;VALUE=DATE:20290217
 SUMMARY:Шинийн 3
-DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн улаан барс сар\n17-р жарны 43 он 
- шарагчин тахиа жил\nБүх нийтээр амрах ба
- ярын өдөр
+DESCRIPTION:Шинийн 3\nХаврын тэргүүн улаан барс
+  сар\n17-р жарны 43 он шарагчин тахиа жил\nБү
+ х нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3193,10 +3151,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290527
 DTEND;VALUE=DATE:20290528
 SUMMARY:Их дүйчин өдөр
-DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
- шарагчин могой сар\n17-р жарны 43 он шарагч
- ин тахиа жил\nБүх нийтээр амрах баярын өд
- өр
+DESCRIPTION:Шинийн 15\nЗуны эхэн шарагчин могой 
+ сар\n17-р жарны 43 он шарагчин тахиа жил\nБү
+ х нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3226,10 +3183,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290712
 DTEND;VALUE=DATE:20290713
 SUMMARY:Үндэсний их баяр наадам
-DESCRIPTION:Шинийн 1 · Зуны сүүл сар\nЗуны сүүл 
- цагаагчин хонь сар\n17-р жарны 43 он шарагч
- ин тахиа жил\nБүх нийтээр амрах баярын өд
- өр
+DESCRIPTION:Шинийн 1\nЗуны сүүл цагаагчин хонь 
+ сар\n17-р жарны 43 он шарагчин тахиа жил\nБү
+ х нийтээр амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3309,10 +3265,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20291107
 DTEND;VALUE=DATE:20291108
 SUMMARY:Монгол бахархлын өдөр
-DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
- хэн хөхөгчин гахай сар\n17-р жарны 43 он шар
- агчин тахиа жил\nИх Эзэн Чингис хааны төр
- сөн өдөр\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nӨвлийн эхэн хөхөгчин гаха
+ й сар\n17-р жарны 43 он шарагчин тахиа жил\nИ
+ х Эзэн Чингис хааны төрсөн өдөр\nБүх нийт
+ ээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3351,10 +3307,10 @@ UID:mongol-mn-2029-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300105
 DTEND;VALUE=DATE:20300106
-SUMMARY:Шинийн 2 · Өвлийн сүүл сар (шинийн 1 та
- сарсан)
-DESCRIPTION:Өвлийн сүүл улаагчин үхэр сар\n17-р 
- жарны 43 он шарагчин тахиа жил
+SUMMARY:Шинийн 2 · Өвлийн сүүл сар
+DESCRIPTION:шинийн 1 тасарсан\nӨвлийн сүүл улаа
+ гчин үхэр сар\n17-р жарны 43 он шарагчин тах
+ иа жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3373,9 +3329,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300202
 DTEND;VALUE=DATE:20300203
 SUMMARY:Битүүн
-DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
- сүүл улаагчин үхэр сар\n17-р жарны 43 он шар
- агчин тахиа жил
+DESCRIPTION:Шинийн 30\nӨвлийн сүүл улаагчин үхэ
+ р сар\n17-р жарны 43 он шарагчин тахиа жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3385,10 +3340,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300203
 DTEND;VALUE=DATE:20300204
 SUMMARY:Цагаан сар
-DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн шар барс сар\n17-р жарны 44 он ца
- гаан нохой жил\nБүх нийтээр амрах баярын 
- өдөр
+DESCRIPTION:Шинийн 1\nХаврын тэргүүн шар барс с
+ ар\n17-р жарны 44 он цагаан нохой жил\nБүх ни
+ йтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3398,10 +3352,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300204
 DTEND;VALUE=DATE:20300205
 SUMMARY:Шинийн 2
-DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн шар барс сар\n17-р жарны 44 он ца
- гаан нохой жил\nБүх нийтээр амрах баярын 
- өдөр
+DESCRIPTION:Шинийн 2\nХаврын тэргүүн шар барс с
+ ар\n17-р жарны 44 он цагаан нохой жил\nБүх ни
+ йтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3411,11 +3364,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300205
 DTEND;VALUE=DATE:20300206
 SUMMARY:Шинийн 3
-DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар · 6 ес 
- эхэлнэ · Зургаан есөд зурайсан зам гарна
- \nХаврын тэргүүн шар барс сар\n17-р жарны 44 
- он цагаан нохой жил\nБүх нийтээр амрах ба
- ярын өдөр
+DESCRIPTION:Шинийн 3 · 6 ес эхэлнэ · Зургаан есө
+ д зурайсан зам гарна\nХаврын тэргүүн шар 
+ барс сар\n17-р жарны 44 он цагаан нохой жил\n
+ Бүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3495,10 +3447,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300517
 DTEND;VALUE=DATE:20300518
 SUMMARY:Их дүйчин өдөр
-DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
- цагаагчин могой сар\n17-р жарны 44 он цагаа
- н нохой жил\nБүх нийтээр амрах баярын өдө
- р
+DESCRIPTION:Шинийн 15\nЗуны эхэн цагаагчин мого
+ й сар\n17-р жарны 44 он цагаан нохой жил\nБүх
+  нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3538,9 +3489,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300715
 DTEND;VALUE=DATE:20300716
 SUMMARY:Үндэсний их баяр наадам
-DESCRIPTION:Шинийн 15 · Зуны дунд сар\nЗуны дунд 
- хар морь сар\n17-р жарны 44 он цагаан нохой 
- жил\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 15\nЗуны дунд хар морь сар\n17-
+ р жарны 44 он цагаан нохой жил\nБүх нийтээ
+ р амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3641,11 +3592,11 @@ DTSTART;VALUE=DATE:20301126
 DTEND;VALUE=DATE:20301127
 SUMMARY:Монгол бахархлын өдөр · Улс тунхагла
  сан өдөр
-DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
- хэн улаагчин гахай сар\n17-р жарны 44 он цаг
- аан нохой жил\nИх Эзэн Чингис хааны төрсө
- н өдөр\nБүх нийтээр амрах баярын өдөр\nБү
- гд Найрамдах Улс тунхагласан өдөр
+DESCRIPTION:Шинийн 1\nӨвлийн эхэн улаагчин гаха
+ й сар\n17-р жарны 44 он цагаан нохой жил\nИх 
+ Эзэн Чингис хааны төрсөн өдөр\nБүх нийтэ
+ эр амрах баярын өдөр\nБүгд Найрамдах Улс 
+ тунхагласан өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3705,9 +3656,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310221
 DTEND;VALUE=DATE:20310222
 SUMMARY:Битүүн
-DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
- сүүл шарагчин үхэр сар\n17-р жарны 44 он цаг
- аан нохой жил
+DESCRIPTION:Шинийн 30\nӨвлийн сүүл шарагчин үхэ
+ р сар\n17-р жарны 44 он цагаан нохой жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3717,10 +3667,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310222
 DTEND;VALUE=DATE:20310223
 SUMMARY:Цагаан сар
-DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн цагаан барс сар\n17-р жарны 45 он
-  цагаагчин гахай жил\nБүх нийтээр амрах б
- аярын өдөр
+DESCRIPTION:Шинийн 1\nХаврын тэргүүн цагаан бар
+ с сар\n17-р жарны 45 он цагаагчин гахай жил\n
+ Бүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3730,11 +3679,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310223
 DTEND;VALUE=DATE:20310224
 SUMMARY:Шинийн 2
-DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар · 8 ес 
- эхэлнэ · Найман есөд нял шал болно\nХавры
- н тэргүүн цагаан барс сар\n17-р жарны 45 он 
- цагаагчин гахай жил\nБүх нийтээр амрах б
- аярын өдөр
+DESCRIPTION:Шинийн 2 · 8 ес эхэлнэ · Найман есөд 
+ нял шал болно\nХаврын тэргүүн цагаан бар
+ с сар\n17-р жарны 45 он цагаагчин гахай жил\n
+ Бүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3744,10 +3692,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310224
 DTEND;VALUE=DATE:20310225
 SUMMARY:Шинийн 3
-DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн цагаан барс сар\n17-р жарны 45 он
-  цагаагчин гахай жил\nБүх нийтээр амрах б
- аярын өдөр
+DESCRIPTION:Шинийн 3\nХаврын тэргүүн цагаан бар
+ с сар\n17-р жарны 45 он цагаагчин гахай жил\n
+ Бүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3827,10 +3774,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310605
 DTEND;VALUE=DATE:20310606
 SUMMARY:Их дүйчин өдөр
-DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
- харагчин могой сар\n17-р жарны 45 он цагааг
- чин гахай жил\nБүх нийтээр амрах баярын ө
- дөр
+DESCRIPTION:Шинийн 15\nЗуны эхэн харагчин могой 
+ сар\n17-р жарны 45 он цагаагчин гахай жил\nБ
+ үх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3940,10 +3886,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20311115
 DTEND;VALUE=DATE:20311116
 SUMMARY:Монгол бахархлын өдөр
-DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
- хэн шарагчин гахай сар\n17-р жарны 45 он цаг
- аагчин гахай жил\nИх Эзэн Чингис хааны тө
- рсөн өдөр\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nӨвлийн эхэн шарагчин гаха
+ й сар\n17-р жарны 45 он цагаагчин гахай жил\n
+ Их Эзэн Чингис хааны төрсөн өдөр\nБүх ний
+ тээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4005,9 +3951,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320211
 DTEND;VALUE=DATE:20320212
 SUMMARY:Битүүн
-DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
- сүүл цагаагчин үхэр сар\n17-р жарны 45 он ца
- гаагчин гахай жил
+DESCRIPTION:Шинийн 30\nӨвлийн сүүл цагаагчин үх
+ эр сар\n17-р жарны 45 он цагаагчин гахай жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4017,10 +3962,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320212
 DTEND;VALUE=DATE:20320213
 SUMMARY:Цагаан сар
-DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн хар барс сар\n17-р жарны 46 он ха
- р хулгана жил\nБүх нийтээр амрах баярын ө
- дөр
+DESCRIPTION:Шинийн 1\nХаврын тэргүүн хар барс с
+ ар\n17-р жарны 46 он хар хулгана жил\nБүх ний
+ тээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4030,10 +3974,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320213
 DTEND;VALUE=DATE:20320214
 SUMMARY:Шинийн 2
-DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн хар барс сар\n17-р жарны 46 он ха
- р хулгана жил\nБүх нийтээр амрах баярын ө
- дөр
+DESCRIPTION:Шинийн 2\nХаврын тэргүүн хар барс с
+ ар\n17-р жарны 46 он хар хулгана жил\nБүх ний
+ тээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4113,9 +4056,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320525
 DTEND;VALUE=DATE:20320526
 SUMMARY:Их дүйчин өдөр
-DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
- хөхөгчин могой сар\n17-р жарны 46 он хар хул
- гана жил\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 15\nЗуны эхэн хөхөгчин могой 
+ сар\n17-р жарны 46 он хар хулгана жил\nБүх ни
+ йтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4225,10 +4168,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20321104
 DTEND;VALUE=DATE:20321105
 SUMMARY:Монгол бахархлын өдөр
-DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
- хэн цагаагчин гахай сар\n17-р жарны 46 он ха
- р хулгана жил\nИх Эзэн Чингис хааны төрсө
- н өдөр\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nӨвлийн эхэн цагаагчин гах
+ ай сар\n17-р жарны 46 он хар хулгана жил\nИх 
+ Эзэн Чингис хааны төрсөн өдөр\nБүх нийтэ
+ эр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4288,9 +4231,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330130
 DTEND;VALUE=DATE:20330131
 SUMMARY:Битүүн
-DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
- сүүл харагчин үхэр сар\n17-р жарны 46 он хар
-  хулгана жил
+DESCRIPTION:Шинийн 30\nӨвлийн сүүл харагчин үхэ
+ р сар\n17-р жарны 46 он хар хулгана жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4300,10 +4242,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330131
 DTEND;VALUE=DATE:20330201
 SUMMARY:Цагаан сар
-DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн хөх барс сар\n17-р жарны 47 он ха
- рагчин үхэр жил\nБүх нийтээр амрах баяры
- н өдөр
+DESCRIPTION:Шинийн 1\nХаврын тэргүүн хөх барс с
+ ар\n17-р жарны 47 он харагчин үхэр жил\nБүх н
+ ийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4313,10 +4254,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330201
 DTEND;VALUE=DATE:20330202
 SUMMARY:Шинийн 2
-DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн хөх барс сар\n17-р жарны 47 он ха
- рагчин үхэр жил\nБүх нийтээр амрах баяры
- н өдөр
+DESCRIPTION:Шинийн 2\nХаврын тэргүүн хөх барс с
+ ар\n17-р жарны 47 он харагчин үхэр жил\nБүх н
+ ийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4326,10 +4266,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330202
 DTEND;VALUE=DATE:20330203
 SUMMARY:Шинийн 3
-DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн хөх барс сар\n17-р жарны 47 он ха
- рагчин үхэр жил\nБүх нийтээр амрах баяры
- н өдөр
+DESCRIPTION:Шинийн 3\nХаврын тэргүүн хөх барс с
+ ар\n17-р жарны 47 он харагчин үхэр жил\nБүх н
+ ийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4431,10 +4370,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330612
 DTEND;VALUE=DATE:20330613
 SUMMARY:Их дүйчин өдөр
-DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
- улаагчин могой сар\n17-р жарны 47 он харагч
- ин үхэр жил\nБүх нийтээр амрах баярын өдө
- р
+DESCRIPTION:Шинийн 15\nЗуны эхэн улаагчин могой 
+ сар\n17-р жарны 47 он харагчин үхэр жил\nБүх 
+ нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4454,9 +4392,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330712
 DTEND;VALUE=DATE:20330713
 SUMMARY:Үндэсний их баяр наадам
-DESCRIPTION:Шинийн 15 · Зуны дунд сар\nЗуны дунд 
- шар морь сар\n17-р жарны 47 он харагчин үхэр
-  жил\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 15\nЗуны дунд шар морь сар\n17-
+ р жарны 47 он харагчин үхэр жил\nБүх нийтэ
+ эр амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4546,10 +4484,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20331122
 DTEND;VALUE=DATE:20331123
 SUMMARY:Монгол бахархлын өдөр
-DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
- хэн харагчин гахай сар\n17-р жарны 47 он хар
- агчин үхэр жил\nИх Эзэн Чингис хааны төрс
- өн өдөр\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nӨвлийн эхэн харагчин гаха
+ й сар\n17-р жарны 47 он харагчин үхэр жил\nИх
+  Эзэн Чингис хааны төрсөн өдөр\nБүх нийтэ
+ эр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4611,9 +4549,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340218
 DTEND;VALUE=DATE:20340219
 SUMMARY:Битүүн
-DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
- сүүл хөхөгчин үхэр сар\n17-р жарны 47 он хар
- агчин үхэр жил
+DESCRIPTION:Шинийн 30\nӨвлийн сүүл хөхөгчин үхэ
+ р сар\n17-р жарны 47 он харагчин үхэр жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4623,10 +4560,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340219
 DTEND;VALUE=DATE:20340220
 SUMMARY:Цагаан сар
-DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн улаан барс сар\n17-р жарны 48 он 
- хөх бар жил\nБүх нийтээр амрах баярын өдө
- р
+DESCRIPTION:Шинийн 1\nХаврын тэргүүн улаан барс
+  сар\n17-р жарны 48 он хөх бар жил\nБүх нийтэ
+ эр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4636,10 +4572,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340220
 DTEND;VALUE=DATE:20340221
 SUMMARY:Шинийн 2
-DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн улаан барс сар\n17-р жарны 48 он 
- хөх бар жил\nБүх нийтээр амрах баярын өдө
- р
+DESCRIPTION:Шинийн 2\nХаврын тэргүүн улаан барс
+  сар\n17-р жарны 48 он хөх бар жил\nБүх нийтэ
+ эр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4649,10 +4584,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340221
 DTEND;VALUE=DATE:20340222
 SUMMARY:Шинийн 3
-DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн улаан барс сар\n17-р жарны 48 он 
- хөх бар жил\nБүх нийтээр амрах баярын өдө
- р
+DESCRIPTION:Шинийн 3\nХаврын тэргүүн улаан барс
+  сар\n17-р жарны 48 он хөх бар жил\nБүх нийтэ
+ эр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4724,9 +4658,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340601
 DTEND;VALUE=DATE:20340602
 SUMMARY:Их дүйчин өдөр · Хүүхдийн баяр
-DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
- шарагчин могой сар\n17-р жарны 48 он хөх бар
-  жил\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 15\nЗуны эхэн шарагчин могой 
+ сар\n17-р жарны 48 он хөх бар жил\nБүх нийтээ
+ р амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4736,10 +4670,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340602
 DTEND;VALUE=DATE:20340603
 SUMMARY:Их дүйчин өдөр (давхар)
-DESCRIPTION:Шинийн 15 (давхар) · Зуны эхэн сар\nЗ
- уны эхэн шарагчин могой сар\n17-р жарны 48 о
- н хөх бар жил\nБүх нийтээр амрах баярын ө
- дөр
+DESCRIPTION:Шинийн 15 (давхар)\nЗуны эхэн шарагч
+ ин могой сар\n17-р жарны 48 он хөх бар жил\nБ
+ үх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4849,10 +4782,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20341111
 DTEND;VALUE=DATE:20341112
 SUMMARY:Монгол бахархлын өдөр
-DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
- хэн хөхөгчин гахай сар\n17-р жарны 48 он хөх
-  бар жил\nИх Эзэн Чингис хааны төрсөн өдө
- р\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nӨвлийн эхэн хөхөгчин гаха
+ й сар\n17-р жарны 48 он хөх бар жил\nИх Эзэн Ч
+ ингис хааны төрсөн өдөр\nБүх нийтээр амр
+ ах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4912,9 +4845,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350208
 DTEND;VALUE=DATE:20350209
 SUMMARY:Битүүн
-DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
- сүүл улаагчин үхэр сар\n17-р жарны 48 он хөх
-  бар жил
+DESCRIPTION:Шинийн 30\nӨвлийн сүүл улаагчин үхэ
+ р сар\n17-р жарны 48 он хөх бар жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4924,10 +4856,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350209
 DTEND;VALUE=DATE:20350210
 SUMMARY:Цагаан сар
-DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн шар барс сар\n17-р жарны 49 он хө
- хөгчин туулай жил\nБүх нийтээр амрах бая
- рын өдөр
+DESCRIPTION:Шинийн 1\nХаврын тэргүүн шар барс с
+ ар\n17-р жарны 49 он хөхөгчин туулай жил\nБү
+ х нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4937,10 +4868,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350210
 DTEND;VALUE=DATE:20350211
 SUMMARY:Шинийн 2
-DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн шар барс сар\n17-р жарны 49 он хө
- хөгчин туулай жил\nБүх нийтээр амрах бая
- рын өдөр
+DESCRIPTION:Шинийн 2\nХаврын тэргүүн шар барс с
+ ар\n17-р жарны 49 он хөхөгчин туулай жил\nБү
+ х нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4950,10 +4880,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350211
 DTEND;VALUE=DATE:20350212
 SUMMARY:Шинийн 3
-DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн шар барс сар\n17-р жарны 49 он хө
- хөгчин туулай жил\nБүх нийтээр амрах бая
- рын өдөр
+DESCRIPTION:Шинийн 3\nХаврын тэргүүн шар барс с
+ ар\n17-р жарны 49 он хөхөгчин туулай жил\nБү
+ х нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5033,10 +4962,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350522
 DTEND;VALUE=DATE:20350523
 SUMMARY:Их дүйчин өдөр
-DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
- цагаагчин могой сар\n17-р жарны 49 он хөхөг
- чин туулай жил\nБүх нийтээр амрах баярын 
- өдөр
+DESCRIPTION:Шинийн 15\nЗуны эхэн цагаагчин мого
+ й сар\n17-р жарны 49 он хөхөгчин туулай жил\n
+ Бүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5105,10 +5033,10 @@ UID:mongol-mn-2035-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350903
 DTEND;VALUE=DATE:20350904
-SUMMARY:Шинийн 2 · Намрын дунд сар (шинийн 1 та
- сарсан)
-DESCRIPTION:Намрын дунд хөхөгчин тахиа сар\n17-р
-  жарны 49 он хөхөгчин туулай жил
+SUMMARY:Шинийн 2 · Намрын дунд сар
+DESCRIPTION:шинийн 1 тасарсан\nНамрын дунд хөхө
+ гчин тахиа сар\n17-р жарны 49 он хөхөгчин ту
+ улай жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5167,10 +5095,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20351130
 DTEND;VALUE=DATE:20351201
 SUMMARY:Монгол бахархлын өдөр
-DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
- хэн улаагчин гахай сар\n17-р жарны 49 он хөх
- өгчин туулай жил\nИх Эзэн Чингис хааны тө
- рсөн өдөр\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nӨвлийн эхэн улаагчин гаха
+ й сар\n17-р жарны 49 он хөхөгчин туулай жил\n
+ Их Эзэн Чингис хааны төрсөн өдөр\nБүх ний
+ тээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5231,9 +5159,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360227
 DTEND;VALUE=DATE:20360228
 SUMMARY:Битүүн
-DESCRIPTION:Шинийн 30 (давхар) · Өвлийн сүүл сар\
- nӨвлийн сүүл шарагчин үхэр сар\n17-р жарны 
- 49 он хөхөгчин туулай жил
+DESCRIPTION:Шинийн 30 (давхар)\nӨвлийн сүүл шара
+ гчин үхэр сар\n17-р жарны 49 он хөхөгчин туу
+ лай жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5243,10 +5171,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360228
 DTEND;VALUE=DATE:20360229
 SUMMARY:Цагаан сар
-DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн цагаан барс сар\n17-р жарны 50 он
-  улаан луу жил\nБүх нийтээр амрах баярын 
- өдөр
+DESCRIPTION:Шинийн 1\nХаврын тэргүүн цагаан бар
+ с сар\n17-р жарны 50 он улаан луу жил\nБүх ни
+ йтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5256,10 +5183,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360229
 DTEND;VALUE=DATE:20360301
 SUMMARY:Шинийн 2
-DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн цагаан барс сар\n17-р жарны 50 он
-  улаан луу жил\nБүх нийтээр амрах баярын 
- өдөр
+DESCRIPTION:Шинийн 2\nХаврын тэргүүн цагаан бар
+ с сар\n17-р жарны 50 он улаан луу жил\nБүх ни
+ йтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5269,10 +5195,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360301
 DTEND;VALUE=DATE:20360302
 SUMMARY:Шинийн 3
-DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн цагаан барс сар\n17-р жарны 50 он
-  улаан луу жил\nБүх нийтээр амрах баярын 
- өдөр
+DESCRIPTION:Шинийн 3\nХаврын тэргүүн цагаан бар
+ с сар\n17-р жарны 50 он улаан луу жил\nБүх ни
+ йтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5352,9 +5277,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360608
 DTEND;VALUE=DATE:20360609
 SUMMARY:Их дүйчин өдөр
-DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
- харагчин могой сар\n17-р жарны 50 он улаан л
- уу жил\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 15\nЗуны эхэн харагчин могой 
+ сар\n17-р жарны 50 он улаан луу жил\nБүх нийт
+ ээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5433,10 +5358,10 @@ UID:mongol-mn-2036-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360921
 DTEND;VALUE=DATE:20360922
-SUMMARY:Шинийн 2 · Намрын дунд сар (шинийн 1 та
- сарсан)
-DESCRIPTION:Намрын дунд улаагчин тахиа сар\n17-р
-  жарны 50 он улаан луу жил
+SUMMARY:Шинийн 2 · Намрын дунд сар
+DESCRIPTION:шинийн 1 тасарсан\nНамрын дунд улаа
+ гчин тахиа сар\n17-р жарны 50 он улаан луу ж
+ ил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5475,10 +5400,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20361118
 DTEND;VALUE=DATE:20361119
 SUMMARY:Монгол бахархлын өдөр
-DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
- хэн шарагчин гахай сар\n17-р жарны 50 он ула
- ан луу жил\nИх Эзэн Чингис хааны төрсөн ө
- дөр\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nӨвлийн эхэн шарагчин гаха
+ й сар\n17-р жарны 50 он улаан луу жил\nИх Эзэ
+ н Чингис хааны төрсөн өдөр\nБүх нийтээр а
+ мрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5538,9 +5463,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370215
 DTEND;VALUE=DATE:20370216
 SUMMARY:Битүүн
-DESCRIPTION:Шинийн 30 (давхар) · Өвлийн сүүл сар\
- nӨвлийн сүүл цагаагчин үхэр сар\n17-р жарн
- ы 50 он улаан луу жил
+DESCRIPTION:Шинийн 30 (давхар)\nӨвлийн сүүл цага
+ агчин үхэр сар\n17-р жарны 50 он улаан луу ж
+ ил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5550,10 +5475,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370216
 DTEND;VALUE=DATE:20370217
 SUMMARY:Цагаан сар
-DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн хар барс сар\n17-р жарны 51 он ул
- аагчин могой жил\nБүх нийтээр амрах баяр
- ын өдөр
+DESCRIPTION:Шинийн 1\nХаврын тэргүүн хар барс с
+ ар\n17-р жарны 51 он улаагчин могой жил\nБүх 
+ нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5563,10 +5487,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370217
 DTEND;VALUE=DATE:20370218
 SUMMARY:Шинийн 2
-DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн хар барс сар\n17-р жарны 51 он ул
- аагчин могой жил\nБүх нийтээр амрах баяр
- ын өдөр
+DESCRIPTION:Шинийн 2\nХаврын тэргүүн хар барс с
+ ар\n17-р жарны 51 он улаагчин могой жил\nБүх 
+ нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5576,10 +5499,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370218
 DTEND;VALUE=DATE:20370219
 SUMMARY:Шинийн 3
-DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн хар барс сар\n17-р жарны 51 он ул
- аагчин могой жил\nБүх нийтээр амрах баяр
- ын өдөр
+DESCRIPTION:Шинийн 3\nХаврын тэргүүн хар барс с
+ ар\n17-р жарны 51 он улаагчин могой жил\nБүх 
+ нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5660,10 +5582,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370529
 DTEND;VALUE=DATE:20370530
 SUMMARY:Их дүйчин өдөр
-DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
- хөхөгчин могой сар\n17-р жарны 51 он улаагч
- ин могой жил\nБүх нийтээр амрах баярын өд
- өр
+DESCRIPTION:Шинийн 15\nЗуны эхэн хөхөгчин могой 
+ сар\n17-р жарны 51 он улаагчин могой жил\nБү
+ х нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5693,10 +5614,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370714
 DTEND;VALUE=DATE:20370715
 SUMMARY:Үндэсний их баяр наадам
-DESCRIPTION:Шинийн 1 · Зуны сүүл сар\nЗуны сүүл 
- улаагчин хонь сар\n17-р жарны 51 он улаагчи
- н могой жил\nБүх нийтээр амрах баярын өдө
- р
+DESCRIPTION:Шинийн 1\nЗуны сүүл улаагчин хонь с
+ ар\n17-р жарны 51 он улаагчин могой жил\nБүх 
+ нийтээр амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5755,10 +5675,10 @@ UID:mongol-mn-2037-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20371010
 DTEND;VALUE=DATE:20371011
-SUMMARY:Шинийн 2 · Намрын сүүл сар (шинийн 1 та
- сарсан)
-DESCRIPTION:Намрын сүүл цагаан нохой сар\n17-р ж
- арны 51 он улаагчин могой жил
+SUMMARY:Шинийн 2 · Намрын сүүл сар
+DESCRIPTION:шинийн 1 тасарсан\nНамрын сүүл цага
+ ан нохой сар\n17-р жарны 51 он улаагчин мого
+ й жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5787,10 +5707,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20371108
 DTEND;VALUE=DATE:20371109
 SUMMARY:Монгол бахархлын өдөр
-DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
- хэн цагаагчин гахай сар\n17-р жарны 51 он ул
- аагчин могой жил\nИх Эзэн Чингис хааны тө
- рсөн өдөр\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nӨвлийн эхэн цагаагчин гах
+ ай сар\n17-р жарны 51 он улаагчин могой жил\n
+ Их Эзэн Чингис хааны төрсөн өдөр\nБүх ний
+ тээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5852,9 +5772,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380204
 DTEND;VALUE=DATE:20380205
 SUMMARY:Битүүн
-DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
- сүүл харагчин үхэр сар\n17-р жарны 51 он ула
- агчин могой жил
+DESCRIPTION:Шинийн 30\nӨвлийн сүүл харагчин үхэ
+ р сар\n17-р жарны 51 он улаагчин могой жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5864,11 +5783,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380205
 DTEND;VALUE=DATE:20380206
 SUMMARY:Цагаан сар
-DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар · 6 ес 
- эхэлнэ · Зургаан есөд зурайсан зам гарна
- \nХаврын тэргүүн хөх барс сар\n17-р жарны 52 
- он шар морин жил\nБүх нийтээр амрах баяры
- н өдөр
+DESCRIPTION:Шинийн 1 · 6 ес эхэлнэ · Зургаан есө
+ д зурайсан зам гарна\nХаврын тэргүүн хөх 
+ барс сар\n17-р жарны 52 он шар морин жил\nБүх
+  нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5878,10 +5796,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380206
 DTEND;VALUE=DATE:20380207
 SUMMARY:Шинийн 2
-DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн хөх барс сар\n17-р жарны 52 он ша
- р морин жил\nБүх нийтээр амрах баярын өдө
- р
+DESCRIPTION:Шинийн 2\nХаврын тэргүүн хөх барс с
+ ар\n17-р жарны 52 он шар морин жил\nБүх нийтэ
+ эр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5891,10 +5808,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380207
 DTEND;VALUE=DATE:20380208
 SUMMARY:Шинийн 3
-DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн хөх барс сар\n17-р жарны 52 он ша
- р морин жил\nБүх нийтээр амрах баярын өдө
- р
+DESCRIPTION:Шинийн 3\nХаврын тэргүүн хөх барс с
+ ар\n17-р жарны 52 он шар морин жил\nБүх нийтэ
+ эр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5974,9 +5890,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380518
 DTEND;VALUE=DATE:20380519
 SUMMARY:Их дүйчин өдөр
-DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
- улаагчин могой сар\n17-р жарны 52 он шар мор
- ин жил\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 15\nЗуны эхэн улаагчин могой 
+ сар\n17-р жарны 52 он шар морин жил\nБүх нийт
+ ээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6025,10 +5941,10 @@ UID:mongol-mn-2038-07L-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380802
 DTEND;VALUE=DATE:20380803
-SUMMARY:Шинийн 2 · Намрын эхэн (илүү) сар (шини
- йн 1 тасарсан)
-DESCRIPTION:Намрын эхэн (илүү) цагаан бич сар\n17
- -р жарны 52 он шар морин жил
+SUMMARY:Шинийн 2 · Намрын эхэн (илүү) сар
+DESCRIPTION:шинийн 1 тасарсан\nНамрын эхэн (илү
+ ү) цагаан бич сар\n17-р жарны 52 он шар морин
+  жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6107,10 +6023,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20381127
 DTEND;VALUE=DATE:20381128
 SUMMARY:Монгол бахархлын өдөр
-DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
- хэн харагчин гахай сар\n17-р жарны 52 он шар
-  морин жил\nИх Эзэн Чингис хааны төрсөн ө
- дөр\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nӨвлийн эхэн харагчин гаха
+ й сар\n17-р жарны 52 он шар морин жил\nИх Эзэ
+ н Чингис хааны төрсөн өдөр\nБүх нийтээр а
+ мрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6170,10 +6086,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390223
 DTEND;VALUE=DATE:20390224
 SUMMARY:Битүүн
-DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар · 8 ес эх
- элнэ · Найман есөд нял шал болно\nӨвлийн 
- сүүл хөхөгчин үхэр сар\n17-р жарны 52 он шар
-  морин жил
+DESCRIPTION:Шинийн 30 · 8 ес эхэлнэ · Найман есөд
+  нял шал болно\nӨвлийн сүүл хөхөгчин үхэр
+  сар\n17-р жарны 52 он шар морин жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6183,10 +6098,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390224
 DTEND;VALUE=DATE:20390225
 SUMMARY:Цагаан сар
-DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн улаан барс сар\n17-р жарны 53 он 
- шарагчин хонин жил\nБүх нийтээр амрах ба
- ярын өдөр
+DESCRIPTION:Шинийн 1\nХаврын тэргүүн улаан барс
+  сар\n17-р жарны 53 он шарагчин хонин жил\nБү
+ х нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6196,10 +6110,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390225
 DTEND;VALUE=DATE:20390226
 SUMMARY:Шинийн 2
-DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн улаан барс сар\n17-р жарны 53 он 
- шарагчин хонин жил\nБүх нийтээр амрах ба
- ярын өдөр
+DESCRIPTION:Шинийн 2\nХаврын тэргүүн улаан барс
+  сар\n17-р жарны 53 он шарагчин хонин жил\nБү
+ х нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6209,10 +6122,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390226
 DTEND;VALUE=DATE:20390227
 SUMMARY:Шинийн 3
-DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн улаан барс сар\n17-р жарны 53 он 
- шарагчин хонин жил\nБүх нийтээр амрах ба
- ярын өдөр
+DESCRIPTION:Шинийн 3\nХаврын тэргүүн улаан барс
+  сар\n17-р жарны 53 он шарагчин хонин жил\nБү
+ х нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6292,10 +6204,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390606
 DTEND;VALUE=DATE:20390607
 SUMMARY:Их дүйчин өдөр
-DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
- шарагчин могой сар\n17-р жарны 53 он шарагч
- ин хонин жил\nБүх нийтээр амрах баярын өд
- өр
+DESCRIPTION:Шинийн 15\nЗуны эхэн шарагчин могой 
+ сар\n17-р жарны 53 он шарагчин хонин жил\nБү
+ х нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6405,10 +6316,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20391117
 DTEND;VALUE=DATE:20391118
 SUMMARY:Монгол бахархлын өдөр
-DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
- хэн хөхөгчин гахай сар\n17-р жарны 53 он шар
- агчин хонин жил\nИх Эзэн Чингис хааны төр
- сөн өдөр\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nӨвлийн эхэн хөхөгчин гаха
+ й сар\n17-р жарны 53 он шарагчин хонин жил\nИ
+ х Эзэн Чингис хааны төрсөн өдөр\nБүх нийт
+ ээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6447,10 +6358,10 @@ UID:mongol-mn-2039-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400115
 DTEND;VALUE=DATE:20400116
-SUMMARY:Шинийн 2 · Өвлийн сүүл сар (шинийн 1 та
- сарсан)
-DESCRIPTION:Өвлийн сүүл улаагчин үхэр сар\n17-р 
- жарны 53 он шарагчин хонин жил
+SUMMARY:Шинийн 2 · Өвлийн сүүл сар
+DESCRIPTION:шинийн 1 тасарсан\nӨвлийн сүүл улаа
+ гчин үхэр сар\n17-р жарны 53 он шарагчин хон
+ ин жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6469,9 +6380,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400212
 DTEND;VALUE=DATE:20400213
 SUMMARY:Битүүн
-DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
- сүүл улаагчин үхэр сар\n17-р жарны 53 он шар
- агчин хонин жил
+DESCRIPTION:Шинийн 30\nӨвлийн сүүл улаагчин үхэ
+ р сар\n17-р жарны 53 он шарагчин хонин жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6481,10 +6391,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400213
 DTEND;VALUE=DATE:20400214
 SUMMARY:Цагаан сар
-DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн шар барс сар\n17-р жарны 54 он ца
- гаан бичин жил\nБүх нийтээр амрах баярын 
- өдөр
+DESCRIPTION:Шинийн 1\nХаврын тэргүүн шар барс с
+ ар\n17-р жарны 54 он цагаан бичин жил\nБүх ни
+ йтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6494,11 +6403,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400214
 DTEND;VALUE=DATE:20400215
 SUMMARY:Шинийн 2
-DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар · 7 ес 
- эхэлнэ · Долоон есөд довны толгой бараал
- на\nХаврын тэргүүн шар барс сар\n17-р жарны
-  54 он цагаан бичин жил\nБүх нийтээр амрах 
- баярын өдөр
+DESCRIPTION:Шинийн 2 · 7 ес эхэлнэ · Долоон есөд 
+ довны толгой бараална\nХаврын тэргүүн ша
+ р барс сар\n17-р жарны 54 он цагаан бичин жи
+ л\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6508,10 +6416,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400215
 DTEND;VALUE=DATE:20400216
 SUMMARY:Шинийн 3
-DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн шар барс сар\n17-р жарны 54 он ца
- гаан бичин жил\nБүх нийтээр амрах баярын 
- өдөр
+DESCRIPTION:Шинийн 3\nХаврын тэргүүн шар барс с
+ ар\n17-р жарны 54 он цагаан бичин жил\nБүх ни
+ йтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6540,10 +6447,10 @@ UID:mongol-mn-2040-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400314
 DTEND;VALUE=DATE:20400315
-SUMMARY:Шинийн 2 · Хаврын дунд сар (шинийн 1 та
- сарсан)
-DESCRIPTION:Хаврын дунд шарагчин туулай сар\n17-
- р жарны 54 он цагаан бичин жил
+SUMMARY:Шинийн 2 · Хаврын дунд сар
+DESCRIPTION:шинийн 1 тасарсан\nХаврын дунд шара
+ гчин туулай сар\n17-р жарны 54 он цагаан бич
+ ин жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6592,10 +6499,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400526
 DTEND;VALUE=DATE:20400527
 SUMMARY:Их дүйчин өдөр
-DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
- цагаагчин могой сар\n17-р жарны 54 он цагаа
- н бичин жил\nБүх нийтээр амрах баярын өдө
- р
+DESCRIPTION:Шинийн 15\nЗуны эхэн цагаагчин мого
+ й сар\n17-р жарны 54 он цагаан бичин жил\nБүх
+  нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6625,9 +6531,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400710
 DTEND;VALUE=DATE:20400711
 SUMMARY:Үндэсний их баяр наадам
-DESCRIPTION:Шинийн 1 · Зуны сүүл сар\nЗуны сүүл 
- харагчин хонь сар\n17-р жарны 54 он цагаан б
- ичин жил\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nЗуны сүүл харагчин хонь с
+ ар\n17-р жарны 54 он цагаан бичин жил\nБүх ни
+ йтээр амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6707,10 +6613,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20401105
 DTEND;VALUE=DATE:20401106
 SUMMARY:Монгол бахархлын өдөр
-DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
- хэн улаагчин гахай сар\n17-р жарны 54 он цаг
- аан бичин жил\nИх Эзэн Чингис хааны төрсө
- н өдөр\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nӨвлийн эхэн улаагчин гаха
+ й сар\n17-р жарны 54 он цагаан бичин жил\nИх 
+ Эзэн Чингис хааны төрсөн өдөр\nБүх нийтэ
+ эр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6770,9 +6676,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410201
 DTEND;VALUE=DATE:20410202
 SUMMARY:Битүүн
-DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
- сүүл шарагчин үхэр сар\n17-р жарны 54 он цаг
- аан бичин жил
+DESCRIPTION:Шинийн 30\nӨвлийн сүүл шарагчин үхэ
+ р сар\n17-р жарны 54 он цагаан бичин жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6782,10 +6687,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410202
 DTEND;VALUE=DATE:20410203
 SUMMARY:Цагаан сар
-DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн цагаан барс сар\n17-р жарны 55 он
-  цагаагчин тахиа жил\nБүх нийтээр амрах б
- аярын өдөр
+DESCRIPTION:Шинийн 1\nХаврын тэргүүн цагаан бар
+ с сар\n17-р жарны 55 он цагаагчин тахиа жил\n
+ Бүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6795,10 +6699,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410203
 DTEND;VALUE=DATE:20410204
 SUMMARY:Шинийн 2
-DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн цагаан барс сар\n17-р жарны 55 он
-  цагаагчин тахиа жил\nБүх нийтээр амрах б
- аярын өдөр
+DESCRIPTION:Шинийн 2\nХаврын тэргүүн цагаан бар
+ с сар\n17-р жарны 55 он цагаагчин тахиа жил\n
+ Бүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6847,10 +6750,10 @@ UID:mongol-mn-2041-03L-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410402
 DTEND;VALUE=DATE:20410403
-SUMMARY:Шинийн 2 · Хаврын сүүл (илүү) сар (шини
- йн 1 тасарсан)
-DESCRIPTION:Хаврын сүүл (илүү) хар луу сар\n17-р ж
- арны 55 он цагаагчин тахиа жил
+SUMMARY:Шинийн 2 · Хаврын сүүл (илүү) сар
+DESCRIPTION:шинийн 1 тасарсан\nХаврын сүүл (илү
+ ү) хар луу сар\n17-р жарны 55 он цагаагчин та
+ хиа жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6909,10 +6812,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410614
 DTEND;VALUE=DATE:20410615
 SUMMARY:Их дүйчин өдөр
-DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
- харагчин могой сар\n17-р жарны 55 он цагааг
- чин тахиа жил\nБүх нийтээр амрах баярын ө
- дөр
+DESCRIPTION:Шинийн 15\nЗуны эхэн харагчин могой 
+ сар\n17-р жарны 55 он цагаагчин тахиа жил\nБ
+ үх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6932,9 +6834,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410713
 DTEND;VALUE=DATE:20410714
 SUMMARY:Үндэсний их баяр наадам
-DESCRIPTION:Шинийн 15 · Зуны дунд сар\nЗуны дунд 
- хөх морь сар\n17-р жарны 55 он цагаагчин тах
- иа жил\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 15\nЗуны дунд хөх морь сар\n17-
+ р жарны 55 он цагаагчин тахиа жил\nБүх ний
+ тээр амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7034,10 +6936,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20411124
 DTEND;VALUE=DATE:20411125
 SUMMARY:Монгол бахархлын өдөр
-DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
- хэн шарагчин гахай сар\n17-р жарны 55 он цаг
- аагчин тахиа жил\nИх Эзэн Чингис хааны тө
- рсөн өдөр\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nӨвлийн эхэн шарагчин гаха
+ й сар\n17-р жарны 55 он цагаагчин тахиа жил\n
+ Их Эзэн Чингис хааны төрсөн өдөр\nБүх ний
+ тээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7097,9 +6999,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420220
 DTEND;VALUE=DATE:20420221
 SUMMARY:Битүүн
-DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
- сүүл цагаагчин үхэр сар\n17-р жарны 55 он ца
- гаагчин тахиа жил
+DESCRIPTION:Шинийн 30\nӨвлийн сүүл цагаагчин үх
+ эр сар\n17-р жарны 55 он цагаагчин тахиа жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7109,10 +7010,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420221
 DTEND;VALUE=DATE:20420222
 SUMMARY:Цагаан сар
-DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн хар барс сар\n17-р жарны 56 он ха
- р нохой жил\nБүх нийтээр амрах баярын өдө
- р
+DESCRIPTION:Шинийн 1\nХаврын тэргүүн хар барс с
+ ар\n17-р жарны 56 он хар нохой жил\nБүх нийтэ
+ эр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7122,10 +7022,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420222
 DTEND;VALUE=DATE:20420223
 SUMMARY:Шинийн 2
-DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн хар барс сар\n17-р жарны 56 он ха
- р нохой жил\nБүх нийтээр амрах баярын өдө
- р
+DESCRIPTION:Шинийн 2\nХаврын тэргүүн хар барс с
+ ар\n17-р жарны 56 он хар нохой жил\nБүх нийтэ
+ эр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7135,10 +7034,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420223
 DTEND;VALUE=DATE:20420224
 SUMMARY:Шинийн 3
-DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар · 8 ес 
- эхэлнэ · Найман есөд нял шал болно\nХавры
- н тэргүүн хар барс сар\n17-р жарны 56 он хар 
- нохой жил\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 3 · 8 ес эхэлнэ · Найман есөд 
+ нял шал болно\nХаврын тэргүүн хар барс са
+ р\n17-р жарны 56 он хар нохой жил\nБүх нийтээ
+ р амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7218,9 +7117,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420603
 DTEND;VALUE=DATE:20420604
 SUMMARY:Их дүйчин өдөр
-DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
- хөхөгчин могой сар\n17-р жарны 56 он хар нох
- ой жил\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 15\nЗуны эхэн хөхөгчин могой 
+ сар\n17-р жарны 56 он хар нохой жил\nБүх нийт
+ ээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7340,10 +7239,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20421113
 DTEND;VALUE=DATE:20421114
 SUMMARY:Монгол бахархлын өдөр
-DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
- хэн цагаагчин гахай сар\n17-р жарны 56 он ха
- р нохой жил\nИх Эзэн Чингис хааны төрсөн 
- өдөр\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nӨвлийн эхэн цагаагчин гах
+ ай сар\n17-р жарны 56 он хар нохой жил\nИх Эз
+ эн Чингис хааны төрсөн өдөр\nБүх нийтээр 
+ амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7403,9 +7302,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430209
 DTEND;VALUE=DATE:20430210
 SUMMARY:Битүүн
-DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
- сүүл харагчин үхэр сар\n17-р жарны 56 он хар
-  нохой жил
+DESCRIPTION:Шинийн 30\nӨвлийн сүүл харагчин үхэ
+ р сар\n17-р жарны 56 он хар нохой жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7415,10 +7313,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430210
 DTEND;VALUE=DATE:20430211
 SUMMARY:Цагаан сар
-DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн хөх барс сар\n17-р жарны 57 он ха
- рагчин гахай жил\nБүх нийтээр амрах баяр
- ын өдөр
+DESCRIPTION:Шинийн 1\nХаврын тэргүүн хөх барс с
+ ар\n17-р жарны 57 он харагчин гахай жил\nБүх 
+ нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7428,10 +7325,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430211
 DTEND;VALUE=DATE:20430212
 SUMMARY:Шинийн 2
-DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн хөх барс сар\n17-р жарны 57 он ха
- рагчин гахай жил\nБүх нийтээр амрах баяр
- ын өдөр
+DESCRIPTION:Шинийн 2\nХаврын тэргүүн хөх барс с
+ ар\n17-р жарны 57 он харагчин гахай жил\nБүх 
+ нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7441,10 +7337,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430212
 DTEND;VALUE=DATE:20430213
 SUMMARY:Шинийн 3
-DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн хөх барс сар\n17-р жарны 57 он ха
- рагчин гахай жил\nБүх нийтээр амрах баяр
- ын өдөр
+DESCRIPTION:Шинийн 3\nХаврын тэргүүн хөх барс с
+ ар\n17-р жарны 57 он харагчин гахай жил\nБүх 
+ нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7526,10 +7421,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430523
 DTEND;VALUE=DATE:20430524
 SUMMARY:Их дүйчин өдөр
-DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
- улаагчин могой сар\n17-р жарны 57 он харагч
- ин гахай жил\nБүх нийтээр амрах баярын өд
- өр
+DESCRIPTION:Шинийн 15\nЗуны эхэн улаагчин могой 
+ сар\n17-р жарны 57 он харагчин гахай жил\nБү
+ х нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7639,10 +7533,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20431102
 DTEND;VALUE=DATE:20431103
 SUMMARY:Монгол бахархлын өдөр
-DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
- хэн харагчин гахай сар\n17-р жарны 57 он хар
- агчин гахай жил\nИх Эзэн Чингис хааны төр
- сөн өдөр\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nӨвлийн эхэн харагчин гаха
+ й сар\n17-р жарны 57 он харагчин гахай жил\nИ
+ х Эзэн Чингис хааны төрсөн өдөр\nБүх нийт
+ ээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7682,10 +7576,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440101
 DTEND;VALUE=DATE:20440102
 SUMMARY:Шинэ жил
-DESCRIPTION:Шинийн 1 · Өвлийн сүүл (илүү) сар\nӨв
- лийн сүүл (илүү) хөхөгчин үхэр сар\n17-р жа
- рны 57 он харагчин гахай жил\nБүх нийтээр 
- амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nӨвлийн сүүл (илүү) хөхөгчи
+ н үхэр сар\n17-р жарны 57 он харагчин гахай 
+ жил\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7725,9 +7618,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440228
 DTEND;VALUE=DATE:20440229
 SUMMARY:Битүүн
-DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
- сүүл хөхөгчин үхэр сар\n17-р жарны 57 он хар
- агчин гахай жил
+DESCRIPTION:Шинийн 30\nӨвлийн сүүл хөхөгчин үхэ
+ р сар\n17-р жарны 57 он харагчин гахай жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7737,10 +7629,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440229
 DTEND;VALUE=DATE:20440301
 SUMMARY:Цагаан сар
-DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн улаан барс сар\n17-р жарны 58 он 
- хөх хулгана жил\nБүх нийтээр амрах баяры
- н өдөр
+DESCRIPTION:Шинийн 1\nХаврын тэргүүн улаан барс
+  сар\n17-р жарны 58 он хөх хулгана жил\nБүх н
+ ийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7750,10 +7641,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440301
 DTEND;VALUE=DATE:20440302
 SUMMARY:Шинийн 2
-DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн улаан барс сар\n17-р жарны 58 он 
- хөх хулгана жил\nБүх нийтээр амрах баяры
- н өдөр
+DESCRIPTION:Шинийн 2\nХаврын тэргүүн улаан барс
+  сар\n17-р жарны 58 он хөх хулгана жил\nБүх н
+ ийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7763,10 +7653,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440302
 DTEND;VALUE=DATE:20440303
 SUMMARY:Шинийн 3
-DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн улаан барс сар\n17-р жарны 58 он 
- хөх хулгана жил\nБүх нийтээр амрах баяры
- н өдөр
+DESCRIPTION:Шинийн 3\nХаврын тэргүүн улаан барс
+  сар\n17-р жарны 58 он хөх хулгана жил\nБүх н
+ ийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7846,9 +7735,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440610
 DTEND;VALUE=DATE:20440611
 SUMMARY:Их дүйчин өдөр
-DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
- шарагчин могой сар\n17-р жарны 58 он хөх хул
- гана жил\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 15\nЗуны эхэн шарагчин могой 
+ сар\n17-р жарны 58 он хөх хулгана жил\nБүх ни
+ йтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7868,9 +7757,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440710
 DTEND;VALUE=DATE:20440711
 SUMMARY:Үндэсний их баяр наадам
-DESCRIPTION:Шинийн 15 · Зуны дунд сар\nЗуны дунд 
- цагаан морь сар\n17-р жарны 58 он хөх хулган
- а жил\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 15\nЗуны дунд цагаан морь сар
+ \n17-р жарны 58 он хөх хулгана жил\nБүх нийтэ
+ эр амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7899,10 +7788,9 @@ UID:mongol-mn-2044-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440824
 DTEND;VALUE=DATE:20440825
-SUMMARY:Шинийн 2 · Намрын эхэн сар (шинийн 1 та
- сарсан)
-DESCRIPTION:Намрын эхэн хар бич сар\n17-р жарны 58
-  он хөх хулгана жил
+SUMMARY:Шинийн 2 · Намрын эхэн сар
+DESCRIPTION:шинийн 1 тасарсан\nНамрын эхэн хар 
+ бич сар\n17-р жарны 58 он хөх хулгана жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -7961,10 +7849,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20441120
 DTEND;VALUE=DATE:20441121
 SUMMARY:Монгол бахархлын өдөр
-DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
- хэн хөхөгчин гахай сар\n17-р жарны 58 он хөх
-  хулгана жил\nИх Эзэн Чингис хааны төрсөн
-  өдөр\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nӨвлийн эхэн хөхөгчин гаха
+ й сар\n17-р жарны 58 он хөх хулгана жил\nИх Э
+ зэн Чингис хааны төрсөн өдөр\nБүх нийтээ
+ р амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8025,9 +7913,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450216
 DTEND;VALUE=DATE:20450217
 SUMMARY:Битүүн
-DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
- сүүл улаагчин үхэр сар\n17-р жарны 58 он хөх
-  хулгана жил
+DESCRIPTION:Шинийн 30\nӨвлийн сүүл улаагчин үхэ
+ р сар\n17-р жарны 58 он хөх хулгана жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8037,10 +7924,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450217
 DTEND;VALUE=DATE:20450218
 SUMMARY:Цагаан сар
-DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн шар барс сар\n17-р жарны 59 он хө
- хөгчин үхэр жил\nБүх нийтээр амрах баяры
- н өдөр
+DESCRIPTION:Шинийн 1\nХаврын тэргүүн шар барс с
+ ар\n17-р жарны 59 он хөхөгчин үхэр жил\nБүх н
+ ийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8050,10 +7936,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450218
 DTEND;VALUE=DATE:20450219
 SUMMARY:Шинийн 2
-DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн шар барс сар\n17-р жарны 59 он хө
- хөгчин үхэр жил\nБүх нийтээр амрах баяры
- н өдөр
+DESCRIPTION:Шинийн 2\nХаврын тэргүүн шар барс с
+ ар\n17-р жарны 59 он хөхөгчин үхэр жил\nБүх н
+ ийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8063,10 +7948,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450219
 DTEND;VALUE=DATE:20450220
 SUMMARY:Шинийн 3
-DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн шар барс сар\n17-р жарны 59 он хө
- хөгчин үхэр жил\nБүх нийтээр амрах баяры
- н өдөр
+DESCRIPTION:Шинийн 3\nХаврын тэргүүн шар барс с
+ ар\n17-р жарны 59 он хөхөгчин үхэр жил\nБүх н
+ ийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8146,10 +8030,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450530
 DTEND;VALUE=DATE:20450531
 SUMMARY:Их дүйчин өдөр
-DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
- цагаагчин могой сар\n17-р жарны 59 он хөхөг
- чин үхэр жил\nБүх нийтээр амрах баярын өд
- өр
+DESCRIPTION:Шинийн 15\nЗуны эхэн цагаагчин мого
+ й сар\n17-р жарны 59 он хөхөгчин үхэр жил\nБү
+ х нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8179,9 +8062,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450715
 DTEND;VALUE=DATE:20450716
 SUMMARY:Үндэсний их баяр наадам
-DESCRIPTION:Шинийн 1 · Зуны сүүл сар\nЗуны сүүл 
- харагчин хонь сар\n17-р жарны 59 он хөхөгчи
- н үхэр жил\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nЗуны сүүл харагчин хонь с
+ ар\n17-р жарны 59 он хөхөгчин үхэр жил\nБүх н
+ ийтээр амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8220,10 +8103,10 @@ UID:mongol-mn-2045-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450912
 DTEND;VALUE=DATE:20450913
-SUMMARY:Шинийн 2 · Намрын дунд сар (шинийн 1 та
- сарсан)
-DESCRIPTION:Намрын дунд хөхөгчин тахиа сар\n17-р
-  жарны 59 он хөхөгчин үхэр жил
+SUMMARY:Шинийн 2 · Намрын дунд сар
+DESCRIPTION:шинийн 1 тасарсан\nНамрын дунд хөхө
+ гчин тахиа сар\n17-р жарны 59 он хөхөгчин үх
+ эр жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -8262,10 +8145,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20451109
 DTEND;VALUE=DATE:20451110
 SUMMARY:Монгол бахархлын өдөр
-DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
- хэн улаагчин гахай сар\n17-р жарны 59 он хөх
- өгчин үхэр жил\nИх Эзэн Чингис хааны төрс
- өн өдөр\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nӨвлийн эхэн улаагчин гаха
+ й сар\n17-р жарны 59 он хөхөгчин үхэр жил\nИх
+  Эзэн Чингис хааны төрсөн өдөр\nБүх нийтэ
+ эр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8326,10 +8209,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460205
 DTEND;VALUE=DATE:20460206
 SUMMARY:Битүүн
-DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар · 6 ес эх
- элнэ · Зургаан есөд зурайсан зам гарна\nӨ
- влийн сүүл шарагчин үхэр сар\n17-р жарны 59 
- он хөхөгчин үхэр жил
+DESCRIPTION:Шинийн 30 · 6 ес эхэлнэ · Зургаан есө
+ д зурайсан зам гарна\nӨвлийн сүүл шарагч
+ ин үхэр сар\n17-р жарны 59 он хөхөгчин үхэр 
+ жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8339,10 +8222,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460206
 DTEND;VALUE=DATE:20460207
 SUMMARY:Цагаан сар
-DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн цагаан барс сар\n17-р жарны 60 он
-  улаан бар жил\nБүх нийтээр амрах баярын 
- өдөр
+DESCRIPTION:Шинийн 1\nХаврын тэргүүн цагаан бар
+ с сар\n17-р жарны 60 он улаан бар жил\nБүх ни
+ йтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8352,10 +8234,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460207
 DTEND;VALUE=DATE:20460208
 SUMMARY:Шинийн 2
-DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн цагаан барс сар\n17-р жарны 60 он
-  улаан бар жил\nБүх нийтээр амрах баярын 
- өдөр
+DESCRIPTION:Шинийн 2\nХаврын тэргүүн цагаан бар
+ с сар\n17-р жарны 60 он улаан бар жил\nБүх ни
+ йтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8365,10 +8246,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460208
 DTEND;VALUE=DATE:20460209
 SUMMARY:Шинийн 3
-DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн цагаан барс сар\n17-р жарны 60 он
-  улаан бар жил\nБүх нийтээр амрах баярын 
- өдөр
+DESCRIPTION:Шинийн 3\nХаврын тэргүүн цагаан бар
+ с сар\n17-р жарны 60 он улаан бар жил\nБүх ни
+ йтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8378,10 +8258,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460209
 DTEND;VALUE=DATE:20460210
 SUMMARY:Шинийн 3 (давхар)
-DESCRIPTION:Шинийн 3 (давхар) · Хаврын тэргүүн с
- ар\nХаврын тэргүүн цагаан барс сар\n17-р жа
- рны 60 он улаан бар жил\nБүх нийтээр амрах 
- баярын өдөр
+DESCRIPTION:Шинийн 3 (давхар)\nХаврын тэргүүн ца
+ гаан барс сар\n17-р жарны 60 он улаан бар жи
+ л\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8412,10 +8291,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460308
 DTEND;VALUE=DATE:20460309
 SUMMARY:Эмэгтэйчүүдийн баяр
-DESCRIPTION:Шинийн 1 · Хаврын дунд сар\nХаврын д
- унд цагаагчин туулай сар\n17-р жарны 60 он у
- лаан бар жил\nОлон улсын эмэгтэйчүүдийн 
- өдөр\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nХаврын дунд цагаагчин туу
+ лай сар\n17-р жарны 60 он улаан бар жил\nОлон
+  улсын эмэгтэйчүүдийн өдөр\nБүх нийтээр 
+ амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8465,9 +8344,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460520
 DTEND;VALUE=DATE:20460521
 SUMMARY:Их дүйчин өдөр
-DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
- харагчин могой сар\n17-р жарны 60 он улаан б
- ар жил\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 15\nЗуны эхэн харагчин могой 
+ сар\n17-р жарны 60 он улаан бар жил\nБүх нийт
+ ээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8556,10 +8435,10 @@ UID:mongol-mn-2046-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20461001
 DTEND;VALUE=DATE:20461002
-SUMMARY:Шинийн 2 · Намрын дунд сар (шинийн 1 та
- сарсан)
-DESCRIPTION:Намрын дунд улаагчин тахиа сар\n17-р
-  жарны 60 он улаан бар жил
+SUMMARY:Шинийн 2 · Намрын дунд сар
+DESCRIPTION:шинийн 1 тасарсан\nНамрын дунд улаа
+ гчин тахиа сар\n17-р жарны 60 он улаан бар ж
+ ил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -8598,10 +8477,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20461128
 DTEND;VALUE=DATE:20461129
 SUMMARY:Монгол бахархлын өдөр
-DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
- хэн шарагчин гахай сар\n17-р жарны 60 он ула
- ан бар жил\nИх Эзэн Чингис хааны төрсөн ө
- дөр\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nӨвлийн эхэн шарагчин гаха
+ й сар\n17-р жарны 60 он улаан бар жил\nИх Эзэ
+ н Чингис хааны төрсөн өдөр\nБүх нийтээр а
+ мрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8661,9 +8540,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470224
 DTEND;VALUE=DATE:20470225
 SUMMARY:Битүүн
-DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
- сүүл цагаагчин үхэр сар\n17-р жарны 60 он ул
- аан бар жил
+DESCRIPTION:Шинийн 30\nӨвлийн сүүл цагаагчин үх
+ эр сар\n17-р жарны 60 он улаан бар жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8673,10 +8551,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470225
 DTEND;VALUE=DATE:20470226
 SUMMARY:Цагаан сар
-DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн хар барс сар\n18-р жарны 1 он ула
- агчин туулай жил\nБүх нийтээр амрах баяр
- ын өдөр
+DESCRIPTION:Шинийн 1\nХаврын тэргүүн хар барс с
+ ар\n18-р жарны 1 он улаагчин туулай жил\nБүх
+  нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8686,10 +8563,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470226
 DTEND;VALUE=DATE:20470227
 SUMMARY:Шинийн 2
-DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн хар барс сар\n18-р жарны 1 он ула
- агчин туулай жил\nБүх нийтээр амрах баяр
- ын өдөр
+DESCRIPTION:Шинийн 2\nХаврын тэргүүн хар барс с
+ ар\n18-р жарны 1 он улаагчин туулай жил\nБүх
+  нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8699,10 +8575,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470227
 DTEND;VALUE=DATE:20470228
 SUMMARY:Шинийн 3
-DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн хар барс сар\n18-р жарны 1 он ула
- агчин туулай жил\nБүх нийтээр амрах баяр
- ын өдөр
+DESCRIPTION:Шинийн 3\nХаврын тэргүүн хар барс с
+ ар\n18-р жарны 1 он улаагчин туулай жил\nБүх
+  нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8782,10 +8657,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470608
 DTEND;VALUE=DATE:20470609
 SUMMARY:Их дүйчин өдөр
-DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
- хөхөгчин могой сар\n18-р жарны 1 он улаагчи
- н туулай жил\nБүх нийтээр амрах баярын өд
- өр
+DESCRIPTION:Шинийн 15\nЗуны эхэн хөхөгчин могой 
+ сар\n18-р жарны 1 он улаагчин туулай жил\nБү
+ х нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8895,11 +8769,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20471118
 DTEND;VALUE=DATE:20471119
 SUMMARY:Монгол бахархлын өдөр
-DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
- хэн цагаагчин гахай сар\n18-р жарны 1 он ул
- аагчин туулай жил\nИх Эзэн Чингис хааны т
- өрсөн өдөр\nБүх нийтээр амрах баярын өдө
- р
+DESCRIPTION:Шинийн 1\nӨвлийн эхэн цагаагчин гах
+ ай сар\n18-р жарны 1 он улаагчин туулай жил\
+ nИх Эзэн Чингис хааны төрсөн өдөр\nБүх ни
+ йтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8929,10 +8802,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480101
 DTEND;VALUE=DATE:20480102
 SUMMARY:Шинэ жил
-DESCRIPTION:Шинийн 15 · Өвлийн дунд сар\nӨвлийн 
- дунд хар хулгана сар\n18-р жарны 1 он улааг
- чин туулай жил\nБүх нийтээр амрах баярын 
- өдөр
+DESCRIPTION:Шинийн 15\nӨвлийн дунд хар хулгана с
+ ар\n18-р жарны 1 он улаагчин туулай жил\nБүх
+  нийтээр амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8962,9 +8834,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480213
 DTEND;VALUE=DATE:20480214
 SUMMARY:Битүүн
-DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
- сүүл харагчин үхэр сар\n18-р жарны 1 он ула
- агчин туулай жил
+DESCRIPTION:Шинийн 30\nӨвлийн сүүл харагчин үхэ
+ р сар\n18-р жарны 1 он улаагчин туулай жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8974,11 +8845,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480214
 DTEND;VALUE=DATE:20480215
 SUMMARY:Цагаан сар
-DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар · 7 ес 
- эхэлнэ · Долоон есөд довны толгой бараал
- на\nХаврын тэргүүн хөх барс сар\n18-р жарны
-  2 он шар луу жил\nБүх нийтээр амрах баяры
- н өдөр
+DESCRIPTION:Шинийн 1 · 7 ес эхэлнэ · Долоон есөд 
+ довны толгой бараална\nХаврын тэргүүн хө
+ х барс сар\n18-р жарны 2 он шар луу жил\nБүх 
+ нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8988,9 +8858,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480215
 DTEND;VALUE=DATE:20480216
 SUMMARY:Шинийн 2
-DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн хөх барс сар\n18-р жарны 2 он шар
-  луу жил\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 2\nХаврын тэргүүн хөх барс с
+ ар\n18-р жарны 2 он шар луу жил\nБүх нийтээр 
+ амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -9000,9 +8870,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480216
 DTEND;VALUE=DATE:20480217
 SUMMARY:Шинийн 3
-DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн хөх барс сар\n18-р жарны 2 он шар
-  луу жил\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 3\nХаврын тэргүүн хөх барс с
+ ар\n18-р жарны 2 он шар луу жил\nБүх нийтээр 
+ амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -9082,9 +8952,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480527
 DTEND;VALUE=DATE:20480528
 SUMMARY:Их дүйчин өдөр
-DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
- улаагчин могой сар\n18-р жарны 2 он шар луу 
- жил\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 15\nЗуны эхэн улаагчин могой 
+ сар\n18-р жарны 2 он шар луу жил\nБүх нийтээ
+ р амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -9114,9 +8984,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480712
 DTEND;VALUE=DATE:20480713
 SUMMARY:Үндэсний их баяр наадам
-DESCRIPTION:Шинийн 1 · Зуны сүүл сар\nЗуны сүүл 
- шарагчин хонь сар\n18-р жарны 2 он шар луу ж
- ил\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nЗуны сүүл шарагчин хонь с
+ ар\n18-р жарны 2 он шар луу жил\nБүх нийтээр 
+ амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -9196,10 +9066,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20481107
 DTEND;VALUE=DATE:20481108
 SUMMARY:Монгол бахархлын өдөр
-DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
- хэн харагчин гахай сар\n18-р жарны 2 он шар 
- луу жил\nИх Эзэн Чингис хааны төрсөн өдөр
- \nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nӨвлийн эхэн харагчин гаха
+ й сар\n18-р жарны 2 он шар луу жил\nИх Эзэн Ч
+ ингис хааны төрсөн өдөр\nБүх нийтээр амр
+ ах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -9238,10 +9108,9 @@ UID:mongol-mn-2048-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490105
 DTEND;VALUE=DATE:20490106
-SUMMARY:Шинийн 2 · Өвлийн сүүл сар (шинийн 1 та
- сарсан)
-DESCRIPTION:Өвлийн сүүл хөхөгчин үхэр сар\n18-р 
- жарны 2 он шар луу жил
+SUMMARY:Шинийн 2 · Өвлийн сүүл сар
+DESCRIPTION:шинийн 1 тасарсан\nӨвлийн сүүл хөхө
+ гчин үхэр сар\n18-р жарны 2 он шар луу жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -9262,9 +9131,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490202
 DTEND;VALUE=DATE:20490203
 SUMMARY:Битүүн
-DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
- сүүл хөхөгчин үхэр сар\n18-р жарны 2 он шар 
- луу жил
+DESCRIPTION:Шинийн 30\nӨвлийн сүүл хөхөгчин үхэ
+ р сар\n18-р жарны 2 он шар луу жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -9274,10 +9142,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490203
 DTEND;VALUE=DATE:20490204
 SUMMARY:Цагаан сар
-DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн улаан барс сар\n18-р жарны 3 он ш
- арагчин могой жил\nБүх нийтээр амрах бая
- рын өдөр
+DESCRIPTION:Шинийн 1\nХаврын тэргүүн улаан барс
+  сар\n18-р жарны 3 он шарагчин могой жил\nБү
+ х нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -9287,10 +9154,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490204
 DTEND;VALUE=DATE:20490205
 SUMMARY:Шинийн 2
-DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн улаан барс сар\n18-р жарны 3 он ш
- арагчин могой жил\nБүх нийтээр амрах бая
- рын өдөр
+DESCRIPTION:Шинийн 2\nХаврын тэргүүн улаан барс
+  сар\n18-р жарны 3 он шарагчин могой жил\nБү
+ х нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -9300,11 +9166,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490205
 DTEND;VALUE=DATE:20490206
 SUMMARY:Шинийн 3
-DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар · 6 ес 
- эхэлнэ · Зургаан есөд зурайсан зам гарна
- \nХаврын тэргүүн улаан барс сар\n18-р жарны
-  3 он шарагчин могой жил\nБүх нийтээр амра
- х баярын өдөр
+DESCRIPTION:Шинийн 3 · 6 ес эхэлнэ · Зургаан есө
+ д зурайсан зам гарна\nХаврын тэргүүн ула
+ ан барс сар\n18-р жарны 3 он шарагчин могой 
+ жил\nБүх нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -9376,10 +9241,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490517
 DTEND;VALUE=DATE:20490518
 SUMMARY:Их дүйчин өдөр
-DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
- шарагчин могой сар\n18-р жарны 3 он шарагчи
- н могой жил\nБүх нийтээр амрах баярын өдө
- р
+DESCRIPTION:Шинийн 15\nЗуны эхэн шарагчин могой 
+ сар\n18-р жарны 3 он шарагчин могой жил\nБүх
+  нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -9389,10 +9253,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490601
 DTEND;VALUE=DATE:20490602
 SUMMARY:Хүүхдийн баяр
-DESCRIPTION:Шинийн 1 · Зуны дунд (илүү) сар\nЗуны
-  дунд (илүү) цагаан морь сар\n18-р жарны 3 он
-  шарагчин могой жил\nБүх нийтээр амрах ба
- ярын өдөр
+DESCRIPTION:Шинийн 1\nЗуны дунд (илүү) цагаан мо
+ рь сар\n18-р жарны 3 он шарагчин могой жил\n
+ Бүх нийтээр амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -9422,9 +9285,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490715
 DTEND;VALUE=DATE:20490716
 SUMMARY:Үндэсний их баяр наадам
-DESCRIPTION:Шинийн 15 · Зуны дунд сар\nЗуны дунд 
- цагаан морь сар\n18-р жарны 3 он шарагчин м
- огой жил\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 15\nЗуны дунд цагаан морь сар
+ \n18-р жарны 3 он шарагчин могой жил\nБүх ни
+ йтээр амрах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -9525,11 +9388,11 @@ DTSTART;VALUE=DATE:20491126
 DTEND;VALUE=DATE:20491127
 SUMMARY:Монгол бахархлын өдөр · Улс тунхагла
  сан өдөр
-DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
- хэн хөхөгчин гахай сар\n18-р жарны 3 он шар
- агчин могой жил\nИх Эзэн Чингис хааны төр
- сөн өдөр\nБүх нийтээр амрах баярын өдөр\n
- Бүгд Найрамдах Улс тунхагласан өдөр
+DESCRIPTION:Шинийн 1\nӨвлийн эхэн хөхөгчин гаха
+ й сар\n18-р жарны 3 он шарагчин могой жил\nИ
+ х Эзэн Чингис хааны төрсөн өдөр\nБүх нийт
+ ээр амрах баярын өдөр\nБүгд Найрамдах Ул
+ с тунхагласан өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -9589,9 +9452,8 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500221
 DTEND;VALUE=DATE:20500222
 SUMMARY:Битүүн
-DESCRIPTION:Шинийн 30 · Өвлийн сүүл сар\nӨвлийн 
- сүүл улаагчин үхэр сар\n18-р жарны 3 он шар
- агчин могой жил
+DESCRIPTION:Шинийн 30\nӨвлийн сүүл улаагчин үхэ
+ р сар\n18-р жарны 3 он шарагчин могой жил
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -9601,10 +9463,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500222
 DTEND;VALUE=DATE:20500223
 SUMMARY:Цагаан сар
-DESCRIPTION:Шинийн 1 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн шар барс сар\n18-р жарны 4 он цаг
- аан морин жил\nБүх нийтээр амрах баярын ө
- дөр
+DESCRIPTION:Шинийн 1\nХаврын тэргүүн шар барс с
+ ар\n18-р жарны 4 он цагаан морин жил\nБүх ни
+ йтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -9614,11 +9475,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500223
 DTEND;VALUE=DATE:20500224
 SUMMARY:Шинийн 2
-DESCRIPTION:Шинийн 2 · Хаврын тэргүүн сар · 8 ес 
- эхэлнэ · Найман есөд нял шал болно\nХавры
- н тэргүүн шар барс сар\n18-р жарны 4 он цага
- ан морин жил\nБүх нийтээр амрах баярын өд
- өр
+DESCRIPTION:Шинийн 2 · 8 ес эхэлнэ · Найман есөд 
+ нял шал болно\nХаврын тэргүүн шар барс са
+ р\n18-р жарны 4 он цагаан морин жил\nБүх ний
+ тээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -9628,10 +9488,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500224
 DTEND;VALUE=DATE:20500225
 SUMMARY:Шинийн 3
-DESCRIPTION:Шинийн 3 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн шар барс сар\n18-р жарны 4 он цаг
- аан морин жил\nБүх нийтээр амрах баярын ө
- дөр
+DESCRIPTION:Шинийн 3\nХаврын тэргүүн шар барс с
+ ар\n18-р жарны 4 он цагаан морин жил\nБүх ни
+ йтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -9651,10 +9510,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500308
 DTEND;VALUE=DATE:20500309
 SUMMARY:Эмэгтэйчүүдийн баяр
-DESCRIPTION:Шинийн 15 · Хаврын тэргүүн сар\nХавр
- ын тэргүүн шар барс сар\n18-р жарны 4 он цаг
- аан морин жил\nОлон улсын эмэгтэйчүүдийн
-  өдөр\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 15\nХаврын тэргүүн шар барс с
+ ар\n18-р жарны 4 он цагаан морин жил\nОлон у
+ лсын эмэгтэйчүүдийн өдөр\nБүх нийтээр ам
+ рах баярын өдөр
 CATEGORIES:festival,holiday
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -9663,10 +9522,10 @@ UID:mongol-mn-2050-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500324
 DTEND;VALUE=DATE:20500325
-SUMMARY:Шинийн 2 · Хаврын дунд сар (шинийн 1 та
- сарсан)
-DESCRIPTION:Хаврын дунд шарагчин туулай сар\n18-
- р жарны 4 он цагаан морин жил
+SUMMARY:Шинийн 2 · Хаврын дунд сар
+DESCRIPTION:шинийн 1 тасарсан\nХаврын дунд шара
+ гчин туулай сар\n18-р жарны 4 он цагаан мор
+ ин жил
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -9715,9 +9574,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500605
 DTEND;VALUE=DATE:20500606
 SUMMARY:Их дүйчин өдөр
-DESCRIPTION:Шинийн 15 · Зуны эхэн сар\nЗуны эхэн 
- цагаагчин могой сар\n18-р жарны 4 он цагаан
-  морин жил\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 15\nЗуны эхэн цагаагчин мого
+ й сар\n18-р жарны 4 он цагаан морин жил\nБүх 
+ нийтээр амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -9827,10 +9686,10 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20501115
 DTEND;VALUE=DATE:20501116
 SUMMARY:Монгол бахархлын өдөр
-DESCRIPTION:Шинийн 1 · Өвлийн эхэн сар\nӨвлийн э
- хэн улаагчин гахай сар\n18-р жарны 4 он цаг
- аан морин жил\nИх Эзэн Чингис хааны төрсө
- н өдөр\nБүх нийтээр амрах баярын өдөр
+DESCRIPTION:Шинийн 1\nӨвлийн эхэн улаагчин гаха
+ й сар\n18-р жарны 4 он цагаан морин жил\nИх Э
+ зэн Чингис хааны төрсөн өдөр\nБүх нийтээ
+ р амрах баярын өдөр
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT

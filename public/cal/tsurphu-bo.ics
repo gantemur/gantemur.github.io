@@ -48,9 +48,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200224
 DTEND;VALUE=DATE:20200225
 SUMMARY:ལོ་གསར།
-DESCRIPTION:ཚེས་༡ · ཟླ་བ་༡\nཟླ་བ་༡\, ས
- ་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༣༤\, 
- ལྕགས་བྱི་བ་ལོ།
+DESCRIPTION:ཚེས་༡\nཟླ་བ་༡\, ས་སྟག\nརབ
+ ་བྱུང་༡༧པའི་ལོ་༣༤\, ལྕགས་བ
+ ྱི་བ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -60,9 +60,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200309
 DTEND;VALUE=DATE:20200310
 SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- ས་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༣༤
- \, ལྕགས་བྱི་བ་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༡\, ས་སྟག\nར
+ བ་བྱུང་༡༧པའི་ལོ་༣༤\, ལྕགས་
+ བྱི་བ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -138,9 +138,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200605
 DTEND;VALUE=DATE:20200606
 SUMMARY:ས་ག་ཟླ་བའི་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༤\nཟླ་བ་༤\, 
- ལྕགས་སྦྲུལ\nརབ་བྱུང་༡༧པའི་
- ལོ་༣༤\, ལྕགས་བྱི་བ་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༤\, ལྕགས་སྦ
+ ྲུལ\nརབ་བྱུང་༡༧པའི་ལོ་༣༤\, ལ
+ ྕགས་བྱི་བ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -183,9 +183,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20200724
 DTEND;VALUE=DATE:20200725
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན།
-DESCRIPTION:ཚེས་༤ · ཟླ་བ་༦\nཟླ་བ་༦\, ཆ
- ུ་ལུག\nརབ་བྱུང་༡༧པའི་ལོ་༣༤
- \, ལྕགས་བྱི་བ་ལོ།
+DESCRIPTION:ཚེས་༤\nཟླ་བ་༦\, ཆུ་ལུག\nར
+ བ་བྱུང་༡༧པའི་ལོ་༣༤\, ལྕགས་
+ བྱི་བ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -272,9 +272,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20201107
 DTEND;VALUE=DATE:20201108
 SUMMARY:ལྷ་བབས་དུས་ཆེན།
-DESCRIPTION:ཚེས་༢༢ · ཟླ་བ་༩\nཟླ་བ་༩\, 
- མེ་ཁྱི\nརབ་བྱུང་༡༧པའི་ལོ་༣
- ༤\, ལྕགས་བྱི་བ་ལོ།
+DESCRIPTION:ཚེས་༢༢\nཟླ་བ་༩\, མེ་ཁྱི\n
+ རབ་བྱུང་༡༧པའི་ལོ་༣༤\, ལྕགས
+ ་བྱི་བ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -350,9 +350,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210212
 DTEND;VALUE=DATE:20210213
 SUMMARY:ལོ་གསར།
-DESCRIPTION:ཚེས་༡ · ཟླ་བ་༡\nཟླ་བ་༡\, ལ
- ྕགས་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་
- ༣༥\, ལྕགས་གླང་ལོ།
+DESCRIPTION:ཚེས་༡\nཟླ་བ་༡\, ལྕགས་སྟག\
+ nརབ་བྱུང་༡༧པའི་ལོ་༣༥\, ལྕགས
+ ་གླང་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -362,9 +362,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210227
 DTEND;VALUE=DATE:20210228
 SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- ལྕགས་སྟག\nརབ་བྱུང་༡༧པའི་ལོ
- ་༣༥\, ལྕགས་གླང་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༡\, ལྕགས་སྟ
+ ག\nརབ་བྱུང་༡༧པའི་ལོ་༣༥\, ལྕག
+ ས་གླང་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -429,9 +429,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210526
 DTEND;VALUE=DATE:20210527
 SUMMARY:ས་ག་ཟླ་བའི་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༤\nཟླ་བ་༤\, 
- ཆུ་སྦྲུལ\nརབ་བྱུང་༡༧པའི་ལོ
- ་༣༥\, ལྕགས་གླང་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༤\, ཆུ་སྦྲུ
+ ལ\nརབ་བྱུང་༡༧པའི་ལོ་༣༥\, ལྕག
+ ས་གླང་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -485,9 +485,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210714
 DTEND;VALUE=DATE:20210715
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན།
-DESCRIPTION:ཚེས་༤ · ཟླ་བ་༦\nཟླ་བ་༦\, ཤ
- ིང་ལུག\nརབ་བྱུང་༡༧པའི་ལོ་༣
- ༥\, ལྕགས་གླང་ལོ།
+DESCRIPTION:ཚེས་༤\nཟླ་བ་༦\, ཤིང་ལུག\n
+ རབ་བྱུང་༡༧པའི་ལོ་༣༥\, ལྕགས
+ ་གླང་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -529,9 +529,10 @@ UID:tsurphu-bo-2021-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20210908
 DTEND;VALUE=DATE:20210909
-SUMMARY:ཚེས་༢ · ཟླ་བ་༨ (ཚེས་༡ ཆད།)
-DESCRIPTION:ཟླ་བ་༨\, མེ་བྱ\nརབ་བྱུང་
- ༡༧པའི་ལོ་༣༥\, ལྕགས་གླང་ལོ།
+SUMMARY:ཚེས་༢ · ཟླ་བ་༨
+DESCRIPTION:ཚེས་༡ ཆད།\nཟླ་བ་༨\, མེ་བྱ
+ \nརབ་བྱུང་༡༧པའི་ལོ་༣༥\, ལྕགས
+ ་གླང་ལོ།
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -570,9 +571,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20211027
 DTEND;VALUE=DATE:20211028
 SUMMARY:ལྷ་བབས་དུས་ཆེན།
-DESCRIPTION:ཚེས་༢༢ · ཟླ་བ་༩\nཟླ་བ་༩\, 
- ས་ཁྱི\nརབ་བྱུང་༡༧པའི་ལོ་༣༥
- \, ལྕགས་གླང་ལོ།
+DESCRIPTION:ཚེས་༢༢\nཟླ་བ་༩\, ས་ཁྱི\nར
+ བ་བྱུང་༡༧པའི་ལོ་༣༥\, ལྕགས་
+ གླང་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -582,9 +583,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20211028
 DTEND;VALUE=DATE:20211029
 SUMMARY:ལྷ་བབས་དུས་ཆེན། (ཞག་ལྷག)
-DESCRIPTION:ཚེས་༢༢ (ཞག་ལྷག) · ཟླ་བ་༩\n
- ཟླ་བ་༩\, ས་ཁྱི\nརབ་བྱུང་༡༧པའ
- ི་ལོ་༣༥\, ལྕགས་གླང་ལོ།
+DESCRIPTION:ཚེས་༢༢ (ཞག་ལྷག)\nཟླ་བ་༩\, 
+ ས་ཁྱི\nརབ་བྱུང་༡༧པའི་ལོ་༣༥
+ \, ལྕགས་གླང་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -669,9 +670,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220202
 DTEND;VALUE=DATE:20220203
 SUMMARY:ལོ་གསར།
-DESCRIPTION:ཚེས་༡ · ཟླ་བ་༡\nཟླ་བ་༡\, ཆ
- ུ་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༣༦
- \, ཆུ་སྟག་ལོ།
+DESCRIPTION:ཚེས་༡\nཟླ་བ་༡\, ཆུ་སྟག\nར
+ བ་བྱུང་༡༧པའི་ལོ་༣༦\, ཆུ་སྟ
+ ག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -681,9 +682,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220216
 DTEND;VALUE=DATE:20220217
 SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- ཆུ་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༣
- ༦\, ཆུ་སྟག་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༡\, ཆུ་སྟག\n
+ རབ་བྱུང་༡༧པའི་ལོ་༣༦\, ཆུ་ས
+ ྟག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -768,9 +769,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220614
 DTEND;VALUE=DATE:20220615
 SUMMARY:ས་ག་ཟླ་བའི་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༤\nཟླ་བ་༤\, 
- ཤིང་སྦྲུལ\nརབ་བྱུང་༡༧པའི་ལ
- ོ་༣༦\, ཆུ་སྟག་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༤\, ཤིང་སྦྲ
+ ུལ\nརབ་བྱུང་༡༧པའི་ལོ་༣༦\, ཆུ
+ ་སྟག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -810,9 +811,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20220801
 DTEND;VALUE=DATE:20220802
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན།
-DESCRIPTION:ཚེས་༤ · ཟླ་བ་༦\nཟླ་བ་༦\, མ
- ེ་ལུག\nརབ་བྱུང་༡༧པའི་ལོ་༣༦
- \, ཆུ་སྟག་ལོ།
+DESCRIPTION:ཚེས་༤\nཟླ་བ་༦\, མེ་ལུག\nར
+ བ་བྱུང་༡༧པའི་ལོ་༣༦\, ཆུ་སྟ
+ ག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -896,9 +897,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20221115
 DTEND;VALUE=DATE:20221116
 SUMMARY:ལྷ་བབས་དུས་ཆེན།
-DESCRIPTION:ཚེས་༢༢ · ཟླ་བ་༩\nཟླ་བ་༩\, 
- ལྕགས་ཁྱི\nརབ་བྱུང་༡༧པའི་ལོ
- ་༣༦\, ཆུ་སྟག་ལོ།
+DESCRIPTION:ཚེས་༢༢\nཟླ་བ་༩\, ལྕགས་ཁྱ
+ ི\nརབ་བྱུང་༡༧པའི་ལོ་༣༦\, ཆུ་
+ སྟག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -983,9 +984,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230221
 DTEND;VALUE=DATE:20230222
 SUMMARY:ལོ་གསར།
-DESCRIPTION:ཚེས་༡ · ཟླ་བ་༡\nཟླ་བ་༡\, ཤ
- ིང་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༣
- ༧\, ཆུ་ཡོས་ལོ།
+DESCRIPTION:ཚེས་༡\nཟླ་བ་༡\, ཤིང་སྟག\n
+ རབ་བྱུང་༡༧པའི་ལོ་༣༧\, ཆུ་ཡ
+ ོས་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -995,9 +996,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230307
 DTEND;VALUE=DATE:20230308
 SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- ཤིང་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་
- ༣༧\, ཆུ་ཡོས་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༡\, ཤིང་སྟག\
+ nརབ་བྱུང་༡༧པའི་ལོ་༣༧\, ཆུ་ཡ
+ ོས་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1060,9 +1061,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230604
 DTEND;VALUE=DATE:20230605
 SUMMARY:ས་ག་ཟླ་བའི་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༤\nཟླ་བ་༤\, 
- མེ་སྦྲུལ\nརབ་བྱུང་༡༧པའི་ལོ
- ་༣༧\, ཆུ་ཡོས་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༤\, མེ་སྦྲུ
+ ལ\nརབ་བྱུང་༡༧པའི་ལོ་༣༧\, ཆུ་
+ ཡོས་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1102,9 +1103,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20230721
 DTEND;VALUE=DATE:20230722
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན།
-DESCRIPTION:ཚེས་༤ · ཟླ་བ་༦\nཟླ་བ་༦\, ས
- ་ལུག\nརབ་བྱུང་༡༧པའི་ལོ་༣༧\, 
- ཆུ་ཡོས་ལོ།
+DESCRIPTION:ཚེས་༤\nཟླ་བ་༦\, ས་ལུག\nརབ
+ ་བྱུང་༡༧པའི་ལོ་༣༧\, ཆུ་ཡོས
+ ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1115,9 +1116,9 @@ DTSTART;VALUE=DATE:20230722
 DTEND;VALUE=DATE:20230723
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན། (ཞག་ལ
  ྷག)
-DESCRIPTION:ཚེས་༤ (ཞག་ལྷག) · ཟླ་བ་༦\nཟ
- ླ་བ་༦\, ས་ལུག\nརབ་བྱུང་༡༧པའི
- ་ལོ་༣༧\, ཆུ་ཡོས་ལོ།
+DESCRIPTION:ཚེས་༤ (ཞག་ལྷག)\nཟླ་བ་༦\, ས
+ ་ལུག\nརབ་བྱུང་༡༧པའི་ལོ་༣༧\, 
+ ཆུ་ཡོས་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1209,9 +1210,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20231104
 DTEND;VALUE=DATE:20231105
 SUMMARY:ལྷ་བབས་དུས་ཆེན།
-DESCRIPTION:ཚེས་༢༢ · ཟླ་བ་༩\nཟླ་བ་༩\, 
- ཆུ་ཁྱི\nརབ་བྱུང་༡༧པའི་ལོ་༣
- ༧\, ཆུ་ཡོས་ལོ།
+DESCRIPTION:ཚེས་༢༢\nཟླ་བ་༩\, ཆུ་ཁྱི\n
+ རབ་བྱུང་༡༧པའི་ལོ་༣༧\, ཆུ་ཡ
+ ོས་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1285,9 +1286,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240210
 DTEND;VALUE=DATE:20240211
 SUMMARY:ལོ་གསར།
-DESCRIPTION:ཚེས་༡ · ཟླ་བ་༡\nཟླ་བ་༡\, མ
- ེ་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༣༨
- \, ཤིང་འབྲུག་ལོ།
+DESCRIPTION:ཚེས་༡\nཟླ་བ་༡\, མེ་སྟག\nར
+ བ་བྱུང་༡༧པའི་ལོ་༣༨\, ཤིང་འ
+ བྲུག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1297,9 +1298,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240224
 DTEND;VALUE=DATE:20240225
 SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- མེ་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༣
- ༨\, ཤིང་འབྲུག་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༡\, མེ་སྟག\n
+ རབ་བྱུང་༡༧པའི་ལོ་༣༨\, ཤིང་
+ འབྲུག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1364,9 +1365,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240523
 DTEND;VALUE=DATE:20240524
 SUMMARY:ས་ག་ཟླ་བའི་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༤\nཟླ་བ་༤\, 
- ས་སྦྲུལ\nརབ་བྱུང་༡༧པའི་ལོ་
- ༣༨\, ཤིང་འབྲུག་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༤\, ས་སྦྲུལ\
+ nརབ་བྱུང་༡༧པའི་ལོ་༣༨\, ཤིང་
+ འབྲུག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1409,9 +1410,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20240710
 DTEND;VALUE=DATE:20240711
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན།
-DESCRIPTION:ཚེས་༤ · ཟླ་བ་༦\nཟླ་བ་༦\, ལ
- ྕགས་ལུག\nརབ་བྱུང་༡༧པའི་ལོ་
- ༣༨\, ཤིང་འབྲུག་ལོ།
+DESCRIPTION:ཚེས་༤\nཟླ་བ་༦\, ལྕགས་ལུག\
+ nརབ་བྱུང་༡༧པའི་ལོ་༣༨\, ཤིང་
+ འབྲུག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1498,9 +1499,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20241023
 DTEND;VALUE=DATE:20241024
 SUMMARY:ལྷ་བབས་དུས་ཆེན།
-DESCRIPTION:ཚེས་༢༢ · ཟླ་བ་༩\nཟླ་བ་༩\, 
- ཤིང་ཁྱི\nརབ་བྱུང་༡༧པའི་ལོ་
- ༣༨\, ཤིང་འབྲུག་ལོ།
+DESCRIPTION:ཚེས་༢༢\nཟླ་བ་༩\, ཤིང་ཁྱི\
+ nརབ་བྱུང་༡༧པའི་ལོ་༣༨\, ཤིང་
+ འབྲུག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1598,9 +1599,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250301
 DTEND;VALUE=DATE:20250302
 SUMMARY:ལོ་གསར།
-DESCRIPTION:ཚེས་༢ · ཟླ་བ་༡ (ཚེས་༡ ཆད
- །)\nཟླ་བ་༡\, ས་སྟག\nརབ་བྱུང་༡༧
- པའི་ལོ་༣༩\, ཤིང་སྦྲུལ་ལོ།
+DESCRIPTION:ཚེས་༢\nཚེས་༡ ཆད།\nཟླ་བ་༡\
+ , ས་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༣
+ ༩\, ཤིང་སྦྲུལ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1610,9 +1611,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250314
 DTEND;VALUE=DATE:20250315
 SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- ས་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༣༩
- \, ཤིང་སྦྲུལ་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༡\, ས་སྟག\nར
+ བ་བྱུང་༡༧པའི་ལོ་༣༩\, ཤིང་ས
+ ྦྲུལ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1677,9 +1678,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250611
 DTEND;VALUE=DATE:20250612
 SUMMARY:ས་ག་ཟླ་བའི་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༤\nཟླ་བ་༤\, 
- ལྕགས་སྦྲུལ\nརབ་བྱུང་༡༧པའི་
- ལོ་༣༩\, ཤིང་སྦྲུལ་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༤\, ལྕགས་སྦ
+ ྲུལ\nརབ་བྱུང་༡༧པའི་ལོ་༣༩\, ཤ
+ ིང་སྦྲུལ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1722,9 +1723,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20250728
 DTEND;VALUE=DATE:20250729
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན།
-DESCRIPTION:ཚེས་༤ · ཟླ་བ་༦\nཟླ་བ་༦\, ཆ
- ུ་ལུག\nརབ་བྱུང་༡༧པའི་ལོ་༣༩
- \, ཤིང་སྦྲུལ་ལོ།
+DESCRIPTION:ཚེས་༤\nཟླ་བ་༦\, ཆུ་ལུག\nར
+ བ་བྱུང་༡༧པའི་ལོ་༣༩\, ཤིང་ས
+ ྦྲུལ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1811,9 +1812,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20251111
 DTEND;VALUE=DATE:20251112
 SUMMARY:ལྷ་བབས་དུས་ཆེན།
-DESCRIPTION:ཚེས་༢༢ · ཟླ་བ་༩\nཟླ་བ་༩\, 
- མེ་ཁྱི\nརབ་བྱུང་༡༧པའི་ལོ་༣
- ༩\, ཤིང་སྦྲུལ་ལོ།
+DESCRIPTION:ཚེས་༢༢\nཟླ་བ་༩\, མེ་ཁྱི\n
+ རབ་བྱུང་༡༧པའི་ལོ་༣༩\, ཤིང་
+ སྦྲུལ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1889,9 +1890,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260218
 DTEND;VALUE=DATE:20260219
 SUMMARY:ལོ་གསར།
-DESCRIPTION:ཚེས་༡ · ཟླ་བ་༡\nཟླ་བ་༡\, ལ
- ྕགས་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་
- ༤༠\, མེ་རྟ་ལོ།
+DESCRIPTION:ཚེས་༡\nཟླ་བ་༡\, ལྕགས་སྟག\
+ nརབ་བྱུང་༡༧པའི་ལོ་༤༠\, མེ་ར
+ ྟ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1901,9 +1902,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260303
 DTEND;VALUE=DATE:20260304
 SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- ལྕགས་སྟག\nརབ་བྱུང་༡༧པའི་ལོ
- ་༤༠\, མེ་རྟ་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༡\, ལྕགས་སྟ
+ ག\nརབ་བྱུང་༡༧པའི་ལོ་༤༠\, མེ་
+ རྟ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1912,9 +1913,10 @@ UID:tsurphu-bo-2026-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
-SUMMARY:ཚེས་༢ · ཟླ་བ་༢ (ཚེས་༡ ཆད།)
-DESCRIPTION:ཟླ་བ་༢\, ལྕགས་ཡོས\nརབ་བྱ
- ུང་༡༧པའི་ལོ་༤༠\, མེ་རྟ་ལོ།
+SUMMARY:ཚེས་༢ · ཟླ་བ་༢
+DESCRIPTION:ཚེས་༡ ཆད།\nཟླ་བ་༢\, ལྕགས་
+ ཡོས\nརབ་བྱུང་༡༧པའི་ལོ་༤༠\, མ
+ ེ་རྟ་ལོ།
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1973,9 +1975,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260601
 SUMMARY:ས་ག་ཟླ་བའི་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༤\nཟླ་བ་༤\, 
- ཆུ་སྦྲུལ\nརབ་བྱུང་༡༧པའི་ལོ
- ་༤༠\, མེ་རྟ་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༤\, ཆུ་སྦྲུ
+ ལ\nརབ་བྱུང་༡༧པའི་ལོ་༤༠\, མེ་
+ རྟ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2015,9 +2017,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260719
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན།
-DESCRIPTION:ཚེས་༤ · ཟླ་བ་༦\nཟླ་བ་༦\, ཤ
- ིང་ལུག\nརབ་བྱུང་༡༧པའི་ལོ་༤
- ༠\, མེ་རྟ་ལོ།
+DESCRIPTION:ཚེས་༤\nཟླ་བ་༦\, ཤིང་ལུག\n
+ རབ་བྱུང་༡༧པའི་ལོ་༤༠\, མེ་ར
+ ྟ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2099,9 +2101,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:ལྷ་བབས་དུས་ཆེན།
-DESCRIPTION:ཚེས་༢༢ · ཟླ་བ་༩\nཟླ་བ་༩\, 
- ས་ཁྱི\nརབ་བྱུང་༡༧པའི་ལོ་༤༠
- \, མེ་རྟ་ལོ།
+DESCRIPTION:ཚེས་༢༢\nཟླ་བ་༩\, ས་ཁྱི\nར
+ བ་བྱུང་༡༧པའི་ལོ་༤༠\, མེ་རྟ
+ ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2175,9 +2177,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:ལོ་གསར།
-DESCRIPTION:ཚེས་༡ · ཟླ་བ་༡\nཟླ་བ་༡\, ཆ
- ུ་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༤༡
- \, མེ་ལུག་ལོ།
+DESCRIPTION:ཚེས་༡\nཟླ་བ་༡\, ཆུ་སྟག\nར
+ བ་བྱུང་༡༧པའི་ལོ་༤༡\, མེ་ལུ
+ ག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2187,9 +2189,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༤ · ཟླ་བ་༡\nཚེས་༡༥ 
- ཆད།\nཟླ་བ་༡\, ཆུ་སྟག\nརབ་བྱུང
- ་༡༧པའི་ལོ་༤༡\, མེ་ལུག་ལོ།
+DESCRIPTION:ཚེས་༡༤\nཚེས་༡༥ ཆད།\nཟླ་བ
+ ་༡\, ཆུ་སྟག\nརབ་བྱུང་༡༧པའི་ལ
+ ོ་༤༡\, མེ་ལུག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2252,9 +2254,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
 SUMMARY:ས་ག་ཟླ་བའི་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༤\nཟླ་བ་༤\, 
- ཤིང་སྦྲུལ\nརབ་བྱུང་༡༧པའི་ལ
- ོ་༤༡\, མེ་ལུག་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༤\, ཤིང་སྦྲ
+ ུལ\nརབ་བྱུང་༡༧པའི་ལོ་༤༡\, མེ
+ ་ལུག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2304,9 +2306,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20270707
 DTEND;VALUE=DATE:20270708
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན།
-DESCRIPTION:ཚེས་༤ · ཟླ་བ་༦\nཟླ་བ་༦\, མ
- ེ་ལུག\nརབ་བྱུང་༡༧པའི་ལོ་༤༡
- \, མེ་ལུག་ལོ།
+DESCRIPTION:ཚེས་༤\nཟླ་བ་༦\, མེ་ལུག\nར
+ བ་བྱུང་༡༧པའི་ལོ་༤༡\, མེ་ལུ
+ ག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2367,11 +2369,10 @@ UID:tsurphu-bo-2027-09L-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20271001
 DTEND;VALUE=DATE:20271002
-SUMMARY:ཚེས་༢ · ཟླ་བ་༩ (ཟླ་ཤོལ) (ཚེ
- ས་༡ ཆད།)
-DESCRIPTION:ཟླ་བ་༩ (ཟླ་ཤོལ)\, ལྕགས་ཁྱ
- ི\nརབ་བྱུང་༡༧པའི་ལོ་༤༡\, མེ་
- ལུག་ལོ།
+SUMMARY:ཚེས་༢ · ཟླ་བ་༩ (ཟླ་ཤོལ)
+DESCRIPTION:ཚེས་༡ ཆད།\nཟླ་བ་༩ (ཟླ་ཤོ
+ ལ)\, ལྕགས་ཁྱི\nརབ་བྱུང་༡༧པའི
+ ་ལོ་༤༡\, མེ་ལུག་ལོ།
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2413,9 +2414,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20271120
 DTEND;VALUE=DATE:20271121
 SUMMARY:ལྷ་བབས་དུས་ཆེན།
-DESCRIPTION:ཚེས་༢༢ · ཟླ་བ་༩\nཟླ་བ་༩\, 
- ལྕགས་ཁྱི\nརབ་བྱུང་༡༧པའི་ལོ
- ་༤༡\, མེ་ལུག་ལོ།
+DESCRIPTION:ཚེས་༢༢\nཟླ་བ་༩\, ལྕགས་ཁྱ
+ ི\nརབ་བྱུང་༡༧པའི་ལོ་༤༡\, མེ་
+ ལུག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2489,9 +2490,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280226
 DTEND;VALUE=DATE:20280227
 SUMMARY:ལོ་གསར།
-DESCRIPTION:ཚེས་༡ · ཟླ་བ་༡\nཟླ་བ་༡\, ཤ
- ིང་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༤
- ༢\, ས་སྤྲེའུ་ལོ།
+DESCRIPTION:ཚེས་༡\nཟླ་བ་༡\, ཤིང་སྟག\n
+ རབ་བྱུང་༡༧པའི་ལོ་༤༢\, ས་སྤ
+ ྲེའུ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2501,9 +2502,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280311
 DTEND;VALUE=DATE:20280312
 SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- ཤིང་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་
- ༤༢\, ས་སྤྲེའུ་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༡\, ཤིང་སྟག\
+ nརབ་བྱུང་༡༧པའི་ལོ་༤༢\, ས་སྤ
+ ྲེའུ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2568,9 +2569,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280607
 DTEND;VALUE=DATE:20280608
 SUMMARY:ས་ག་ཟླ་བའི་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༤\nཟླ་བ་༤\, 
- མེ་སྦྲུལ\nརབ་བྱུང་༡༧པའི་ལོ
- ་༤༢\, ས་སྤྲེའུ་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༤\, མེ་སྦྲུ
+ ལ\nརབ་བྱུང་༡༧པའི་ལོ་༤༢\, ས་ས
+ ྤྲེའུ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2610,9 +2611,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20280725
 DTEND;VALUE=DATE:20280726
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན།
-DESCRIPTION:ཚེས་༤ · ཟླ་བ་༦\nཟླ་བ་༦\, ས
- ་ལུག\nརབ་བྱུང་༡༧པའི་ལོ་༤༢\, 
- ས་སྤྲེའུ་ལོ།
+DESCRIPTION:ཚེས་༤\nཟླ་བ་༦\, ས་ལུག\nརབ
+ ་བྱུང་༡༧པའི་ལོ་༤༢\, ས་སྤྲེ
+ འུ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2675,10 +2676,10 @@ UID:tsurphu-bo-2028-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20281019
 DTEND;VALUE=DATE:20281020
-SUMMARY:ཚེས་༢ · ཟླ་བ་༩ (ཚེས་༡ ཆད།)
-DESCRIPTION:ཟླ་བ་༩\, ཆུ་ཁྱི\nརབ་བྱུང
- ་༡༧པའི་ལོ་༤༢\, ས་སྤྲེའུ་ལོ
- །
+SUMMARY:ཚེས་༢ · ཟླ་བ་༩
+DESCRIPTION:ཚེས་༡ ཆད།\nཟླ་བ་༩\, ཆུ་ཁྱ
+ ི\nརབ་བྱུང་༡༧པའི་ལོ་༤༢\, ས་ས
+ ྤྲེའུ་ལོ།
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2698,9 +2699,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20281109
 DTEND;VALUE=DATE:20281110
 SUMMARY:ལྷ་བབས་དུས་ཆེན།
-DESCRIPTION:ཚེས་༢༢ · ཟླ་བ་༩\nཟླ་བ་༩\, 
- ཆུ་ཁྱི\nརབ་བྱུང་༡༧པའི་ལོ་༤
- ༢\, ས་སྤྲེའུ་ལོ།
+DESCRIPTION:ཚེས་༢༢\nཟླ་བ་༩\, ཆུ་ཁྱི\n
+ རབ་བྱུང་༡༧པའི་ལོ་༤༢\, ས་སྤ
+ ྲེའུ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2776,9 +2777,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290214
 DTEND;VALUE=DATE:20290215
 SUMMARY:ལོ་གསར།
-DESCRIPTION:ཚེས་༡ · ཟླ་བ་༡\nཟླ་བ་༡\, མ
- ེ་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༤༣
- \, ས་བྱ་ལོ།
+DESCRIPTION:ཚེས་༡\nཟླ་བ་༡\, མེ་སྟག\nར
+ བ་བྱུང་༡༧པའི་ལོ་༤༣\, ས་བྱ་
+ ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2788,9 +2789,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290228
 DTEND;VALUE=DATE:20290301
 SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- མེ་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༤
- ༣\, ས་བྱ་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༡\, མེ་སྟག\n
+ རབ་བྱུང་༡༧པའི་ལོ་༤༣\, ས་བྱ
+ ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2850,9 +2851,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290527
 DTEND;VALUE=DATE:20290528
 SUMMARY:ས་ག་ཟླ་བའི་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༤\nཟླ་བ་༤\, 
- ས་སྦྲུལ\nརབ་བྱུང་༡༧པའི་ལོ་
- ༤༣\, ས་བྱ་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༤\, ས་སྦྲུལ\
+ nརབ་བྱུང་༡༧པའི་ལོ་༤༣\, ས་བྱ
+ ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2892,9 +2893,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20290715
 DTEND;VALUE=DATE:20290716
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན།
-DESCRIPTION:ཚེས་༤ · ཟླ་བ་༦\nཟླ་བ་༦\, ལ
- ྕགས་ལུག\nརབ་བྱུང་༡༧པའི་ལོ་
- ༤༣\, ས་བྱ་ལོ།
+DESCRIPTION:ཚེས་༤\nཟླ་བ་༦\, ལྕགས་ལུག\
+ nརབ་བྱུང་༡༧པའི་ལོ་༤༣\, ས་བྱ
+ ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2974,9 +2975,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20291029
 DTEND;VALUE=DATE:20291030
 SUMMARY:ལྷ་བབས་དུས་ཆེན།
-DESCRIPTION:ཚེས་༢༢ · ཟླ་བ་༩\nཟླ་བ་༩\, 
- ཤིང་ཁྱི\nརབ་བྱུང་༡༧པའི་ལོ་
- ༤༣\, ས་བྱ་ལོ།
+DESCRIPTION:ཚེས་༢༢\nཟླ་བ་༩\, ཤིང་ཁྱི\
+ nརབ་བྱུང་༡༧པའི་ལོ་༤༣\, ས་བྱ
+ ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3035,10 +3036,10 @@ UID:tsurphu-bo-2029-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300105
 DTEND;VALUE=DATE:20300106
-SUMMARY:ཚེས་༢ · ཟླ་བ་༡༢ (ཚེས་༡ ཆད།
- )
-DESCRIPTION:ཟླ་བ་༡༢\, མེ་གླང\nརབ་བྱུ
- ང་༡༧པའི་ལོ་༤༣\, ས་བྱ་ལོ།
+SUMMARY:ཚེས་༢ · ཟླ་བ་༡༢
+DESCRIPTION:ཚེས་༡ ཆད།\nཟླ་བ་༡༢\, མེ་ག
+ ླང\nརབ་བྱུང་༡༧པའི་ལོ་༤༣\, ས་
+ བྱ་ལོ།
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3057,9 +3058,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300203
 DTEND;VALUE=DATE:20300204
 SUMMARY:ལོ་གསར།
-DESCRIPTION:ཚེས་༡ · ཟླ་བ་༡\nཟླ་བ་༡\, ས
- ་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༤༤\, 
- ལྕགས་ཁྱི་ལོ།
+DESCRIPTION:ཚེས་༡\nཟླ་བ་༡\, ས་སྟག\nརབ
+ ་བྱུང་༡༧པའི་ལོ་༤༤\, ལྕགས་ཁ
+ ྱི་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3069,9 +3070,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300218
 DTEND;VALUE=DATE:20300219
 SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- ས་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༤༤
- \, ལྕགས་ཁྱི་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༡\, ས་སྟག\nར
+ བ་བྱུང་༡༧པའི་ལོ་༤༤\, ལྕགས་
+ ཁྱི་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3134,9 +3135,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300517
 DTEND;VALUE=DATE:20300518
 SUMMARY:ས་ག་ཟླ་བའི་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༤\nཟླ་བ་༤\, 
- ལྕགས་སྦྲུལ\nརབ་བྱུང་༡༧པའི་
- ལོ་༤༤\, ལྕགས་ཁྱི་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༤\, ལྕགས་སྦ
+ ྲུལ\nརབ་བྱུང་༡༧པའི་ལོ་༤༤\, ལ
+ ྕགས་ཁྱི་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3199,9 +3200,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20300803
 DTEND;VALUE=DATE:20300804
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན།
-DESCRIPTION:ཚེས་༤ · ཟླ་བ་༦\nཟླ་བ་༦\, ཆ
- ུ་ལུག\nརབ་བྱུང་༡༧པའི་ལོ་༤༤
- \, ལྕགས་ཁྱི་ལོ།
+DESCRIPTION:ཚེས་༤\nཟླ་བ་༦\, ཆུ་ལུག\nར
+ བ་བྱུང་༡༧པའི་ལོ་༤༤\, ལྕགས་
+ ཁྱི་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3299,9 +3300,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20301117
 DTEND;VALUE=DATE:20301118
 SUMMARY:ལྷ་བབས་དུས་ཆེན།
-DESCRIPTION:ཚེས་༢༢ · ཟླ་བ་༩\nཟླ་བ་༩\, 
- མེ་ཁྱི\nརབ་བྱུང་༡༧པའི་ལོ་༤
- ༤\, ལྕགས་ཁྱི་ལོ།
+DESCRIPTION:ཚེས་༢༢\nཟླ་བ་༩\, མེ་ཁྱི\n
+ རབ་བྱུང་༡༧པའི་ལོ་༤༤\, ལྕགས
+ ་ཁྱི་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3377,9 +3378,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310222
 DTEND;VALUE=DATE:20310223
 SUMMARY:ལོ་གསར།
-DESCRIPTION:ཚེས་༡ · ཟླ་བ་༡\nཟླ་བ་༡\, ལ
- ྕགས་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་
- ༤༥\, ལྕགས་ཕག་ལོ།
+DESCRIPTION:ཚེས་༡\nཟླ་བ་༡\, ལྕགས་སྟག\
+ nརབ་བྱུང་༡༧པའི་ལོ་༤༥\, ལྕགས
+ ་ཕག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3389,9 +3390,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310309
 DTEND;VALUE=DATE:20310310
 SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- ལྕགས་སྟག\nརབ་བྱུང་༡༧པའི་ལོ
- ་༤༥\, ལྕགས་ཕག་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༡\, ལྕགས་སྟ
+ ག\nརབ་བྱུང་༡༧པའི་ལོ་༤༥\, ལྕག
+ ས་ཕག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3456,9 +3457,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310605
 DTEND;VALUE=DATE:20310606
 SUMMARY:ས་ག་ཟླ་བའི་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༤\nཟླ་བ་༤\, 
- ཆུ་སྦྲུལ\nརབ་བྱུང་༡༧པའི་ལོ
- ་༤༥\, ལྕགས་ཕག་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༤\, ཆུ་སྦྲུ
+ ལ\nརབ་བྱུང་༡༧པའི་ལོ་༤༥\, ལྕག
+ ས་ཕག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3499,9 +3500,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20310723
 DTEND;VALUE=DATE:20310724
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན།
-DESCRIPTION:ཚེས་༤ · ཟླ་བ་༦\nཟླ་བ་༦\, ཤ
- ིང་ལུག\nརབ་བྱུང་༡༧པའི་ལོ་༤
- ༥\, ལྕགས་ཕག་ལོ།
+DESCRIPTION:ཚེས་༤\nཟླ་བ་༦\, ཤིང་ལུག\n
+ རབ་བྱུང་༡༧པའི་ལོ་༤༥\, ལྕགས
+ ་ཕག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3584,9 +3585,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20311106
 DTEND;VALUE=DATE:20311107
 SUMMARY:ལྷ་བབས་དུས་ཆེན།
-DESCRIPTION:ཚེས་༢༢ · ཟླ་བ་༩\nཟླ་བ་༩\, 
- ས་ཁྱི\nརབ་བྱུང་༡༧པའི་ལོ་༤༥
- \, ལྕགས་ཕག་ལོ།
+DESCRIPTION:ཚེས་༢༢\nཟླ་བ་༩\, ས་ཁྱི\nར
+ བ་བྱུང་༡༧པའི་ལོ་༤༥\, ལྕགས་
+ ཕག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3660,9 +3661,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320212
 DTEND;VALUE=DATE:20320213
 SUMMARY:ལོ་གསར།
-DESCRIPTION:ཚེས་༡ · ཟླ་བ་༡\nཟླ་བ་༡\, ཆ
- ུ་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༤༦
- \, ཆུ་བྱི་བ་ལོ།
+DESCRIPTION:ཚེས་༡\nཟླ་བ་༡\, ཆུ་སྟག\nར
+ བ་བྱུང་༡༧པའི་ལོ་༤༦\, ཆུ་བྱ
+ ི་བ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3672,9 +3673,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320226
 DTEND;VALUE=DATE:20320227
 SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- ཆུ་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༤
- ༦\, ཆུ་བྱི་བ་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༡\, ཆུ་སྟག\n
+ རབ་བྱུང་༡༧པའི་ལོ་༤༦\, ཆུ་བ
+ ྱི་བ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3739,9 +3740,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320525
 DTEND;VALUE=DATE:20320526
 SUMMARY:ས་ག་ཟླ་བའི་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༤\nཟླ་བ་༤\, 
- ཤིང་སྦྲུལ\nརབ་བྱུང་༡༧པའི་ལ
- ོ་༤༦\, ཆུ་བྱི་བ་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༤\, ཤིང་སྦྲ
+ ུལ\nརབ་བྱུང་༡༧པའི་ལོ་༤༦\, ཆུ
+ ་བྱི་བ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3782,9 +3783,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20320711
 DTEND;VALUE=DATE:20320712
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན།
-DESCRIPTION:ཚེས་༤ · ཟླ་བ་༦\nཟླ་བ་༦\, མ
- ེ་ལུག\nརབ་བྱུང་༡༧པའི་ལོ་༤༦
- \, ཆུ་བྱི་བ་ལོ།
+DESCRIPTION:ཚེས་༤\nཟླ་བ་༦\, མེ་ལུག\nར
+ བ་བྱུང་༡༧པའི་ལོ་༤༦\, ཆུ་བྱ
+ ི་བ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3869,9 +3870,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20321025
 DTEND;VALUE=DATE:20321026
 SUMMARY:ལྷ་བབས་དུས་ཆེན།
-DESCRIPTION:ཚེས་༢༢ · ཟླ་བ་༩\nཟླ་བ་༩\, 
- ལྕགས་ཁྱི\nརབ་བྱུང་༡༧པའི་ལོ
- ་༤༦\, ཆུ་བྱི་བ་ལོ།
+DESCRIPTION:ཚེས་༢༢\nཟླ་བ་༩\, ལྕགས་ཁྱ
+ ི\nརབ་བྱུང་༡༧པའི་ལོ་༤༦\, ཆུ་
+ བྱི་བ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3947,9 +3948,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330131
 DTEND;VALUE=DATE:20330201
 SUMMARY:ལོ་གསར།
-DESCRIPTION:ཚེས་༡ · ཟླ་བ་༡\nཟླ་བ་༡\, ཤ
- ིང་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༤
- ༧\, ཆུ་གླང་ལོ།
+DESCRIPTION:ཚེས་༡\nཟླ་བ་༡\, ཤིང་སྟག\n
+ རབ་བྱུང་༡༧པའི་ལོ་༤༧\, ཆུ་ག
+ ླང་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3959,9 +3960,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330214
 DTEND;VALUE=DATE:20330215
 SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- ཤིང་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་
- ༤༧\, ཆུ་གླང་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༡\, ཤིང་སྟག\
+ nརབ་བྱུང་༡༧པའི་ལོ་༤༧\, ཆུ་ག
+ ླང་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4046,9 +4047,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330612
 DTEND;VALUE=DATE:20330613
 SUMMARY:ས་ག་ཟླ་བའི་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༤\nཟླ་བ་༤\, 
- མེ་སྦྲུལ\nརབ་བྱུང་༡༧པའི་ལོ
- ་༤༧\, ཆུ་གླང་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༤\, མེ་སྦྲུ
+ ལ\nརབ་བྱུང་༡༧པའི་ལོ་༤༧\, ཆུ་
+ གླང་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4088,9 +4089,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20330730
 DTEND;VALUE=DATE:20330731
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན།
-DESCRIPTION:ཚེས་༤ · ཟླ་བ་༦\nཟླ་བ་༦\, ས
- ་ལུག\nརབ་བྱུང་༡༧པའི་ལོ་༤༧\, 
- ཆུ་གླང་ལོ།
+DESCRIPTION:ཚེས་༤\nཟླ་བ་༦\, ས་ལུག\nརབ
+ ་བྱུང་༡༧པའི་ལོ་༤༧\, ཆུ་གླང
+ ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4172,9 +4173,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20331113
 DTEND;VALUE=DATE:20331114
 SUMMARY:ལྷ་བབས་དུས་ཆེན།
-DESCRIPTION:ཚེས་༢༢ · ཟླ་བ་༩\nཟླ་བ་༩\, 
- ཆུ་ཁྱི\nརབ་བྱུང་༡༧པའི་ལོ་༤
- ༧\, ཆུ་གླང་ལོ།
+DESCRIPTION:ཚེས་༢༢\nཟླ་བ་༩\, ཆུ་ཁྱི\n
+ རབ་བྱུང་༡༧པའི་ལོ་༤༧\, ཆུ་ག
+ ླང་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4248,9 +4249,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340219
 DTEND;VALUE=DATE:20340220
 SUMMARY:ལོ་གསར།
-DESCRIPTION:ཚེས་༡ · ཟླ་བ་༡\nཟླ་བ་༡\, མ
- ེ་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༤༨
- \, ཤིང་སྟག་ལོ།
+DESCRIPTION:ཚེས་༡\nཟླ་བ་༡\, མེ་སྟག\nར
+ བ་བྱུང་༡༧པའི་ལོ་༤༨\, ཤིང་ས
+ ྟག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4260,9 +4261,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340304
 DTEND;VALUE=DATE:20340305
 SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- མེ་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༤
- ༨\, ཤིང་སྟག་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༡\, མེ་སྟག\n
+ རབ་བྱུང་༡༧པའི་ལོ་༤༨\, ཤིང་
+ སྟག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4325,9 +4326,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340602
 DTEND;VALUE=DATE:20340603
 SUMMARY:ས་ག་ཟླ་བའི་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༤\nཟླ་བ་༤\, 
- ས་སྦྲུལ\nརབ་བྱུང་༡༧པའི་ལོ་
- ༤༨\, ཤིང་སྟག་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༤\, ས་སྦྲུལ\
+ nརབ་བྱུང་༡༧པའི་ལོ་༤༨\, ཤིང་
+ སྟག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4370,9 +4371,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20340719
 DTEND;VALUE=DATE:20340720
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན།
-DESCRIPTION:ཚེས་༤ · ཟླ་བ་༦\nཟླ་བ་༦\, ལ
- ྕགས་ལུག\nརབ་བྱུང་༡༧པའི་ལོ་
- ༤༨\, ཤིང་སྟག་ལོ།
+DESCRIPTION:ཚེས་༤\nཟླ་བ་༦\, ལྕགས་ལུག\
+ nརབ་བྱུང་༡༧པའི་ལོ་༤༨\, ཤིང་
+ སྟག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4457,9 +4458,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20341102
 DTEND;VALUE=DATE:20341103
 SUMMARY:ལྷ་བབས་དུས་ཆེན།
-DESCRIPTION:ཚེས་༢༢ · ཟླ་བ་༩\nཟླ་བ་༩\, 
- ཤིང་ཁྱི\nརབ་བྱུང་༡༧པའི་ལོ་
- ༤༨\, ཤིང་སྟག་ལོ།
+DESCRIPTION:ཚེས་༢༢\nཟླ་བ་༩\, ཤིང་ཁྱི\
+ nརབ་བྱུང་༡༧པའི་ལོ་༤༨\, ཤིང་
+ སྟག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4535,9 +4536,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350209
 DTEND;VALUE=DATE:20350210
 SUMMARY:ལོ་གསར།
-DESCRIPTION:ཚེས་༡ · ཟླ་བ་༡\nཟླ་བ་༡\, ས
- ་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༤༩\, 
- ཤིང་ཡོས་ལོ།
+DESCRIPTION:ཚེས་༡\nཟླ་བ་༡\, ས་སྟག\nརབ
+ ་བྱུང་༡༧པའི་ལོ་༤༩\, ཤིང་ཡོ
+ ས་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4547,9 +4548,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350222
 DTEND;VALUE=DATE:20350223
 SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- ས་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༤༩
- \, ཤིང་ཡོས་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༡\, ས་སྟག\nར
+ བ་བྱུང་༡༧པའི་ལོ་༤༩\, ཤིང་ཡ
+ ོས་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4612,9 +4613,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350522
 DTEND;VALUE=DATE:20350523
 SUMMARY:ས་ག་ཟླ་བའི་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༤\nཟླ་བ་༤\, 
- ལྕགས་སྦྲུལ\nརབ་བྱུང་༡༧པའི་
- ལོ་༤༩\, ཤིང་ཡོས་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༤\, ལྕགས་སྦ
+ ྲུལ\nརབ་བྱུང་༡༧པའི་ལོ་༤༩\, ཤ
+ ིང་ཡོས་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4654,9 +4655,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20350709
 DTEND;VALUE=DATE:20350710
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན།
-DESCRIPTION:ཚེས་༤ · ཟླ་བ་༦\nཟླ་བ་༦\, ཆ
- ུ་ལུག\nརབ་བྱུང་༡༧པའི་ལོ་༤༩
- \, ཤིང་ཡོས་ལོ།
+DESCRIPTION:ཚེས་༤\nཟླ་བ་༦\, ཆུ་ལུག\nར
+ བ་བྱུང་༡༧པའི་ལོ་༤༩\, ཤིང་ཡ
+ ོས་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4738,9 +4739,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20351023
 DTEND;VALUE=DATE:20351024
 SUMMARY:ལྷ་བབས་དུས་ཆེན།
-DESCRIPTION:ཚེས་༢༢ · ཟླ་བ་༩\nཟླ་བ་༩\, 
- མེ་ཁྱི\nརབ་བྱུང་༡༧པའི་ལོ་༤
- ༩\, ཤིང་ཡོས་ལོ།
+DESCRIPTION:ཚེས་༢༢\nཟླ་བ་༩\, མེ་ཁྱི\n
+ རབ་བྱུང་༡༧པའི་ལོ་༤༩\, ཤིང་
+ ཡོས་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4835,9 +4836,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360228
 DTEND;VALUE=DATE:20360229
 SUMMARY:ལོ་གསར།
-DESCRIPTION:ཚེས་༡ · ཟླ་བ་༡\nཟླ་བ་༡\, ལ
- ྕགས་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་
- ༥༠\, མེ་འབྲུག་ལོ།
+DESCRIPTION:ཚེས་༡\nཟླ་བ་༡\, ལྕགས་སྟག\
+ nརབ་བྱུང་༡༧པའི་ལོ་༥༠\, མེ་འ
+ བྲུག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4847,9 +4848,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360312
 DTEND;VALUE=DATE:20360313
 SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- ལྕགས་སྟག\nརབ་བྱུང་༡༧པའི་ལོ
- ་༥༠\, མེ་འབྲུག་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༡\, ལྕགས་སྟ
+ ག\nརབ་བྱུང་༡༧པའི་ལོ་༥༠\, མེ་
+ འབྲུག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4914,9 +4915,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360608
 DTEND;VALUE=DATE:20360609
 SUMMARY:ས་ག་ཟླ་བའི་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༤\nཟླ་བ་༤\, 
- ཆུ་སྦྲུལ\nརབ་བྱུང་༡༧པའི་ལོ
- ་༥༠\, མེ་འབྲུག་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༤\, ཆུ་སྦྲུ
+ ལ\nརབ་བྱུང་༡༧པའི་ལོ་༥༠\, མེ་
+ འབྲུག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4959,9 +4960,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360727
 DTEND;VALUE=DATE:20360728
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན།
-DESCRIPTION:ཚེས་༤ · ཟླ་བ་༦\nཟླ་བ་༦\, ཤ
- ིང་ལུག\nརབ་བྱུང་༡༧པའི་ལོ་༥
- ༠\, མེ་འབྲུག་ལོ།
+DESCRIPTION:ཚེས་༤\nཟླ་བ་༦\, ཤིང་ལུག\n
+ རབ་བྱུང་༡༧པའི་ལོ་༥༠\, མེ་འ
+ བྲུག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5014,9 +5015,10 @@ UID:tsurphu-bo-2036-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20360921
 DTEND;VALUE=DATE:20360922
-SUMMARY:ཚེས་༢ · ཟླ་བ་༨ (ཚེས་༡ ཆད།)
-DESCRIPTION:ཟླ་བ་༨\, མེ་བྱ\nརབ་བྱུང་
- ༡༧པའི་ལོ་༥༠\, མེ་འབྲུག་ལོ།
+SUMMARY:ཚེས་༢ · ཟླ་བ་༨
+DESCRIPTION:ཚེས་༡ ཆད།\nཟླ་བ་༨\, མེ་བྱ
+ \nརབ་བྱུང་༡༧པའི་ལོ་༥༠\, མེ་འ
+ བྲུག་ལོ།
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5055,9 +5057,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20361110
 DTEND;VALUE=DATE:20361111
 SUMMARY:ལྷ་བབས་དུས་ཆེན།
-DESCRIPTION:ཚེས་༢༢ · ཟླ་བ་༩\nཟླ་བ་༩\, 
- ས་ཁྱི\nརབ་བྱུང་༡༧པའི་ལོ་༥༠
- \, མེ་འབྲུག་ལོ།
+DESCRIPTION:ཚེས་༢༢\nཟླ་བ་༩\, ས་ཁྱི\nར
+ བ་བྱུང་༡༧པའི་ལོ་༥༠\, མེ་འབ
+ ྲུག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5131,9 +5133,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370216
 DTEND;VALUE=DATE:20370217
 SUMMARY:ལོ་གསར།
-DESCRIPTION:ཚེས་༡ · ཟླ་བ་༡\nཟླ་བ་༡\, ཆ
- ུ་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༥༡
- \, མེ་སྦྲུལ་ལོ།
+DESCRIPTION:ཚེས་༡\nཟླ་བ་༡\, ཆུ་སྟག\nར
+ བ་བྱུང་༡༧པའི་ལོ་༥༡\, མེ་སྦ
+ ྲུལ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5143,10 +5145,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370301
 DTEND;VALUE=DATE:20370302
 SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༤ · ཟླ་བ་༡\nཚེས་༡༥ 
- ཆད།\nཟླ་བ་༡\, ཆུ་སྟག\nརབ་བྱུང
- ་༡༧པའི་ལོ་༥༡\, མེ་སྦྲུལ་ལོ
- །
+DESCRIPTION:ཚེས་༡༤\nཚེས་༡༥ ཆད།\nཟླ་བ
+ ་༡\, ཆུ་སྟག\nརབ་བྱུང་༡༧པའི་ལ
+ ོ་༥༡\, མེ་སྦྲུལ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5211,9 +5212,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370529
 DTEND;VALUE=DATE:20370530
 SUMMARY:ས་ག་ཟླ་བའི་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༤\nཟླ་བ་༤\, 
- ཤིང་སྦྲུལ\nརབ་བྱུང་༡༧པའི་ལ
- ོ་༥༡\, མེ་སྦྲུལ་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༤\, ཤིང་སྦྲ
+ ུལ\nརབ་བྱུང་༡༧པའི་ལོ་༥༡\, མེ
+ ་སྦྲུལ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5254,9 +5255,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20370716
 DTEND;VALUE=DATE:20370717
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན།
-DESCRIPTION:ཚེས་༤ · ཟླ་བ་༦\nཟླ་བ་༦\, མ
- ེ་ལུག\nརབ་བྱུང་༡༧པའི་ལོ་༥༡
- \, མེ་སྦྲུལ་ལོ།
+DESCRIPTION:ཚེས་༤\nཟླ་བ་༦\, མེ་ལུག\nར
+ བ་བྱུང་༡༧པའི་ལོ་༥༡\, མེ་སྦ
+ ྲུལ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5318,10 +5319,10 @@ UID:tsurphu-bo-2037-09-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20371010
 DTEND;VALUE=DATE:20371011
-SUMMARY:ཚེས་༢ · ཟླ་བ་༩ (ཚེས་༡ ཆད།)
-DESCRIPTION:ཟླ་བ་༩\, ལྕགས་ཁྱི\nརབ་བྱ
- ུང་༡༧པའི་ལོ་༥༡\, མེ་སྦྲུལ་
- ལོ།
+SUMMARY:ཚེས་༢ · ཟླ་བ་༩
+DESCRIPTION:ཚེས་༡ ཆད།\nཟླ་བ་༩\, ལྕགས་
+ ཁྱི\nརབ་བྱུང་༡༧པའི་ལོ་༥༡\, མ
+ ེ་སྦྲུལ་ལོ།
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5352,9 +5353,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20371031
 DTEND;VALUE=DATE:20371101
 SUMMARY:ལྷ་བབས་དུས་ཆེན།
-DESCRIPTION:ཚེས་༢༢ · ཟླ་བ་༩\nཟླ་བ་༩\, 
- ལྕགས་ཁྱི\nརབ་བྱུང་༡༧པའི་ལོ
- ་༥༡\, མེ་སྦྲུལ་ལོ།
+DESCRIPTION:ཚེས་༢༢\nཟླ་བ་༩\, ལྕགས་ཁྱ
+ ི\nརབ་བྱུང་༡༧པའི་ལོ་༥༡\, མེ་
+ སྦྲུལ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5430,9 +5431,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380205
 DTEND;VALUE=DATE:20380206
 SUMMARY:ལོ་གསར།
-DESCRIPTION:ཚེས་༡ · ཟླ་བ་༡\nཟླ་བ་༡\, ཤ
- ིང་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༥
- ༢\, ས་རྟ་ལོ།
+DESCRIPTION:ཚེས་༡\nཟླ་བ་༡\, ཤིང་སྟག\n
+ རབ་བྱུང་༡༧པའི་ལོ་༥༢\, ས་རྟ
+ ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5442,9 +5443,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380219
 DTEND;VALUE=DATE:20380220
 SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- ཤིང་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་
- ༥༢\, ས་རྟ་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༡\, ཤིང་སྟག\
+ nརབ་བྱུང་༡༧པའི་ལོ་༥༢\, ས་རྟ
+ ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5504,9 +5505,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380518
 DTEND;VALUE=DATE:20380519
 SUMMARY:ས་ག་ཟླ་བའི་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༤\nཟླ་བ་༤\, 
- མེ་སྦྲུལ\nརབ་བྱུང་༡༧པའི་ལོ
- ་༥༢\, ས་རྟ་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༤\, མེ་སྦྲུ
+ ལ\nརབ་བྱུང་༡༧པའི་ལོ་༥༢\, ས་ར
+ ྟ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5556,9 +5557,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380706
 DTEND;VALUE=DATE:20380707
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན།
-DESCRIPTION:ཚེས་༤ · ཟླ་བ་༦\nཟླ་བ་༦\, ས
- ་ལུག\nརབ་བྱུང་༡༧པའི་ལོ་༥༢\, 
- ས་རྟ་ལོ།
+DESCRIPTION:ཚེས་༤\nཟླ་བ་༦\, ས་ལུག\nརབ
+ ་བྱུང་༡༧པའི་ལོ་༥༢\, ས་རྟ་ལ
+ ོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5577,11 +5578,10 @@ UID:tsurphu-bo-2038-07L-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20380802
 DTEND;VALUE=DATE:20380803
-SUMMARY:ཚེས་༢ · ཟླ་བ་༧ (ཟླ་ཤོལ) (ཚེ
- ས་༡ ཆད།)
-DESCRIPTION:ཟླ་བ་༧ (ཟླ་ཤོལ)\, ལྕགས་སྤ
- ྲེའུ\nརབ་བྱུང་༡༧པའི་ལོ་༥༢\, 
- ས་རྟ་ལོ།
+SUMMARY:ཚེས་༢ · ཟླ་བ་༧ (ཟླ་ཤོལ)
+DESCRIPTION:ཚེས་༡ ཆད།\nཟླ་བ་༧ (ཟླ་ཤོ
+ ལ)\, ལྕགས་སྤྲེའུ\nརབ་བྱུང་༡༧
+ པའི་ལོ་༥༢\, ས་རྟ་ལོ།
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5663,9 +5663,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20381119
 DTEND;VALUE=DATE:20381120
 SUMMARY:ལྷ་བབས་དུས་ཆེན།
-DESCRIPTION:ཚེས་༢༢ · ཟླ་བ་༩\nཟླ་བ་༩\, 
- ཆུ་ཁྱི\nརབ་བྱུང་༡༧པའི་ལོ་༥
- ༢\, ས་རྟ་ལོ།
+DESCRIPTION:ཚེས་༢༢\nཟླ་བ་༩\, ཆུ་ཁྱི\n
+ རབ་བྱུང་༡༧པའི་ལོ་༥༢\, ས་རྟ
+ ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5737,9 +5737,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390224
 DTEND;VALUE=DATE:20390225
 SUMMARY:ལོ་གསར།
-DESCRIPTION:ཚེས་༡ · ཟླ་བ་༡\nཟླ་བ་༡\, མ
- ེ་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༥༣
- \, ས་ལུག་ལོ།
+DESCRIPTION:ཚེས་༡\nཟླ་བ་༡\, མེ་སྟག\nར
+ བ་བྱུང་༡༧པའི་ལོ་༥༣\, ས་ལུག
+ ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5749,9 +5749,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390310
 DTEND;VALUE=DATE:20390311
 SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- མེ་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༥
- ༣\, ས་ལུག་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༡\, མེ་སྟག\n
+ རབ་བྱུང་༡༧པའི་ལོ་༥༣\, ས་ལུ
+ ག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5811,9 +5811,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390606
 DTEND;VALUE=DATE:20390607
 SUMMARY:ས་ག་ཟླ་བའི་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༤\nཟླ་བ་༤\, 
- ས་སྦྲུལ\nརབ་བྱུང་༡༧པའི་ལོ་
- ༥༣\, ས་ལུག་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༤\, ས་སྦྲུལ\
+ nརབ་བྱུང་༡༧པའི་ལོ་༥༣\, ས་ལུ
+ ག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5853,9 +5853,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20390725
 DTEND;VALUE=DATE:20390726
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན།
-DESCRIPTION:ཚེས་༤ · ཟླ་བ་༦\nཟླ་བ་༦\, ལ
- ྕགས་ལུག\nརབ་བྱུང་༡༧པའི་ལོ་
- ༥༣\, ས་ལུག་ལོ།
+DESCRIPTION:ཚེས་༤\nཟླ་བ་༦\, ལྕགས་ལུག\
+ nརབ་བྱུང་༡༧པའི་ལོ་༥༣\, ས་ལུ
+ ག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5937,9 +5937,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20391108
 DTEND;VALUE=DATE:20391109
 SUMMARY:ལྷ་བབས་དུས་ཆེན།
-DESCRIPTION:ཚེས་༢༢ · ཟླ་བ་༩\nཟླ་བ་༩\, 
- ཤིང་ཁྱི\nརབ་བྱུང་༡༧པའི་ལོ་
- ༥༣\, ས་ལུག་ལོ།
+DESCRIPTION:ཚེས་༢༢\nཟླ་བ་༩\, ཤིང་ཁྱི\
+ nརབ་བྱུང་༡༧པའི་ལོ་༥༣\, ས་ལུ
+ ག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5990,10 +5990,10 @@ UID:tsurphu-bo-2039-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400115
 DTEND;VALUE=DATE:20400116
-SUMMARY:ཚེས་༢ · ཟླ་བ་༡༢ (ཚེས་༡ ཆད།
- )
-DESCRIPTION:ཟླ་བ་༡༢\, མེ་གླང\nརབ་བྱུ
- ང་༡༧པའི་ལོ་༥༣\, ས་ལུག་ལོ།
+SUMMARY:ཚེས་༢ · ཟླ་བ་༡༢
+DESCRIPTION:ཚེས་༡ ཆད།\nཟླ་བ་༡༢\, མེ་ག
+ ླང\nརབ་བྱུང་༡༧པའི་ལོ་༥༣\, ས་
+ ལུག་ལོ།
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6012,9 +6012,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400213
 DTEND;VALUE=DATE:20400214
 SUMMARY:ལོ་གསར།
-DESCRIPTION:ཚེས་༡ · ཟླ་བ་༡\nཟླ་བ་༡\, ས
- ་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༥༤\, 
- ལྕགས་སྤྲེའུ་ལོ།
+DESCRIPTION:ཚེས་༡\nཟླ་བ་༡\, ས་སྟག\nརབ
+ ་བྱུང་༡༧པའི་ལོ་༥༤\, ལྕགས་ས
+ ྤྲེའུ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6024,9 +6024,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400227
 DTEND;VALUE=DATE:20400228
 SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- ས་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༥༤
- \, ལྕགས་སྤྲེའུ་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༡\, ས་སྟག\nར
+ བ་བྱུང་༡༧པའི་ལོ་༥༤\, ལྕགས་
+ སྤྲེའུ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6035,10 +6035,10 @@ UID:tsurphu-bo-2040-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400314
 DTEND;VALUE=DATE:20400315
-SUMMARY:ཚེས་༢ · ཟླ་བ་༢ (ཚེས་༡ ཆད།)
-DESCRIPTION:ཟླ་བ་༢\, ས་ཡོས\nརབ་བྱུང་
- ༡༧པའི་ལོ་༥༤\, ལྕགས་སྤྲེའུ་
- ལོ།
+SUMMARY:ཚེས་༢ · ཟླ་བ་༢
+DESCRIPTION:ཚེས་༡ ཆད།\nཟླ་བ་༢\, ས་ཡོས
+ \nརབ་བྱུང་༡༧པའི་ལོ་༥༤\, ལྕགས
+ ་སྤྲེའུ་ལོ།
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6091,9 +6091,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400526
 DTEND;VALUE=DATE:20400527
 SUMMARY:ས་ག་ཟླ་བའི་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༤\nཟླ་བ་༤\, 
- ལྕགས་སྦྲུལ\nརབ་བྱུང་༡༧པའི་
- ལོ་༥༤\, ལྕགས་སྤྲེའུ་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༤\, ལྕགས་སྦ
+ ྲུལ\nརབ་བྱུང་༡༧པའི་ལོ་༥༤\, ལ
+ ྕགས་སྤྲེའུ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6136,9 +6136,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20400713
 DTEND;VALUE=DATE:20400714
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན།
-DESCRIPTION:ཚེས་༤ · ཟླ་བ་༦\nཟླ་བ་༦\, ཆ
- ུ་ལུག\nརབ་བྱུང་༡༧པའི་ལོ་༥༤
- \, ལྕགས་སྤྲེའུ་ལོ།
+DESCRIPTION:ཚེས་༤\nཟླ་བ་༦\, ཆུ་ལུག\nར
+ བ་བྱུང་༡༧པའི་ལོ་༥༤\, ལྕགས་
+ སྤྲེའུ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6225,9 +6225,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20401027
 DTEND;VALUE=DATE:20401028
 SUMMARY:ལྷ་བབས་དུས་ཆེན།
-DESCRIPTION:ཚེས་༢༢ · ཟླ་བ་༩\nཟླ་བ་༩\, 
- མེ་ཁྱི\nརབ་བྱུང་༡༧པའི་ལོ་༥
- ༤\, ལྕགས་སྤྲེའུ་ལོ།
+DESCRIPTION:ཚེས་༢༢\nཟླ་བ་༩\, མེ་ཁྱི\n
+ རབ་བྱུང་༡༧པའི་ལོ་༥༤\, ལྕགས
+ ་སྤྲེའུ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6303,9 +6303,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410202
 DTEND;VALUE=DATE:20410203
 SUMMARY:ལོ་གསར།
-DESCRIPTION:ཚེས་༡ · ཟླ་བ་༡\nཟླ་བ་༡\, ལ
- ྕགས་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་
- ༥༥\, ལྕགས་བྱ་ལོ།
+DESCRIPTION:ཚེས་༡\nཟླ་བ་༡\, ལྕགས་སྟག\
+ nརབ་བྱུང་༡༧པའི་ལོ་༥༥\, ལྕགས
+ ་བྱ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6315,9 +6315,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410215
 DTEND;VALUE=DATE:20410216
 SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- ལྕགས་སྟག\nརབ་བྱུང་༡༧པའི་ལོ
- ་༥༥\, ལྕགས་བྱ་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༡\, ལྕགས་སྟ
+ ག\nརབ་བྱུང་༡༧པའི་ལོ་༥༥\, ལྕག
+ ས་བྱ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6348,11 +6348,10 @@ UID:tsurphu-bo-2041-03L-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410402
 DTEND;VALUE=DATE:20410403
-SUMMARY:ཚེས་༢ · ཟླ་བ་༣ (ཟླ་ཤོལ) (ཚེ
- ས་༡ ཆད།)
-DESCRIPTION:ཟླ་བ་༣ (ཟླ་ཤོལ)\, ཆུ་འབྲུ
- ག\nརབ་བྱུང་༡༧པའི་ལོ་༥༥\, ལྕག
- ས་བྱ་ལོ།
+SUMMARY:ཚེས་༢ · ཟླ་བ་༣ (ཟླ་ཤོལ)
+DESCRIPTION:ཚེས་༡ ཆད།\nཟླ་བ་༣ (ཟླ་ཤོ
+ ལ)\, ཆུ་འབྲུག\nརབ་བྱུང་༡༧པའི
+ ་ལོ་༥༥\, ལྕགས་བྱ་ལོ།
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6416,9 +6415,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410614
 DTEND;VALUE=DATE:20410615
 SUMMARY:ས་ག་ཟླ་བའི་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༤\nཟླ་བ་༤\, 
- ཆུ་སྦྲུལ\nརབ་བྱུང་༡༧པའི་ལོ
- ་༥༥\, ལྕགས་བྱ་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༤\, ཆུ་སྦྲུ
+ ལ\nརབ་བྱུང་༡༧པའི་ལོ་༥༥\, ལྕག
+ ས་བྱ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6459,9 +6458,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20410801
 DTEND;VALUE=DATE:20410802
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན།
-DESCRIPTION:ཚེས་༤ · ཟླ་བ་༦\nཟླ་བ་༦\, ཤ
- ིང་ལུག\nརབ་བྱུང་༡༧པའི་ལོ་༥
- ༥\, ལྕགས་བྱ་ལོ།
+DESCRIPTION:ཚེས་༤\nཟླ་བ་༦\, ཤིང་ལུག\n
+ རབ་བྱུང་༡༧པའི་ལོ་༥༥\, ལྕགས
+ ་བྱ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6544,9 +6543,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20411115
 DTEND;VALUE=DATE:20411116
 SUMMARY:ལྷ་བབས་དུས་ཆེན།
-DESCRIPTION:ཚེས་༢༢ · ཟླ་བ་༩\nཟླ་བ་༩\, 
- ས་ཁྱི\nརབ་བྱུང་༡༧པའི་ལོ་༥༥
- \, ལྕགས་བྱ་ལོ།
+DESCRIPTION:ཚེས་༢༢\nཟླ་བ་༩\, ས་ཁྱི\nར
+ བ་བྱུང་༡༧པའི་ལོ་༥༥\, ལྕགས་
+ བྱ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6620,9 +6619,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420221
 DTEND;VALUE=DATE:20420222
 SUMMARY:ལོ་གསར།
-DESCRIPTION:ཚེས་༡ · ཟླ་བ་༡\nཟླ་བ་༡\, ཆ
- ུ་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༥༦
- \, ཆུ་ཁྱི་ལོ།
+DESCRIPTION:ཚེས་༡\nཟླ་བ་༡\, ཆུ་སྟག\nར
+ བ་བྱུང་༡༧པའི་ལོ་༥༦\, ཆུ་ཁྱ
+ ི་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6632,9 +6631,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420306
 DTEND;VALUE=DATE:20420307
 SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- ཆུ་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༥
- ༦\, ཆུ་ཁྱི་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༡\, ཆུ་སྟག\n
+ རབ་བྱུང་༡༧པའི་ལོ་༥༦\, ཆུ་ཁ
+ ྱི་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6697,9 +6696,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420603
 DTEND;VALUE=DATE:20420604
 SUMMARY:ས་ག་ཟླ་བའི་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༤\nཟླ་བ་༤\, 
- ཤིང་སྦྲུལ\nརབ་བྱུང་༡༧པའི་ལ
- ོ་༥༦\, ཆུ་ཁྱི་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༤\, ཤིང་སྦྲ
+ ུལ\nརབ་བྱུང་༡༧པའི་ལོ་༥༦\, ཆུ
+ ་ཁྱི་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6739,9 +6738,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20420721
 DTEND;VALUE=DATE:20420722
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན།
-DESCRIPTION:ཚེས་༤ · ཟླ་བ་༦\nཟླ་བ་༦\, མ
- ེ་ལུག\nརབ་བྱུང་༡༧པའི་ལོ་༥༦
- \, ཆུ་ཁྱི་ལོ།
+DESCRIPTION:ཚེས་༤\nཟླ་བ་༦\, མེ་ལུག\nར
+ བ་བྱུང་༡༧པའི་ལོ་༥༦\, ཆུ་ཁྱ
+ ི་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6836,9 +6835,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20421104
 DTEND;VALUE=DATE:20421105
 SUMMARY:ལྷ་བབས་དུས་ཆེན།
-DESCRIPTION:ཚེས་༢༢ · ཟླ་བ་༩\nཟླ་བ་༩\, 
- ལྕགས་ཁྱི\nརབ་བྱུང་༡༧པའི་ལོ
- ་༥༦\, ཆུ་ཁྱི་ལོ།
+DESCRIPTION:ཚེས་༢༢\nཟླ་བ་༩\, ལྕགས་ཁྱ
+ ི\nརབ་བྱུང་༡༧པའི་ལོ་༥༦\, ཆུ་
+ ཁྱི་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6912,9 +6911,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430210
 DTEND;VALUE=DATE:20430211
 SUMMARY:ལོ་གསར།
-DESCRIPTION:ཚེས་༡ · ཟླ་བ་༡\nཟླ་བ་༡\, ཤ
- ིང་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༥
- ༧\, ཆུ་ཕག་ལོ།
+DESCRIPTION:ཚེས་༡\nཟླ་བ་༡\, ཤིང་སྟག\n
+ རབ་བྱུང་༡༧པའི་ལོ་༥༧\, ཆུ་ཕ
+ ག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6924,9 +6923,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430223
 DTEND;VALUE=DATE:20430224
 SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- ཤིང་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་
- ༥༧\, ཆུ་ཕག་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༡\, ཤིང་སྟག\
+ nརབ་བྱུང་༡༧པའི་ལོ་༥༧\, ཆུ་ཕ
+ ག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6986,9 +6985,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430523
 DTEND;VALUE=DATE:20430524
 SUMMARY:ས་ག་ཟླ་བའི་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༤\nཟླ་བ་༤\, 
- མེ་སྦྲུལ\nརབ་བྱུང་༡༧པའི་ལོ
- ་༥༧\, ཆུ་ཕག་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༤\, མེ་སྦྲུ
+ ལ\nརབ་བྱུང་༡༧པའི་ལོ་༥༧\, ཆུ་
+ ཕག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7028,9 +7027,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20430710
 DTEND;VALUE=DATE:20430711
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན།
-DESCRIPTION:ཚེས་༤ · ཟླ་བ་༦\nཟླ་བ་༦\, ས
- ་ལུག\nརབ་བྱུང་༡༧པའི་ལོ་༥༧\, 
- ཆུ་ཕག་ལོ།
+DESCRIPTION:ཚེས་༤\nཟླ་བ་༦\, ས་ལུག\nརབ
+ ་བྱུང་༡༧པའི་ལོ་༥༧\, ཆུ་ཕག་
+ ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7112,9 +7111,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20431024
 DTEND;VALUE=DATE:20431025
 SUMMARY:ལྷ་བབས་དུས་ཆེན།
-DESCRIPTION:ཚེས་༢༢ · ཟླ་བ་༩\nཟླ་བ་༩\, 
- ཆུ་ཁྱི\nརབ་བྱུང་༡༧པའི་ལོ་༥
- ༧\, ཆུ་ཕག་ལོ།
+DESCRIPTION:ཚེས་༢༢\nཟླ་བ་༩\, ཆུ་ཁྱི\n
+ རབ་བྱུང་༡༧པའི་ལོ་༥༧\, ཆུ་ཕ
+ ག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7208,9 +7207,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440229
 DTEND;VALUE=DATE:20440301
 SUMMARY:ལོ་གསར།
-DESCRIPTION:ཚེས་༡ · ཟླ་བ་༡\nཟླ་བ་༡\, མ
- ེ་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༥༨
- \, ཤིང་བྱི་བ་ལོ།
+DESCRIPTION:ཚེས་༡\nཟླ་བ་༡\, མེ་སྟག\nར
+ བ་བྱུང་༡༧པའི་ལོ་༥༨\, ཤིང་བ
+ ྱི་བ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7220,9 +7219,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440313
 DTEND;VALUE=DATE:20440314
 SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- མེ་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༥
- ༨\, ཤིང་བྱི་བ་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༡\, མེ་སྟག\n
+ རབ་བྱུང་༡༧པའི་ལོ་༥༨\, ཤིང་
+ བྱི་བ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7287,9 +7286,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440610
 DTEND;VALUE=DATE:20440611
 SUMMARY:ས་ག་ཟླ་བའི་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༤\nཟླ་བ་༤\, 
- ས་སྦྲུལ\nརབ་བྱུང་༡༧པའི་ལོ་
- ༥༨\, ཤིང་བྱི་བ་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༤\, ས་སྦྲུལ\
+ nརབ་བྱུང་༡༧པའི་ལོ་༥༨\, ཤིང་
+ བྱི་བ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7332,9 +7331,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440728
 DTEND;VALUE=DATE:20440729
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན།
-DESCRIPTION:ཚེས་༤ · ཟླ་བ་༦\nཟླ་བ་༦\, ལ
- ྕགས་ལུག\nརབ་བྱུང་༡༧པའི་ལོ་
- ༥༨\, ཤིང་བྱི་བ་ལོ།
+DESCRIPTION:ཚེས་༤\nཟླ་བ་༦\, ལྕགས་ལུག\
+ nརབ་བྱུང་༡༧པའི་ལོ་༥༨\, ཤིང་
+ བྱི་བ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7354,10 +7353,10 @@ UID:tsurphu-bo-2044-07-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20440824
 DTEND;VALUE=DATE:20440825
-SUMMARY:ཚེས་༢ · ཟླ་བ་༧ (ཚེས་༡ ཆད།)
-DESCRIPTION:ཟླ་བ་༧\, ཆུ་སྤྲེའུ\nརབ་བ
- ྱུང་༡༧པའི་ལོ་༥༨\, ཤིང་བྱི་
- བ་ལོ།
+SUMMARY:ཚེས་༢ · ཟླ་བ་༧
+DESCRIPTION:ཚེས་༡ ཆད།\nཟླ་བ་༧\, ཆུ་སྤ
+ ྲེའུ\nརབ་བྱུང་༡༧པའི་ལོ་༥༨\, 
+ ཤིང་བྱི་བ་ལོ།
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -7421,9 +7420,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20441111
 DTEND;VALUE=DATE:20441112
 SUMMARY:ལྷ་བབས་དུས་ཆེན།
-DESCRIPTION:ཚེས་༢༢ · ཟླ་བ་༩\nཟླ་བ་༩\, 
- ཤིང་ཁྱི\nརབ་བྱུང་༡༧པའི་ལོ་
- ༥༨\, ཤིང་བྱི་བ་ལོ།
+DESCRIPTION:ཚེས་༢༢\nཟླ་བ་༩\, ཤིང་ཁྱི\
+ nརབ་བྱུང་༡༧པའི་ལོ་༥༨\, ཤིང་
+ བྱི་བ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7499,9 +7498,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450217
 DTEND;VALUE=DATE:20450218
 SUMMARY:ལོ་གསར།
-DESCRIPTION:ཚེས་༡ · ཟླ་བ་༡\nཟླ་བ་༡\, ས
- ་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༥༩\, 
- ཤིང་གླང་ལོ།
+DESCRIPTION:ཚེས་༡\nཟླ་བ་༡\, ས་སྟག\nརབ
+ ་བྱུང་༡༧པའི་ལོ་༥༩\, ཤིང་གླ
+ ང་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7511,9 +7510,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450303
 DTEND;VALUE=DATE:20450304
 SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- ས་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་༥༩
- \, ཤིང་གླང་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༡\, ས་སྟག\nར
+ བ་བྱུང་༡༧པའི་ལོ་༥༩\, ཤིང་ག
+ ླང་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7576,9 +7575,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450530
 DTEND;VALUE=DATE:20450531
 SUMMARY:ས་ག་ཟླ་བའི་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༤\nཟླ་བ་༤\, 
- ལྕགས་སྦྲུལ\nརབ་བྱུང་༡༧པའི་
- ལོ་༥༩\, ཤིང་གླང་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༤\, ལྕགས་སྦ
+ ྲུལ\nརབ་བྱུང་༡༧པའི་ལོ་༥༩\, ཤ
+ ིང་གླང་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7618,9 +7617,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450718
 DTEND;VALUE=DATE:20450719
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན།
-DESCRIPTION:ཚེས་༤ · ཟླ་བ་༦\nཟླ་བ་༦\, ཆ
- ུ་ལུག\nརབ་བྱུང་༡༧པའི་ལོ་༥༩
- \, ཤིང་གླང་ལོ།
+DESCRIPTION:ཚེས་༤\nཟླ་བ་༦\, ཆུ་ལུག\nར
+ བ་བྱུང་༡༧པའི་ལོ་༥༩\, ཤིང་ག
+ ླང་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7661,9 +7660,10 @@ UID:tsurphu-bo-2045-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20450912
 DTEND;VALUE=DATE:20450913
-SUMMARY:ཚེས་༢ · ཟླ་བ་༨ (ཚེས་༡ ཆད།)
-DESCRIPTION:ཟླ་བ་༨\, ཤིང་བྱ\nརབ་བྱུང
- ་༡༧པའི་ལོ་༥༩\, ཤིང་གླང་ལོ།
+SUMMARY:ཚེས་༢ · ཟླ་བ་༨
+DESCRIPTION:ཚེས་༡ ཆད།\nཟླ་བ་༨\, ཤིང་བ
+ ྱ\nརབ་བྱུང་༡༧པའི་ལོ་༥༩\, ཤིང
+ ་གླང་ལོ།
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -7702,9 +7702,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20451101
 DTEND;VALUE=DATE:20451102
 SUMMARY:ལྷ་བབས་དུས་ཆེན།
-DESCRIPTION:ཚེས་༢༢ · ཟླ་བ་༩\nཟླ་བ་༩\, 
- མེ་ཁྱི\nརབ་བྱུང་༡༧པའི་ལོ་༥
- ༩\, ཤིང་གླང་ལོ།
+DESCRIPTION:ཚེས་༢༢\nཟླ་བ་༩\, མེ་ཁྱི\n
+ རབ་བྱུང་༡༧པའི་ལོ་༥༩\, ཤིང་
+ གླང་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7776,9 +7776,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460206
 DTEND;VALUE=DATE:20460207
 SUMMARY:ལོ་གསར།
-DESCRIPTION:ཚེས་༡ · ཟླ་བ་༡\nཟླ་བ་༡\, ལ
- ྕགས་སྟག\nརབ་བྱུང་༡༧པའི་ལོ་
- ༦༠\, མེ་སྟག་ལོ།
+DESCRIPTION:ཚེས་༡\nཟླ་བ་༡\, ལྕགས་སྟག\
+ nརབ་བྱུང་༡༧པའི་ལོ་༦༠\, མེ་ས
+ ྟག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7788,10 +7788,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460220
 DTEND;VALUE=DATE:20460221
 SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༤ · ཟླ་བ་༡\nཚེས་༡༥ 
- ཆད།\nཟླ་བ་༡\, ལྕགས་སྟག\nརབ་བྱ
- ུང་༡༧པའི་ལོ་༦༠\, མེ་སྟག་ལོ
- །
+DESCRIPTION:ཚེས་༡༤\nཚེས་༡༥ ཆད།\nཟླ་བ
+ ་༡\, ལྕགས་སྟག\nརབ་བྱུང་༡༧པའི
+ ་ལོ་༦༠\, མེ་སྟག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7856,9 +7855,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460520
 DTEND;VALUE=DATE:20460521
 SUMMARY:ས་ག་ཟླ་བའི་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༤\nཟླ་བ་༤\, 
- ཆུ་སྦྲུལ\nརབ་བྱུང་༡༧པའི་ལོ
- ་༦༠\, མེ་སྟག་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༤\, ཆུ་སྦྲུ
+ ལ\nརབ་བྱུང་༡༧པའི་ལོ་༦༠\, མེ་
+ སྟག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7898,9 +7897,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20460707
 DTEND;VALUE=DATE:20460708
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན།
-DESCRIPTION:ཚེས་༤ · ཟླ་བ་༦\nཟླ་བ་༦\, ཤ
- ིང་ལུག\nརབ་བྱུང་༡༧པའི་ལོ་༦
- ༠\, མེ་སྟག་ལོ།
+DESCRIPTION:ཚེས་༤\nཟླ་བ་༦\, ཤིང་ལུག\n
+ རབ་བྱུང་༡༧པའི་ལོ་༦༠\, མེ་ས
+ ྟག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7963,9 +7962,10 @@ UID:tsurphu-bo-2046-08-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20461001
 DTEND;VALUE=DATE:20461002
-SUMMARY:ཚེས་༢ · ཟླ་བ་༨ (ཚེས་༡ ཆད།)
-DESCRIPTION:ཟླ་བ་༨\, མེ་བྱ\nརབ་བྱུང་
- ༡༧པའི་ལོ་༦༠\, མེ་སྟག་ལོ།
+SUMMARY:ཚེས་༢ · ཟླ་བ་༨
+DESCRIPTION:ཚེས་༡ ཆད།\nཟླ་བ་༨\, མེ་བྱ
+ \nརབ་བྱུང་༡༧པའི་ལོ་༦༠\, མེ་ས
+ ྟག་ལོ།
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -8004,9 +8004,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20461120
 DTEND;VALUE=DATE:20461121
 SUMMARY:ལྷ་བབས་དུས་ཆེན།
-DESCRIPTION:ཚེས་༢༢ · ཟླ་བ་༩\nཟླ་བ་༩\, 
- ས་ཁྱི\nརབ་བྱུང་༡༧པའི་ལོ་༦༠
- \, མེ་སྟག་ལོ།
+DESCRIPTION:ཚེས་༢༢\nཟླ་བ་༩\, ས་ཁྱི\nར
+ བ་བྱུང་༡༧པའི་ལོ་༦༠\, མེ་སྟ
+ ག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8080,9 +8080,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470225
 DTEND;VALUE=DATE:20470226
 SUMMARY:ལོ་གསར།
-DESCRIPTION:ཚེས་༡ · ཟླ་བ་༡\nཟླ་བ་༡\, ཆ
- ུ་སྟག\nརབ་བྱུང་༡༨པའི་ལོ་༡\, 
- མེ་ཡོས་ལོ།
+DESCRIPTION:ཚེས་༡\nཟླ་བ་༡\, ཆུ་སྟག\nར
+ བ་བྱུང་༡༨པའི་ལོ་༡\, མེ་ཡོས
+ ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8092,9 +8092,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470312
 DTEND;VALUE=DATE:20470313
 SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- ཆུ་སྟག\nརབ་བྱུང་༡༨པའི་ལོ་༡
- \, མེ་ཡོས་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༡\, ཆུ་སྟག\n
+ རབ་བྱུང་༡༨པའི་ལོ་༡\, མེ་ཡོ
+ ས་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8157,9 +8157,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470608
 DTEND;VALUE=DATE:20470609
 SUMMARY:ས་ག་ཟླ་བའི་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༤\nཟླ་བ་༤\, 
- ཤིང་སྦྲུལ\nརབ་བྱུང་༡༨པའི་ལ
- ོ་༡\, མེ་ཡོས་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༤\, ཤིང་སྦྲ
+ ུལ\nརབ་བྱུང་༡༨པའི་ལོ་༡\, མེ་
+ ཡོས་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8199,9 +8199,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20470726
 DTEND;VALUE=DATE:20470727
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན།
-DESCRIPTION:ཚེས་༤ · ཟླ་བ་༦\nཟླ་བ་༦\, མ
- ེ་ལུག\nརབ་བྱུང་༡༨པའི་ལོ་༡\, 
- མེ་ཡོས་ལོ།
+DESCRIPTION:ཚེས་༤\nཟླ་བ་༦\, མེ་ལུག\nར
+ བ་བྱུང་༡༨པའི་ལོ་༡\, མེ་ཡོས
+ ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8281,9 +8281,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20471109
 DTEND;VALUE=DATE:20471110
 SUMMARY:ལྷ་བབས་དུས་ཆེན།
-DESCRIPTION:ཚེས་༢༢ · ཟླ་བ་༩\nཟླ་བ་༩\, 
- ལྕགས་ཁྱི\nརབ་བྱུང་༡༨པའི་ལོ
- ་༡\, མེ་ཡོས་ལོ།
+DESCRIPTION:ཚེས་༢༢\nཟླ་བ་༩\, ལྕགས་ཁྱ
+ ི\nརབ་བྱུང་༡༨པའི་ལོ་༡\, མེ་ཡ
+ ོས་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8355,9 +8355,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480214
 DTEND;VALUE=DATE:20480215
 SUMMARY:ལོ་གསར།
-DESCRIPTION:ཚེས་༡ · ཟླ་བ་༡\nཟླ་བ་༡\, ཤ
- ིང་སྟག\nརབ་བྱུང་༡༨པའི་ལོ་༢
- \, ས་འབྲུག་ལོ།
+DESCRIPTION:ཚེས་༡\nཟླ་བ་༡\, ཤིང་སྟག\n
+ རབ་བྱུང་༡༨པའི་ལོ་༢\, ས་འབྲ
+ ུག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8367,9 +8367,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480229
 DTEND;VALUE=DATE:20480301
 SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- ཤིང་སྟག\nརབ་བྱུང་༡༨པའི་ལོ་
- ༢\, ས་འབྲུག་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༡\, ཤིང་སྟག\
+ nརབ་བྱུང་༡༨པའི་ལོ་༢\, ས་འབྲ
+ ུག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8432,9 +8432,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480527
 DTEND;VALUE=DATE:20480528
 SUMMARY:ས་ག་ཟླ་བའི་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༤\nཟླ་བ་༤\, 
- མེ་སྦྲུལ\nརབ་བྱུང་༡༨པའི་ལོ
- ་༢\, ས་འབྲུག་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༤\, མེ་སྦྲུ
+ ལ\nརབ་བྱུང་༡༨པའི་ལོ་༢\, ས་འབ
+ ྲུག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8474,9 +8474,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20480715
 DTEND;VALUE=DATE:20480716
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན།
-DESCRIPTION:ཚེས་༤ · ཟླ་བ་༦\nཟླ་བ་༦\, ས
- ་ལུག\nརབ་བྱུང་༡༨པའི་ལོ་༢\, ས
- ་འབྲུག་ལོ།
+DESCRIPTION:ཚེས་༤\nཟླ་བ་༦\, ས་ལུག\nརབ
+ ་བྱུང་༡༨པའི་ལོ་༢\, ས་འབྲུག
+ ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8558,9 +8558,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20481029
 DTEND;VALUE=DATE:20481030
 SUMMARY:ལྷ་བབས་དུས་ཆེན།
-DESCRIPTION:ཚེས་༢༢ · ཟླ་བ་༩\nཟླ་བ་༩\, 
- ཆུ་ཁྱི\nརབ་བྱུང་༡༨པའི་ལོ་༢
- \, ས་འབྲུག་ལོ།
+DESCRIPTION:ཚེས་༢༢\nཟླ་བ་༩\, ཆུ་ཁྱི\n
+ རབ་བྱུང་༡༨པའི་ལོ་༢\, ས་འབྲ
+ ུག་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8611,11 +8611,10 @@ UID:tsurphu-bo-2048-12-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490105
 DTEND;VALUE=DATE:20490106
-SUMMARY:ཚེས་༢ · ཟླ་བ་༡༢ (ཚེས་༡ ཆད།
- )
-DESCRIPTION:ཟླ་བ་༡༢\, ཤིང་གླང\nརབ་བྱ
- ུང་༡༨པའི་ལོ་༢\, ས་འབྲུག་ལོ
- །
+SUMMARY:ཚེས་༢ · ཟླ་བ་༡༢
+DESCRIPTION:ཚེས་༡ ཆད།\nཟླ་བ་༡༢\, ཤིང་
+ གླང\nརབ་བྱུང་༡༨པའི་ལོ་༢\, ས་
+ འབྲུག་ལོ།
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -8635,9 +8634,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490203
 DTEND;VALUE=DATE:20490204
 SUMMARY:ལོ་གསར།
-DESCRIPTION:ཚེས་༡ · ཟླ་བ་༡\nཟླ་བ་༡\, མ
- ེ་སྟག\nརབ་བྱུང་༡༨པའི་ལོ་༣\, 
- ས་སྦྲུལ་ལོ།
+DESCRIPTION:ཚེས་༡\nཟླ་བ་༡\, མེ་སྟག\nར
+ བ་བྱུང་༡༨པའི་ལོ་༣\, ས་སྦྲུ
+ ལ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8647,9 +8646,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490217
 DTEND;VALUE=DATE:20490218
 SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- མེ་སྟག\nརབ་བྱུང་༡༨པའི་ལོ་༣
- \, ས་སྦྲུལ་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༡\, མེ་སྟག\n
+ རབ་བྱུང་༡༨པའི་ལོ་༣\, ས་སྦྲ
+ ུལ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8709,9 +8708,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490517
 DTEND;VALUE=DATE:20490518
 SUMMARY:ས་ག་ཟླ་བའི་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༤\nཟླ་བ་༤\, 
- ས་སྦྲུལ\nརབ་བྱུང་༡༨པའི་ལོ་
- ༣\, ས་སྦྲུལ་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༤\, ས་སྦྲུལ\
+ nརབ་བྱུང་༡༨པའི་ལོ་༣\, ས་སྦྲ
+ ུལ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8774,9 +8773,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20490802
 DTEND;VALUE=DATE:20490803
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན།
-DESCRIPTION:ཚེས་༤ · ཟླ་བ་༦\nཟླ་བ་༦\, ལ
- ྕགས་ལུག\nརབ་བྱུང་༡༨པའི་ལོ་
- ༣\, ས་སྦྲུལ་ལོ།
+DESCRIPTION:ཚེས་༤\nཟླ་བ་༦\, ལྕགས་ལུག\
+ nརབ་བྱུང་༡༨པའི་ལོ་༣\, ས་སྦྲ
+ ུལ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8787,9 +8786,9 @@ DTSTART;VALUE=DATE:20490803
 DTEND;VALUE=DATE:20490804
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན། (ཞག་ལ
  ྷག)
-DESCRIPTION:ཚེས་༤ (ཞག་ལྷག) · ཟླ་བ་༦\nཟ
- ླ་བ་༦\, ལྕགས་ལུག\nརབ་བྱུང་༡༨
- པའི་ལོ་༣\, ས་སྦྲུལ་ལོ།
+DESCRIPTION:ཚེས་༤ (ཞག་ལྷག)\nཟླ་བ་༦\, ལ
+ ྕགས་ལུག\nརབ་བྱུང་༡༨པའི་ལོ་
+ ༣\, ས་སྦྲུལ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8882,9 +8881,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20491116
 DTEND;VALUE=DATE:20491117
 SUMMARY:ལྷ་བབས་དུས་ཆེན།
-DESCRIPTION:ཚེས་༢༢ · ཟླ་བ་༩\nཟླ་བ་༩\, 
- ཤིང་ཁྱི\nརབ་བྱུང་༡༨པའི་ལོ་
- ༣\, ས་སྦྲུལ་ལོ།
+DESCRIPTION:ཚེས་༢༢\nཟླ་བ་༩\, ཤིང་ཁྱི\
+ nརབ་བྱུང་༡༨པའི་ལོ་༣\, ས་སྦྲ
+ ུལ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8956,9 +8955,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500222
 DTEND;VALUE=DATE:20500223
 SUMMARY:ལོ་གསར།
-DESCRIPTION:ཚེས་༡ · ཟླ་བ་༡\nཟླ་བ་༡\, ས
- ་སྟག\nརབ་བྱུང་༡༨པའི་ལོ་༤\, ལ
- ྕགས་རྟ་ལོ།
+DESCRIPTION:ཚེས་༡\nཟླ་བ་༡\, ས་སྟག\nརབ
+ ་བྱུང་༡༨པའི་ལོ་༤\, ལྕགས་རྟ
+ ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8968,9 +8967,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500308
 DTEND;VALUE=DATE:20500309
 SUMMARY:ཆོ་འཕྲུལ་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༡\nཟླ་བ་༡\, 
- ས་སྟག\nརབ་བྱུང་༡༨པའི་ལོ་༤\, 
- ལྕགས་རྟ་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༡\, ས་སྟག\nར
+ བ་བྱུང་༡༨པའི་ལོ་༤\, ལྕགས་ར
+ ྟ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -8979,9 +8978,10 @@ UID:tsurphu-bo-2050-02-d01@gantemur.github.io
 DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500324
 DTEND;VALUE=DATE:20500325
-SUMMARY:ཚེས་༢ · ཟླ་བ་༢ (ཚེས་༡ ཆད།)
-DESCRIPTION:ཟླ་བ་༢\, ས་ཡོས\nརབ་བྱུང་
- ༡༨པའི་ལོ་༤\, ལྕགས་རྟ་ལོ།
+SUMMARY:ཚེས་༢ · ཟླ་བ་༢
+DESCRIPTION:ཚེས་༡ ཆད།\nཟླ་བ་༢\, ས་ཡོས
+ \nརབ་བྱུང་༡༨པའི་ལོ་༤\, ལྕགས་
+ རྟ་ལོ།
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -9033,9 +9033,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500605
 DTEND;VALUE=DATE:20500606
 SUMMARY:ས་ག་ཟླ་བའི་དུས་ཆེན།
-DESCRIPTION:ཚེས་༡༥ · ཟླ་བ་༤\nཟླ་བ་༤\, 
- ལྕགས་སྦྲུལ\nརབ་བྱུང་༡༨པའི་
- ལོ་༤\, ལྕགས་རྟ་ལོ།
+DESCRIPTION:ཚེས་༡༥\nཟླ་བ་༤\, ལྕགས་སྦ
+ ྲུལ\nརབ་བྱུང་༡༨པའི་ལོ་༤\, ལྕ
+ གས་རྟ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -9075,9 +9075,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20500723
 DTEND;VALUE=DATE:20500724
 SUMMARY:ཆོས་འཁོར་དུས་ཆེན།
-DESCRIPTION:ཚེས་༤ · ཟླ་བ་༦\nཟླ་བ་༦\, ཆ
- ུ་ལུག\nརབ་བྱུང་༡༨པའི་ལོ་༤\, 
- ལྕགས་རྟ་ལོ།
+DESCRIPTION:ཚེས་༤\nཟླ་བ་༦\, ཆུ་ལུག\nར
+ བ་བྱུང་༡༨པའི་ལོ་༤\, ལྕགས་ར
+ ྟ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -9159,9 +9159,9 @@ DTSTAMP:20261111T000000Z
 DTSTART;VALUE=DATE:20501105
 DTEND;VALUE=DATE:20501106
 SUMMARY:ལྷ་བབས་དུས་ཆེན།
-DESCRIPTION:ཚེས་༢༢ · ཟླ་བ་༩\nཟླ་བ་༩\, 
- མེ་ཁྱི\nརབ་བྱུང་༡༨པའི་ལོ་༤
- \, ལྕགས་རྟ་ལོ།
+DESCRIPTION:ཚེས་༢༢\nཟླ་བ་༩\, མེ་ཁྱི\n
+ རབ་བྱུང་༡༨པའི་ལོ་༤\, ལྕགས་
+ རྟ་ལོ།
 CATEGORIES:festival
 TRANSP:TRANSPARENT
 END:VEVENT
