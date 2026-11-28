@@ -417,14 +417,18 @@
       "tsogtgerel-gantumur"
     ],
     "year": 2026,
-    "status": "accepted",
-    "category": "accepted",
+    "status": "published",
+    "category": "published",
     "venue": "Zeitschrift für angewandte Mathematik und Physik",
     "journal": "Zeitschrift für angewandte Mathematik und Physik",
-    "details": "Accepted for publication",
+    "details": "77, Article 324 (2026)",
     "acceptedYear": 2026,
     "arxiv": "2512.22436",
     "links": [
+      {
+        "label": "DOI",
+        "url": "https://doi.org/10.1007/s00033-026-02934-2"
+      },
       {
         "label": "arXiv",
         "url": "https://arxiv.org/abs/2512.22436"
@@ -441,7 +445,7 @@
       "en"
     ],
     "cvInclude": true,
-    "source": "arXiv abstract page; acceptance reported by author, checked 2026-09-28",
+    "source": "arXiv:2512.22436; acceptance reported by author before 2026-09-28; owner-supplied publisher screenshots 2026-11-28 confirm ZAMP 77, article 324 (2026), online 2026-11-28, DOI 10.1007/s00033-026-02934-2; papers/fluid/nsab/zamp/PUBLICATION.md",
     "authors": [
       {
         "id": "nella-rotundo",
@@ -455,7 +459,9 @@
         "url": "https://gantemur.github.io"
       }
     ],
-    "citation": "Accepted for publication in Zeitschrift für angewandte Mathematik und Physik (2026)"
+    "citation": "Z. Angew. Math. Phys. 77, 324 (2026)",
+    "publishedDate": "2026-11-28",
+    "doi": "10.1007/s00033-026-02934-2"
   },
   {
     "id": "gantumur-chebyshev-sylvester-2025",
